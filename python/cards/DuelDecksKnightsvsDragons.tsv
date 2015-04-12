@@ -1,0 +1,73 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Alaborn Cavalier	{2}{W}{W}		Creature	Human,Knight	Whenever Alaborn Cavalier attacks, you may tap target creature.	2	2
+Armillary Sphere	{2}		Artifact		{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.		
+Benalish Lancer	{2}{W}		Creature	Human,Knight	Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)|If Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.	2	2
+Bloodmark Mentor	{1}{R}		Creature	Goblin,Warrior	Red creatures you control have first strike.	1	1
+Bogardan Hellkite	{6}{R}{R}		Creature	Dragon	Flash (You may cast this spell any time you could cast an instant.)|Flying|When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.	5	5
+Bogardan Rager	{5}{R}		Creature	Elemental	Flash (You may cast this spell any time you could cast an instant.)|When Bogardan Rager enters the battlefield, target creature gets +4/+0 until end of turn.	3	4
+Breath of Darigaaz	{1}{R}		Sorcery		Kicker {2} (You may pay an additional {2} as you cast this spell.)|Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.		
+Captive Flame	{2}{R}		Enchantment		{R}: Target creature gets +1/+0 until end of turn.		
+Caravan Escort	{W}		Creature	Human,Knight	Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-4|2/2||LEVEL 5+|5/5|First strike	1	1
+Cinder Wall	{R}		Creature	Wall	Defender (This creature can't attack.)|When Cinder Wall blocks, destroy it at end of combat.	3	3
+Claws of Valakut	{1}{R}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+0 for each Mountain you control and has first strike.		
+Cone of Flame	{3}{R}{R}		Sorcery		Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.		
+Dragon Fodder	{1}{R}		Sorcery		Put two 1/1 red Goblin creature tokens onto the battlefield.		
+Dragon Whelp	{2}{R}{R}		Creature	Dragon	Flying|{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.	2	3
+Dragon's Claw	{2}		Artifact		Whenever a player casts a red spell, you may gain 1 life.		
+Dragonspeaker Shaman	{1}{R}{R}		Creature	Human,Barbarian,Shaman	Dragon spells you cast cost {2} less to cast.	2	2
+Edge of Autumn	{1}{G}		Sorcery		If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.|Cycling-Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)		
+Fiery Fall	{5}{R}		Instant		Fiery Fall deals 5 damage to target creature.|Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Fire-Belly Changeling	{1}{R}		Creature	Shapeshifter	Changeling (This card is every creature type at all times.)|{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.	1	1
+Forest		Basic	Land	Forest	G		
+Ghostfire	{2}{R}		Instant		Ghostfire is colorless.|Ghostfire deals 3 damage to target creature or player.		
+Grasslands			Land		Grasslands enters the battlefield tapped.|{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.		
+Griffin Guide	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has flying.|When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.		
+Harm's Way	{W}		Instant		The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.		
+Henge Guardian	{5}		Artifact,Creature	Dragon,Wurm	{2}: Henge Guardian gains trample until end of turn.	3	4
+Heroes' Reunion	{G}{W}		Instant		Target player gains 7 life.		
+Jaws of Stone	{5}{R}		Sorcery		Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.		
+Juniper Order Ranger	{3}{G}{W}		Creature	Human,Knight	Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.	2	4
+Kabira Vindicator	{3}{W}		Creature	Human,Knight	Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-4|3/6|Other creatures you control get +1/+1.|LEVEL 5+|4/8|Other creatures you control get +2/+2.	2	4
+Kilnmouth Dragon	{5}{R}{R}		Creature	Dragon	Amplify 3 (As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)|Flying|{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.	5	5
+Kinsbaile Cavalier	{3}{W}		Creature	Kithkin,Knight	Knight creatures you control have double strike.	2	2
+Knight Exemplar	{1}{W}{W}		Creature	Human,Knight	First strike (This creature deals combat damage before creatures without first strike.)|Other Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say 'destroy' don't destroy them.)	2	2
+Knight of Cliffhaven	{1}{W}		Creature	Kor,Knight	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-3|2/3|Flying|LEVEL 4+|4/4|Flying, vigilance	2	2
+Knight of Meadowgrain	{W}{W}		Creature	Kithkin,Knight	First strike|Lifelink (Damage dealt by this creature also causes you to gain that much life.)	2	2
+Knight of the Reliquary	{1}{G}{W}		Creature	Human,Knight	Knight of the Reliquary gets +1/+1 for each land card in your graveyard.|{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.	2	2
+Knight of the White Orchid	{W}{W}		Creature	Human,Knight	First strike|When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.	2	2
+Knotvine Paladin	{G}{W}		Creature	Human,Knight	Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.	2	2
+Leonin Skyhunter	{W}{W}		Creature	Cat,Knight	Flying	2	2
+Lionheart Maverick	{W}		Creature	Human,Knight	Vigilance|{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.	1	1
+Loxodon Warhammer	{3}		Artifact	Equipment	Equipped creature gets +3/+0 and has trample and lifelink. (If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)|Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)		
+Mighty Leap	{1}{W}		Instant		Target creature gets +2/+2 and gains flying until end of turn.		
+Mordant Dragon	{3}{R}{R}{R}		Creature	Dragon	Flying|{1}{R}: Mordant Dragon gets +1/+0 until end of turn.|Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.	5	5
+Mountain		Basic	Land	Mountain	R		
+Mudbutton Torchrunner	{2}{R}		Creature	Goblin,Warrior	When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.	1	1
+Oblivion Ring	{2}{W}		Enchantment		When Oblivion Ring enters the battlefield, exile another target nonland permanent.|When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.		
+Paladin of Prahv	{4}{W}{W}		Creature	Human,Knight	Whenever Paladin of Prahv deals damage, you gain that much life.|Forecast - {1}{W}, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. (Activate this ability only during your upkeep and only once each turn.)	3	4
+Plains		Basic	Land	Plains	W		
+Plover Knights	{3}{W}{W}		Creature	Kithkin,Knight	Flying, first strike	3	3
+Punishing Fire	{1}{R}		Instant		Punishing Fire deals 2 damage to target creature or player.|Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.		
+Reciprocate	{W}		Instant		Exile target creature that dealt damage to you this turn.		
+Reprisal	{1}{W}		Instant		Destroy target creature with power 4 or greater. It can't be regenerated.		
+Seething Song	{2}{R}		Instant		Add {R}{R}{R}{R}{R} to your mana pool.		
+Seismic Strike	{2}{R}		Instant		Seismic Strike deals damage to target creature equal to the number of Mountains you control.		
+Sejiri Steppe			Land		Sejiri Steppe enters the battlefield tapped.|When Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.|{T}: Add {W} to your mana pool.		
+Selesnya Sanctuary			Land		Selesnya Sanctuary enters the battlefield tapped.|When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.|{T}: Add {G}{W} to your mana pool.		
+Shivan Hellkite	{5}{R}{R}		Creature	Dragon	Flying (This creature can't be blocked except by creatures with flying or reach.)|{1}{R}: Shivan Hellkite deals 1 damage to target creature or player.	5	5
+Shiv's Embrace	{2}{R}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has flying.|{R}: Enchanted creature gets +1/+0 until end of turn.		
+Sigil Blessing	{G}{W}		Instant		Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.		
+Silver Knight	{W}{W}		Creature	Human,Knight	First strike, protection from red	2	2
+Skirk Prospector	{R}		Creature	Goblin	Sacrifice a Goblin: Add {R} to your mana pool.	1	1
+Skyhunter Patrol	{2}{W}{W}		Creature	Cat,Knight	Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)	2	3
+Spidersilk Armor	{2}{G}		Enchantment		Creatures you control get +0/+1 and have reach. (They can block creatures with flying.)		
+Spitting Earth	{1}{R}		Sorcery		Spitting Earth deals damage to target creature equal to the number of Mountains you control.		
+Steward of Valeron	{G}{W}		Creature	Human,Druid,Knight	Vigilance|{T}: Add {G} to your mana pool.	2	2
+Temporary Insanity	{3}{R}		Instant		Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.		
+Test of Faith	{1}{W}		Instant		Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.		
+Thunder Dragon	{5}{R}{R}		Creature	Dragon	Flying|When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.	5	5
+Treetop Village			Land		Treetop Village enters the battlefield tapped.|{T}: Add {G} to your mana pool.|{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)		
+Voracious Dragon	{3}{R}{R}		Creature	Dragon	Flying|Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)|When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.	4	4
+White Knight	{W}{W}		Creature	Human,Knight	First strike (This creature deals combat damage before creatures without first strike.)|Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)	2	2
+Wilt-Leaf Cavaliers	{G/W}{G/W}{G/W}		Creature	Elf,Knight	Vigilance	3	4
+Zhalfirin Commander	{2}{W}		Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.	2	2

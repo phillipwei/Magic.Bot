@@ -1,0 +1,60 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Albino Troll	{1}{G}		Creature	Troll	Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|{1}{G}: Regenerate Albino Troll.	3	3
+Bad Moon	{1}{B}		Enchantment		Black creatures get +1/+1.		
+Basking Rootwalla	{G}		Creature	Lizard	{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.|Madness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)	1	1
+Beast			Creature	Beast		4	4
+Beast Attack	{2}{G}{G}{G}		Instant		Put a 4/4 green Beast creature token onto the battlefield.|Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Blastoderm	{2}{G}{G}		Creature	Beast	Shroud (This permanent can't be the target of spells or abilities.)|Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)	5	5
+Corrupt	{5}{B}		Sorcery		Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.		
+Deathgreeter	{B}		Creature	Human,Shaman	Whenever another creature dies, you may gain 1 life.	1	1
+Drudge Skeletons	{1}{B}		Creature	Skeleton	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)	1	1
+Elephant			Creature	Elephant		3	3
+Elephant Guide	{2}{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3.|When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.		
+Enslave	{4}{B}{B}		Enchantment	Aura	Enchant creature|You control enchanted creature.|At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.		
+Faerie Macabre	{1}{B}{B}		Creature	Faerie,Rogue	Flying|Discard Faerie Macabre: Exile up to two target cards from graveyards.	2	2
+Fleshbag Marauder	{2}{B}		Creature	Zombie,Warrior	When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.	3	1
+Forest		Basic	Land	Forest	G		
+Garruk Wildspeaker	{2}{G}{G}		Planeswalker	Garruk	+1: Untap two target lands.|-1: Put a 3/3 green Beast creature token onto the battlefield.|-4: Creatures you control get +3/+3 and gain trample until end of turn.		
+Genju of the Cedars	{G}		Enchantment	Aura	Enchant Forest|{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.|When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.		
+Genju of the Fens	{B}		Enchantment	Aura	Enchant Swamp|{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with '{B}: This creature gets +1/+1 until end of turn.' It's still a land.|When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.		
+Ghost-Lit Stalker	{B}		Creature	Spirit	{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.|Channel - {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.	1	1
+Giant Growth	{G}		Instant		Target creature gets +3/+3 until end of turn.		
+Harmonize	{2}{G}{G}		Sorcery		Draw three cards.		
+Hideous End	{1}{B}{B}		Instant		Destroy target nonblack creature. Its controller loses 2 life.		
+Howling Banshee	{2}{B}{B}		Creature	Spirit	Flying|When Howling Banshee enters the battlefield, each player loses 3 life.	3	3
+Ichor Slick	{2}{B}		Sorcery		Target creature gets -3/-3 until end of turn.|Cycling {2} ({2}, Discard this card: Draw a card.)|Madness {3}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Indrik Stomphowler	{4}{G}		Creature	Beast	When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.	4	4
+Invigorate	{2}{G}		Instant		If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.|Target creature gets +4/+4 until end of turn.		
+Keening Banshee	{2}{B}{B}		Creature	Spirit	Flying|When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.	2	2
+Krosan Tusker	{5}{G}{G}		Creature	Boar,Beast	Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)|When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.	6	5
+Lignify	{1}{G}		Tribal,Enchantment	Treefolk,Aura	Enchant creature|Enchanted creature is a 0/4 Treefolk with no abilities.		
+Liliana Vess	{3}{B}{B}		Planeswalker	Liliana	+1: Target player discards a card.|-2: Search your library for a card, then shuffle your library and put that card on top of it.|-8: Put all creature cards from all graveyards onto the battlefield under your control.		
+Mutilate	{2}{B}{B}		Sorcery		All creatures get -1/-1 until end of turn for each Swamp you control.		
+Nature's Lore	{1}{G}		Sorcery		Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.		
+Overrun	{2}{G}{G}{G}		Sorcery		Creatures you control get +3/+3 and gain trample until end of turn.		
+Phyrexian Rager	{2}{B}		Creature	Horror	When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.	2	2
+Plated Slagwurm	{4}{G}{G}{G}		Creature	Wurm	Hexproof (This creature can't be the target of spells or abilities your opponents control.)	8	8
+Polluted Mire			Land		Polluted Mire enters the battlefield tapped.|{T}: Add {B} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Rancor	{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+0 and has trample.|When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.		
+Ravenous Baloth	{2}{G}{G}		Creature	Beast	Sacrifice a Beast: You gain 4 life.	4	4
+Ravenous Rats	{1}{B}		Creature	Rat	When Ravenous Rats enters the battlefield, target opponent discards a card.	1	1
+Rise from the Grave	{4}{B}		Sorcery		Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.		
+Rude Awakening	{4}{G}		Sorcery		Choose one - Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.|Entwine {2}{G} (Choose both if you pay the entwine cost.)		
+Serrated Arrows	{4}		Artifact		Serrated Arrows enters the battlefield with three arrowhead counters on it.|At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.|{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.		
+Sign in Blood	{B}{B}		Sorcery		Target player draws two cards and loses 2 life.		
+Skeletal Vampire	{4}{B}{B}		Creature	Vampire,Skeleton	Flying|When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.|{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.|Sacrifice a Bat: Regenerate Skeletal Vampire.	3	3
+Slippery Karst			Land		Slippery Karst enters the battlefield tapped.|{T}: Add {G} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Snuff Out	{3}{B}		Instant		If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.|Destroy target nonblack creature. It can't be regenerated.		
+Stampeding Wildebeests	{2}{G}{G}		Creature	Antelope,Beast	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)|At the beginning of your upkeep, return a green creature you control to its owner's hand.	5	4
+Swamp		Basic	Land	Swamp	B		
+Tendrils of Corruption	{3}{B}		Instant		Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.		
+Treetop Village			Land		Treetop Village enters the battlefield tapped.|{T}: Add {G} to your mana pool.|{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)		
+Twisted Abomination	{5}{B}		Creature	Zombie,Mutant	{B}: Regenerate Twisted Abomination.|Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)	5	3
+Urborg Syphon-Mage	{2}{B}		Creature	Human,Spellshaper	{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.	2	2
+Vampire Bats	{B}		Creature	Bat	Flying (This creature can't be blocked except by creatures with flying or reach.)|{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.	0	1
+Vicious Hunger	{B}{B}		Sorcery		Vicious Hunger deals 2 damage to target creature and you gain 2 life.		
+Vine Trellis	{1}{G}		Creature	Plant,Wall	Defender (This creature can't attack.)|{T}: Add {G} to your mana pool.	0	4
+Wall of Bone	{2}{B}		Creature	Skeleton,Wall	Defender (This creature can't attack.)|{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)	1	4
+Wild Mongrel	{1}{G}		Creature	Hound	Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.	2	2
+Windstorm	{X}{G}		Instant		Windstorm deals X damage to each creature with flying.		
+Wirewood Savage	{2}{G}		Creature	Elf	Whenever a Beast enters the battlefield, you may draw a card.	2	2

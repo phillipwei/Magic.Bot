@@ -1,0 +1,16 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Balance	{1}{W}		Sorcery		Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.		
+Berserk	{G}		Instant		Cast Berserk only before the combat damage step.|Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.		
+Channel	{G}{G}		Sorcery		Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.		
+Gifts Ungiven	{3}{U}		Instant		Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.		
+Goblin Lackey	{R}		Creature	Goblin	Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.	1	1
+Kird Ape	{R}		Creature	Ape	Kird Ape gets +1/+2 as long as you control a Forest.	1	1
+Lotus Petal	{0}		Artifact		{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.		
+Mystical Tutor	{U}		Instant		Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.		
+Necropotence	{B}{B}{B}		Enchantment		Skip your draw step.|Whenever you discard a card, exile that card from your graveyard.|Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.		
+Sensei's Divining Top	{1}		Artifact		{1}: Look at the top three cards of your library, then put them back in any order.|{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.		
+Serendib Efreet	{2}{U}		Creature	Efreet	Flying|At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.	3	4
+Skullclamp	{1}		Artifact	Equipment	Equipped creature gets +1/-1.|Whenever equipped creature dies, draw two cards.|Equip {1}		
+Strip Mine			Land		{T}: Add {1} to your mana pool.||{T}, Sacrifice Strip Mine: Destroy target land.		
+Tinker	{2}{U}		Sorcery		As an additional cost to cast Tinker, sacrifice an artifact.|Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.		
+Trinisphere	{3}		Artifact		As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)		

@@ -1,0 +1,275 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abattoir Ghoul	{3}{B}		Creature	Zombie	First strike|Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.	3	2
+Abbey Griffin	{3}{W}		Creature	Griffin	Flying, vigilance	2	2
+Altar's Reap	{1}{B}		Instant		As an additional cost to cast Altar's Reap, sacrifice a creature.|Draw two cards.		
+Ambush Viper	{1}{G}		Creature	Snake	Flash (You may cast this spell any time you could cast an instant.)|Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)	2	1
+Ancient Grudge	{1}{R}		Instant		Destroy target artifact.|Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Angel of Flight Alabaster	{4}{W}		Creature	Angel	Flying|At the beginning of your upkeep, return target Spirit card from your graveyard to your hand.	4	4
+Angelic Overseer	{3}{W}{W}		Creature	Angel	Flying|As long as you control a Human, Angelic Overseer has hexproof and indestructible.	5	3
+Armored Skaab	{2}{U}		Creature	Zombie,Warrior	When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.	1	4
+Army of the Damned	{5}{B}{B}{B}		Sorcery		Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.|Flashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Ashmouth Hound	{1}{R}		Creature	Elemental,Hound	Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.	2	1
+Avacynian Priest	{1}{W}		Creature	Human,Cleric	{1}, {T}: Tap target non-Human creature.	1	2
+Avacyn's Pilgrim	{G}		Creature	Human,Monk	{T}: Add {W} to your mana pool.	1	1
+Back from the Brink	{4}{U}{U}		Enchantment		Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.		
+Balefire Dragon	{5}{R}{R}		Creature	Dragon	Flying|Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls.	6	6
+Bane of Hanweir			Creature	Werewolf	Bane of Hanweir attacks each turn if able.|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.	5	5
+Battleground Geist	{4}{U}		Creature	Spirit	Flying|Other Spirit creatures you control get +1/+0.	3	3
+Bitterheart Witch	{4}{B}		Creature	Human,Shaman	Deathtouch|When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.	1	2
+Blasphemous Act	{8}{R}		Sorcery		Blasphemous Act costs {1} less to cast for each creature on the battlefield.|Blasphemous Act deals 13 damage to each creature.		
+Blazing Torch	{1}		Artifact	Equipment	Equipped creature can't be blocked by Vampires or Zombies.|Equipped creature has '{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player.'|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Bloodcrazed Neonate	{1}{R}		Creature	Vampire	Bloodcrazed Neonate attacks each turn if able.|Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.	2	1
+Bloodgift Demon	{3}{B}{B}		Creature	Demon	Flying|At the beginning of your upkeep, target player draws a card and loses 1 life.	5	4
+Bloodline Keeper	{2}{B}{B}		Creature	Vampire	Flying|{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.|{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.	3	3
+Bonds of Faith	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.		
+Boneyard Wurm	{1}{G}		Creature	Wurm	Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.	*	*
+Brain Weevil	{3}{B}		Creature	Insect	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)|Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.	1	1
+Bramblecrush	{2}{G}{G}		Sorcery		Destroy target noncreature permanent.		
+Brimstone Volley	{2}{R}		Instant		Brimstone Volley deals 3 damage to target creature or player.|Morbid - Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.		
+Bump in the Night	{B}		Sorcery		Target opponent loses 3 life.|Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Burning Vengeance	{2}{R}		Enchantment		Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player.		
+Butcher's Cleaver	{3}		Artifact	Equipment	Equipped creature gets +3/+0.|As long as equipped creature is a Human, it has lifelink.|Equip {3}		
+Cackling Counterpart	{1}{U}{U}		Instant		Put a token onto the battlefield that's a copy of target creature you control.|Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Caravan Vigil	{G}		Sorcery		Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.|Morbid - You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.		
+Cellar Door	{2}		Artifact		{3}, {T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield.		
+Champion of the Parish	{W}		Creature	Human,Soldier	Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.	1	1
+Chapel Geist	{1}{W}{W}		Creature	Spirit	Flying	2	3
+Charmbreaker Devils	{5}{R}		Creature	Devil	At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.|Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.	4	4
+Civilized Scholar	{2}{U}		Creature	Human,Advisor	{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.	0	1
+Claustrophobia	{1}{U}{U}		Enchantment	Aura	Enchant creature|When Claustrophobia enters the battlefield, tap enchanted creature.|Enchanted creature doesn't untap during its controller's untap step.		
+Clifftop Retreat			Land		Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.|{T}: Add {R} or {W} to your mana pool.		
+Cloistered Youth	{1}{W}		Creature	Human	At the beginning of your upkeep, you may transform Cloistered Youth.	1	1
+Cobbled Wings	{2}		Artifact	Equipment	Equipped creature has flying.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Corpse Lunge	{2}{B}		Instant		As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.|Corpse Lunge deals damage equal to the exiled card's power to target creature.		
+Creeping Renaissance	{3}{G}{G}		Sorcery		Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.|Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Creepy Doll	{5}		Artifact,Creature	Construct	Indestructible|Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.	1	1
+Crossway Vampire	{1}{R}{R}		Creature	Vampire	When Crossway Vampire enters the battlefield, target creature can't block this turn.	3	2
+Curiosity	{U}		Enchantment	Aura	Enchant creature|Whenever enchanted creature deals damage to an opponent, you may draw a card.		
+Curse of Death's Hold	{3}{B}{B}		Enchantment	Aura,Curse	Enchant player|Creatures enchanted player controls get -1/-1.		
+Curse of Oblivion	{3}{B}		Enchantment	Aura,Curse	Enchant player|At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.		
+Curse of Stalked Prey	{1}{R}		Enchantment	Aura,Curse	Enchant player|Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.		
+Curse of the Bloody Tome	{2}{U}		Enchantment	Aura,Curse	Enchant player|At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.		
+Curse of the Nightly Hunt	{2}{R}		Enchantment	Aura,Curse	Enchant player|Creatures enchanted player controls attack each turn if able.		
+Curse of the Pierced Heart	{1}{R}		Enchantment	Aura,Curse	Enchant player|At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.		
+Darkthicket Wolf	{1}{G}		Creature	Wolf	{2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.	2	2
+Daybreak Ranger	{2}{G}		Creature	Human,Archer,Werewolf	{T}: Daybreak Ranger deals 2 damage to target creature with flying.|At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.	2	2
+Dead Weight	{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets -2/-2.		
+Dearly Departed	{4}{W}{W}		Creature	Spirit	Flying|As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it.	5	5
+Delver of Secrets	{U}		Creature	Human,Wizard	At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.	1	1
+Demonmail Hauberk	{4}		Artifact	Equipment	Equipped creature gets +4/+2.|Equip-Sacrifice a creature.		
+Deranged Assistant	{1}{U}		Creature	Human,Wizard	{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.	1	1
+Desperate Ravings	{1}{R}		Instant		Draw two cards, then discard a card at random.|Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Devil's Play	{X}{R}		Sorcery		Devil's Play deals X damage to target creature or player.|Flashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Diregraf Ghoul	{B}		Creature	Zombie	Diregraf Ghoul enters the battlefield tapped.	2	2
+Disciple of Griselbrand	{1}{B}		Creature	Human,Cleric	{1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.	1	1
+Dissipate	{1}{U}{U}		Instant		Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.		
+Divine Reckoning	{2}{W}{W}		Sorcery		Each player chooses a creature he or she controls. Destroy the rest.|Flashback {5}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Doomed Traveler	{W}		Creature	Human,Soldier	When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.	1	1
+Dream Twist	{U}		Instant		Target player puts the top three cards of his or her library into his or her graveyard.|Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Elder Cathar	{2}{W}		Creature	Human,Soldier	When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.	2	2
+Elder of Laurels	{2}{G}		Creature	Human,Advisor	{3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.	2	3
+Elite Inquisitor	{W}{W}		Creature	Human,Soldier	First strike, vigilance|Protection from Vampires, from Werewolves, and from Zombies	2	2
+Endless Ranks of the Dead	{2}{B}{B}		Enchantment		At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.		
+Essence of the Wild	{3}{G}{G}{G}		Creature	Avatar	Creatures you control enter the battlefield as a copy of Essence of the Wild.	6	6
+Evil Twin	{2}{U}{B}		Creature	Shapeshifter	You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains '{U}{B}, {T}: Destroy target creature with the same name as this creature.'	0	0
+Falkenrath Marauders	{3}{R}{R}		Creature	Vampire,Warrior	Flying, haste|Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it.	2	2
+Falkenrath Noble	{3}{B}		Creature	Vampire	Flying|Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.	2	2
+Feeling of Dread	{1}{W}		Instant		Tap up to two target creatures.|Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Feral Ridgewolf	{2}{R}		Creature	Wolf	Trample|{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.	1	2
+Festerhide Boar	{3}{G}		Creature	Boar	Trample|Morbid - Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.	3	3
+Fiend Hunter	{1}{W}{W}		Creature	Human,Cleric	When Fiend Hunter enters the battlefield, you may exile another target creature.|When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.	1	3
+Forbidden Alchemy	{2}{U}		Instant		Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.|Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Forest		Basic	Land	Forest	G		
+Fortress Crab	{3}{U}		Creature	Crab		1	6
+Frightful Delusion	{2}{U}		Instant		Counter target spell unless its controller pays {1}. That player discards a card.		
+Full Moon's Rise	{1}{G}		Enchantment		Werewolf creatures you control get +1/+0 and have trample.|Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.		
+Furor of the Bitten	{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and attacks each turn if able.		
+Gallows Warden	{4}{W}		Creature	Spirit	Flying|Other Spirit creatures you control get +0/+1.	3	3
+Galvanic Juggernaut	{4}		Artifact,Creature	Juggernaut	Galvanic Juggernaut attacks each turn if able.|Galvanic Juggernaut doesn't untap during your untap step.|Whenever another creature dies, untap Galvanic Juggernaut.	5	5
+Garruk Relentless	{3}{G}		Planeswalker	Garruk	When Garruk Relentless has two or fewer loyalty counters on him, transform him.|0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.|0: Put a 2/2 green Wolf creature token onto the battlefield.		
+Garruk, the Veil-Cursed			Planeswalker	Garruk	+1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.|-1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.|-3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.		
+Gatstaf Howler			Creature	Werewolf	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.	3	3
+Gatstaf Shepherd	{1}{G}		Creature	Human,Werewolf	At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.	2	2
+Gavony Township			Land		{T}: Add {1} to your mana pool.|{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.		
+Geist of Saint Traft	{1}{W}{U}	Legendary	Creature	Spirit,Cleric	Hexproof (This creature can't be the target of spells or abilities your opponents control.)|Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.	2	2
+Geistcatcher's Rig	{6}		Artifact,Creature	Construct	When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.	4	5
+Geistflame	{R}		Instant		Geistflame deals 1 damage to target creature or player.|Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Geist-Honored Monk	{3}{W}{W}		Creature	Human,Monk	Vigilance|Geist-Honored Monk's power and toughness are each equal to the number of creatures you control.|When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.	*	*
+Ghost Quarter			Land		{T}: Add {1} to your mana pool.|{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.		
+Ghostly Possession	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature has flying.|Prevent all combat damage that would be dealt to and dealt by enchanted creature.		
+Ghoulcaller's Bell	{1}		Artifact		{T}: Each player puts the top card of his or her library into his or her graveyard.		
+Ghoulcaller's Chant	{B}		Sorcery		Choose one - Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.		
+Ghoulraiser	{1}{B}{B}		Creature	Zombie	When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.	2	2
+Gnaw to the Bone	{2}{G}		Instant		You gain 2 life for each creature card in your graveyard.|Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Grasp of Phantoms	{3}{U}		Sorcery		Put target creature on top of its owner's library.|Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Grave Bramble	{1}{G}{G}		Creature	Plant	Defender, protection from Zombies	3	4
+Graveyard Shovel	{2}		Artifact		{2}, {T}: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.		
+Grimgrin, Corpse-Born	{3}{U}{B}	Legendary	Creature	Zombie,Warrior	Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.|Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.|Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.	5	5
+Grimoire of the Dead	{4}	Legendary	Artifact		{1}, {T}, Discard a card: Put a study counter on Grimoire of the Dead.|{T}, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types.		
+Grizzled Outcasts	{4}{G}		Creature	Human,Werewolf	At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.	4	4
+Gruesome Deformity	{B}		Enchantment	Aura	Enchant creature|Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)		
+Gutter Grime	{4}{G}		Enchantment		Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with 'This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.'		
+Hamlet Captain	{1}{G}		Creature	Human,Warrior	Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.	2	2
+Hanweir Watchkeep	{2}{R}		Creature	Human,Warrior,Werewolf	Defender|At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.	1	5
+Harvest Pyre	{1}{R}		Instant		As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.|Harvest Pyre deals X damage to target creature.		
+Heartless Summoning	{1}{B}		Enchantment		Creature spells you cast cost {2} less to cast.|Creatures you control get -1/-1.		
+Heretic's Punishment	{4}{R}		Enchantment		{3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.		
+Hinterland Harbor			Land		Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.|{T}: Add {G} or {U} to your mana pool.		
+Hollowhenge Scavenger	{3}{G}{G}		Creature	Elemental	Morbid - When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.	4	5
+Homicidal Brute			Creature	Human,Mutant	At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.	5	1
+Howlpack Alpha			Creature	Werewolf	Each other creature you control that's a Werewolf or a Wolf gets +1/+1.|At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.	3	3
+Howlpack of Estwald			Creature	Werewolf	At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.	4	6
+Hysterical Blindness	{2}{U}		Instant		Creatures your opponents control get -4/-0 until end of turn.		
+Infernal Plunge	{R}		Sorcery		As an additional cost to cast Infernal Plunge, sacrifice a creature.|Add {R}{R}{R} to your mana pool.		
+Inquisitor's Flail	{2}		Artifact	Equipment	If equipped creature would deal combat damage, it deals double that damage instead.|If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.|Equip {2}		
+Insectile Aberration			Creature	Human,Insect	Flying	3	2
+Instigator Gang	{3}{R}		Creature	Human,Werewolf	Attacking creatures you control get +1/+0.|At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.	2	3
+Intangible Virtue	{1}{W}		Enchantment		Creature tokens you control get +1/+1 and have vigilance.		
+Into the Maw of Hell	{4}{R}{R}		Sorcery		Destroy target land. Into the Maw of Hell deals 13 damage to target creature.		
+Invisible Stalker	{1}{U}		Creature	Human,Rogue	Hexproof (This creature can't be the target of spells or abilities your opponents control.)|Invisible Stalker can't be blocked.	1	1
+Ironfang			Creature	Werewolf	First strike|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.	3	1
+Island		Basic	Land	Island	U		
+Isolated Chapel			Land		Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.|{T}: Add {W} or {B} to your mana pool.		
+Kessig Cagebreakers	{4}{G}		Creature	Human,Rogue	Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.	3	4
+Kessig Wolf	{2}{R}		Creature	Wolf	{1}{R}: Kessig Wolf gains first strike until end of turn.	3	1
+Kessig Wolf Run			Land		{T}: Add {1} to your mana pool.|{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.		
+Kindercatch	{3}{G}{G}{G}		Creature	Spirit		6	6
+Krallenhorde Wantons			Creature	Werewolf	At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.	7	7
+Kruin Outlaw	{1}{R}{R}		Creature	Human,Rogue,Werewolf	First strike|At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.	2	2
+Laboratory Maniac	{2}{U}		Creature	Human,Wizard	If you would draw a card while your library has no cards in it, you win the game instead.	2	2
+Lantern Spirit	{2}{U}		Creature	Spirit	Flying|{U}: Return Lantern Spirit to its owner's hand.	2	1
+Liliana of the Veil	{1}{B}{B}		Planeswalker	Liliana	+1: Each player discards a card.|-2: Target player sacrifices a creature.|-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.		
+Lord of Lineage			Creature	Vampire	Flying|Other Vampire creatures you control get +2/+2.|{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.	5	5
+Lost in the Mist	{3}{U}{U}		Instant		Counter target spell. Return target permanent to its owner's hand.		
+Ludevic's Abomination			Creature	Lizard,Horror	Trample	13	13
+Ludevic's Test Subject	{1}{U}		Creature	Lizard	Defender|{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.	0	3
+Lumberknot	{2}{G}{G}		Creature	Treefolk	Hexproof (This creature can't be the target of spells or abilities your opponents control.)|Whenever a creature dies, put a +1/+1 counter on Lumberknot.	1	1
+Make a Wish	{3}{G}		Sorcery		Return two cards at random from your graveyard to your hand.		
+Makeshift Mauler	{3}{U}		Creature	Zombie,Horror	As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.	4	5
+Manor Gargoyle	{5}		Artifact,Creature	Gargoyle	Defender|Manor Gargoyle has indestructible as long as it has defender.|{1}: Until end of turn, Manor Gargoyle loses defender and gains flying.	4	4
+Manor Skeleton	{1}{B}		Creature	Skeleton	Haste|{1}{B}: Regenerate Manor Skeleton.	1	1
+Markov Patrician	{2}{B}		Creature	Vampire	Lifelink (Damage dealt by this creature also causes you to gain that much life.)	3	1
+Mask of Avacyn	{2}		Artifact	Equipment	Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)|Equip {3}		
+Mausoleum Guard	{3}{W}		Creature	Human,Scout	When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.	2	2
+Maw of the Mire	{4}{B}		Sorcery		Destroy target land. You gain 4 life.		
+Mayor of Avabruck	{1}{G}		Creature	Human,Advisor,Werewolf	Other Human creatures you control get +1/+1.|At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.	1	1
+Memory's Journey	{1}{U}		Instant		Target player shuffles up to three target cards from his or her graveyard into his or her library.|Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Mentor of the Meek	{2}{W}		Creature	Human,Soldier	Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.	2	2
+Merciless Predator			Creature	Werewolf	At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.	3	2
+Midnight Haunting	{2}{W}		Instant		Put two 1/1 white Spirit creature tokens with flying onto the battlefield.		
+Mikaeus, the Lunarch	{X}{W}	Legendary	Creature	Human,Cleric	Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.|{T}: Put a +1/+1 counter on Mikaeus.|{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.	0	0
+Mindshrieker	{1}{U}		Creature	Spirit,Bird	Flying|{2}: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost.	1	1
+Mirror-Mad Phantasm	{3}{U}{U}		Creature	Spirit	Flying|{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.	5	1
+Moan of the Unhallowed	{2}{B}{B}		Sorcery		Put two 2/2 black Zombie creature tokens onto the battlefield.|Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Moldgraf Monstrosity	{4}{G}{G}{G}		Creature	Insect	Trample|When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield.	8	8
+Moment of Heroism	{1}{W}		Instant		Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)		
+Moon Heron	{3}{U}		Creature	Spirit,Bird	Flying	3	2
+Moonmist	{1}{G}		Instant		Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.)		
+Moorland Haunt			Land		{T}: Add {1} to your mana pool.|{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.		
+Morkrut Banshee	{3}{B}{B}		Creature	Spirit	Morbid - When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.	4	4
+Mountain		Basic	Land	Mountain	R		
+Mulch	{1}{G}		Sorcery		Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.		
+Murder of Crows	{3}{U}{U}		Creature	Bird	Flying|Whenever another creature dies, you may draw a card. If you do, discard a card.	4	4
+Naturalize	{1}{G}		Instant		Destroy target artifact or enchantment.		
+Nephalia Drownyard			Land		{T}: Add {1} to your mana pool.|{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.		
+Nevermore	{1}{W}{W}		Enchantment		As Nevermore enters the battlefield, name a nonland card.|The named card can't be cast.		
+Night Revelers	{4}{R}		Creature	Vampire	Night Revelers has haste as long as an opponent controls a Human.	4	4
+Night Terrors	{2}{B}		Sorcery		Target player reveals his or her hand. You choose a nonland card from it. Exile that card.		
+Nightbird's Clutches	{1}{R}		Sorcery		Up to two target creatures can't block this turn.|Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Nightfall Predator			Creature	Werewolf	{R}, {T}: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.	4	4
+Olivia Voldaren	{2}{B}{R}	Legendary	Creature	Vampire	Flying|{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.|{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.	3	3
+One-Eyed Scarecrow	{3}		Artifact,Creature	Scarecrow	Defender|Creatures with flying your opponents control get -1/-0.	2	3
+Orchard Spirit	{2}{G}		Creature	Spirit	Orchard Spirit can't be blocked except by creatures with flying or reach.	2	2
+Parallel Lives	{3}{G}		Enchantment		If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.		
+Paraselene	{2}{W}		Sorcery		Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.		
+Past in Flames	{3}{R}		Sorcery		Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.|Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Pitchburn Devils	{4}{R}		Creature	Devil	When Pitchburn Devils dies, it deals 3 damage to target creature or player.	3	3
+Plains		Basic	Land	Plains	W		
+Prey Upon	{G}		Sorcery		Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)		
+Purify the Grave	{W}		Instant		Exile target card from a graveyard.|Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Rage Thrower	{5}{R}		Creature	Human,Shaman	Whenever another creature dies, Rage Thrower deals 2 damage to target player.	4	2
+Rakish Heir	{2}{R}		Creature	Vampire	Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.	2	2
+Rally the Peasants	{2}{W}		Instant		Creatures you control get +2/+0 until end of turn.|Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Rampaging Werewolf			Creature	Werewolf	At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.	6	4
+Ranger's Guile	{G}		Instant		Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)		
+Reaper from the Abyss	{3}{B}{B}{B}		Creature	Demon	Flying|Morbid - At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.	6	6
+Rebuke	{2}{W}		Instant		Destroy target attacking creature.		
+Reckless Waif	{R}		Creature	Human,Rogue,Werewolf	At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.	1	1
+Riot Devils	{2}{R}		Creature	Devil		2	3
+Rolling Temblor	{2}{R}		Sorcery		Rolling Temblor deals 2 damage to each creature without flying.|Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Rooftop Storm	{5}{U}		Enchantment		You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.		
+Rotting Fensnake	{3}{B}		Creature	Zombie,Snake		5	1
+Runechanter's Pike	{2}		Artifact	Equipment	Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.|Equip {2}		
+Runic Repetition	{2}{U}		Sorcery		Return target exiled card with flashback you own to your hand.		
+Scourge of Geier Reach	{3}{R}{R}		Creature	Elemental	Scourge of Geier Reach gets +1/+1 for each creature your opponents control.	3	3
+Screeching Bat	{2}{B}		Creature	Bat	Flying|At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.	2	2
+Selfless Cathar	{W}		Creature	Human,Cleric	{1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.	1	1
+Selhoff Occultist	{2}{U}		Creature	Human,Rogue	Whenever Selhoff Occultist or another creature dies, target player puts the top card of his or her library into his or her graveyard.	2	3
+Sensory Deprivation	{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets -3/-0.		
+Sever the Bloodline	{3}{B}		Sorcery		Exile target creature and all other creatures with the same name as that creature.|Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Sharpened Pitchfork	{2}		Artifact	Equipment	Equipped creature has first strike.|As long as equipped creature is a Human, it gets +1/+1.|Equip {1}		
+Shimmering Grotto			Land		{T}: Add {1} to your mana pool.|{1}, {T}: Add one mana of any color to your mana pool.		
+Silent Departure	{U}		Sorcery		Return target creature to its owner's hand.|Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Silverchase Fox	{1}{W}		Creature	Fox	{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.	2	2
+Silver-Inlaid Dagger	{1}		Artifact	Equipment	Equipped creature gets +2/+0.|As long as equipped creature is a Human, it gets an additional +1/+0.|Equip {2}		
+Skaab Goliath	{5}{U}		Creature	Zombie,Giant	As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.|Trample	6	9
+Skaab Ruinator	{1}{U}{U}		Creature	Zombie,Horror	As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard.|Flying|You may cast Skaab Ruinator from your graveyard.	5	6
+Skeletal Grimace	{1}{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1 and has '{B}: Regenerate this creature.'		
+Skirsdag Cultist	{2}{R}{R}		Creature	Human,Shaman	{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.	2	2
+Skirsdag High Priest	{1}{B}		Creature	Human,Cleric	Morbid - {T}, Tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn.	1	2
+Slayer of the Wicked	{3}{W}		Creature	Human,Soldier	When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.	3	2
+Smite the Monstrous	{3}{W}		Instant		Destroy target creature with power 4 or greater.		
+Snapcaster Mage	{1}{U}		Creature	Human,Wizard	Flash|When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)	2	1
+Somberwald Spider	{4}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)|Morbid - Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.	2	4
+Spare from Evil	{1}{W}		Instant		Creatures you control gain protection from non-Human creatures until end of turn.		
+Spectral Flight	{1}{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has flying.		
+Spectral Rider	{W}{W}		Creature	Spirit,Knight	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)	2	2
+Spider Spawning	{4}{G}		Sorcery		Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard.|Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Spidery Grasp	{2}{G}		Instant		Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)		
+Splinterfright	{2}{G}		Creature	Elemental	Trample|Splinterfright's power and toughness are each equal to the number of creature cards in your graveyard.|At the beginning of your upkeep, put the top two cards of your library into your graveyard.	*	*
+Stalking Vampire			Creature	Vampire	At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.	5	5
+Stensia Bloodhall			Land		{T}: Add {1} to your mana pool.|{3}{B}{R}, {T}: Stensia Bloodhall deals 2 damage to target player.		
+Stitched Drake	{1}{U}{U}		Creature	Zombie,Drake	As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.|Flying	3	4
+Stitcher's Apprentice	{1}{U}		Creature	Homunculus	{1}{U}, {T}: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature.	1	2
+Stony Silence	{1}{W}		Enchantment		Activated abilities of artifacts can't be activated.		
+Stromkirk Noble	{R}		Creature	Vampire	Stromkirk Noble can't be blocked by Humans.|Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.	1	1
+Stromkirk Patrol	{4}{B}		Creature	Vampire,Soldier	Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.	4	3
+Sturmgeist	{3}{U}{U}		Creature	Spirit	Flying|Sturmgeist's power and toughness are each equal to the number of cards in your hand.|Whenever Sturmgeist deals combat damage to a player, draw a card.	*	*
+Sulfur Falls			Land		Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.|{T}: Add {U} or {R} to your mana pool.		
+Swamp		Basic	Land	Swamp	B		
+Terror of Kruin Pass			Creature	Werewolf	Double strike|Each Werewolf you control can't be blocked except by two or more creatures.|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.	3	3
+Think Twice	{1}{U}		Instant		Draw a card.|Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Thraben Militia			Creature	Human,Soldier	Trample	5	4
+Thraben Purebloods	{4}{W}		Creature	Hound		3	5
+Thraben Sentry	{3}{W}		Creature	Human,Soldier	Vigilance|Whenever another creature you control dies, you may transform Thraben Sentry.	2	2
+Tormented Pariah	{3}{R}		Creature	Human,Warrior,Werewolf	At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.	3	2
+Traitorous Blood	{1}{R}{R}		Sorcery		Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.		
+Travel Preparations	{1}{G}		Sorcery		Put a +1/+1 counter on each of up to two target creatures.|Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Traveler's Amulet	{1}		Artifact		{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.		
+Tree of Redemption	{3}{G}		Creature	Plant	Defender|{T}: Exchange your life total with Tree of Redemption's toughness.	0	13
+Trepanation Blade	{3}		Artifact	Equipment	Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into his or her graveyard.|Equip {2}		
+Tribute to Hunger	{2}{B}		Instant		Target opponent sacrifices a creature. You gain life equal to that creature's toughness.		
+Typhoid Rats	{B}		Creature	Rat	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)	1	1
+Ulvenwald Mystics	{2}{G}{G}		Creature	Human,Shaman,Werewolf	At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.	3	3
+Ulvenwald Primordials			Creature	Werewolf	{G}: Regenerate Ulvenwald Primordials.|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.	5	5
+Unbreathing Horde	{2}{B}		Creature	Zombie	Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.|If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.	0	0
+Unburial Rites	{4}{B}		Sorcery		Return target creature card from your graveyard to the battlefield.|Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Undead Alchemist	{3}{U}		Creature	Zombie	If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.|Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.	4	2
+Unholy Fiend			Creature	Horror	At the beginning of your end step, you lose 1 life.	3	3
+Unruly Mob	{1}{W}		Creature	Human	Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.	1	1
+Urgent Exorcism	{1}{W}		Instant		Destroy target Spirit or enchantment.		
+Vampire Interloper	{1}{B}		Creature	Vampire,Scout	Flying|Vampire Interloper can't block.	2	1
+Vampiric Fury	{1}{R}		Instant		Vampire creatures you control get +2/+0 and gain first strike until end of turn.		
+Victim of Night	{B}{B}		Instant		Destroy target non-Vampire, non-Werewolf, non-Zombie creature.		
+Village Bell-Ringer	{2}{W}		Creature	Human,Scout	Flash (You may cast this spell any time you could cast an instant.)|When Village Bell-Ringer enters the battlefield, untap all creatures you control.	1	4
+Village Cannibals	{2}{B}		Creature	Human	Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.	2	2
+Village Ironsmith	{1}{R}		Creature	Human,Werewolf	First strike|At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.	1	1
+Villagers of Estwald	{2}{G}		Creature	Human,Werewolf	At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.	2	3
+Voiceless Spirit	{2}{W}		Creature	Spirit	Flying, first strike	2	1
+Walking Corpse	{1}{B}		Creature	Zombie		2	2
+Wildblood Pack			Creature	Werewolf	Trample|Attacking creatures you control get +3/+0.|At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack.	5	5
+Witchbane Orb	{4}		Artifact		When Witchbane Orb enters the battlefield, destroy all Curses attached to you.|You have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)		
+Wooden Stake	{2}		Artifact	Equipment	Equipped creature gets +1/+0.|Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Woodland Cemetery			Land		Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.|{T}: Add {B} or {G} to your mana pool.		
+Woodland Sleuth	{3}{G}		Creature	Human,Scout	Morbid - When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.	2	3
+Wreath of Geists	{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.		

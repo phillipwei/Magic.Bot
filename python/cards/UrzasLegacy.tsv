@@ -1,0 +1,144 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+About Face	{R}		Instant		Switch target creature's power and toughness until end of turn.		
+Angelic Curator	{1}{W}		Creature	Angel,Spirit	Flying, protection from artifacts	1	1
+Angel's Trumpet	{3}		Artifact		All creatures have vigilance.|At the beginning of each player's end step, tap all untapped creatures that player controls that didn't attack this turn. Angel's Trumpet deals damage to the player equal to the number of creatures tapped this way.		
+Anthroplasm	{2}{U}{U}		Creature	Shapeshifter	Anthroplasm enters the battlefield with two +1/+1 counters on it.|{X}, {T}: Remove all +1/+1 counters from Anthroplasm and put X +1/+1 counters on it.	0	0
+Archivist	{2}{U}{U}		Creature	Human,Wizard	{T}: Draw a card.	1	1
+Aura Flux	{2}{U}		Enchantment		Other enchantments have 'At the beginning of your upkeep, sacrifice this enchantment unless you pay {2}.'		
+Avalanche Riders	{3}{R}		Creature	Human,Nomad	Haste|Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Avalanche Riders enters the battlefield, destroy target land.	2	2
+Beast of Burden	{6}		Artifact,Creature	Golem	Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.	*	*
+Blessed Reversal	{1}{W}		Instant		You gain 3 life for each creature attacking you.		
+Bloated Toad	{2}{G}		Creature	Frog	Protection from blue|Cycling {2} ({2}, Discard this card: Draw a card.)	2	2
+Bone Shredder	{2}{B}		Creature	Minion	Flying|Echo {2}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Bone Shredder enters the battlefield, destroy target nonartifact, nonblack creature.	1	1
+Bouncing Beebles	{2}{U}		Creature	Beeble	Bouncing Beebles can't be blocked as long as defending player controls an artifact.	2	2
+Brink of Madness	{2}{B}{B}		Enchantment		At the beginning of your upkeep, if you have no cards in hand, sacrifice Brink of Madness and target opponent discards his or her hand.		
+Burst of Energy	{W}		Instant		Untap target permanent.		
+Cessation	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack.|When Cessation is put into a graveyard from the battlefield, return Cessation to its owner's hand.		
+Cloud of Faeries	{1}{U}		Creature	Faerie	Flying|When Cloud of Faeries enters the battlefield, untap up to two lands.|Cycling {2} ({2}, Discard this card: Draw a card.)	1	1
+Crawlspace	{3}		Artifact		No more than two creatures can attack you each combat.		
+Crop Rotation	{G}		Instant		As an additional cost to cast Crop Rotation, sacrifice a land.|Search your library for a land card and put that card onto the battlefield. Then shuffle your library.		
+Damping Engine	{4}		Artifact		A player who controls more permanents than each other player can't play lands or cast artifact, creature, or enchantment spells. That player may sacrifice a permanent for that player to ignore this effect until end of turn.		
+Darkwatch Elves	{2}{G}		Creature	Elf	Protection from black|Cycling {2} ({2}, Discard this card: Draw a card.)	2	2
+Defender of Chaos	{2}{R}		Creature	Human,Knight	Flash|Protection from white	2	1
+Defender of Law	{2}{W}		Creature	Human,Knight	Flash|Protection from red	2	1
+Defense Grid	{2}		Artifact		Each spell costs {3} more to cast except during its controller's turn.		
+Defense of the Heart	{3}{G}		Enchantment		At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those cards onto the battlefield. Then shuffle your library.		
+Delusions of Mediocrity	{3}{U}		Enchantment		When Delusions of Mediocrity enters the battlefield, you gain 10 life.|When Delusions of Mediocrity leaves the battlefield, you lose 10 life.		
+Deranged Hermit	{3}{G}{G}		Creature	Elf	Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Deranged Hermit enters the battlefield, put four 1/1 green Squirrel creature tokens onto the battlefield.|Squirrel creatures get +1/+1.	1	1
+Devout Harpist	{W}		Creature	Human	{T}: Destroy target Aura attached to a creature.	1	1
+Engineered Plague	{2}{B}		Enchantment		As Engineered Plague enters the battlefield, choose a creature type.||All creatures of the chosen type get -1/-1.		
+Erase	{W}		Instant		Exile target enchantment.		
+Eviscerator	{3}{B}{B}		Creature	Horror	Protection from white|When Eviscerator enters the battlefield, you lose 5 life.	5	5
+Expendable Troops	{1}{W}		Creature	Human,Soldier	{T}, Sacrifice Expendable Troops: Expendable Troops deals 2 damage to target attacking or blocking creature.	2	1
+Faerie Conclave			Land		Faerie Conclave enters the battlefield tapped.|{T}: Add {U} to your mana pool.|{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.		
+Fleeting Image	{2}{U}		Creature	Illusion	Flying (This creature can't be blocked except by creatures with flying or reach.)|{1}{U}: Return Fleeting Image to its owner's hand.	2	1
+Fog of Gnats	{B}{B}		Creature	Insect	Flying|{B}: Regenerate Fog of Gnats.	1	1
+Forbidding Watchtower			Land		Forbidding Watchtower enters the battlefield tapped.|{T}: Add {W} to your mana pool.|{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.		
+Frantic Search	{2}{U}		Instant		Draw two cards, then discard two cards. Untap up to three lands.		
+Gang of Elk	{5}{G}		Creature	Elk,Beast	Whenever Gang of Elk becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.	5	4
+Ghitu Encampment			Land		Ghitu Encampment enters the battlefield tapped.|{T}: Add {R} to your mana pool.|{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)		
+Ghitu Fire-Eater	{2}{R}		Creature	Human,Nomad	{T}, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage equal to its power to target creature or player.	2	2
+Ghitu Slinger	{2}{R}		Creature	Human,Nomad	Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Ghitu Slinger enters the battlefield, it deals 2 damage to target creature or player.	2	2
+Ghitu War Cry	{2}{R}		Enchantment		{R}: Target creature gets +1/+0 until end of turn.		
+Giant Cockroach	{3}{B}		Creature	Insect		4	2
+Goblin Medics	{2}{R}		Creature	Goblin,Shaman	Whenever Goblin Medics becomes tapped, it deals 1 damage to target creature or player.	1	1
+Goblin Welder	{R}		Creature	Goblin,Artificer	{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.	1	1
+Granite Grip	{2}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+0 for each Mountain you control.		
+Grim Monolith	{2}		Artifact		Grim Monolith doesn't untap during your untap step.||{T}: Add {3} to your mana pool.||{4}: Untap Grim Monolith.		
+Harmonic Convergence	{2}{G}		Instant		Put all enchantments on top of their owners' libraries.		
+Hidden Gibbons	{G}		Enchantment		When an opponent casts an instant spell, if Hidden Gibbons is an enchantment, Hidden Gibbons becomes a 4/4 Ape creature.		
+Hope and Glory	{1}{W}		Instant		Untap two target creatures. Each of them gets +1/+1 until end of turn.		
+Impending Disaster	{1}{R}		Enchantment		At the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster and destroy all lands.		
+Intervene	{U}		Instant		Counter target spell that targets a creature.		
+Iron Maiden	{3}		Artifact		At the beginning of each opponent's upkeep, Iron Maiden deals X damage to that player, where X is the number of cards in his or her hand minus 4.		
+Iron Will	{W}		Instant		Target creature gets +0/+4 until end of turn.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Jhoira's Toolbox	{2}		Artifact,Creature	Insect	{2}: Regenerate target artifact creature.	1	1
+Karmic Guide	{3}{W}{W}		Creature	Angel,Spirit	Flying, protection from black|Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.	2	2
+King Crab	{4}{U}{U}		Creature	Crab	{1}{U}, {T}: Put target green creature on top of its owner's library.	4	5
+Knighthood	{2}{W}		Enchantment		Creatures you control have first strike.		
+Last-Ditch Effort	{R}		Instant		Sacrifice any number of creatures. Last-Ditch Effort deals that much damage to target creature or player.		
+Lava Axe	{4}{R}		Sorcery		Lava Axe deals 5 damage to target player.		
+Levitation	{2}{U}{U}		Enchantment		Creatures you control have flying.		
+Lone Wolf	{2}{G}		Creature	Wolf	You may have Lone Wolf assign its combat damage as though it weren't blocked.	2	2
+Lurking Skirge	{1}{B}		Enchantment		When a creature is put into an opponent's graveyard from the battlefield, if Lurking Skirge is an enchantment, Lurking Skirge becomes a 3/2 Imp creature with flying.		
+Martyr's Cause	{2}{W}		Enchantment		Sacrifice a creature: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.		
+Memory Jar	{5}		Artifact		{T}, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.		
+Might of Oaks	{3}{G}		Instant		Target creature gets +7/+7 until end of turn.		
+Miscalculation	{1}{U}		Instant		Counter target spell unless its controller pays {2}.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Molten Hydra	{1}{R}		Creature	Hydra	{1}{R}{R}: Put a +1/+1 counter on Molten Hydra.|{T}, Remove all +1/+1 counters from Molten Hydra: Molten Hydra deals damage to target creature or player equal to the number of +1/+1 counters removed this way.	1	1
+Mother of Runes	{W}		Creature	Human,Cleric	{T}: Target creature you control gains protection from the color of your choice until end of turn.	1	1
+Multani, Maro-Sorcerer	{4}{G}{G}	Legendary	Creature	Elemental	Shroud (This permanent can't be the target of spells or abilities.)|Multani, Maro-Sorcerer's power and toughness are each equal to the total number of cards in all players' hands.	*	*
+Multani's Acolyte	{G}{G}		Creature	Elf	Echo {G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Multani's Acolyte enters the battlefield, draw a card.	2	1
+Multani's Presence	{G}		Enchantment		Whenever a spell you've cast is countered, draw a card.		
+No Mercy	{2}{B}{B}		Enchantment		Whenever a creature deals damage to you, destroy it.		
+Opal Avenger	{2}{W}		Enchantment		When you have 10 or less life, if Opal Avenger is an enchantment, Opal Avenger becomes a 3/5 Soldier creature.		
+Opal Champion	{2}{W}		Enchantment		When an opponent casts a creature spell, if Opal Champion is an enchantment, Opal Champion becomes a 3/3 Knight creature with first strike.		
+Opportunity	{4}{U}{U}		Instant		Target player draws four cards.		
+Ostracize	{B}		Sorcery		Target opponent reveals his or her hand. You choose a creature card from it. That player discards that card.		
+Palinchron	{5}{U}{U}		Creature	Illusion	Flying|When Palinchron enters the battlefield, untap up to seven lands.|{2}{U}{U}: Return Palinchron to its owner's hand.	4	5
+Parch	{1}{R}		Instant		Choose one - Parch deals 2 damage to target creature or player; or Parch deals 4 damage to target blue creature.		
+Peace and Quiet	{1}{W}		Instant		Destroy two target enchantments.		
+Phyrexian Broodlings	{1}{B}{B}		Creature	Minion	{1}, Sacrifice a creature: Put a +1/+1 counter on Phyrexian Broodlings.	2	2
+Phyrexian Debaser	{3}{B}		Creature	Carrier	Flying||{T}, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of turn.	2	2
+Phyrexian Defiler	{2}{B}{B}		Creature	Carrier	{T}, Sacrifice Phyrexian Defiler: Target creature gets -3/-3 until end of turn.	3	3
+Phyrexian Denouncer	{1}{B}		Creature	Carrier	{T}, Sacrifice Phyrexian Denouncer: Target creature gets -1/-1 until end of turn.	1	1
+Phyrexian Plaguelord	{3}{B}{B}		Creature	Carrier	{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.|Sacrifice a creature: Target creature gets -1/-1 until end of turn.	4	4
+Phyrexian Reclamation	{B}		Enchantment		{1}{B}, Pay 2 life: Return target creature card from your graveyard to your hand.		
+Plague Beetle	{B}		Creature	Insect	Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)	1	1
+Planar Collapse	{1}{W}		Enchantment		At the beginning of your upkeep, if there are four or more creatures on the battlefield, sacrifice Planar Collapse and destroy all creatures. They can't be regenerated.		
+Purify	{3}{W}{W}		Sorcery		Destroy all artifacts and enchantments.		
+Pygmy Pyrosaur	{1}{R}		Creature	Lizard	Pygmy Pyrosaur can't block.||{R}: Pygmy Pyrosaur gets +1/+0 until end of turn.	1	1
+Pyromancy	{2}{R}{R}		Enchantment		{3}, Discard a card at random: Pyromancy deals damage to target creature or player equal to the converted mana cost of the discarded card.		
+Quicksilver Amulet	{4}		Artifact		{4}, {T}: You may put a creature card from your hand onto the battlefield.		
+Rack and Ruin	{2}{R}		Instant		Destroy two target artifacts.		
+Radiant, Archangel	{3}{W}{W}	Legendary	Creature	Angel	Flying, vigilance|Radiant, Archangel gets +1/+1 for each other creature with flying on the battlefield.	3	3
+Radiant's Dragoons	{3}{W}		Creature	Human,Soldier	Echo {3}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Radiant's Dragoons enters the battlefield, you gain 5 life.	2	5
+Radiant's Judgment	{2}{W}		Instant		Destroy target creature with power 4 or greater.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Rancor	{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+0 and has trample.|When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.		
+Rank and File	{2}{B}{B}		Creature	Zombie	When Rank and File enters the battlefield, green creatures get -1/-1 until end of turn.	3	3
+Raven Familiar	{2}{U}		Creature	Bird	Flying|Echo {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.	1	2
+Rebuild	{2}{U}		Instant		Return all artifacts to their owners' hands.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Repopulate	{1}{G}		Instant		Shuffle all creature cards from target player's graveyard into that player's library.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Ring of Gix	{3}		Artifact		Echo {3} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|{1}, {T}: Tap target artifact, creature, or land.		
+Rivalry	{2}{R}		Enchantment		At the beginning of each player's upkeep, if that player controls more lands than each other player, Rivalry deals 2 damage to him or her.		
+Scrapheap	{3}		Artifact		Whenever an artifact or enchantment is put into your graveyard from the battlefield, you gain 1 life.		
+Second Chance	{2}{U}		Enchantment		At the beginning of your upkeep, if you have 5 or less life, sacrifice Second Chance and take an extra turn after this one.		
+Shivan Phoenix	{4}{R}{R}		Creature	Phoenix	Flying|When Shivan Phoenix dies, return Shivan Phoenix to its owner's hand.	3	4
+Sick and Tired	{2}{B}		Instant		Two target creatures each get -1/-1 until end of turn.		
+Silk Net	{G}		Instant		Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.)		
+Simian Grunts	{2}{G}		Creature	Ape	Flash|Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)	3	4
+Sleeper's Guile	{2}{B}		Enchantment	Aura	Enchant creature|Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)|When Sleeper's Guile is put into a graveyard from the battlefield, return Sleeper's Guile to its owner's hand.		
+Slow Motion	{2}{U}		Enchantment	Aura	Enchant creature|At the beginning of the upkeep of enchanted creature's controller, that player sacrifices that creature unless he or she pays {2}.|When Slow Motion is put into a graveyard from the battlefield, return Slow Motion to its owner's hand.		
+Sluggishness	{1}{R}		Enchantment	Aura	Enchant creature|Enchanted creature can't block.|When Sluggishness is put into a graveyard from the battlefield, return Sluggishness to its owner's hand.		
+Snap	{1}{U}		Instant		Return target creature to its owner's hand. Untap up to two lands.		
+Spawning Pool			Land		Spawning Pool enters the battlefield tapped.|{T}: Add {B} to your mana pool.|{1}{B}: Spawning Pool becomes a 1/1 black Skeleton creature with '{B}: Regenerate this creature' until end of turn. It's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)		
+Subversion	{3}{B}{B}		Enchantment		At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.		
+Sustainer of the Realm	{2}{W}{W}		Creature	Angel	Flying|Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.	2	3
+Swat	{1}{B}{B}		Instant		Destroy target creature with power 2 or less.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Tethered Skirge	{2}{B}		Creature	Imp	Flying|Whenever Tethered Skirge becomes the target of a spell or ability, you lose 1 life.	2	2
+Thornwind Faeries	{1}{U}{U}		Creature	Faerie	Flying|{T}: Thornwind Faeries deals 1 damage to target creature or player.	1	1
+Thran Lens	{2}		Artifact		All permanents are colorless.		
+Thran War Machine	{4}		Artifact,Creature	Construct	Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|Thran War Machine attacks each turn if able.	4	5
+Thran Weaponry	{4}		Artifact		Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|You may choose not to untap Thran Weaponry during your untap step.|{2}, {T}: All creatures get +2/+2 for as long as Thran Weaponry remains tapped.		
+Ticking Gnomes	{3}		Artifact,Creature	Gnome	Echo {3} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|Sacrifice Ticking Gnomes: Ticking Gnomes deals 1 damage to target creature or player.	3	3
+Tinker	{2}{U}		Sorcery		As an additional cost to cast Tinker, sacrifice an artifact.|Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.		
+Tragic Poet	{W}		Creature	Human	{T}, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.	1	1
+Treacherous Link	{1}{B}		Enchantment	Aura	Enchant creature|All damage that would be dealt to enchanted creature is dealt to its controller instead.		
+Treefolk Mystic	{3}{G}		Creature	Treefolk	Whenever Treefolk Mystic blocks or becomes blocked by a creature, destroy all Auras attached to that creature.	2	4
+Treetop Village			Land		Treetop Village enters the battlefield tapped.|{T}: Add {G} to your mana pool.|{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)		
+Unearth	{B}		Sorcery		Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Urza's Blueprints	{6}		Artifact		Echo {6} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|{T}: Draw a card.		
+Viashino Bey	{2}{R}{R}		Creature	Viashino	If Viashino Bey attacks, all creatures you control attack if able.	4	3
+Viashino Cutthroat	{2}{R}{R}		Creature	Viashino	Haste|At the beginning of the end step, return Viashino Cutthroat to its owner's hand.	5	3
+Viashino Heretic	{2}{R}		Creature	Viashino	{1}{R}, {T}: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's converted mana cost.	1	3
+Viashino Sandscout	{1}{R}		Creature	Viashino,Scout	Haste (This creature can attack and {T} as soon as it comes under your control.)|At the beginning of the end step, return Viashino Sandscout to its owner's hand. (Return it only if it's on the battlefield.)	2	1
+Vigilant Drake	{4}{U}		Creature	Drake	Flying||{2}{U}: Untap Vigilant Drake.	3	3
+Walking Sponge	{1}{U}		Creature	Sponge	{T}: Target creature loses your choice of flying, first strike, or trample until end of turn.	1	1
+Weatherseed Elf	{G}		Creature	Elf	{T}: Target creature gains forestwalk until end of turn.	1	1
+Weatherseed Faeries	{2}{U}		Creature	Faerie	Flying, protection from red	2	1
+Weatherseed Treefolk	{2}{G}{G}{G}		Creature	Treefolk	Trample|When Weatherseed Treefolk dies, return it to its owner's hand.	5	3
+Wheel of Torture	{3}		Artifact		At the beginning of each opponent's upkeep, Wheel of Torture deals X damage to that player, where X is 3 minus the number of cards in his or her hand.		
+Wing Snare	{2}{G}		Sorcery		Destroy target creature with flying.		
+Yavimaya Granger	{2}{G}		Creature	Elf	Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.	2	2
+Yavimaya Scion	{4}{G}		Creature	Treefolk	Protection from artifacts	4	4
+Yavimaya Wurm	{4}{G}{G}		Creature	Wurm	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)	6	4

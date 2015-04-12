@@ -1,0 +1,24 @@
+﻿Main
+2  Rakdos Cackler
+1  Pyrewild Shaman
+2  Legion Loyalist
+4  Burning-Tree Emissary
+3  Firefist Striker
+4  Ash Zealot
+3  Fanatic of Mogis
+4  Boros Reckoner
+4  Chandra's Phoenix
+1  Purphoros, God of the Forge
+3  Shock
+4  Lightning Strike
+4  Magma Jet
+1  Hammer of Purphoros
+20 Mountain
+
+Sideboard
+3  Frostburn Weird
+3  Burning Earth
+4  Skullcrack
+1  Electrickery
+1  Chandra, Pyromaster
+3  Mizzium Mortars

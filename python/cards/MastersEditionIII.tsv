@@ -1,0 +1,221 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Active Volcano	{R}		Instant		Choose one - Destroy target blue permanent; or return target Island to its owner's hand.		
+Akron Legionnaire	{6}{W}{W}		Creature	Giant,Soldier	Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.	8	4
+Alabaster Potion	{X}{W}{W}		Instant		Choose one - Target player gains X life; or prevent the next X damage that would be dealt to target creature or player this turn.		
+All Hallow's Eve	{2}{B}{B}		Sorcery		Exile All Hallow's Eve with two scream counters on it.|At the beginning of your upkeep, if All Hallow's Eve is exiled with a scream counter on it, remove a scream counter from it. If there are no more scream counters on it, put it into your graveyard and each player returns all creature cards from his or her graveyard to the battlefield.		
+Amrou Kithkin	{W}{W}		Creature	Kithkin	Amrou Kithkin can't be blocked by creatures with power 3 or greater.	1	1
+Anaba Ancestor	{1}{R}		Creature	Minotaur,Spirit	{T}: Another target Minotaur creature gets +1/+1 until end of turn.	1	1
+Anaba Spirit Crafter	{2}{R}{R}		Creature	Minotaur,Shaman	Minotaur creatures get +1/+0.	1	3
+Angus Mackenzie	{G}{W}{U}	Legendary	Creature	Human,Cleric	{G}{W}{U}, {T}: Prevent all combat damage that would be dealt this turn. Activate this ability only before the combat damage step.	2	2
+Arboria	{2}{G}{G}	World	Enchantment		Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.		
+Arcades Sabboth	{2}{G}{G}{W}{W}{U}{U}	Legendary	Creature	Elder,Dragon	Flying|At the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.|Each untapped creature you control gets +0/+2 as long as it's not attacking.|{W}: Arcades Sabboth gets +0/+1 until end of turn.	7	7
+Arena of the Ancients	{3}		Artifact		Legendary creatures don't untap during their controllers' untap steps.|When Arena of the Ancients enters the battlefield, tap all legendary creatures.		
+Ashes to Ashes	{1}{B}{B}		Sorcery		Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.		
+Astrolabe	{3}		Artifact		{1}, {T}, Sacrifice Astrolabe: Add two mana of any one color to your mana pool. Draw a card at the beginning of the next turn's upkeep.		
+Axelrod Gunnarson	{4}{B}{B}{R}{R}	Legendary	Creature	Giant	Trample|Whenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1 life and Axelrod deals 1 damage to target player.	5	5
+Banshee	{2}{B}{B}		Creature	Spirit	{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.	0	1
+Barktooth Warbeard	{4}{B}{R}{R}	Legendary	Creature	Human,Warrior		6	5
+Barl's Cage	{4}		Artifact		{3}: Target creature doesn't untap during its controller's next untap step.		
+Bartel Runeaxe	{3}{B}{R}{G}	Legendary	Creature	Giant,Warrior	Vigilance|Bartel Runeaxe can't be the target of Aura spells.	6	5
+Bayou			Land	Swamp,Forest			
+Bazaar of Baghdad			Land		{T}: Draw two cards, then discard three cards.		
+Benthic Explorers	{3}{U}		Creature	Merfolk,Scout	{T}, Untap a tapped land an opponent controls: Add one mana of any type that land could produce to your mana pool.	2	4
+Black Vise	{1}		Artifact		As Black Vise enters the battlefield, choose an opponent.|At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.		
+Blood Lust	{1}{R}		Instant		If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.		
+Bone Flute	{3}		Artifact		{2}, {T}: All creatures get -1/-0 until end of turn.		
+Boomerang	{U}{U}		Instant		Return target permanent to its owner's hand.		
+Boris Devilboon	{3}{B}{R}	Legendary	Creature	Zombie,Wizard	{2}{B}{R}, {T}: Put a 1/1 black and red Demon creature token named Minor Demon onto the battlefield.	2	2
+Borrowing 100,000 Arrows	{2}{U}		Sorcery		Draw a card for each tapped creature target opponent controls.		
+Brilliant Plan	{4}{U}		Sorcery		Draw three cards.		
+Burning of Xinye	{4}{R}{R}		Sorcery		Choose four lands you control and destroy those lands. Then target opponent chooses four lands he or she controls. Destroy those lands. Then Burning of Xinye deals 4 damage to each creature.		
+Call to Arms	{1}{W}		Enchantment		As Call to Arms enters the battlefield, choose a color and an opponent.|White creatures get +1/+1 as long as the chosen color is the most common color among nontoken permanents the chosen player controls but isn't tied for most common.|When the chosen color isn't the most common color among nontoken permanents the chosen player controls or is tied for most common, sacrifice Call to Arms.		
+Capture of Jingzhou	{3}{U}{U}		Sorcery		Take an extra turn after this one.		
+Carrion Ants	{2}{B}{B}		Creature	Insect	{1}: Carrion Ants gets +1/+1 until end of turn.	0	1
+Chain Lightning	{R}		Sorcery		Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay {R}{R}. If the player does, he or she may copy this spell and may choose a new target for that copy.		
+Chromium	{2}{W}{W}{U}{U}{B}{B}	Legendary	Creature	Elder,Dragon	Flying|Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)|At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.	7	7
+Cinder Storm	{6}{R}		Sorcery		Cinder Storm deals 7 damage to target creature or player.		
+City of Shadows			Land		{T}, Exile a creature you control: Put a storage counter on City of Shadows.|{T}: Add {X} to your mana pool, where X is the number of storage counters on City of Shadows.		
+Cleanse	{2}{W}{W}		Sorcery		Destroy all black creatures.		
+Coal Golem	{5}		Artifact,Creature	Golem	{3}, Sacrifice Coal Golem: Add {R}{R}{R} to your mana pool.	3	3
+Concordant Crossroads	{G}	World	Enchantment		All creatures have haste.		
+Corrupt Eunuchs	{3}{R}		Creature	Human,Advisor	When Corrupt Eunuchs enters the battlefield, it deals 2 damage to target creature.	2	2
+Cosmic Horror	{3}{B}{B}{B}		Creature	Horror	First strike|At the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you.	7	7
+Crimson Kobolds	{0}		Creature	Kobold	Crimson Kobolds is red.	0	1
+Crimson Manticore	{2}{R}{R}		Creature	Manticore	Flying|{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.	2	2
+Dance of Many	{U}{U}		Enchantment		When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield.|When Dance of Many leaves the battlefield, exile the token.|When the token leaves the battlefield, sacrifice Dance of Many.|At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.		
+D'Avenant Archer	{2}{W}		Creature	Human,Soldier,Archer	{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.	1	2
+Demonic Torment	{2}{B}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack.|Prevent all combat damage that would be dealt by enchanted creature.		
+Desert Twister	{4}{G}{G}		Sorcery		Destroy target permanent.		
+Desperate Charge	{2}{B}		Sorcery		Creatures you control get +2/+0 until end of turn.		
+Didgeridoo	{1}		Artifact		{3}: You may put a Minotaur permanent card from your hand onto the battlefield.		
+Disenchant	{1}{W}		Instant		Destroy target artifact or enchantment.		
+Disharmony	{2}{R}		Instant		Cast Disharmony only during combat before blockers are declared.|Untap target attacking creature and remove it from combat. Gain control of that creature until end of turn.		
+Divine Intervention	{6}{W}{W}		Enchantment		Divine Intervention enters the battlefield with two intervention counters on it.|At the beginning of your upkeep, remove an intervention counter from Divine Intervention.|When you remove the last intervention counter from Divine Intervention, the game is a draw.		
+Dong Zhou, the Tyrant	{4}{R}	Legendary	Creature	Human,Soldier	When Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player.	3	3
+Eightfold Maze	{2}{W}		Instant		Cast Eightfold Maze only during the declare attackers step and only if you've been attacked this step.|Destroy target attacking creature.		
+Elves of Deep Shadow	{G}		Creature	Elf,Druid	{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.	1	1
+Evil Presence	{B}		Enchantment	Aura	Enchant land|Enchanted land is a Swamp.		
+Exorcist	{W}{W}		Creature	Human,Cleric	{1}{W}, {T}: Destroy target black creature.	1	1
+Faerie Noble	{2}{G}		Creature	Faerie	Flying|Other Faerie creatures you control get +0/+1.|{T}: Other Faerie creatures you control get +1/+0 until end of turn.	1	2
+False Defeat	{3}{W}		Sorcery		Return target creature card from your graveyard to the battlefield.		
+Famine	{3}{B}{B}		Sorcery		Famine deals 3 damage to each creature and each player.		
+Fellwar Stone	{2}		Artifact		{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.		
+Fevered Strength	{2}{B}		Instant		Target creature gets +2/+0 until end of turn.||Draw a card at the beginning of the next turn's upkeep.		
+Fire Ambush	{1}{R}		Sorcery		Fire Ambush deals 3 damage to target creature or player.		
+Fire Drake	{1}{R}{R}		Creature	Drake	Flying|{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.	1	2
+Fire Sprites	{1}{G}		Creature	Faerie	Flying|{G}, {T}: Add {R} to your mana pool.	1	1
+Firestorm Phoenix	{4}{R}{R}		Creature	Phoenix	Flying|If Firestorm Phoenix would die, return Firestorm Phoenix to its owner's hand instead. Until that player's next turn, that player plays with that card revealed in his or her hand and can't play it.	3	2
+Flash Flood	{U}		Instant		Choose one - Destroy target red permanent; or return target Mountain to its owner's hand.		
+Force Spike	{U}		Instant		Counter target spell unless its controller pays {1}.		
+Forced Retreat	{2}{U}		Sorcery		Put target creature on top of its owner's library.		
+Forest		Basic	Land	Forest	G		
+Forked Lightning	{3}{R}		Sorcery		Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.		
+Freyalise's Winds	{2}{G}{G}		Enchantment		Whenever a permanent becomes tapped, put a wind counter on it.|If a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead.		
+Frost Giant	{3}{R}{R}{R}		Creature	Giant	Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)	4	4
+Gabriel Angelfire	{3}{G}{G}{W}{W}	Legendary	Creature	Angel	At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. (Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)	4	4
+Gaea's Touch	{G}{G}		Enchantment		{0}: You may put a basic Forest card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery and only once each turn.|Sacrifice Gaea's Touch: Add {G}{G} to your mana pool.		
+Gauntlets of Chaos	{5}		Artifact		{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.		
+Ghostly Visit	{2}{B}		Sorcery		Destroy target nonblack creature.		
+Ghosts of the Damned	{1}{B}{B}		Creature	Spirit	{T}: Target creature gets -1/-0 until end of turn.	0	2
+Giant Growth	{G}		Instant		Target creature gets +3/+3 until end of turn.		
+Grim Tutor	{1}{B}{B}		Sorcery		Search your library for a card and put that card into your hand, then shuffle your library. You lose 3 life.		
+Guan Yu, Sainted Warrior	{3}{W}{W}	Legendary	Creature	Human,Soldier,Warrior	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)|When Guan Yu, Sainted Warrior is put into your graveyard from the battlefield, you may shuffle Guan Yu into your library.	3	5
+Guan Yu's 1,000-Li March	{4}{W}{W}		Sorcery		Destroy all tapped creatures.		
+Gwendlyn Di Corci	{U}{B}{B}{R}	Legendary	Creature	Human,Rogue	{T}: Target player discards a card at random. Activate this ability only during your turn.	3	5
+Halfdane	{1}{W}{U}{B}	Legendary	Creature	Shapeshifter	At the beginning of your upkeep, Halfdane's power and toughness become equal to the power and toughness of target creature other than Halfdane until the end of your next upkeep.	3	3
+Hammerheim		Legendary	Land		{T}: Add {R} to your mana pool.|{T}: Target creature loses all landwalk abilities until end of turn.		
+Hazezon Tamar	{4}{R}{G}{W}	Legendary	Creature	Human,Warrior	When Hazezon Tamar enters the battlefield, put X 1/1 Sand Warrior creature tokens that are red, green, and white onto the battlefield at the beginning of your next upkeep, where X is the number of lands you control at that time.|When Hazezon leaves the battlefield, exile all Sand Warriors.	2	4
+Heal	{W}		Instant		Prevent the next 1 damage that would be dealt to target creature or player this turn.||Draw a card at the beginning of the next turn's upkeep.		
+Heavy Fog	{1}{G}		Instant		Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step.|Prevent all damage that would be dealt to you this turn by attacking creatures.		
+Hellfire	{2}{B}{B}{B}		Sorcery		Destroy all nonblack creatures. Hellfire deals X plus 3 damage to you, where X is the number of creatures that died this way.		
+Hua Tuo, Honored Physician	{1}{G}{G}	Legendary	Creature	Human	{T}: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.	1	2
+Hunding Gjornersen	{3}{W}{U}{U}	Legendary	Creature	Human,Warrior	Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)	5	4
+Hunting Cheetah	{2}{G}		Creature	Cat	Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle your library.	2	3
+Hurloon Minotaur	{1}{R}{R}		Creature	Minotaur		2	3
+Illusionary Mask	{2}		Artifact		{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery.		
+Immolation	{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/-2.		
+Infuse	{2}{U}		Instant		Untap target artifact, creature, or land.||Draw a card at the beginning of the next turn's upkeep.		
+Island		Basic	Land	Island	U		
+Ivory Guardians	{4}{W}{W}		Creature	Giant,Cleric	Protection from red|Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.	3	3
+Jedit Ojanen	{4}{W}{W}{U}	Legendary	Creature	Cat,Warrior		5	5
+Jerrard of the Closed Fist	{3}{R}{G}{G}	Legendary	Creature	Human,Knight		6	5
+Jungle Lion	{G}		Creature	Cat	Jungle Lion can't block.	2	1
+Karakas		Legendary	Land		{T}: Add {W} to your mana pool.|{T}: Return target legendary creature to its owner's hand.		
+Kei Takahashi	{2}{G}{W}	Legendary	Creature	Human,Cleric	{T}: Prevent the next 2 damage that would be dealt to target creature this turn.	2	2
+Killer Bees	{1}{G}{G}		Creature	Insect	Flying|{G}: Killer Bees gets +1/+1 until end of turn.	0	1
+Kjeldoran Frostbeast	{3}{G}{W}		Creature	Elemental,Beast	At end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast.	2	4
+Knowledge Vault	{4}		Artifact		{2}, {T}: Exile the top card of your library face down.|{0}: Sacrifice Knowledge Vault. If you do, discard your hand, then put all cards exiled with Knowledge Vault into their owner's hand.|When Knowledge Vault leaves the battlefield, put all cards exiled with Knowledge Vault into their owner's graveyard.		
+Kobold Drill Sergeant	{1}{R}		Creature	Kobold,Soldier	Other Kobold creatures you control get +0/+1 and have trample.	1	2
+Kobold Overlord	{1}{R}		Creature	Kobold	First strike|Other Kobold creatures you control have first strike.	1	2
+Kobold Taskmaster	{1}{R}		Creature	Kobold	Other Kobold creatures you control get +1/+0.	1	2
+Kobolds of Kher Keep	{0}		Creature	Kobold	Kobolds of Kher Keep is red.	0	1
+Kongming, 'Sleeping Dragon'	{2}{W}{W}	Legendary	Creature	Human,Advisor	Other creatures you control get +1/+1.	2	2
+Labyrinth Minotaur	{3}{U}		Creature	Minotaur	Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.	1	4
+Lady Caleria	{3}{G}{G}{W}{W}	Legendary	Creature	Human,Archer	{T}: Lady Caleria deals 3 damage to target attacking or blocking creature.	3	6
+Lady Evangela	{W}{U}{B}	Legendary	Creature	Human,Cleric	{W}{B}, {T}: Prevent all combat damage that would be dealt by target creature this turn.	1	2
+Lady Orca	{5}{B}{R}	Legendary	Creature	Demon		7	4
+Land Equilibrium	{2}{U}{U}		Enchantment		If an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.		
+Land Tax	{W}		Enchantment		At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.		
+Lesser Werewolf	{3}{B}		Creature	Werewolf	{B}: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step.	2	4
+Life Chisel	{4}		Artifact		Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate this ability only during your upkeep.		
+Lightning Blow	{1}{W}		Instant		Target creature gains first strike until end of turn.||Draw a card at the beginning of the next turn's upkeep.		
+Liu Bei, Lord of Shu	{3}{W}{W}	Legendary	Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)|Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior.	2	4
+Living Plane	{2}{G}{G}	World	Enchantment		All lands are 1/1 creatures that are still lands.		
+Livonya Silone	{2}{R}{R}{G}{G}	Legendary	Creature	Human,Warrior	First strike, legendary landwalk	4	4
+Loyal Retainers	{2}{W}		Creature	Human,Advisor	Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.	1	1
+Lu Bu, Master-at-Arms	{5}{R}	Legendary	Creature	Human,Soldier,Warrior	Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)	4	3
+Lu Meng, Wu General	{3}{U}{U}	Legendary	Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)	4	4
+Lu Xun, Scholar General	{2}{U}{U}	Legendary	Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)|Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.	1	3
+Mana Drain	{U}{U}		Instant		Counter target spell. At the beginning of your next main phase, add {X} to your mana pool, where X is that spell's converted mana cost.		
+Mana Vortex	{1}{U}{U}		Enchantment		When you cast Mana Vortex, counter it unless you sacrifice a land.|At the beginning of each player's upkeep, that player sacrifices a land.|When there are no lands on the battlefield, sacrifice Mana Vortex.		
+Marhault Elsdragon	{3}{R}{R}{G}	Legendary	Creature	Elf,Warrior	Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)	4	6
+Meng Huo, Barbarian King	{3}{G}{G}	Legendary	Creature	Human,Barbarian,Soldier	Other green creatures you control get +1/+1.	4	4
+Meng Huo's Horde	{4}{G}		Creature	Human,Soldier		4	5
+Mind Twist	{X}{B}		Sorcery		Target player discards X cards at random.		
+Misfortune's Gain	{3}{W}		Sorcery		Destroy target creature. Its owner gains 4 life.		
+Mountain		Basic	Land	Mountain	R		
+Nebuchadnezzar	{3}{U}{B}	Legendary	Creature	Human,Wizard	{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.	3	3
+Nether Void	{3}{B}	World	Enchantment		Whenever a player casts a spell, counter it unless that player pays {3}.		
+Nicol Bolas	{2}{U}{U}{B}{B}{R}{R}	Legendary	Creature	Elder,Dragon	Flying|At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.|Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.	7	7
+Nova Pentacle	{4}		Artifact		{3}, {T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature of an opponent's choice instead.		
+Old Man of the Sea	{1}{U}{U}		Creature	Djinn	You may choose not to untap Old Man of the Sea during your untap step.|{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.	2	3
+Palladia-Mors	{2}{R}{R}{G}{G}{W}{W}	Legendary	Creature	Elder,Dragon	Flying, trample|At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.	7	7
+Pavel Maliki	{4}{B}{R}	Legendary	Creature	Human	{B}{R}: Pavel Maliki gets +1/+0 until end of turn.	5	3
+Peach Garden Oath	{W}		Sorcery		You gain 2 life for each creature you control.		
+Plains		Basic	Land	Plains	W		
+Plateau			Land	Mountain,Plains			
+Princess Lucrezia	{3}{U}{U}{B}	Legendary	Creature	Human,Wizard	{T}: Add {U} to your mana pool.	5	4
+Raging Minotaur	{2}{R}{R}		Creature	Minotaur,Berserker	Haste	3	3
+Ragnar	{G}{W}{U}	Legendary	Creature	Human,Cleric	{G}{W}{U}, {T}: Regenerate target creature.	2	2
+Ramirez DePietro	{3}{U}{B}{B}	Legendary	Creature	Human,Pirate	First strike	4	3
+Ramses Overdark	{2}{U}{U}{B}{B}	Legendary	Creature	Human,Assassin	{T}: Destroy target enchanted creature.	4	3
+Rasputin Dreamweaver	{4}{W}{U}	Legendary	Creature	Human,Wizard	Rasputin Dreamweaver enters the battlefield with seven dream counters on it.|Remove a dream counter from Rasputin: Add {1} to your mana pool.|Remove a dream counter from Rasputin: Prevent the next 1 damage that would be dealt to Rasputin this turn.|At the beginning of your upkeep, if Rasputin started the turn untapped, put a dream counter on it.|Rasputin can't have more than seven dream counters on it.	4	1
+Recall	{X}{X}{U}		Sorcery		Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.		
+Reincarnation	{1}{G}{G}		Instant		Choose target creature. When that creature dies this turn, return a creature card from its owner's graveyard to the battlefield under the control of that creature's owner.		
+Remove Soul	{1}{U}		Instant		Counter target creature spell.		
+Reset	{U}{U}		Instant		Cast Reset only during an opponent's turn after his or her upkeep step.|Untap all lands you control.		
+Reveka, Wizard Savant	{2}{U}{U}	Legendary	Creature	Dwarf,Wizard	{T}: Reveka, Wizard Savant deals 2 damage to target creature or player and doesn't untap during your next untap step.	0	1
+Riding the Dilu Horse	{2}{G}		Sorcery		Target creature gets +2/+2 and gains horsemanship. (It can't be blocked except by creatures with horsemanship. This effect lasts indefinitely.)		
+Riven Turnbull	{5}{U}{B}	Legendary	Creature	Human,Advisor	{T}: Add {B} to your mana pool.	5	7
+Rohgahh of Kher Keep	{2}{B}{B}{R}{R}	Legendary	Creature	Kobold	At the beginning of your upkeep, you may pay {R}{R}{R}. If you don't, tap Rohgahh of Kher Keep and all creatures named Kobolds of Kher Keep, then an opponent gains control of them.|Creatures you control named Kobolds of Kher Keep get +2/+2.	5	5
+Rolling Earthquake	{X}{R}		Sorcery		Rolling Earthquake deals X damage to each creature without horsemanship and each player.		
+Rubinia Soulsinger	{2}{G}{W}{U}	Legendary	Creature	Faerie	You may choose not to untap Rubinia Soulsinger during your untap step.|{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.	2	3
+Scrubland			Land	Plains,Swamp			
+Scryb Sprites	{G}		Creature	Faerie	Flying	1	1
+Shu Cavalry	{2}{W}		Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)	2	2
+Shu Elite Companions	{4}{W}		Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)	3	3
+Shu General	{3}{W}		Creature	Human,Soldier	Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)	2	2
+Shu Soldier-Farmers	{4}{W}		Creature	Human,Soldier	When Shu Soldier-Farmers enters the battlefield, you gain 4 life.	2	4
+Sir Shandlar of Eberyn	{4}{G}{W}	Legendary	Creature	Human,Knight		4	7
+Sivitri Scarzam	{5}{U}{B}	Legendary	Creature	Human		6	4
+Slashing Tiger	{2}{G}{G}		Creature	Cat	Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn.	3	3
+Sol Grail	{3}		Artifact		As Sol Grail enters the battlefield, choose a color.|{T}: Add one mana of the chosen color to your mana pool.		
+Sorrow's Path			Land		{T}: Choose two target blocking creatures an opponent controls. If each of those creatures could block all creatures that the other is blocking, remove both of them from combat. Each one then blocks all creatures the other was blocking.|Whenever Sorrow's Path becomes tapped, it deals 2 damage to you and each creature you control.		
+Spectral Shield	{1}{W}{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +0/+2 and can't be the target of spells.		
+Spiny Starfish	{2}{U}		Creature	Starfish	{U}: Regenerate Spiny Starfish.|At the beginning of each end step, if Spiny Starfish regenerated this turn, put a 0/1 blue Starfish creature token onto the battlefield for each time it regenerated this turn.	0	1
+Spirit Shackle	{B}{B}		Enchantment	Aura	Enchant creature|Whenever enchanted creature becomes tapped, put a -0/-2 counter on it.		
+Spoils of Victory	{2}{G}		Sorcery		Search your library for a Plains, Island, Swamp, Mountain, or Forest card and put that card onto the battlefield. Then shuffle your library.		
+Stangg	{4}{R}{G}	Legendary	Creature	Human,Warrior	When Stangg enters the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.	3	4
+Stolen Grain	{4}{B}{B}		Sorcery		Stolen Grain deals 5 damage to target opponent. You gain 5 life.		
+Storm World	{R}	World	Enchantment		At the beginning of each player's upkeep, Storm World deals X damage to that player, where X is 4 minus the number of cards in his or her hand.		
+Strategic Planning	{1}{U}		Sorcery		Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.		
+Sun Ce, Young Conquerer	{3}{U}{U}	Legendary	Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)|When Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand.	3	3
+Sun Quan, Lord of Wu	{4}{U}{U}	Legendary	Creature	Human,Soldier	Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)	4	4
+Sunastian Falconer	{3}{R}{G}	Legendary	Creature	Human,Shaman	{T}: Add {2} to your mana pool.	4	4
+Swamp		Basic	Land	Swamp	B		
+Sword of the Ages	{6}		Artifact		Sword of the Ages enters the battlefield tapped.|{T}, Sacrifice Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures sacrificed this way, then exile Sword of the Ages and those creature cards.		
+Takklemaggot	{2}{B}{B}		Enchantment	Aura	Enchant creature|At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.|When enchanted creature dies, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses 'enchant creature' and gains 'At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her.'		
+Tetsuo Umezawa	{U}{B}{R}	Legendary	Creature	Human,Archer	Tetsuo Umezawa can't be the target of Aura spells.|{U}{B}{B}{R}, {T}: Destroy target tapped or blocking creature.	3	3
+The Abyss	{3}{B}	World	Enchantment		At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.		
+The Lady of the Mountain	{4}{R}{G}	Legendary	Creature	Giant		5	5
+The Tabernacle at Pendrell Vale		Legendary	Land		All creatures have 'At the beginning of your upkeep, destroy this creature unless you pay {1}.'		
+The Wretched	{3}{B}{B}		Creature	Demon	At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.	2	5
+Three Visits	{1}{G}		Sorcery		Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.		
+Tobias Andrion	{3}{W}{U}	Legendary	Creature	Human,Advisor		4	4
+Tor Wauki	{2}{B}{B}{R}	Legendary	Creature	Human,Archer	{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.	3	3
+Torsten Von Ursus	{3}{G}{G}{W}	Legendary	Creature	Human,Soldier		5	5
+Tracker	{2}{G}		Creature	Human	{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.	2	2
+Trip Wire	{2}{G}		Sorcery		Destroy target creature with horsemanship.		
+Tropical Island			Land	Forest,Island			
+Tuknir Deathlock	{R}{R}{G}{G}	Legendary	Creature	Human,Wizard	Flying|{R}{G}, {T}: Target creature gets +2/+2 until end of turn.	2	2
+Urborg		Legendary	Land		{T}: Add {B} to your mana pool.|{T}: Target creature loses first strike or swampwalk until end of turn.		
+Vaevictis Asmadi	{2}{B}{B}{R}{R}{G}{G}	Legendary	Creature	Elder,Dragon	Flying|At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.|{B}: Vaevictis Asmadi gets +1/+0 until end of turn.|{R}: Vaevictis Asmadi gets +1/+0 until end of turn.|{G}: Vaevictis Asmadi gets +1/+0 until end of turn.	7	7
+Volcanic Island			Land	Island,Mountain			
+Voodoo Doll	{6}		Artifact		At the beginning of your upkeep, put a pin counter on Voodoo Doll.|At the beginning of your end step, if Voodoo Doll is untapped, destroy Voodoo Doll and it deals damage to you equal to the number of pin counters on it.|{X}{X}, {T}: Voodoo Doll deals damage equal to the number of pin counters on it to target creature or player. X is the number of pin counters on Voodoo Doll.		
+Wall of Light	{2}{W}		Creature	Wall	Defender (This creature can't attack.)|Protection from black	1	5
+Wandering Mage	{W}{U}{B}		Creature	Human,Cleric,Wizard	{W}, Pay 1 life: Prevent the next 2 damage that would be dealt to target creature this turn.|{U}: Prevent the next 1 damage that would be dealt to target Cleric or Wizard creature this turn.|{B}, Put a -1/-1 counter on a creature you control: Prevent the next 2 damage that would be dealt to target player this turn.	0	3
+Wei Elite Companions	{4}{B}		Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)	3	3
+Wei Infantry	{1}{B}		Creature	Human,Soldier		2	1
+Wei Night Raiders	{2}{B}{B}		Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)|Whenever Wei Night Raiders deals damage to an opponent, that player discards a card.	2	2
+Wei Strike Force	{2}{B}		Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)	2	1
+Willow Priestess	{2}{G}{G}		Creature	Faerie,Druid	{T}: You may put a Faerie permanent card from your hand onto the battlefield.|{2}{G}: Target green creature gains protection from black until end of turn.	2	2
+Willow Satyr	{2}{G}{G}		Creature	Satyr	You may choose not to untap Willow Satyr during your untap step.|{T}: Gain control of target legendary creature for as long as you control Willow Satyr and Willow Satyr remains tapped.	1	1
+Wormwood Treefolk	{3}{G}{G}		Creature	Treefolk	{G}{G}: Wormwood Treefolk gains forestwalk until end of turn and deals 2 damage to you.|{B}{B}: Wormwood Treefolk gains swampwalk until end of turn and deals 2 damage to you.	4	4
+Wu Elite Cavalry	{3}{U}		Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)	2	3
+Wu Longbowman	{2}{U}		Creature	Human,Soldier,Archer	{T}: Wu Longbowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.	1	1
+Wu Warship	{2}{U}		Creature	Human,Soldier	Wu Warship can't attack unless defending player controls an Island.	3	3
+Xiahou Dun, the One-Eyed	{2}{B}{B}	Legendary	Creature	Human,Soldier	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)|Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared.	3	2
+Xira Arien	{B}{R}{G}	Legendary	Creature	Insect,Wizard	Flying|{B}{R}{G}, {T}: Target player draws a card.	1	2
+Young Wei Recruits	{1}{B}		Creature	Human,Soldier	Young Wei Recruits can't block.	2	2
+Zhang Fei, Fierce Warrior	{4}{W}{W}	Legendary	Creature	Human,Soldier,Warrior	Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)	4	4
+Zodiac Dragon	{7}{R}{R}		Creature	Dragon	When Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand.	8	8

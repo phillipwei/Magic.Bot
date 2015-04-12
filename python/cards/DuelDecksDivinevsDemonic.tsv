@@ -1,0 +1,60 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abyssal Gatekeeper	{1}{B}		Creature	Horror	When Abyssal Gatekeeper dies, each player sacrifices a creature.	1	1
+Abyssal Specter	{2}{B}{B}		Creature	Specter	Flying|Whenever Abyssal Specter deals damage to a player, that player discards a card.	2	3
+Akroma, Angel of Wrath	{5}{W}{W}{W}	Legendary	Creature	Angel	Flying, first strike, vigilance, trample, haste, protection from black and from red	6	6
+Angel of Mercy	{4}{W}		Creature	Angel	Flying|When Angel of Mercy enters the battlefield, you gain 3 life.	3	3
+Angelic Benediction	{3}{W}		Enchantment		Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)|Whenever a creature you control attacks alone, you may tap target creature.		
+Angelic Page	{1}{W}		Creature	Angel,Spirit	Flying|{T}: Target attacking or blocking creature gets +1/+1 until end of turn.	1	1
+Angelic Protector	{3}{W}		Creature	Angel	Flying|Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.	2	2
+Angel's Feather	{2}		Artifact		Whenever a player casts a white spell, you may gain 1 life.		
+Angelsong	{1}{W}		Instant		Prevent all combat damage that would be dealt this turn.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Barren Moor			Land		Barren Moor enters the battlefield tapped.|{T}: Add {B} to your mana pool.|Cycling {B} ({B}, Discard this card: Draw a card.)		
+Barter in Blood	{2}{B}{B}		Sorcery		Each player sacrifices two creatures.		
+Breeding Pit	{3}{B}		Enchantment		At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.|At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.		
+Cackling Imp	{2}{B}{B}		Creature	Imp	Flying|{T}: Target player loses 1 life.	2	2
+Charging Paladin	{2}{W}		Creature	Human,Knight	Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.	2	2
+Consume Spirit	{X}{1}{B}		Sorcery		Spend only black mana on X.|Consume Spirit deals X damage to target creature or player and you gain X life.		
+Corrupt	{5}{B}		Sorcery		Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.		
+Cruel Edict	{1}{B}		Sorcery		Target opponent sacrifices a creature.		
+Daggerclaw Imp	{2}{B}		Creature	Imp	Flying|Daggerclaw Imp can't block.	3	1
+Dark Banishing	{2}{B}		Instant		Destroy target nonblack creature. It can't be regenerated.		
+Dark Ritual	{B}		Instant		Add {B}{B}{B} to your mana pool.		
+Demon			Creature	Demon	Flying	*	*
+Demonic Tutor	{1}{B}		Sorcery		Search your library for a card and put that card into your hand. Then shuffle your library.		
+Demon's Horn	{2}		Artifact		Whenever a player casts a black spell, you may gain 1 life.		
+Demon's Jester	{3}{B}		Creature	Imp	Flying|Hellbent - Demon's Jester gets +2/+1 as long as you have no cards in hand.	2	2
+Duress	{B}		Sorcery		Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.		
+Dusk Imp	{2}{B}		Creature	Imp	Flying	2	1
+Faith's Fetters	{3}{W}		Enchantment	Aura	Enchant permanent|When Faith's Fetters enters the battlefield, you gain 4 life.|Enchanted permanent's activated abilities can't be activated unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.		
+Fallen Angel	{3}{B}{B}		Creature	Angel	Flying|Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.	3	3
+Foul Imp	{B}{B}		Creature	Imp	Flying|When Foul Imp enters the battlefield, you lose 2 life.	2	2
+Healing Salve	{W}		Instant		Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.		
+Icatian Priest	{W}		Creature	Human,Cleric	{1}{W}{W}: Target creature gets +1/+1 until end of turn.	1	1
+Kuro, Pitlord	{6}{B}{B}{B}	Legendary	Creature	Demon,Spirit	At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.|Pay 1 life: Target creature gets -1/-1 until end of turn.	9	9
+Lord of the Pit	{4}{B}{B}{B}		Creature	Demon	Flying, trample|At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.	7	7
+Luminous Angel	{4}{W}{W}{W}		Creature	Angel	Flying|At the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.	4	4
+Marble Diamond	{2}		Artifact		Marble Diamond enters the battlefield tapped.|{T}: Add {W} to your mana pool.		
+Oni Possession	{2}{B}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, sacrifice a creature.|Enchanted creature gets +3/+3 and has trample.|Enchanted creature is a Demon Spirit.		
+Otherworldly Journey	{1}{W}		Instant	Arcane	Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.		
+Overeager Apprentice	{2}{B}		Creature	Human,Minion	Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.	1	2
+Pacifism	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack or block.		
+Plains		Basic	Land	Plains	W		
+Promise of Power	{2}{B}{B}{B}		Sorcery		Choose one - You draw five cards and you lose 5 life; or put an X/X black Demon creature token with flying onto the battlefield, where X is the number of cards in your hand as the token enters the battlefield.|Entwine {4} (Choose both if you pay the entwine cost.)		
+Reiver Demon	{4}{B}{B}{B}{B}		Creature	Demon	Flying|When Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.	6	6
+Reya Dawnbringer	{6}{W}{W}{W}	Legendary	Creature	Angel	Flying|At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.	4	6
+Righteous Cause	{3}{W}{W}		Enchantment		Whenever a creature attacks, you gain 1 life.		
+Secluded Steppe			Land		Secluded Steppe enters the battlefield tapped.|{T}: Add {W} to your mana pool.|Cycling {W} ({W}, Discard this card: Draw a card.)		
+Serra Advocate	{3}{W}		Creature	Angel	Flying|{T}: Target attacking or blocking creature gets +2/+2 until end of turn.	2	2
+Serra Angel	{3}{W}{W}		Creature	Angel	Flying|Vigilance (Attacking doesn't cause this creature to tap.)	4	4
+Serra's Boon	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.		
+Serra's Embrace	{2}{W}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has flying and vigilance.		
+Soot Imp	{1}{B}{B}		Creature	Imp	Flying|Whenever a player casts a nonblack spell, that player loses 1 life.	1	2
+Souldrinker	{3}{B}		Creature	Spirit	Pay 3 life: Put a +1/+1 counter on Souldrinker.	2	2
+Spirit			Creature	Spirit	Flying	1	1
+Stinkweed Imp	{2}{B}		Creature	Imp	Flying|Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.|Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)	1	2
+Sustainer of the Realm	{2}{W}{W}		Creature	Angel	Flying|Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.	2	3
+Swamp		Basic	Land	Swamp	B		
+Thrull			Creature	Thrull		0	1
+Twilight Shepherd	{3}{W}{W}{W}		Creature	Angel	Flying, vigilance|When Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.|Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)	5	5
+Unholy Strength	{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+1.		
+Venerable Monk	{2}{W}		Creature	Human,Monk,Cleric	When Venerable Monk enters the battlefield, you gain 2 life.	2	2

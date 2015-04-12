@@ -1,0 +1,235 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Adventuring Gear	{1}		Artifact	Equipment	Landfall - Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Æther Figment	{1}{U}		Creature	Illusion	Kicker {3} (You may pay an additional {3} as you cast this spell.)|Æther Figment can't be blocked.|If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.	1	1
+Akoum Refuge			Land		Akoum Refuge enters the battlefield tapped.|When Akoum Refuge enters the battlefield, you gain 1 life.|{T}: Add {B} or {R} to your mana pool.		
+Archive Trap	{3}{U}{U}		Instant	Trap	If an opponent searched his or her library this turn, you may pay {0} rather than pay Archive Trap's mana cost.|Target opponent puts the top thirteen cards of his or her library into his or her graveyard.		
+Archmage Ascension	{2}{U}		Enchantment		At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.|As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.		
+Arid Mesa			Land		{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.		
+Armament Master	{W}{W}		Creature	Kor,Soldier	Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.	2	2
+Arrow Volley Trap	{3}{W}{W}		Instant	Trap	If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.|Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.		
+Bala Ged Thief	{3}{B}		Creature	Human,Rogue,Ally	Whenever Bala Ged Thief or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.	2	2
+Baloth Cage Trap	{3}{G}{G}		Instant	Trap	If an opponent had an artifact enter the battlefield under his or her control this turn, you may pay {1}{G} rather than pay Baloth Cage Trap's mana cost.|Put a 4/4 green Beast creature token onto the battlefield.		
+Baloth Woodcrasher	{4}{G}{G}		Creature	Beast	Landfall - Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.	4	4
+Beast Hunt	{3}{G}		Sorcery		Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.		
+Beastmaster Ascension	{2}{G}		Enchantment		Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.|As long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.		
+Blade of the Bloodchief	{1}		Artifact	Equipment	Whenever a creature dies, put a +1/+1 counter on equipped creature. If equipped creature is a Vampire, put two +1/+1 counters on it instead.|Equip {1}		
+Bladetusk Boar	{3}{R}		Creature	Boar	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)	3	2
+Blazing Torch	{1}		Artifact	Equipment	Equipped creature can't be blocked by Vampires or Zombies.|Equipped creature has '{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player.'|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Blood Seeker	{1}{B}		Creature	Vampire,Shaman	Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.	1	1
+Blood Tribute	{4}{B}{B}		Sorcery		Kicker-Tap an untapped Vampire you control. (You may tap a Vampire you control in addition to any other costs as you cast this spell.)|Target opponent loses half his or her life, rounded up. If Blood Tribute was kicked, you gain life equal to the life lost this way.		
+Bloodchief Ascension	{B}		Enchantment		At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on Bloodchief Ascension. (Damage causes loss of life.)|Whenever a card is put into an opponent's graveyard from anywhere, if Bloodchief Ascension has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.		
+Bloodghast	{B}{B}		Creature	Vampire,Spirit	Bloodghast can't block.|Bloodghast has haste as long as an opponent has 10 or less life.|Landfall - Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.	2	1
+Bog Tatters	{4}{B}		Creature	Wraith	Swampwalk	4	2
+Bold Defense	{2}{W}		Instant		Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.)|Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.		
+Brave the Elements	{W}		Instant		Choose a color. White creatures you control gain protection from the chosen color until end of turn. (They can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)		
+Burst Lightning	{R}		Instant		Kicker {4} (You may pay an additional {4} as you cast this spell.)|Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.		
+Caller of Gales	{U}		Creature	Merfolk,Wizard	{1}{U}, {T}: Target creature gains flying until end of turn.	1	1
+Cancel	{1}{U}{U}		Instant		Counter target spell.		
+Caravan Hurda	{4}{W}		Creature	Giant	Lifelink (Damage dealt by this creature also causes you to gain that much life.)	1	5
+Carnage Altar	{2}		Artifact		{3}, Sacrifice a creature: Draw a card.		
+Celestial Mantle	{3}{W}{W}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3.|Whenever enchanted creature deals combat damage to a player, double its controller's life total.		
+Chandra Ablaze	{4}{R}{R}		Planeswalker	Chandra	+1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to target creature or player.|-2: Each player discards his or her hand, then draws three cards.|-7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.		
+Cliff Threader	{1}{W}		Creature	Kor,Scout	Mountainwalk	2	1
+Cobra Trap	{4}{G}{G}		Instant	Trap	If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost.|Put four 1/1 green Snake creature tokens onto the battlefield.		
+Conqueror's Pledge	{2}{W}{W}{W}		Sorcery		Kicker {6} (You may pay an additional {6} as you cast this spell.)|Put six 1/1 white Kor Soldier creature tokens onto the battlefield. If Conqueror's Pledge was kicked, put twelve of those tokens onto the battlefield instead.		
+Cosi's Trickster	{U}		Creature	Merfolk,Wizard	Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on Cosi's Trickster.	1	1
+Crypt of Agadeem			Land		Crypt of Agadeem enters the battlefield tapped.|{T}: Add {B} to your mana pool.|{2}, {T}: Add {B} to your mana pool for each black creature card in your graveyard.		
+Crypt Ripper	{2}{B}{B}		Creature	Shade	Haste|{B}: Crypt Ripper gets +1/+1 until end of turn.	2	2
+Day of Judgment	{2}{W}{W}		Sorcery		Destroy all creatures.		
+Demolish	{3}{R}		Sorcery		Destroy target artifact or land.		
+Desecrated Earth	{4}{B}		Sorcery		Destroy target land. Its controller discards a card.		
+Devout Lightcaster	{W}{W}{W}		Creature	Kor,Cleric	Protection from black|When Devout Lightcaster enters the battlefield, exile target black permanent.	2	2
+Disfigure	{B}		Instant		Target creature gets -2/-2 until end of turn.		
+Eldrazi Monument	{5}		Artifact		Creatures you control get +1/+1 and have flying and indestructible.|At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.		
+Electropotence	{2}{R}		Enchantment		Whenever a creature enters the battlefield under your control, you may pay {2}{R}. If you do, that creature deals damage equal to its power to target creature or player.		
+Elemental Appeal	{R}{R}{R}{R}		Sorcery		Kicker {5} (You may pay an additional {5} as you cast this spell.)|Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If Elemental Appeal was kicked, that creature gets +7/+0 until end of turn.		
+Emeria Angel	{2}{W}{W}		Creature	Angel	Flying|Landfall - Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.	3	3
+Emeria, the Sky Ruin			Land		Emeria, the Sky Ruin enters the battlefield tapped.|At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.|{T}: Add {W} to your mana pool.		
+Eternity Vessel	{6}		Artifact		Eternity Vessel enters the battlefield with X charge counters on it, where X is your life total.|Landfall - Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.		
+Expedition Map	{1}		Artifact		{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.		
+Explorer's Scope	{1}		Artifact	Equipment	Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Feast of Blood	{1}{B}		Sorcery		Cast Feast of Blood only if you control two or more Vampires.|Destroy target creature. You gain 4 life.		
+Felidar Sovereign	{4}{W}{W}		Creature	Cat,Beast	Vigilance, lifelink|At the beginning of your upkeep, if you have 40 or more life, you win the game.	4	6
+Forest		Basic	Land	Forest	G		
+Frontier Guide	{1}{G}		Creature	Elf,Scout	{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.	1	1
+Gatekeeper of Malakir	{B}{B}		Creature	Vampire,Warrior	Kicker {B} (You may pay an additional {B} as you cast this spell.)|When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.	2	2
+Geyser Glider	{3}{R}{R}		Creature	Elemental,Beast	Landfall - Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.	4	4
+Giant Scorpion	{2}{B}		Creature	Scorpion	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)	1	3
+Gigantiform	{3}{G}{G}		Enchantment	Aura	Kicker {4}|Enchant creature|Enchanted creature is 8/8 and has trample.|When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.		
+Goblin Bushwhacker	{R}		Creature	Goblin,Warrior	Kicker {R} (You may pay an additional {R} as you cast this spell.)|When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.	1	1
+Goblin Guide	{R}		Creature	Goblin,Scout	Haste|Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.	2	2
+Goblin Ruinblaster	{2}{R}		Creature	Goblin,Shaman	Kicker {R} (You may pay an additional {R} as you cast this spell.)|Haste|When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.	2	1
+Goblin Shortcutter	{1}{R}		Creature	Goblin,Scout	When Goblin Shortcutter enters the battlefield, target creature can't block this turn.	2	1
+Goblin War Paint	{1}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has haste. (It can attack and {T} no matter when it came under its controller's control.)		
+Gomazoa	{2}{U}		Creature	Jellyfish	Defender, flying|{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.	0	3
+Grappling Hook	{4}		Artifact	Equipment	Equipped creature has double strike.|Whenever equipped creature attacks, you may have target creature block it this turn if able.|Equip {4}		
+Graypelt Refuge			Land		Graypelt Refuge enters the battlefield tapped.|When Graypelt Refuge enters the battlefield, you gain 1 life.|{T}: Add {G} or {W} to your mana pool.		
+Grazing Gladehart	{2}{G}		Creature	Antelope	Landfall - Whenever a land enters the battlefield under your control, you may gain 2 life.	2	2
+Greenweaver Druid	{2}{G}		Creature	Elf,Druid	{T}: Add {G}{G} to your mana pool.	1	1
+Grim Discovery	{1}{B}		Sorcery		Choose one or both - Return target creature card from your graveyard to your hand; and/or return target land card from your graveyard to your hand.		
+Guul Draz Specter	{2}{B}{B}		Creature	Specter	Flying|Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.|Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.	2	2
+Guul Draz Vampire	{B}		Creature	Vampire,Rogue	As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 and has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)	1	1
+Hagra Crocodile	{3}{B}		Creature	Crocodile	Hagra Crocodile can't block.|Landfall - Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.	3	1
+Hagra Diabolist	{4}{B}		Creature	Ogre,Shaman,Ally	Whenever Hagra Diabolist or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.	3	2
+Halo Hunter	{2}{B}{B}{B}		Creature	Demon	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)|When Halo Hunter enters the battlefield, destroy target Angel.	6	3
+Harrow	{2}{G}		Instant		As an additional cost to cast Harrow, sacrifice a land.|Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.		
+Heartstabber Mosquito	{3}{B}		Creature	Insect	Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)|Flying|When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.	2	2
+Hedron Crab	{U}		Creature	Crab	Landfall - Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.	0	2
+Hedron Scrabbler	{2}		Artifact,Creature	Construct	Landfall - Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.	1	1
+Hellfire Mongrel	{2}{R}		Creature	Elemental,Hound	At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.	2	2
+Hellkite Charger	{4}{R}{R}		Creature	Dragon	Flying, haste|Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.	5	5
+Hideous End	{1}{B}{B}		Instant		Destroy target nonblack creature. Its controller loses 2 life.		
+Highland Berserker	{1}{R}		Creature	Human,Berserker,Ally	Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.	2	1
+Inferno Trap	{3}{R}		Instant	Trap	If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.|Inferno Trap deals 4 damage to target creature.		
+Into the Roil	{1}{U}		Instant		Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)|Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.		
+Iona, Shield of Emeria	{6}{W}{W}{W}	Legendary	Creature	Angel	Flying|As Iona, Shield of Emeria enters the battlefield, choose a color.|Your opponents can't cast spells of the chosen color.	7	7
+Ior Ruin Expedition	{1}{U}		Enchantment		Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.|Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.		
+Island		Basic	Land	Island	U		
+Joraga Bard	{3}{G}		Creature	Elf,Rogue,Ally	Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.	1	4
+Journey to Nowhere	{1}{W}		Enchantment		When Journey to Nowhere enters the battlefield, exile target creature.|When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.		
+Jwar Isle Refuge			Land		Jwar Isle Refuge enters the battlefield tapped.|When Jwar Isle Refuge enters the battlefield, you gain 1 life.|{T}: Add {U} or {B} to your mana pool.		
+Kabira Crossroads			Land		Kabira Crossroads enters the battlefield tapped.|When Kabira Crossroads enters the battlefield, you gain 2 life.|{T}: Add {W} to your mana pool.		
+Kabira Evangel	{2}{W}		Creature	Human,Cleric,Ally	Whenever Kabira Evangel or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.	2	3
+Kalitas, Bloodchief of Ghet	{5}{B}{B}	Legendary	Creature	Vampire,Warrior	{B}{B}{B}, {T}: Destroy target creature. If that creature dies this way, put a black Vampire creature token onto the battlefield. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.	5	5
+Kazandu Blademaster	{W}{W}		Creature	Human,Soldier,Ally	First strike, vigilance|Whenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.	1	1
+Kazandu Refuge			Land		Kazandu Refuge enters the battlefield tapped.|When Kazandu Refuge enters the battlefield, you gain 1 life.|{T}: Add {R} or {G} to your mana pool.		
+Kazuul Warlord	{4}{R}		Creature	Minotaur,Warrior,Ally	Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.	3	3
+Khalni Gem	{4}		Artifact		When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.|{T}: Add two mana of any one color to your mana pool.		
+Khalni Heart Expedition	{1}{G}		Enchantment		Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.|Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.		
+Kor Aeronaut	{W}{W}		Creature	Kor,Soldier	Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)|Flying|When Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.	2	2
+Kor Cartographer	{3}{W}		Creature	Kor,Scout	When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.	2	2
+Kor Duelist	{W}		Creature	Kor,Soldier	As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)	1	1
+Kor Hookmaster	{2}{W}		Creature	Kor,Soldier	When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.	2	2
+Kor Outfitter	{W}{W}		Creature	Kor,Soldier	When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.	2	2
+Kor Sanctifiers	{2}{W}		Creature	Kor,Cleric	Kicker {W} (You may pay an additional {W} as you cast this spell.)|When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.	2	3
+Kor Skyfisher	{1}{W}		Creature	Kor,Soldier	Flying|When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.	2	3
+Kraken Hatchling	{U}		Creature	Kraken		0	4
+Landbind Ritual	{3}{W}{W}		Sorcery		You gain 2 life for each Plains you control.		
+Lavaball Trap	{6}{R}{R}		Instant	Trap	If an opponent had two or more lands enter the battlefield under his or her control this turn, you may pay {3}{R}{R} rather than pay Lavaball Trap's mana cost.|Destroy two target lands. Lavaball Trap deals 4 damage to each creature.		
+Lethargy Trap	{3}{U}		Instant	Trap	If three or more creatures are attacking, you may pay {U} rather than pay Lethargy Trap's mana cost.|Attacking creatures get -3/-0 until end of turn.		
+Living Tsunami	{2}{U}{U}		Creature	Elemental	Flying|At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.	4	4
+Lorthos, the Tidemaker	{5}{U}{U}{U}	Legendary	Creature	Octopus	Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.	8	8
+Lotus Cobra	{1}{G}		Creature	Snake	Landfall - Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.	2	1
+Lullmage Mentor	{1}{U}{U}		Creature	Merfolk,Wizard	Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.|Tap seven untapped Merfolk you control: Counter target spell.	2	2
+Luminarch Ascension	{1}{W}		Enchantment		At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.)|{1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.		
+Magma Rift	{2}{R}		Sorcery		As an additional cost to cast Magma Rift, sacrifice a land.|Magma Rift deals 5 damage to target creature.		
+Magosi, the Waterveil			Land		Magosi, the Waterveil enters the battlefield tapped.|{T}: Add {U} to your mana pool.|{U}, {T}: Put an eon counter on Magosi, the Waterveil. Skip your next turn.|{T}, Remove an eon counter from Magosi, the Waterveil and return it to its owner's hand: Take an extra turn after this one.		
+Makindi Shieldmate	{2}{W}		Creature	Kor,Soldier,Ally	Defender|Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.	0	3
+Malakir Bloodwitch	{3}{B}{B}		Creature	Vampire,Shaman	Flying, protection from white|When Malakir Bloodwitch enters the battlefield, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.	4	4
+Mark of Mutiny	{2}{R}		Sorcery		Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.)		
+Marsh Casualties	{B}{B}		Sorcery		Kicker {3} (You may pay an additional {3} as you cast this spell.)|Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.		
+Marsh Flats			Land		{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.		
+Merfolk Seastalkers	{3}{U}		Creature	Merfolk,Scout	Islandwalk|{2}{U}: Tap target creature without flying.	2	3
+Merfolk Wayfinder	{2}{U}		Creature	Merfolk,Scout	Flying|When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.	1	2
+Mind Sludge	{4}{B}		Sorcery		Target player discards a card for each Swamp you control.		
+Mindbreak Trap	{2}{U}{U}		Instant	Trap	If an opponent cast three or more spells this turn, you may pay {0} rather than pay Mindbreak Trap's mana cost.|Exile any number of target spells.		
+Mindless Null	{2}{B}		Creature	Zombie	Mindless Null can't block unless you control a Vampire.	2	2
+Mire Blight	{B}		Enchantment	Aura	Enchant creature|When enchanted creature is dealt damage, destroy it.		
+Misty Rainforest			Land		{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.		
+Mold Shambler	{3}{G}		Creature	Fungus,Beast	Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)|When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.	3	3
+Molten Ravager	{2}{R}		Creature	Elemental	{R}: Molten Ravager gets +1/+0 until end of turn.	0	4
+Mountain		Basic	Land	Mountain	R		
+Murasa Pyromancer	{4}{R}{R}		Creature	Human,Shaman,Ally	Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.	3	2
+Narrow Escape	{2}{W}		Instant		Return target permanent you control to its owner's hand. You gain 4 life.		
+Needlebite Trap	{5}{B}{B}		Instant	Trap	If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost.|Target player loses 5 life and you gain 5 life.		
+Nimana Sell-Sword	{3}{B}		Creature	Human,Warrior,Ally	Whenever Nimana Sell-Sword or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Nimana Sell-Sword.	2	2
+Nimbus Wings	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+2 and has flying.		
+Nissa Revane	{2}{G}{G}		Planeswalker	Nissa	+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.|+1: You gain 2 life for each Elf you control.|-7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.		
+Nissa's Chosen	{G}{G}		Creature	Elf,Warrior	If Nissa's Chosen would die, put it on the bottom of its owner's library instead.	2	3
+Noble Vestige	{2}{W}		Creature	Spirit	Flying|{T}: Prevent the next 1 damage that would be dealt to target player this turn.	1	2
+Ob Nixilis, the Fallen	{3}{B}{B}	Legendary	Creature	Demon	Landfall - Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.	3	3
+Obsidian Fireheart	{1}{R}{R}{R}		Creature	Elemental	{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has 'At the beginning of your upkeep, this land deals 1 damage to you.' (The land continues to burn after Obsidian Fireheart has left the battlefield.)	4	4
+Ondu Cleric	{1}{W}		Creature	Kor,Cleric,Ally	Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.	1	1
+Oracle of Mul Daya	{3}{G}		Creature	Elf,Shaman	You may play an additional land on each of your turns.|Play with the top card of your library revealed.|You may play the top card of your library if it's a land card.	2	2
+Oran-Rief Recluse	{2}{G}		Creature	Spider	Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)|Reach (This creature can block creatures with flying.)|When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.	1	3
+Oran-Rief Survivalist	{1}{G}		Creature	Human,Warrior,Ally	Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.	1	1
+Oran-Rief, the Vastwood			Land		Oran-Rief, the Vastwood enters the battlefield tapped.|{T}: Add {G} to your mana pool.|{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.		
+Paralyzing Grasp	{2}{U}		Enchantment	Aura	Enchant creature|Enchanted creature doesn't untap during its controller's untap step.		
+Pillarfield Ox	{3}{W}		Creature	Ox		2	4
+Piranha Marsh			Land		Piranha Marsh enters the battlefield tapped.|When Piranha Marsh enters the battlefield, target player loses 1 life.|{T}: Add {B} to your mana pool.		
+Pitfall Trap	{2}{W}		Instant	Trap	If exactly one creature is attacking, you may pay {W} rather than pay Pitfall Trap's mana cost.|Destroy target attacking creature without flying.		
+Plains		Basic	Land	Plains	W		
+Plated Geopede	{1}{R}		Creature	Insect	First strike|Landfall - Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.	1	1
+Predatory Urge	{3}{G}		Enchantment	Aura	Enchant creature|Enchanted creature has '{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature.'		
+Primal Bellow	{G}		Instant		Target creature gets +1/+1 until end of turn for each Forest you control.		
+Punishing Fire	{1}{R}		Instant		Punishing Fire deals 2 damage to target creature or player.|Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.		
+Pyromancer Ascension	{1}{R}		Enchantment		Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension.|Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.		
+Quest for Ancient Secrets	{U}		Enchantment		Whenever a card is put into your graveyard from anywhere, you may put a quest counter on Quest for Ancient Secrets.|Remove five quest counters from Quest for Ancient Secrets and sacrifice it: Target player shuffles his or her graveyard into his or her library.		
+Quest for Pure Flame	{R}		Enchantment		Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.|Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.		
+Quest for the Gemblades	{1}{G}		Enchantment		Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.|Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.		
+Quest for the Gravelord	{B}		Enchantment		Whenever a creature dies, you may put a quest counter on Quest for the Gravelord.|Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.		
+Quest for the Holy Relic	{W}		Enchantment		Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.|Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.		
+Rampaging Baloths	{4}{G}{G}		Creature	Beast	Trample|Landfall - Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.	6	6
+Ravenous Trap	{2}{B}{B}		Instant	Trap	If an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay Ravenous Trap's mana cost.|Exile all cards from target player's graveyard.		
+Reckless Scholar	{2}{U}		Creature	Human,Wizard	{T}: Target player draws a card, then discards a card.	2	1
+Relic Crush	{4}{G}		Instant		Destroy target artifact or enchantment and up to one other target artifact or enchantment.		
+Rite of Replication	{2}{U}{U}		Sorcery		Kicker {5} (You may pay an additional {5} as you cast this spell.)|Put a token that's a copy of target creature onto the battlefield. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead.		
+River Boa	{1}{G}		Creature	Snake	Islandwalk|{G}: Regenerate River Boa.	2	1
+Roil Elemental	{3}{U}{U}{U}		Creature	Elemental	Flying|Landfall - Whenever a land enters the battlefield under your control, you may gain control of target creature for as long as you control Roil Elemental.	3	2
+Ruinous Minotaur	{1}{R}{R}		Creature	Minotaur,Warrior	Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.	5	2
+Runeflare Trap	{4}{R}{R}		Instant	Trap	If an opponent drew three or more cards this turn, you may pay {R} rather than pay Runeflare Trap's mana cost.|Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.		
+Sadistic Sacrament	{B}{B}{B}		Sorcery		Kicker {7} (You may pay an additional {7} as you cast this spell.)|Search target player's library for up to three cards, exile them, then that player shuffles his or her library. If Sadistic Sacrament was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles his or her library.		
+Savage Silhouette	{2}{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has '{1}{G}: Regenerate this creature.'		
+Scalding Tarn			Land		{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.		
+Scute Mob	{G}		Creature	Insect	At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.	1	1
+Scythe Tiger	{G}		Creature	Cat	Shroud (This creature can't be the target of spells or abilities.)|When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.	3	2
+Sea Gate Loremaster	{4}{U}		Creature	Merfolk,Wizard,Ally	{T}: Draw a card for each Ally you control.	1	3
+Seascape Aerialist	{4}{U}		Creature	Merfolk,Wizard,Ally	Whenever Seascape Aerialist or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.	2	3
+Seismic Shudder	{1}{R}		Instant		Seismic Shudder deals 1 damage to each creature without flying.		
+Sejiri Refuge			Land		Sejiri Refuge enters the battlefield tapped.|When Sejiri Refuge enters the battlefield, you gain 1 life.|{T}: Add {W} or {U} to your mana pool.		
+Shatterskull Giant	{2}{R}{R}		Creature	Giant,Warrior		4	3
+Shepherd of the Lost	{4}{W}		Creature	Angel	Flying, first strike, vigilance	3	3
+Shieldmate's Blessing	{W}		Instant		Prevent the next 3 damage that would be dealt to target creature or player this turn.		
+Shoal Serpent	{5}{U}		Creature	Serpent	Defender|Landfall - Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.	5	5
+Sky Ruin Drake	{4}{U}		Creature	Drake	Flying	2	5
+Slaughter Cry	{2}{R}		Instant		Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)		
+Soaring Seacliff			Land		Soaring Seacliff enters the battlefield tapped.|When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.|{T}: Add {U} to your mana pool.		
+Sorin Markov	{3}{B}{B}{B}		Planeswalker	Sorin	+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.|-3: Target opponent's life total becomes 10.|-7: You control target player during that player's next turn.		
+Soul Stair Expedition	{B}		Enchantment		Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.|Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.		
+Spell Pierce	{U}		Instant		Counter target noncreature spell unless its controller pays {2}.		
+Sphinx of Jwar Isle	{4}{U}{U}		Creature	Sphinx	Flying, shroud|You may look at the top card of your library. (You may do this at any time.)	5	5
+Sphinx of Lost Truths	{3}{U}{U}		Creature	Sphinx	Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)|Flying|When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.	3	5
+Spidersilk Net	{0}		Artifact	Equipment	Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)|Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)		
+Spire Barrage	{4}{R}		Sorcery		Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.		
+Spreading Seas	{1}{U}		Enchantment	Aura	Enchant land|When Spreading Seas enters the battlefield, draw a card.|Enchanted land is an Island.		
+Steppe Lynx	{W}		Creature	Cat	Landfall - Whenever a land enters the battlefield under your control, Steppe Lynx gets +2/+2 until end of turn.	0	1
+Stonework Puma	{3}		Artifact,Creature	Cat,Ally		2	2
+Summoner's Bane	{2}{U}{U}		Instant		Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.		
+Summoning Trap	{4}{G}{G}		Instant	Trap	If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay Summoning Trap's mana cost.|Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.		
+Sunspring Expedition	{W}		Enchantment		Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition.|Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.		
+Surrakar Marauder	{1}{B}		Creature	Surrakar	Landfall - Whenever a land enters the battlefield under your control, Surrakar Marauder gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)	2	1
+Swamp		Basic	Land	Swamp	B		
+Tajuru Archer	{2}{G}		Creature	Elf,Archer,Ally	Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.	1	2
+Tanglesap	{1}{G}		Instant		Prevent all combat damage that would be dealt this turn by creatures without trample.		
+Teetering Peaks			Land		Teetering Peaks enters the battlefield tapped.|When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.|{T}: Add {R} to your mana pool.		
+Tempest Owl	{1}{U}		Creature	Bird	Kicker {4}{U} (You may pay an additional {4}{U} as you cast this spell.)|Flying|When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.	1	2
+Terra Stomper	{3}{G}{G}{G}		Creature	Beast	Terra Stomper can't be countered.|Trample	8	8
+Territorial Baloth	{4}{G}		Creature	Beast	Landfall - Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.	4	4
+Timbermaw Larva	{3}{G}		Creature	Beast	Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.	2	2
+Torch Slinger	{2}{R}		Creature	Goblin,Shaman	Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)|When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.	2	2
+Trailblazer's Boots	{2}		Artifact	Equipment	Equipped creature has nonbasic landwalk. (It can't be blocked as long as defending player controls a nonbasic land.)|Equip {2}		
+Trapfinder's Trick	{1}{U}		Sorcery		Target player reveals his or her hand and discards all Trap cards.		
+Trapmaker's Snare	{1}{U}		Instant		Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.		
+Trusty Machete	{1}		Artifact	Equipment	Equipped creature gets +2/+1.|Equip {2}		
+Tuktuk Grunts	{4}{R}		Creature	Goblin,Warrior,Ally	Haste|Whenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.	2	2
+Turntimber Basilisk	{1}{G}{G}		Creature	Basilisk	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)|Landfall - Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.	2	1
+Turntimber Grove			Land		Turntimber Grove enters the battlefield tapped.|When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.|{T}: Add {G} to your mana pool.		
+Turntimber Ranger	{3}{G}{G}		Creature	Elf,Scout,Ally	Whenever Turntimber Ranger or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on Turntimber Ranger.	2	2
+Umara Raptor	{2}{U}		Creature	Bird,Ally	Flying|Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.	1	1
+Unstable Footing	{R}		Instant		Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)|Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.		
+Valakut, the Molten Pinnacle			Land		Valakut, the Molten Pinnacle enters the battlefield tapped.|Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.|{T}: Add {R} to your mana pool.		
+Vampire Hexmage	{B}{B}		Creature	Vampire,Shaman	First strike|Sacrifice Vampire Hexmage: Remove all counters from target permanent.	2	1
+Vampire Lacerator	{B}		Creature	Vampire,Warrior	At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.	2	2
+Vampire Nighthawk	{1}{B}{B}		Creature	Vampire,Shaman	Flying|Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)|Lifelink (Damage dealt by this creature also causes you to gain that much life.)	2	3
+Vampire's Bite	{B}		Instant		Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)|Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)		
+Vastwood Gorger	{5}{G}		Creature	Wurm		5	6
+Verdant Catacombs			Land		{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.		
+Vines of Vastwood	{G}		Instant		Kicker {G} (You may pay an additional {G} as you cast this spell.)|Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.		
+Warren Instigator	{R}{R}		Creature	Goblin,Berserker	Double strike|Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.	1	1
+Welkin Tern	{1}{U}		Creature	Bird	Flying|Welkin Tern can block only creatures with flying.	2	1
+Whiplash Trap	{3}{U}{U}		Instant	Trap	If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.|Return two target creatures to their owners' hands.		
+Windborne Charge	{2}{W}{W}		Sorcery		Two target creatures you control each get +2/+2 and gain flying until end of turn.		
+Windrider Eel	{3}{U}		Creature	Fish	Flying|Landfall - Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.	2	2
+World Queller	{3}{W}{W}		Creature	Avatar	At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.	4	4
+Zektar Shrine Expedition	{1}{R}		Enchantment		Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition.|Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.		
+Zendikar Farguide	{4}{G}		Creature	Elemental	Forestwalk	3	3

@@ -1,0 +1,374 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abyssal Specter	{2}{B}{B}		Creature	Specter	Flying|Whenever Abyssal Specter deals damage to a player, that player discards a card.	2	3
+Adarkar Sentinel	{5}		Artifact,Creature	Soldier	{1}: Adarkar Sentinel gets +0/+1 until end of turn.	3	3
+Adarkar Unicorn	{1}{W}{W}		Creature	Unicorn	{T}: Add {U} or {1}{U} to your mana pool. Spend this mana only to pay cumulative upkeep costs.	2	2
+Adarkar Wastes			Land		{T}: Add {1} to your mana pool.|{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.		
+Aegis of the Meek	{3}		Artifact		{1}, {T}: Target 1/1 creature gets +1/+2 until end of turn.		
+Aggression	{2}{R}		Enchantment	Aura	Enchant non-Wall creature|Enchanted creature has first strike and trample.|At the beginning of the end step of enchanted creature's controller, destroy that creature if it didn't attack this turn.		
+Altar of Bone	{G}{W}		Sorcery		As an additional cost to cast Altar of Bone, sacrifice a creature.|Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.		
+Amulet of Quoz	{6}		Artifact		Remove Amulet of Quoz from your deck before playing if you're not playing for ante.|{T}, Sacrifice Amulet of Quoz: Target opponent may add the top card of his or her library to the ante. If he or she doesn't, you flip a coin. If you win the flip, that player loses the game. If you lose the flip, you lose the game. Activate this ability only during your upkeep.		
+Anarchy	{2}{R}{R}		Sorcery		Destroy all white permanents.		
+Arctic Foxes	{1}{W}		Creature	Fox	Creatures with power 2 or greater can't block Arctic Foxes as long as defending player controls a snow land.	1	1
+Arcum's Sleigh	{1}		Artifact		{2}, {T}: Target creature gains vigilance until end of turn. Activate this ability only during combat and only if defending player controls a snow land.		
+Arcum's Weathervane	{2}		Artifact		{2}, {T}: Target snow land is no longer snow.|{2}, {T}: Target nonsnow basic land becomes snow.		
+Arcum's Whistle	{3}		Artifact		{3}, {T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay {X}, where X is that creature's converted mana cost. If he or she doesn't, the creature attacks this turn if able, and at the beginning of the next end step, destroy it if it didn't attack. Activate this ability only before attackers are declared.		
+Arenson's Aura	{2}{W}		Enchantment		{W}, Sacrifice an enchantment: Destroy target enchantment.||{3}{U}{U}: Counter target enchantment spell.		
+Armor of Faith	{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1.|{W}: Enchanted creature gets +0/+1 until end of turn.		
+Arnjlot's Ascent	{1}{U}{U}		Enchantment		Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|{1}: Target creature gains flying until end of turn.		
+Ashen Ghoul	{3}{B}		Creature	Zombie	Haste|{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.	3	1
+Aurochs	{3}{G}		Creature	Aurochs	Trample|Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.	2	3
+Avalanche	{X}{2}{R}{R}		Sorcery		Destroy X target snow lands.		
+Balduvian Barbarians	{1}{R}{R}		Creature	Human,Barbarian		3	2
+Balduvian Bears	{1}{G}		Creature	Bear		2	2
+Balduvian Conjurer	{1}{U}		Creature	Human,Wizard	{T}: Target snow land becomes a 2/2 creature until end of turn. It's still a land.	0	2
+Balduvian Hydra	{X}{R}{R}		Creature	Hydra	Balduvian Hydra enters the battlefield with X +1/+0 counters on it.|Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn.|{R}{R}{R}: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep.	0	1
+Balduvian Shaman	{U}		Creature	Human,Cleric,Shaman	{T}: Change the text of target white enchantment you control that doesn't have cumulative upkeep by replacing all instances of one color word with another. (For example, you may change 'black creatures can't attack' to 'blue creatures can't attack.') That enchantment gains 'Cumulative upkeep {1}.' (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)	1	1
+Barbarian Guides	{2}{R}		Creature	Human,Barbarian	{2}{R}, {T}: Choose a land type. Target creature you control gains snow landwalk of the chosen type until end of turn. Return that creature to its owner's hand at the beginning of the next end step.	1	2
+Barbed Sextant	{1}		Artifact		{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.		
+Baton of Morale	{2}		Artifact		{2}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)		
+Battle Cry	{2}{W}		Instant		Untap all white creatures you control.||Whenever a creature blocks this turn, it gets +0/+1 until end of turn.		
+Battle Frenzy	{2}{R}		Instant		Green creatures you control get +1/+1 until end of turn.||Nongreen creatures you control get +1/+0 until end of turn.		
+Binding Grasp	{3}{U}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.|You control enchanted creature.|Enchanted creature gets +0/+1.		
+Black Scarab	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by black creatures.|Enchanted creature gets +2/+2 as long as an opponent controls a black permanent.		
+Blessed Wine	{1}{W}		Instant		You gain 1 life.|Draw a card at the beginning of the next turn's upkeep.		
+Blinking Spirit	{3}{W}		Creature	Spirit	{0}: Return Blinking Spirit to its owner's hand.	2	2
+Blizzard	{G}{G}		Enchantment		Cast Blizzard only if you control a snow land.|Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Creatures with flying don't untap during their controllers' untap steps.		
+Blue Scarab	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by blue creatures.|Enchanted creature gets +2/+2 as long as an opponent controls a blue permanent.		
+Bone Shaman	{2}{R}{R}		Creature	Giant,Shaman	{B}: Until end of turn, Bone Shaman gains 'Creatures dealt damage by Bone Shaman this turn can't be regenerated this turn.'	3	3
+Brainstorm	{U}		Instant		Draw three cards, then put two cards from your hand on top of your library in any order.		
+Brand of Ill Omen	{3}{R}		Enchantment	Aura	Enchant creature|Cumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Enchanted creature's controller can't cast creature spells.		
+Breath of Dreams	{2}{U}{U}		Enchantment		Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Green creatures have 'Cumulative upkeep {1}.'		
+Brine Shaman	{1}{B}		Creature	Human,Cleric,Shaman	{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.|{1}{U}{U}, Sacrifice a creature: Counter target creature spell.	1	1
+Brown Ouphe	{G}		Creature	Ouphe	{1}{G}, {T}: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)	1	1
+Brushland			Land		{T}: Add {1} to your mana pool.|{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.		
+Burnt Offering	{B}		Instant		As an additional cost to cast Burnt Offering, sacrifice a creature.|Add X mana in any combination of {B} and/or {R} to your mana pool, where X is the sacrificed creature's converted mana cost.		
+Call to Arms	{1}{W}		Enchantment		As Call to Arms enters the battlefield, choose a color and an opponent.|White creatures get +1/+1 as long as the chosen color is the most common color among nontoken permanents the chosen player controls but isn't tied for most common.|When the chosen color isn't the most common color among nontoken permanents the chosen player controls or is tied for most common, sacrifice Call to Arms.		
+Caribou Range	{2}{W}{W}		Enchantment	Aura	Enchant land you control|Enchanted land has '{W}{W}, {T}: Put a 0/1 white Caribou creature token onto the battlefield.'|Sacrifice a Caribou token: You gain 1 life.		
+Celestial Sword	{6}		Artifact		{3}, {T}: Target creature you control gets +3/+3 until end of turn. Its controller sacrifices it at the beginning of the next end step.		
+Centaur Archer	{1}{R}{G}		Creature	Centaur,Archer	{T}: Centaur Archer deals 1 damage to target creature with flying.	3	2
+Chaos Lord	{4}{R}{R}{R}		Creature	Human	First strike|At the beginning of your upkeep, target opponent gains control of Chaos Lord if the number of permanents is even.|Chaos Lord can attack as though it had haste unless it entered the battlefield this turn.	7	7
+Chaos Moon	{3}{R}		Enchantment		At the beginning of each upkeep, count the number of permanents. If the number is odd, until end of turn, red creatures get +1/+1 and whenever a player taps a Mountain for mana, that player adds {R} to his or her mana pool (in addition to the mana the land produces). If the number is even, until end of turn, red creatures get -1/-1 and if a player taps a Mountain for mana, that Mountain produces colorless mana instead of any other type.		
+Chromatic Armor	{1}{W}{U}		Enchantment	Aura	Enchant creature|As Chromatic Armor enters the battlefield, choose a color.|Chromatic Armor enters the battlefield with a sleight counter on it.|Prevent all damage that would be dealt to enchanted creature by sources of the last chosen color.|{X}: Put a sleight counter on Chromatic Armor and choose a color. X is the number of sleight counters on Chromatic Armor.		
+Chub Toad	{2}{G}		Creature	Frog	Whenever Chub Toad blocks or becomes blocked, it gets +2/+2 until end of turn.	1	1
+Circle of Protection: Black	{1}{W}		Enchantment		{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: Blue	{1}{W}		Enchantment		{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: Green	{1}{W}		Enchantment		{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: Red	{1}{W}		Enchantment		{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: White	{1}{W}		Enchantment		{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.		
+Clairvoyance	{U}		Instant		Look at target player's hand.||Draw a card at the beginning of the next turn's upkeep.		
+Cloak of Confusion	{1}{B}		Enchantment	Aura	Enchant creature you control|Whenever enchanted creature attacks and isn't blocked, you may have it assign no combat damage this turn. If you do, defending player discards a card at random.		
+Cold Snap	{2}{W}		Enchantment		Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|At the beginning of each player's upkeep, Cold Snap deals damage to that player equal to the number of snow lands he or she controls.		
+Conquer	{3}{R}{R}		Enchantment	Aura	Enchant land|You control enchanted land.		
+Cooperation	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature has banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)		
+Counterspell	{U}{U}		Instant		Counter target spell.		
+Crown of the Ages	{2}		Artifact		{4}, {T}: Attach target Aura attached to a creature to another creature.		
+Curse of Marit Lage	{3}{R}{R}		Enchantment		When Curse of Marit Lage enters the battlefield, tap all Islands.|Islands don't untap during their controllers' untap steps.		
+Dance of the Dead	{1}{B}		Enchantment	Aura	Enchant creature card in a graveyard|When Dance of the Dead enters the battlefield, if it's on the battlefield, it loses 'enchant creature card in a graveyard' and gains 'enchant creature put onto the battlefield with Dance of the Dead.' Return enchanted creature card to the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.|Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step.|At the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If he or she does, untap that creature.		
+Dark Banishing	{2}{B}		Instant		Destroy target nonblack creature. It can't be regenerated.		
+Dark Ritual	{B}		Instant		Add {B}{B}{B} to your mana pool.		
+Death Ward	{W}		Instant		Regenerate target creature.		
+Deflection	{3}{U}		Instant		Change the target of target spell with a single target.		
+Demonic Consultation	{B}		Instant		Name a card. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal the named card. Put that card into your hand and exile all other cards revealed this way.		
+Despotic Scepter	{1}		Artifact		{T}: Destroy target permanent you own. It can't be regenerated.		
+Diabolic Vision	{U}{B}		Sorcery		Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.		
+Dire Wolves	{2}{G}		Creature	Wolf	Dire Wolves has banding as long as you control a Plains. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	2
+Disenchant	{1}{W}		Instant		Destroy target artifact or enchantment.		
+Dread Wight	{3}{B}{B}		Creature	Zombie	At end of combat, put a paralyzation counter on each creature blocking or blocked by Dread Wight and tap those creatures. Each of those creatures doesn't untap during its controller's untap step for as long as it has a paralyzation counter on it. Each of those creatures gains '{4}: Remove a paralyzation counter from this creature.'	3	4
+Dreams of the Dead	{3}{U}		Enchantment		{1}{U}: Return target white or black creature card from your graveyard to the battlefield. That creature gains 'Cumulative upkeep {2}.' If the creature would leave the battlefield, exile it instead of putting it anywhere else. (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)		
+Drift of the Dead	{3}{B}		Creature	Wall	Defender (This creature can't attack.)|Drift of the Dead's power and toughness are each equal to the number of snow lands you control.	*	*
+Drought	{2}{W}{W}		Enchantment		At the beginning of your upkeep, sacrifice Drought unless you pay {W}{W}.|Spells cost an additional 'Sacrifice a Swamp' to cast for each black mana symbol in their mana costs.|Activated abilities cost an additional 'Sacrifice a Swamp' to activate for each black mana symbol in their activation costs.		
+Dwarven Armory	{2}{R}{R}		Enchantment		{2}, Sacrifice a land: Put a +2/+2 counter on target creature. Activate this ability only during any upkeep step.		
+Earthlink	{3}{B}{R}{G}		Enchantment		At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.|Whenever a creature dies, that creature's controller sacrifices a land.		
+Earthlore	{G}		Enchantment	Aura	Enchant land you control|Tap enchanted land: Target blocking creature gets +1/+2 until end of turn. Activate this ability only if enchanted land is untapped.		
+Elder Druid	{3}{G}		Creature	Elf,Cleric,Druid	{3}{G}, {T}: You may tap or untap target artifact, creature, or land.	2	2
+Elemental Augury	{U}{B}{R}		Enchantment		{3}: Look at the top three cards of target player's library, then put them back in any order.		
+Elkin Bottle	{3}		Artifact		{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.		
+Elvish Healer	{2}{W}		Creature	Elf,Cleric	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. If that creature is green, prevent the next 2 damage instead.	1	2
+Enduring Renewal	{2}{W}{W}		Enchantment		Play with your hand revealed.|If you would draw a card, reveal the top card of your library instead. If it's a creature card, put it into your graveyard. Otherwise, draw a card.|Whenever a creature is put into your graveyard from the battlefield, return it to your hand.		
+Energy Storm	{1}{W}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Prevent all damage that would be dealt by instant and sorcery spells.|Creatures with flying don't untap during their controllers' untap steps.		
+Enervate	{1}{U}		Instant		Tap target artifact, creature, or land.||Draw a card at the beginning of the next turn's upkeep.		
+Errant Minion	{2}{U}		Enchantment	Aura	Enchant creature|At the beginning of the upkeep of enchanted creature's controller, that player may pay any amount of mana. Errant Minion deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way.		
+Errantry	{1}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+0 and can only attack alone.		
+Essence Filter	{1}{G}{G}		Sorcery		Destroy all enchantments or all nonwhite enchantments.		
+Essence Flare	{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+0.|At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.		
+Essence Vortex	{1}{U}{B}		Instant		Destroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can't be regenerated.		
+Fanatical Fever	{2}{G}{G}		Instant		Target creature gets +3/+0 and gains trample until end of turn.		
+Fear	{B}{B}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)		
+Fiery Justice	{R}{G}{W}		Sorcery		Fiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life.		
+Fire Covenant	{1}{B}{R}		Instant		As an additional cost to cast Fire Covenant, pay X life.|Fire Covenant deals X damage divided as you choose among any number of target creatures.		
+Flame Spirit	{4}{R}		Creature	Elemental,Spirit	{R}: Flame Spirit gets +1/+0 until end of turn.	2	3
+Flare	{2}{R}		Instant		Flare deals 1 damage to target creature or player.||Draw a card at the beginning of the next turn's upkeep.		
+Flooded Woodlands	{2}{U}{B}		Enchantment		Green creatures can't attack unless their controller sacrifices a land for each green creature he or she controls that's attacking. (This cost is paid as attackers are declared.)		
+Flow of Maggots	{2}{B}		Creature	Insect	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Flow of Maggots can't be blocked by non-Wall creatures.	2	2
+Folk of the Pines	{4}{G}		Creature	Dryad	{1}{G}: Folk of the Pines gets +1/+0 until end of turn.	2	5
+Forbidden Lore	{2}{G}		Enchantment	Aura	Enchant land|Enchanted land has '{T}: Target creature gets +2/+1 until end of turn.'		
+Force Void	{2}{U}		Instant		Counter target spell unless its controller pays {1}.||Draw a card at the beginning of the next turn's upkeep.		
+Forest		Basic	Land	Forest	G		
+Forgotten Lore	{G}		Sorcery		Target opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.		
+Formation	{1}{W}		Instant		Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)|Draw a card at the beginning of the next turn's upkeep.		
+Foul Familiar	{2}{B}		Creature	Spirit	Foul Familiar can't block.|{B}, Pay 1 life: Return Foul Familiar to its owner's hand.	3	1
+Foxfire	{2}{G}		Instant		Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.|Draw a card at the beginning of the next turn's upkeep.		
+Freyalise Supplicant	{1}{G}		Creature	Human,Cleric	{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature's power, rounded down.	1	1
+Freyalise's Charm	{G}{G}		Enchantment		Whenever an opponent casts a black spell, you may pay {G}{G}. If you do, you draw a card.|{G}{G}: Return Freyalise's Charm to its owner's hand.		
+Freyalise's Winds	{2}{G}{G}		Enchantment		Whenever a permanent becomes tapped, put a wind counter on it.|If a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead.		
+Fumarole	{3}{B}{R}		Sorcery		As an additional cost to cast Fumarole, pay 3 life.|Destroy target creature and target land.		
+Fylgja	{W}		Enchantment	Aura	Enchant creature|Fylgja enters the battlefield with four healing counters on it.|Remove a healing counter from Fylgja: Prevent the next 1 damage that would be dealt to enchanted creature this turn.|{2}{W}: Put a healing counter on Fylgja.		
+Fyndhorn Bow	{2}		Artifact		{3}, {T}: Target creature gains first strike until end of turn.		
+Fyndhorn Brownie	{2}{G}		Creature	Ouphe	{2}{G}, {T}: Untap target creature.	1	1
+Fyndhorn Elder	{2}{G}		Creature	Elf,Druid	{T}: Add {G}{G} to your mana pool.	1	1
+Fyndhorn Elves	{G}		Creature	Elf,Druid	{T}: Add {G} to your mana pool.	1	1
+Fyndhorn Pollen	{2}{G}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|All creatures get -1/-0.|{1}{G}: All creatures get -1/-0 until end of turn.		
+Game of Chaos	{R}{R}{R}		Sorcery		Flip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.		
+Gangrenous Zombies	{1}{B}{B}		Creature	Zombie	{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.	2	2
+Gaze of Pain	{1}{B}		Sorcery		Until end of turn, whenever a creature you control attacks and isn't blocked, you may choose to have it deal damage equal to its power to a target creature. If you do, it assigns no combat damage this turn.		
+General Jarkeld	{3}{W}	Legendary	Creature	Human,Soldier	{T}: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step.	1	2
+Ghostly Flame	{B}{R}		Enchantment		Black and/or red permanents and spells are colorless sources of damage.		
+Giant Growth	{G}		Instant		Target creature gets +3/+3 until end of turn.		
+Giant Trap Door Spider	{1}{R}{G}		Creature	Spider	{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.	2	3
+Glacial Chasm			Land		Cumulative upkeep-Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|When Glacial Chasm enters the battlefield, sacrifice a land.|Creatures you control can't attack.|Prevent all damage that would be dealt to you.		
+Glacial Crevasses	{2}{R}		Enchantment		Sacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn.		
+Glacial Wall	{2}{U}		Creature	Wall	Defender (This creature can't attack.)	0	7
+Glaciers	{2}{W}{U}		Enchantment		At the beginning of your upkeep, sacrifice Glaciers unless you pay {W}{U}.||All Mountains are Plains.		
+Goblin Lyre	{3}		Artifact		Sacrifice Goblin Lyre: Flip a coin. If you win the flip, Goblin Lyre deals damage to target opponent equal to the number of creatures you control. If you lose the flip, Goblin Lyre deals damage to you equal to the number of creatures that opponent controls.		
+Goblin Mutant	{2}{R}{R}		Creature	Goblin,Mutant	Trample|Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.|Goblin Mutant can't block creatures with power 3 or greater.	5	3
+Goblin Sappers	{1}{R}		Creature	Goblin	{R}{R}, {T}: Target creature you control can't be blocked this turn. Destroy it and Goblin Sappers at end of combat.|{R}{R}{R}{R}, {T}: Target creature you control can't be blocked this turn. Destroy it at end of combat.	1	1
+Goblin Ski Patrol	{1}{R}		Creature	Goblin	{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.	1	1
+Goblin Snowman	{3}{R}		Creature	Goblin	Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.|{T}: Goblin Snowman deals 1 damage to target creature it's blocking.	1	1
+Gorilla Pack	{2}{G}		Creature	Ape	Gorilla Pack can't attack unless defending player controls a Forest.||When you control no Forests, sacrifice Gorilla Pack.	3	3
+Gravebind	{B}		Instant		Target creature can't be regenerated this turn.||Draw a card at the beginning of the next turn's upkeep.		
+Green Scarab	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by green creatures.|Enchanted creature gets +2/+2 as long as an opponent controls a green permanent.		
+Grizzled Wolverine	{1}{R}{R}		Creature	Wolverine	{R}: Grizzled Wolverine gets +2/+0 until end of turn. Activate this ability only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn.	2	2
+Hallowed Ground	{1}{W}		Enchantment		{W}{W}: Return target nonsnow land you control to its owner's hand.		
+Halls of Mist			Land		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Creatures that attacked during their controller's last turn can't attack.		
+Heal	{W}		Instant		Prevent the next 1 damage that would be dealt to target creature or player this turn.||Draw a card at the beginning of the next turn's upkeep.		
+Hecatomb	{1}{B}{B}		Enchantment		When Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.|Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.		
+Hematite Talisman	{2}		Artifact		Whenever a player casts a red spell, you may pay {3}. If you do, untap target permanent.		
+Hipparion	{1}{W}		Creature	Horse	Hipparion can't block creatures with power 3 or greater unless you pay {1}.	1	3
+Hoar Shade	{3}{B}		Creature	Shade	{B}: Hoar Shade gets +1/+1 until end of turn.	1	2
+Hot Springs	{1}{G}		Enchantment	Aura	Enchant land you control|Enchanted land has '{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.'		
+Howl from Beyond	{X}{B}		Instant		Target creature gets +X/+0 until end of turn.		
+Hurricane	{X}{G}		Sorcery		Hurricane deals X damage to each creature with flying and each player.		
+Hyalopterous Lemure	{4}{B}		Creature	Spirit	{0}: Hyalopterous Lemure gets -1/-0 and gains flying until end of turn.	4	3
+Hydroblast	{U}		Instant		Choose one - Counter target spell if it's red; or destroy target permanent if it's red.		
+Hymn of Rebirth	{3}{G}{W}		Sorcery		Put target creature card from a graveyard onto the battlefield under your control.		
+Ice Cauldron	{4}		Artifact		{X}, {T}: Put a charge counter on Ice Cauldron and exile a nonland card from your hand. You may cast that card for as long as it remains exiled. Note the type and amount of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Ice Cauldron.|{T}, Remove a charge counter from Ice Cauldron: Add Ice Cauldron's last noted type and amount of mana to your mana pool. Spend this mana only to cast the last card exiled with Ice Cauldron.		
+Ice Floe			Land		You may choose not to untap Ice Floe during your untap step.|{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.		
+Iceberg	{X}{U}{U}		Enchantment		Iceberg enters the battlefield with X ice counters on it.|{3}: Put an ice counter on Iceberg.|Remove an ice counter from Iceberg: Add {1} to your mana pool.		
+Icequake	{1}{B}{B}		Sorcery		Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller.		
+Icy Manipulator	{4}		Artifact		{1}, {T}: Tap target artifact, creature, or land.		
+Icy Prison	{U}{U}		Enchantment		When Icy Prison enters the battlefield, exile target creature.|At the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}.|When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control.		
+Illusionary Forces	{3}{U}		Creature	Illusion	Flying|Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	4	4
+Illusionary Presence	{1}{U}{U}		Creature	Illusion	Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|At the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn.	2	2
+Illusionary Terrain	{U}{U}		Enchantment		Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|As Illusionary Terrain enters the battlefield, choose two basic land types.|Basic lands of the first chosen type are the second chosen type.		
+Illusionary Wall	{4}{U}		Creature	Illusion,Wall	Defender, flying, first strike|Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	7	4
+Illusions of Grandeur	{3}{U}		Enchantment		Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|When Illusions of Grandeur enters the battlefield, you gain 20 life.|When Illusions of Grandeur leaves the battlefield, you lose 20 life.		
+Imposing Visage	{R}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked except by two or more creatures.		
+Incinerate	{1}{R}		Instant		Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.		
+Infernal Darkness	{2}{B}{B}		Enchantment		Cumulative upkeep-Pay {B} and 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|If a land is tapped for mana, it produces {B} instead of any other type.		
+Infernal Denizen	{7}{B}		Creature	Demon	At the beginning of your upkeep, sacrifice two Swamps. If you can't, tap Infernal Denizen, and an opponent may gain control of a creature you control of his or her choice for as long as Infernal Denizen remains on the battlefield.|{T}: Gain control of target creature for as long as Infernal Denizen remains on the battlefield.	5	7
+Infinite Hourglass	{4}		Artifact		At the beginning of your upkeep, put a time counter on Infinite Hourglass.|All creatures get +1/+0 for each time counter on Infinite Hourglass.|{3}: Remove a time counter from Infinite Hourglass. Any player may activate this ability but only during any upkeep step.		
+Infuse	{2}{U}		Instant		Untap target artifact, creature, or land.||Draw a card at the beginning of the next turn's upkeep.		
+Island		Basic	Land	Island	U		
+Jester's Cap	{4}		Artifact		{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.		
+Jester's Mask	{5}		Artifact		Jester's Mask enters the battlefield tapped.|{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.		
+Jeweled Amulet	{0}		Artifact		{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.|{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.		
+Johtull Wurm	{5}{G}		Creature	Wurm	Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.	6	6
+Jokulhaups	{4}{R}{R}		Sorcery		Destroy all artifacts, creatures, and lands. They can't be regenerated.		
+Juniper Order Druid	{2}{G}		Creature	Human,Cleric,Druid	{T}: Untap target land.	1	1
+Justice	{2}{W}{W}		Enchantment		At the beginning of your upkeep, sacrifice Justice unless you pay {W}{W}.||Whenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller.		
+Karplusan Forest			Land		{T}: Add {1} to your mana pool.|{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.		
+Karplusan Giant	{6}{R}		Creature	Giant	Tap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn.	3	3
+Karplusan Yeti	{3}{R}{R}		Creature	Yeti	{T}: Karplusan Yeti deals damage equal to its power to target creature. That creature deals damage equal to its power to Karplusan Yeti.	3	3
+Kelsinko Ranger	{W}		Creature	Human	{1}{W}: Target green creature gains first strike until end of turn.	1	1
+Kjeldoran Dead	{B}		Creature	Skeleton	When Kjeldoran Dead enters the battlefield, sacrifice a creature.|{B}: Regenerate Kjeldoran Dead.	3	1
+Kjeldoran Elite Guard	{3}{W}		Creature	Human,Soldier	{T}: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat.	2	2
+Kjeldoran Frostbeast	{3}{G}{W}		Creature	Elemental,Beast	At end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast.	2	4
+Kjeldoran Guard	{1}{W}		Creature	Human,Soldier	{T}: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this ability only during combat and only if defending player controls no snow lands.	1	1
+Kjeldoran Knight	{W}{W}		Creature	Human,Knight	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)|{1}{W}: Kjeldoran Knight gets +1/+0 until end of turn.|{W}{W}: Kjeldoran Knight gets +0/+2 until end of turn.	1	1
+Kjeldoran Phalanx	{5}{W}		Creature	Human,Soldier	First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	5
+Kjeldoran Royal Guard	{3}{W}{W}		Creature	Human,Soldier	{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.	2	5
+Kjeldoran Skycaptain	{4}{W}		Creature	Human,Soldier	Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	2
+Kjeldoran Skyknight	{2}{W}		Creature	Human,Knight	Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	1	1
+Kjeldoran Warrior	{W}		Creature	Human,Warrior	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	1	1
+Knight of Stromgald	{B}{B}		Creature	Human,Knight	Protection from white|{B}: Knight of Stromgald gains first strike until end of turn.|{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.	2	1
+Krovikan Elementalist	{B}{B}		Creature	Human,Wizard	{2}{R}: Target creature gets +1/+0 until end of turn.|{U}{U}: Target creature you control gains flying until end of turn. Sacrifice it at the beginning of the next end step.	1	1
+Krovikan Fetish	{2}{B}		Enchantment	Aura	Enchant creature|When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.|Enchanted creature gets +1/+1.		
+Krovikan Sorcerer	{2}{U}		Creature	Human,Wizard	{T}, Discard a nonblack card: Draw a card.|{T}, Discard a black card: Draw two cards, then discard one of them.	1	1
+Krovikan Vampire	{3}{B}{B}		Creature	Vampire	At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.	3	3
+Land Cap			Land		Land Cap doesn't untap during your untap step if it has a depletion counter on it.|At the beginning of your upkeep, remove a depletion counter from Land Cap.|{T}: Add {W} or {U} to your mana pool. Put a depletion counter on Land Cap.		
+Lapis Lazuli Talisman	{2}		Artifact		Whenever a player casts a blue spell, you may pay {3}. If you do, untap target permanent.		
+Lava Burst	{X}{R}		Sorcery		Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.		
+Lava Tubes			Land		Lava Tubes doesn't untap during your untap step if it has a depletion counter on it.|At the beginning of your upkeep, remove a depletion counter from Lava Tubes.|{T}: Add {B} or {R} to your mana pool. Put a depletion counter on Lava Tubes.		
+Legions of Lim-Dûl	{1}{B}{B}		Creature	Zombie	Snow swampwalk	2	3
+Leshrac's Rite	{B}		Enchantment	Aura	Enchant creature|Enchanted creature has swampwalk.		
+Leshrac's Sigil	{B}{B}		Enchantment		Whenever an opponent casts a green spell, you may pay {B}{B}. If you do, look at that player's hand and choose a card from it. The player discards that card.|{B}{B}: Return Leshrac's Sigil to its owner's hand.		
+Lhurgoyf	{2}{G}{G}		Creature	Lhurgoyf	Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.		
+Lightning Blow	{1}{W}		Instant		Target creature gains first strike until end of turn.||Draw a card at the beginning of the next turn's upkeep.		
+Lim-Dûl's Cohort	{1}{B}{B}		Creature	Zombie	Whenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.	2	3
+Lim-Dûl's Hex	{1}{B}		Enchantment		At the beginning of your upkeep, for each player, Lim-Dûl's Hex deals 1 damage to that player unless he or she pays {B} or {3}.		
+Lost Order of Jarkeld	{2}{W}{W}		Creature	Human,Knight	As Lost Order of Jarkeld enters the battlefield, choose an opponent.|Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls.		
+Lure	{1}{G}{G}		Enchantment	Aura	Enchant creature|All creatures able to block enchanted creature do so.		
+Maddening Wind	{2}{G}		Enchantment	Aura	Enchant creature|Cumulative upkeep {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|At the beginning of the upkeep of enchanted creature's controller, Maddening Wind deals 2 damage to that player.		
+Magus of the Unseen	{1}{U}		Creature	Human,Wizard	{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.	1	1
+Malachite Talisman	{2}		Artifact		Whenever a player casts a green spell, you may pay {3}. If you do, untap target permanent.		
+Márton Stromgald	{2}{R}{R}	Legendary	Creature	Human,Knight	Whenever Márton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Márton Stromgald.|Whenever Márton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Márton Stromgald.	1	1
+Melee	{4}{R}		Instant		Cast Melee only during your turn and only during combat before blockers are declared.|You choose which creatures block this combat and how those creatures block.|Whenever a creature attacks and isn't blocked this combat, untap it and remove it from combat.		
+Melting	{3}{R}		Enchantment		All lands are no longer snow.		
+Mercenaries	{3}{W}		Creature	Human,Mercenary	{3}: The next time Mercenaries would deal damage to you this turn, prevent that damage. Any player may activate this ability.	3	3
+Merieke Ri Berit	{W}{U}{B}	Legendary	Creature	Human	Merieke Ri Berit doesn't untap during your untap step.|{T}: Gain control of target creature for as long as you control Merieke Ri Berit. When Merieke Ri Berit leaves the battlefield or becomes untapped, destroy that creature. It can't be regenerated.	1	1
+Mesmeric Trance	{1}{U}{U}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|{U}, Discard a card: Draw a card.		
+Meteor Shower	{X}{X}{R}		Sorcery		Meteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.		
+Mind Ravel	{2}{B}		Sorcery		Target player discards a card.|Draw a card at the beginning of the next turn's upkeep.		
+Mind Warp	{X}{3}{B}		Sorcery		Look at target player's hand and choose X cards from it. That player discards those cards.		
+Mind Whip	{2}{B}{B}		Enchantment	Aura	Enchant creature|At the beginning of the upkeep of enchanted creature's controller, that player may pay {3}. If he or she doesn't, Mind Whip deals 2 damage to that player and you tap that creature.		
+Minion of Leshrac	{4}{B}{B}{B}		Creature	Demon,Minion	Protection from black|At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.|{T}: Destroy target creature or land.	5	5
+Minion of Tevesh Szat	{4}{B}{B}{B}		Creature	Demon,Minion	At the beginning of your upkeep, Minion of Tevesh Szat deals 2 damage to you unless you pay {B}{B}.|{T}: Target creature gets +3/-2 until end of turn.	4	4
+Mistfolk	{U}{U}		Creature	Illusion	{U}: Counter target spell that targets Mistfolk.	1	2
+Mole Worms	{2}{B}		Creature	Worm	You may choose not to untap Mole Worms during your untap step.|{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mole Worms remains tapped.	1	1
+Monsoon	{2}{R}{G}		Enchantment		At the beginning of each player's end step, tap all untapped Islands that player controls and Monsoon deals X damage to the player, where X is the number of Islands tapped this way.		
+Moor Fiend	{3}{B}		Creature	Horror	Swampwalk	3	3
+Mountain		Basic	Land	Mountain	R		
+Mountain Goat	{R}		Creature	Goat	Mountainwalk	1	1
+Mountain Titan	{2}{B}{R}		Creature	Giant	{1}{R}{R}: Until end of turn, whenever you cast a black spell, put a +1/+1 counter on Mountain Titan.	2	2
+Mudslide	{2}{R}		Enchantment		Creatures without flying don't untap during their controllers' untap steps.|At the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.		
+Musician	{2}{U}		Creature	Human,Wizard	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|{T}: Put a music counter on target creature. If it doesn't have 'At the beginning of your upkeep, destroy this creature unless you pay {1} for each music counter on it,' it gains that ability.	1	3
+Mystic Might	{U}		Enchantment	Aura	Enchant land you control|Cumulative upkeep {1}{U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Enchanted land has '{T}: Target creature gets +2/+2 until end of turn.'		
+Mystic Remora	{U}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Whenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}.		
+Nacre Talisman	{2}		Artifact		Whenever a player casts a white spell, you may pay {3}. If you do, untap target permanent.		
+Naked Singularity	{5}		Artifact		Cumulative upkeep {3} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|If tapped for mana, Plains produce {R}, Islands produce {G}, Swamps produce {W}, Mountains produce {U}, and Forests produce {B} instead of any other type.		
+Nature's Lore	{1}{G}		Sorcery		Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.		
+Necropotence	{B}{B}{B}		Enchantment		Skip your draw step.|Whenever you discard a card, exile that card from your graveyard.|Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.		
+Norritt	{3}{B}		Creature	Imp	{T}: Untap target blue creature.|{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only before attackers are declared.	1	1
+Oath of Lim-Dûl	{3}{B}		Enchantment		Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. (Damage dealt to you causes you to lose life.)|{B}{B}: Draw a card.		
+Onyx Talisman	{2}		Artifact		Whenever a player casts a black spell, you may pay {3}. If you do, untap target permanent.		
+Orcish Cannoneers	{1}{R}{R}		Creature	Orc,Warrior	{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.	1	3
+Orcish Conscripts	{R}		Creature	Orc	Orcish Conscripts can't attack unless at least two other creatures attack.||Orcish Conscripts can't block unless at least two other creatures block.	2	2
+Orcish Farmer	{1}{R}{R}		Creature	Orc	{T}: Target land becomes a Swamp until its controller's next untap step.	2	2
+Orcish Healer	{R}{R}		Creature	Orc,Cleric	{R}{R}, {T}: Target creature can't be regenerated this turn.|{B}{B}{R}, {T}: Regenerate target black or green creature.|{R}{G}{G}, {T}: Regenerate target black or green creature.	1	1
+Orcish Librarian	{1}{R}		Creature	Orc	{R}, {T}: Look at the top eight cards of your library. Exile four of them at random, then put the rest on top of your library in any order.	1	1
+Orcish Lumberjack	{R}		Creature	Orc	{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.	1	1
+Orcish Squatters	{4}{R}		Creature	Orc	Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.	2	3
+Order of the Sacred Torch	{1}{W}{W}		Creature	Human,Knight	{T}, Pay 1 life: Counter target black spell.	2	2
+Order of the White Shield	{W}{W}		Creature	Human,Knight	Protection from black|{W}: Order of the White Shield gains first strike until end of turn.|{W}{W}: Order of the White Shield gets +1/+0 until end of turn.	2	1
+Pale Bears	{2}{G}		Creature	Bear	Islandwalk	2	2
+Panic	{R}		Instant		Cast Panic only during combat before blockers are declared.|Target creature can't block this turn.|Draw a card at the beginning of the next turn's upkeep.		
+Pentagram of the Ages	{4}		Artifact		{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.		
+Pestilence Rats	{2}{B}		Creature	Rat	Pestilence Rats's power is equal to the number of other Rats on the battlefield. (For example, as long as there are two other Rats on the battlefield, Pestilence Rats's power and toughness are 2/3.)	*	3
+Phantasmal Mount	{1}{U}		Creature	Illusion,Horse	Flying|{T}: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves the battlefield this turn, sacrifice that creature. When the creature leaves the battlefield this turn, sacrifice Phantasmal Mount.	1	1
+Pit Trap	{2}		Artifact		{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated.		
+Plains		Basic	Land	Plains	W		
+Polar Kraken	{8}{U}{U}{U}		Creature	Kraken	Trample|Polar Kraken enters the battlefield tapped.|Cumulative upkeep-Sacrifice a land. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	11	11
+Portent	{U}		Sorcery		Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.|Draw a card at the beginning of the next turn's upkeep.		
+Power Sink	{X}{U}		Instant		Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.		
+Pox	{B}{B}{B}		Sorcery		Each player loses a third of his or her life, then discards a third of the cards in his or her hand, then sacrifices a third of the creatures he or she controls, then sacrifices a third of the lands he or she controls. Round up each time.		
+Prismatic Ward	{1}{W}		Enchantment	Aura	Enchant creature|As Prismatic Ward enters the battlefield, choose a color.|Prevent all damage that would be dealt to enchanted creature by sources of the chosen color.		
+Pygmy Allosaurus	{2}{G}		Creature	Lizard	Swampwalk	2	2
+Pyknite	{2}{G}		Creature	Ouphe	When Pyknite enters the battlefield, draw a card at the beginning of the next turn's upkeep.	1	1
+Pyroblast	{R}		Instant		Choose one - Counter target spell if it's blue; or destroy target permanent if it's blue.		
+Pyroclasm	{1}{R}		Sorcery		Pyroclasm deals 2 damage to each creature.		
+Rally	{W}{W}		Instant		Blocking creatures get +1/+1 until end of turn.		
+Ray of Command	{3}{U}		Instant		Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.		
+Ray of Erasure	{U}		Instant		Target player puts the top card of his or her library into his or her graveyard.|Draw a card at the beginning of the next turn's upkeep.		
+Reality Twist	{U}{U}{U}		Enchantment		Cumulative upkeep {1}{U}{U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|If tapped for mana, Plains produce {R}, Swamps produce {G}, Mountains produce {W}, and Forests produce {B} instead of any other type.		
+Reclamation	{2}{G}{W}		Enchantment		Black creatures can't attack unless their controller sacrifices a land for each black creature he or she controls that's attacking. (This cost is paid as attackers are declared.)		
+Red Scarab	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by red creatures.|Enchanted creature gets +2/+2 as long as an opponent controls a red permanent.		
+Regeneration	{1}{G}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)		
+Rime Dryad	{G}		Creature	Dryad	Snow forestwalk	1	2
+Ritual of Subdual	{4}{G}{G}		Enchantment		Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|If a land is tapped for mana, it produces colorless mana instead of any other type.		
+River Delta			Land		River Delta doesn't untap during your untap step if it has a depletion counter on it.|At the beginning of your upkeep, remove a depletion counter from River Delta.|{T}: Add {U} or {B} to your mana pool. Put a depletion counter on River Delta.		
+Runed Arch	{3}		Artifact		Runed Arch enters the battlefield tapped.|{X}, {T}, Sacrifice Runed Arch: X target creatures with power 2 or less can't be blocked this turn.		
+Sabretooth Tiger	{2}{R}		Creature	Cat	First strike	2	1
+Sacred Boon	{1}{W}		Instant		Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.		
+Scaled Wurm	{7}{G}		Creature	Wurm		7	6
+Sea Spirit	{4}{U}		Creature	Elemental,Spirit	{U}: Sea Spirit gets +1/+0 until end of turn.	2	3
+Seizures	{1}{B}		Enchantment	Aura	Enchant creature|Whenever enchanted creature becomes tapped, Seizures deals 3 damage to that creature's controller unless that player pays {3}.		
+Seraph	{6}{W}		Creature	Angel	Flying|Whenever a creature dealt damage by Seraph this turn dies, put that card onto the battlefield under your control at the beginning of the next end step. Sacrifice the creature when you lose control of Seraph.	4	4
+Shambling Strider	{4}{G}{G}		Creature	Yeti	{R}{G}: Shambling Strider gets +1/-1 until end of turn.	5	5
+Shatter	{1}{R}		Instant		Destroy target artifact.		
+Shield Bearer	{1}{W}		Creature	Human,Soldier	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	0	3
+Shield of the Ages	{2}		Artifact		{2}: Prevent the next 1 damage that would be dealt to you this turn.		
+Shyft	{4}{U}		Creature	Shapeshifter	At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. (This effect lasts indefinitely.)	4	2
+Sibilant Spirit	{5}{U}		Creature	Spirit	Flying|Whenever Sibilant Spirit attacks, defending player may draw a card.	5	6
+Silver Erne	{3}{U}		Creature	Bird	Flying, trample	2	2
+Skeleton Ship	{3}{U}{B}	Legendary	Creature	Skeleton	When you control no Islands, sacrifice Skeleton Ship.|{T}: Put a -1/-1 counter on target creature.	0	3
+Skull Catapult	{4}		Artifact		{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.		
+Sleight of Mind	{U}		Instant		Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change 'target black spell' to 'target blue spell.' This effect lasts indefinitely.)		
+Snow Devil	{1}{U}		Enchantment	Aura	Enchant creature|Enchanted creature has flying.|Enchanted creature has first strike as long as it's blocking and you control a snow land.		
+Snow Fortress	{5}		Artifact,Creature	Wall	Defender (This creature can't attack.)|{1}: Snow Fortress gets +1/+0 until end of turn.|{1}: Snow Fortress gets +0/+1 until end of turn.|{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.	0	4
+Snow Hound	{2}{W}		Creature	Hound	{1}, {T}: Return Snow Hound and target green or blue creature you control to their owner's hand.	1	1
+Snowblind	{3}{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets -X/-Y. If that creature is attacking, X is the number of snow lands defending player controls. Otherwise, X is the number of snow lands its controller controls. Y is equal to X or to enchanted creature's toughness minus 1, whichever is smaller.		
+Snow-Covered Forest		Basic	Snow,Land	Forest	G		
+Snow-Covered Island		Basic	Snow,Land	Island	U		
+Snow-Covered Mountain		Basic	Snow,Land	Mountain	R		
+Snow-Covered Plains		Basic	Snow,Land	Plains	W		
+Snow-Covered Swamp		Basic	Snow,Land	Swamp	B		
+Snowfall	{2}{U}		Enchantment		Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Whenever an Island is tapped for mana, its controller may add {U} to his or her mana pool (in addition to the mana the land produces). If that Island is snow, its controller may add {U}{U} to his or her mana pool instead. Spend this mana only to pay cumulative upkeep costs.		
+Soldevi Golem	{4}		Artifact,Creature	Golem	Soldevi Golem doesn't untap during your untap step.|At the beginning of your upkeep, you may untap target tapped creature an opponent controls. If you do, untap Soldevi Golem.	5	3
+Soldevi Machinist	{1}{U}		Creature	Human,Wizard,Artificer	{T}: Add {2} to your mana pool. Spend this mana only to activate abilities of artifacts.	1	1
+Soldevi Simulacrum	{4}		Artifact,Creature	Soldier	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|{1}: Soldevi Simulacrum gets +1/+0 until end of turn.	2	4
+Songs of the Damned	{B}		Instant		Add {B} to your mana pool for each creature card in your graveyard.		
+Soul Barrier	{2}{U}		Enchantment		Whenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless he or she pays {2}.		
+Soul Burn	{X}{2}{B}		Sorcery		Spend only black and/or red mana on X.|Soul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.		
+Soul Kiss	{2}{B}		Enchantment	Aura	Enchant creature|{B}, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn.		
+Spectral Shield	{1}{W}{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +0/+2 and can't be the target of spells.		
+Spoils of Evil	{2}{B}		Instant		For each artifact or creature card in target opponent's graveyard, add {1} to your mana pool and you gain 1 life.		
+Spoils of War	{X}{B}		Sorcery		X is the number of artifact and/or creature cards in an opponent's graveyard as you cast Spoils of War.|Distribute X +1/+1 counters among any number of target creatures.		
+Staff of the Ages	{3}		Artifact		Creatures with landwalk abilities can be blocked as though they didn't have those abilities.		
+Stampede	{1}{G}{G}		Instant		Attacking creatures get +1/+0 and gain trample until end of turn.		
+Stench of Evil	{2}{B}{B}		Sorcery		Destroy all Plains. For each land destroyed this way, Stench of Evil deals 1 damage to that land's controller unless he or she pays {2}.		
+Stone Rain	{2}{R}		Sorcery		Destroy target land.		
+Stone Spirit	{4}{R}		Creature	Elemental,Spirit	Stone Spirit can't be blocked by creatures with flying.	4	3
+Stonehands	{2}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +0/+2.|{R}: Enchanted creature gets +1/+0 until end of turn.		
+Storm Spirit	{3}{G}{W}{U}		Creature	Elemental,Spirit	Flying|{T}: Storm Spirit deals 2 damage to target creature.	3	3
+Stormbind	{1}{R}{G}		Enchantment		{2}, Discard a card at random: Stormbind deals 2 damage to target creature or player.		
+Stromgald Cabal	{1}{B}{B}		Creature	Human,Knight	{T}, Pay 1 life: Counter target white spell.	2	2
+Stunted Growth	{3}{G}{G}		Sorcery		Target player chooses three cards from his or her hand and puts them on top of his or her library in any order.		
+Sulfurous Springs			Land		{T}: Add {1} to your mana pool.|{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.		
+Sunstone	{3}		Artifact		{2}, Sacrifice a snow land: Prevent all combat damage that would be dealt this turn.		
+Swamp		Basic	Land	Swamp	B		
+Swords to Plowshares	{W}		Instant		Exile target creature. Its controller gains life equal to its power.		
+Tarpan	{G}		Creature	Horse	When Tarpan dies, you gain 1 life.	1	1
+Thermokarst	{1}{G}{G}		Sorcery		Destroy target land. If that land was a snow land, you gain 1 life.		
+Thoughtleech	{G}{G}		Enchantment		Whenever an Island an opponent controls becomes tapped, you may gain 1 life.		
+Thunder Wall	{1}{U}{U}		Creature	Wall	Defender (This creature can't attack.)|Flying|{U}: Thunder Wall gets +1/+1 until end of turn.	0	2
+Timberline Ridge			Land		Timberline Ridge doesn't untap during your untap step if it has a depletion counter on it.|At the beginning of your upkeep, remove a depletion counter from Timberline Ridge.|{T}: Add {R} or {G} to your mana pool. Put a depletion counter on Timberline Ridge.		
+Time Bomb	{4}		Artifact		At the beginning of your upkeep, put a time counter on Time Bomb.|{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.		
+Tinder Wall	{G}		Creature	Plant,Wall	Defender (This creature can't attack.)|Sacrifice Tinder Wall: Add {R}{R} to your mana pool.|{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.	0	3
+Tor Giant	{3}{R}		Creature	Giant		3	3
+Total War	{3}{R}		Enchantment		Whenever a player attacks with one or more creatures, destroy all untapped non-Wall creatures that player controls that didn't attack, except for creatures the player hasn't controlled continuously since the beginning of the turn.		
+Touch of Death	{2}{B}		Sorcery		Touch of Death deals 1 damage to target player. You gain 1 life.||Draw a card at the beginning of the next turn's upkeep.		
+Touch of Vitae	{2}{G}		Instant		Until end of turn, target creature gains haste and '{0}: Untap this creature. Activate this ability only once.'|Draw a card at the beginning of the next turn's upkeep.		
+Trailblazer	{2}{G}{G}		Instant		Target creature can't be blocked this turn.		
+Underground River			Land		{T}: Add {1} to your mana pool.|{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.		
+Updraft	{1}{U}		Instant		Target creature gains flying until end of turn.||Draw a card at the beginning of the next turn's upkeep.		
+Urza's Bauble	{0}		Artifact		{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.		
+Veldt			Land		Veldt doesn't untap during your untap step if it has a depletion counter on it.|At the beginning of your upkeep, remove a depletion counter from Veldt.|{T}: Add {G} or {W} to your mana pool. Put a depletion counter on Veldt.		
+Venomous Breath	{3}{G}		Instant		Choose target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.		
+Vertigo	{R}		Instant		Vertigo deals 2 damage to target creature with flying. That creature loses flying until end of turn.		
+Vexing Arcanix	{4}		Artifact		{3}, {T}: Target player names a card, then reveals the top card of his or her library. If it's the named card, the player puts it into his or her hand. Otherwise, the player puts it into his or her graveyard and Vexing Arcanix deals 2 damage to him or her.		
+Vibrating Sphere	{4}		Artifact		As long as it's your turn, creatures you control get +2/+0.|As long as it's not your turn, creatures you control get -0/-2.		
+Walking Wall	{4}		Artifact,Creature	Wall	Defender|{3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.	0	6
+Wall of Lava	{1}{R}{R}		Creature	Wall	Defender (This creature can't attack.)|{R}: Wall of Lava gets +1/+1 until end of turn.	1	3
+Wall of Pine Needles	{3}{G}		Creature	Plant,Wall	Defender (This creature can't attack.)|{G}: Regenerate Wall of Pine Needles.	3	3
+Wall of Shields	{3}		Artifact,Creature	Wall	Defender (This creature can't attack.)|Banding (If any creatures with banding you control are blocking a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by.)	0	4
+War Chariot	{3}		Artifact		{3}, {T}: Target creature gains trample until end of turn.		
+Warning	{W}		Instant		Prevent all combat damage that would be dealt by target attacking creature this turn.		
+Whalebone Glider	{2}		Artifact		{2}, {T}: Target creature with power 3 or less gains flying until end of turn.		
+White Scarab	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by white creatures.|Enchanted creature gets +2/+2 as long as an opponent controls a white permanent.		
+Whiteout	{1}{G}		Instant		All creatures lose flying until end of turn.|Sacrifice a snow land: Return Whiteout from your graveyard to your hand.		
+Wiitigo	{3}{G}{G}{G}		Creature	Yeti	Wiitigo enters the battlefield with six +1/+1 counters on it.|At the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.	0	0
+Wild Growth	{G}		Enchantment	Aura	Enchant land|Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).		
+Wind Spirit	{4}{U}		Creature	Elemental,Spirit	Flying|Wind Spirit can't be blocked except by two or more creatures.	3	2
+Wings of Aesthir	{W}{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+0 and has flying and first strike.		
+Winter's Chill	{X}{U}		Instant		Cast Winter's Chill only during combat before blockers are declared.|X can't be greater than the number of snow lands you control.|Choose X target attacking creatures. For each of those creatures, its controller may pay {1} or {2}. If that player doesn't, destroy that creature at end of combat. If that player pays only {1}, prevent all combat damage that would be dealt to and dealt by that creature this combat.		
+Withering Wisps	{1}{B}{B}		Enchantment		At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.|{B}: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.		
+Woolly Mammoths	{1}{G}{G}		Creature	Elephant	Woolly Mammoths has trample as long as you control a snow land.	3	2
+Woolly Spider	{1}{G}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)|Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.	2	3
+Word of Blasting	{1}{R}		Instant		Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.		
+Word of Undoing	{U}		Instant		Return target creature and all white Auras you own attached to it to their owners' hands.		
+Wrath of Marit Lage	{3}{U}{U}		Enchantment		When Wrath of Marit Lage enters the battlefield, tap all red creatures.|Red creatures don't untap during their controllers' untap steps.		
+Yavimaya Gnats	{2}{G}		Creature	Insect	Flying|{G}: Regenerate Yavimaya Gnats.	0	1
+Zuran Enchanter	{1}{U}		Creature	Human,Wizard	{2}{B}, {T}: Target player discards a card. Activate this ability only during your turn.	1	1
+Zuran Orb	{0}		Artifact		Sacrifice a land: You gain 2 life.		
+Zuran Spellcaster	{2}{U}		Creature	Human,Wizard	{T}: Zuran Spellcaster deals 1 damage to target creature or player.	1	1
+Zur's Weirding	{3}{U}		Enchantment		Players play with their hands revealed.|If a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.		

@@ -1,0 +1,144 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Accelerate	{1}{R}		Instant		Target creature gains haste until end of turn.|Draw a card.		
+Acorn Harvest	{3}{G}		Sorcery		Put two 1/1 green Squirrel creature tokens onto the battlefield.|Flashback-{1}{G}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Alter Reality	{1}{U}		Instant		Change the text of target spell or permanent by replacing all instances of one color word with another. (This effect lasts indefinitely.)|Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Ambassador Laquatus	{1}{U}{U}	Legendary	Creature	Merfolk,Wizard	{3}: Target player puts the top three cards of his or her library into his or her graveyard.	1	3
+Angel of Retribution	{6}{W}		Creature	Angel	Flying, first strike	5	5
+Anurid Scavenger	{2}{G}		Creature	Frog,Beast	Protection from black|At the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.	3	3
+Aquamoeba	{1}{U}		Creature	Elemental,Beast	Discard a card: Switch Aquamoeba's power and toughness until end of turn.	1	3
+Arrogant Wurm	{3}{G}{G}		Creature	Wurm	Trample|Madness {2}{G} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)	4	4
+Aven Trooper	{3}{W}		Creature	Bird,Soldier	Flying|{2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.	1	1
+Balshan Collaborator	{3}{U}		Creature	Bird,Soldier	Flying|{B}: Balshan Collaborator gets +1/+1 until end of turn.	2	2
+Balthor the Stout	{1}{R}{R}	Legendary	Creature	Dwarf,Barbarian	Other Barbarian creatures get +1/+1.|{R}: Another target Barbarian creature gets +1/+0 until end of turn.	2	2
+Barbarian Outcast	{1}{R}		Creature	Human,Barbarian,Beast	When you control no Swamps, sacrifice Barbarian Outcast.	2	2
+Basking Rootwalla	{G}		Creature	Lizard	{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.|Madness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)	1	1
+Boneshard Slasher	{1}{B}		Creature	Horror	Flying|Threshold - As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has 'When Boneshard Slasher becomes the target of a spell or ability, sacrifice it.'	1	1
+Breakthrough	{X}{U}		Sorcery		Draw four cards, then choose X cards in your hand and discard the rest.		
+Cabal Coffers			Land		{2}, {T}: Add {B} to your mana pool for each Swamp you control.		
+Cabal Ritual	{1}{B}		Instant		Add {B}{B}{B} to your mana pool.|Threshold - Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.		
+Cabal Surgeon	{2}{B}{B}		Creature	Human,Minion	{2}{B}{B}, {T}, Exile two cards from your graveyard: Return target creature card from your graveyard to your hand.	2	1
+Cabal Torturer	{1}{B}{B}		Creature	Human,Minion	{B}, {T}: Target creature gets -1/-1 until end of turn.|Threshold - {3}{B}{B}, {T}: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.	1	1
+Carrion Rats	{B}		Creature	Rat	Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.	2	1
+Carrion Wurm	{3}{B}{B}		Creature	Zombie,Wurm	Whenever Carrion Wurm attacks or blocks, any player may exile three cards from his or her graveyard. If a player does, Carrion Wurm assigns no combat damage this turn.	6	5
+Centaur Chieftain	{3}{G}		Creature	Centaur	Haste|Threshold - As long as seven or more cards are in your graveyard, Centaur Chieftain has 'When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn.'	3	3
+Centaur Veteran	{5}{G}		Creature	Centaur	Trample|{G}, Discard a card: Regenerate Centaur Veteran.	3	3
+Cephalid Aristocrat	{4}{U}		Creature	Cephalid	Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard.	3	3
+Cephalid Illusionist	{1}{U}		Creature	Cephalid,Wizard	Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard.|{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.	1	1
+Cephalid Sage	{3}{U}		Creature	Cephalid	Threshold - As long as seven or more cards are in your graveyard, Cephalid Sage has 'When Cephalid Sage enters the battlefield, draw three cards, then discard two cards.'	2	3
+Cephalid Snitch	{1}{U}		Creature	Cephalid,Wizard	Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.	1	1
+Cephalid Vandal	{1}{U}		Creature	Cephalid,Rogue	At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.	1	1
+Chainer, Dementia Master	{3}{B}{B}	Legendary	Creature	Human,Minion	Nightmare creatures get +1/+1.|{B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.|When Chainer, Dementia Master leaves the battlefield, exile all Nightmares.	3	3
+Chainer's Edict	{1}{B}		Sorcery		Target player sacrifices a creature.|Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Churning Eddy	{3}{U}		Sorcery		Return target creature and target land to their owners' hands.		
+Circular Logic	{2}{U}		Instant		Counter target spell unless its controller pays {1} for each card in your graveyard.|Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Cleansing Meditation	{1}{W}{W}		Sorcery		Destroy all enchantments.|Threshold - If seven or more cards are in your graveyard, instead destroy all enchantments, then return all cards in your graveyard destroyed this way to the battlefield.		
+Compulsion	{1}{U}		Enchantment		{1}{U}, Discard a card: Draw a card.|{1}{U}, Sacrifice Compulsion: Draw a card.		
+Coral Net	{U}		Enchantment	Aura	Enchant green or white creature|Enchanted creature has 'At the beginning of your upkeep, sacrifice this creature unless you discard a card.'		
+Crackling Club	{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+0.|Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.		
+Crazed Firecat	{5}{R}{R}		Creature	Elemental,Cat	When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win.	4	4
+Crippling Fatigue	{1}{B}{B}		Sorcery		Target creature gets -2/-2 until end of turn.|Flashback-{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Dawn of the Dead	{2}{B}{B}{B}		Enchantment		At the beginning of your upkeep, you lose 1 life.|At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.		
+Deep Analysis	{3}{U}		Sorcery		Target player draws two cards.|Flashback-{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Devastating Dreams	{R}{R}		Sorcery		As an additional cost to cast Devastating Dreams, discard X cards at random.|Each player sacrifices X lands. Devastating Dreams deals X damage to each creature.		
+Dwell on the Past	{G}		Sorcery		Target player shuffles up to four target cards from his or her graveyard into his or her library.		
+Enslaved Dwarf	{R}		Creature	Dwarf	{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.	1	1
+Equal Treatment	{1}{W}		Instant		If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.||Draw a card.		
+Faceless Butcher	{2}{B}{B}		Creature	Nightmare,Horror	When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.|When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.	2	3
+False Memories	{1}{U}		Instant		Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard.		
+Far Wanderings	{2}{G}		Sorcery		Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.|Threshold - If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library.		
+Fiery Temper	{1}{R}{R}		Instant		Fiery Temper deals 3 damage to target creature or player.|Madness {R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Flaming Gambit	{X}{R}		Instant		Flaming Gambit deals X damage to target player. That player may choose a creature he or she controls and have Flaming Gambit deal that damage to it instead.|Flashback {X}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Flash of Defiance	{1}{R}		Sorcery		Green creatures and white creatures can't block this turn.|Flashback-{1}{R}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Floating Shield	{2}{W}		Enchantment	Aura	Enchant creature|As Floating Shield enters the battlefield, choose a color.|Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield.|Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.		
+Frantic Purification	{2}{W}		Instant		Destroy target enchantment.|Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Ghostly Wings	{1}{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1 and has flying.|Discard a card: Return enchanted creature to its owner's hand.		
+Gloomdrifter	{3}{B}		Creature	Zombie,Minion	Flying|Threshold - As long as seven or more cards are in your graveyard, Gloomdrifter has 'When Gloomdrifter enters the battlefield, nonblack creatures get -2/-2 until end of turn.'	2	2
+Gravegouger	{2}{B}		Creature	Nightmare,Horror	When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard.|When Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard.	2	2
+Grim Lavamancer	{R}		Creature	Human,Wizard	{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.	1	1
+Grotesque Hybrid	{4}{B}		Creature	Zombie	Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated.|Discard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.	3	3
+Gurzigost	{3}{G}{G}		Creature	Beast	At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library.|{G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.	6	8
+Hell-Bent Raider	{1}{R}{R}		Creature	Human,Barbarian	First strike, haste|Discard a card at random: Hell-Bent Raider gains protection from white until end of turn.	2	2
+Hydromorph Guardian	{2}{U}		Creature	Elemental	{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.	2	2
+Hydromorph Gull	{3}{U}{U}		Creature	Elemental,Bird	Flying|{U}, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.	3	3
+Hypnox	{8}{B}{B}{B}		Creature	Nightmare,Horror	Flying|When Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.|When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.	8	8
+Hypochondria	{1}{W}		Enchantment		{W}, Discard a card: Prevent the next 3 damage that would be dealt to target creature or player this turn.|{W}, Sacrifice Hypochondria: Prevent the next 3 damage that would be dealt to target creature or player this turn.		
+Ichorid	{3}{B}		Creature	Horror	Haste|At the beginning of the end step, sacrifice Ichorid.|At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.	3	1
+Insidious Dreams	{3}{B}		Instant		As an additional cost to cast Insidious Dreams, discard X cards.|Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.		
+Insist	{G}		Sorcery		The next creature spell you cast this turn can't be countered by spells or abilities.|Draw a card.		
+Invigorating Falls	{2}{G}{G}		Sorcery		You gain life equal to the number of creature cards in all graveyards.		
+Kamahl's Sledge	{5}{R}{R}		Sorcery		Kamahl's Sledge deals 4 damage to target creature.|Threshold - If seven or more cards are in your graveyard, instead Kamahl's Sledge deals 4 damage to that creature and 4 damage to that creature's controller.		
+Krosan Constrictor	{3}{G}		Creature	Snake	Swampwalk|{T}: Target black creature gets -2/-0 until end of turn.	2	2
+Krosan Restorer	{2}{G}		Creature	Human,Druid	{T}: Untap target land.|Threshold - {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.	1	2
+Laquatus's Champion	{4}{B}{B}		Creature	Nightmare,Horror	When Laquatus's Champion enters the battlefield, target player loses 6 life.|When Laquatus's Champion leaves the battlefield, that player gains 6 life.|{B}: Regenerate Laquatus's Champion.	6	3
+Last Laugh	{2}{B}{B}		Enchantment		Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player.|When no creatures are on the battlefield, sacrifice Last Laugh.		
+Liquify	{2}{U}		Instant		Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.		
+Llawan, Cephalid Empress	{3}{U}	Legendary	Creature	Cephalid	When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands.|Your opponents can't cast blue creature spells.	2	3
+Longhorn Firebeast	{2}{R}		Creature	Elemental,Ox,Beast	When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to him or her. If a player does, sacrifice Longhorn Firebeast.	3	2
+Major Teroh	{3}{W}	Legendary	Creature	Bird,Soldier	Flying|{3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.	2	3
+Mesmeric Fiend	{1}{B}		Creature	Nightmare,Horror	When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.|When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.	1	1
+Militant Monk	{1}{W}{W}		Creature	Human,Monk,Cleric	Vigilance|{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.	2	1
+Mind Sludge	{4}{B}		Sorcery		Target player discards a card for each Swamp you control.		
+Morningtide	{1}{W}		Sorcery		Exile all cards from all graveyards.		
+Mortal Combat	{2}{B}{B}		Enchantment		At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.		
+Mortiphobia	{1}{B}{B}		Enchantment		{1}{B}, Discard a card: Exile target card from a graveyard.|{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.		
+Mutilate	{2}{B}{B}		Sorcery		All creatures get -1/-1 until end of turn for each Swamp you control.		
+Mystic Familiar	{1}{W}		Creature	Bird	Flying|Threshold - As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.	1	2
+Nantuko Blightcutter	{2}{G}		Creature	Insect,Druid	Protection from black|Threshold - Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.	2	2
+Nantuko Calmer	{2}{G}{G}		Creature	Insect,Druid	{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment.|Threshold - Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.	2	3
+Nantuko Cultivator	{3}{G}		Creature	Insect,Druid	When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards.	2	2
+Nantuko Shade	{B}{B}		Creature	Insect,Shade	{B}: Nantuko Shade gets +1/+1 until end of turn.	2	1
+Narcissism	{2}{G}		Enchantment		{G}, Discard a card: Target creature gets +2/+2 until end of turn.|{G}, Sacrifice Narcissism: Target creature gets +2/+2 until end of turn.		
+Nostalgic Dreams	{G}{G}		Sorcery		As an additional cost to cast Nostalgic Dreams, discard X cards.|Return X target cards from your graveyard to your hand. Exile Nostalgic Dreams.		
+Obsessive Search	{U}		Instant		Draw a card.|Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Organ Grinder	{2}{B}		Creature	Zombie	{T}, Exile three cards from your graveyard: Target player loses 3 life.	3	1
+Overmaster	{R}		Sorcery		The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.|Draw a card.		
+Parallel Evolution	{3}{G}{G}		Sorcery		For each creature token on the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.|Flashback {4}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Pardic Arsonist	{2}{R}{R}		Creature	Human,Barbarian	Threshold - As long as seven or more cards are in your graveyard, Pardic Arsonist has 'When Pardic Arsonist enters the battlefield, it deals 3 damage to target creature or player.'	3	3
+Pardic Collaborator	{3}{R}		Creature	Human,Barbarian	First strike|{B}: Pardic Collaborator gets +1/+1 until end of turn.	2	2
+Pardic Lancer	{4}{R}		Creature	Human,Barbarian	Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.	3	2
+Pay No Heed	{W}		Instant		Prevent all damage a source of your choice would deal this turn.		
+Petradon	{6}{R}{R}		Creature	Nightmare,Beast	When Petradon enters the battlefield, exile two target lands.|When Petradon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.|{R}: Petradon gets +1/+0 until end of turn.	5	6
+Petravark	{3}{R}		Creature	Nightmare,Beast	When Petravark enters the battlefield, exile target land.|When Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control.	2	2
+Pitchstone Wall	{2}{R}		Creature	Wall	Defender (This creature can't attack.)|Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.	2	5
+Plagiarize	{3}{U}		Instant		Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.		
+Possessed Aven	{2}{U}{U}		Creature	Bird,Soldier,Horror	Flying|Threshold - As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has '{2}{B}, {T}: Destroy target blue creature.'	3	3
+Possessed Barbarian	{2}{R}{R}		Creature	Human,Barbarian,Horror	First strike|Threshold - As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has '{2}{B}, {T}: Destroy target red creature.'	3	3
+Possessed Centaur	{2}{G}{G}		Creature	Centaur,Horror	Trample|Threshold - As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has '{2}{B}, {T}: Destroy target green creature.'	3	3
+Possessed Nomad	{2}{W}{W}		Creature	Human,Nomad,Horror	Vigilance|Threshold - As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has '{2}{B}, {T}: Destroy target white creature.'	3	3
+Psychotic Haze	{2}{B}{B}		Instant		Psychotic Haze deals 1 damage to each creature and each player.|Madness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Putrid Imp	{B}		Creature	Zombie,Imp	Discard a card: Putrid Imp gains flying until end of turn.|Threshold - As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.	1	1
+Pyromania	{2}{R}		Enchantment		{1}{R}, Discard a card at random: Pyromania deals 1 damage to target creature or player.|{1}{R}, Sacrifice Pyromania: Pyromania deals 1 damage to target creature or player.		
+Radiate	{3}{R}{R}		Instant		Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players.		
+Rancid Earth	{1}{B}{B}		Sorcery		Destroy target land.|Threshold - If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.		
+Reborn Hero	{2}{W}		Creature	Human,Soldier	Vigilance|Threshold - As long as seven or more cards are in your graveyard, Reborn Hero has 'When Reborn Hero dies, you may pay {W}{W}. If you do, return Reborn Hero to the battlefield under your control.'	2	2
+Restless Dreams	{B}		Sorcery		As an additional cost to cast Restless Dreams, discard X cards.|Return X target creature cards from your graveyard to your hand.		
+Retraced Image	{U}		Sorcery		Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.		
+Sengir Vampire	{3}{B}{B}		Creature	Vampire	Flying|Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.	4	4
+Seton's Scout	{1}{G}		Creature	Centaur,Druid,Scout,Archer	Reach (This creature can block creatures with flying.)|Threshold - Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.	2	1
+Shade's Form	{1}{B}{B}		Enchantment	Aura	Enchant creature|Enchanted creature has '{B}: This creature gets +1/+1 until end of turn.'|When enchanted creature dies, return that card to the battlefield under your control.		
+Shambling Swarm	{1}{B}{B}{B}		Creature	Horror	When Shambling Swarm dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.	3	3
+Sickening Dreams	{1}{B}		Sorcery		As an additional cost to cast Sickening Dreams, discard X cards.|Sickening Dreams deals X damage to each creature and each player.		
+Skullscorch	{R}{R}		Sorcery		Target player discards two cards at random unless that player has Skullscorch deal 4 damage to him or her.		
+Skywing Aven	{2}{U}		Creature	Bird,Soldier	Flying|Discard a card: Return Skywing Aven to its owner's hand.	2	1
+Slithery Stalker	{1}{B}{B}		Creature	Nightmare,Horror	Swampwalk|When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls.|When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.	1	1
+Sonic Seizure	{R}		Instant		As an additional cost to cast Sonic Seizure, discard a card at random.|Sonic Seizure deals 3 damage to target creature or player.		
+Soul Scourge	{4}{B}		Creature	Nightmare,Horror	Flying|When Soul Scourge enters the battlefield, target player loses 3 life.|When Soul Scourge leaves the battlefield, that player gains 3 life.	3	2
+Spirit Flare	{3}{W}		Instant		Tap target untapped creature you control. If you do, it deals damage equal to its power to target attacking or blocking creature an opponent controls.|Flashback-{1}{W}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Stern Judge	{2}{W}		Creature	Human,Cleric	{T}: Each player loses 1 life for each Swamp he or she controls.	2	2
+Strength of Isolation	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+2 and has protection from black.|Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Strength of Lunacy	{1}{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+1 and has protection from white.|Madness {B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Stupefying Touch	{1}{U}		Enchantment	Aura	Enchant creature|When Stupefying Touch enters the battlefield, draw a card.|Enchanted creature's activated abilities can't be activated.		
+Tainted Field			Land		{T}: Add {1} to your mana pool.|{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.		
+Tainted Isle			Land		{T}: Add {1} to your mana pool.|{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.		
+Tainted Peak			Land		{T}: Add {1} to your mana pool.|{T}: Add {B} or {R} to your mana pool. Activate this ability only if you control a Swamp.		
+Tainted Wood			Land		{T}: Add {1} to your mana pool.|{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.		
+Temporary Insanity	{3}{R}		Instant		Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.		
+Teroh's Faithful	{3}{W}		Creature	Human,Cleric	When Teroh's Faithful enters the battlefield, you gain 4 life.	1	4
+Teroh's Vanguard	{3}{W}		Creature	Human,Nomad	Flash|Threshold - As long as seven or more cards are in your graveyard, Teroh's Vanguard has 'When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn.'	2	3
+Transcendence	{3}{W}{W}{W}		Enchantment		You don't lose the game for having 0 or less life.||When you have 20 or more life, you lose the game.||Whenever you lose life, you gain 2 life for each 1 life you lost. (Damage dealt to you causes you to lose life.)		
+Turbulent Dreams	{U}{U}		Sorcery		As an additional cost to cast Turbulent Dreams, discard X cards.|Return X target nonland permanents to their owners' hands.		
+Unhinge	{2}{B}		Sorcery		Target player discards a card.|Draw a card.		
+Vengeful Dreams	{W}{W}		Instant		As an additional cost to cast Vengeful Dreams, discard X cards.|Exile X target attacking creatures.		
+Violent Eruption	{1}{R}{R}{R}		Instant		Violent Eruption deals 4 damage divided as you choose among any number of target creatures and/or players.|Madness {1}{R}{R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)		
+Waste Away	{4}{B}		Instant		As an additional cost to cast Waste Away, discard a card.|Target creature gets -5/-5 until end of turn.		
+Zombie Trailblazer	{B}{B}{B}		Creature	Zombie,Scout	Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn.|Tap an untapped Zombie you control: Target creature gains swampwalk until end of turn.	2	2

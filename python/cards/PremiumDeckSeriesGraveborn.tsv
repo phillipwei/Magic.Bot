@@ -1,0 +1,28 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Animate Dead	{1}{B}		Enchantment	Aura	Enchant creature card in a graveyard|When Animate Dead enters the battlefield, if it's on the battlefield, it loses 'enchant creature card in a graveyard' and gains 'enchant creature put onto the battlefield with Animate Dead.' Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.|Enchanted creature gets -1/-0.		
+Avatar of Woe	{6}{B}{B}		Creature	Avatar	If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.|Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|{T}: Destroy target creature. It can't be regenerated.	6	5
+Blazing Archon	{6}{W}{W}{W}		Creature	Archon	Flying|Creatures can't attack you.	5	6
+Buried Alive	{2}{B}		Sorcery		Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.		
+Cabal Therapy	{B}		Sorcery		Name a nonland card. Target player reveals his or her hand and discards all cards with that name.|Flashback-Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Crosis, the Purger	{3}{U}{B}{R}	Legendary	Creature	Dragon	Flying|Whenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals his or her hand and discards all cards of that color.	6	6
+Crystal Vein			Land		{T}: Add {1} to your mana pool.|{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.		
+Diabolic Servitude	{3}{B}		Enchantment		When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.|When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.|When Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.		
+Dread Return	{2}{B}{B}		Sorcery		Return target creature card from your graveyard to the battlefield.|Flashback-Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Duress	{B}		Sorcery		Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.		
+Ebon Stronghold			Land		Ebon Stronghold enters the battlefield tapped.|{T}: Add {B} to your mana pool.|{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.		
+Entomb	{B}		Instant		Search your library for a card and put that card into your graveyard. Then shuffle your library.		
+Exhume	{1}{B}		Sorcery		Each player puts a creature card from his or her graveyard onto the battlefield.		
+Faceless Butcher	{2}{B}{B}		Creature	Nightmare,Horror	When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.|When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.	2	3
+Hidden Horror	{1}{B}{B}		Creature	Horror	When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.	4	4
+Inkwell Leviathan	{7}{U}{U}		Artifact,Creature	Leviathan	Islandwalk, trample, shroud	7	11
+Last Rites	{2}{B}		Sorcery		Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.		
+Polluted Mire			Land		Polluted Mire enters the battlefield tapped.|{T}: Add {B} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Putrid Imp	{B}		Creature	Zombie,Imp	Discard a card: Putrid Imp gains flying until end of turn.|Threshold - As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.	1	1
+Reanimate	{B}		Sorcery		Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.		
+Sickening Dreams	{1}{B}		Sorcery		As an additional cost to cast Sickening Dreams, discard X cards.|Sickening Dreams deals X damage to each creature and each player.		
+Sphinx of the Steel Wind	{5}{W}{U}{B}		Artifact,Creature	Sphinx	Flying, first strike, vigilance, lifelink, protection from red and from green	6	6
+Swamp		Basic	Land	Swamp	B		
+Terastodon	{6}{G}{G}		Creature	Elephant	When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.	9	9
+Twisted Abomination	{5}{B}		Creature	Zombie,Mutant	{B}: Regenerate Twisted Abomination.|Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)	5	3
+Verdant Force	{5}{G}{G}{G}		Creature	Elemental	At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.	7	7
+Zombie Infestation	{1}{B}		Enchantment		Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.		

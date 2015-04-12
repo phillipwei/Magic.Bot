@@ -1,0 +1,7 @@
+- C# code to interact w/ modo
+- python code to scrape gatherer
+- lsv rating grabber
+- python drafter
+
+- web based draft simulator
+- game simulation - language you can build fastest in

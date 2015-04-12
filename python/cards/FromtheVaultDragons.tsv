@@ -1,0 +1,16 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Bladewing the Risen	{3}{B}{B}{R}{R}	Legendary	Creature	Zombie,Dragon	Flying|When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.|{B}{R}: Dragon creatures get +1/+1 until end of turn.	4	4
+Bogardan Hellkite	{6}{R}{R}		Creature	Dragon	Flash (You may cast this spell any time you could cast an instant.)|Flying|When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.	5	5
+Draco	{16}		Artifact,Creature	Dragon	Domain - Draco costs {2} less to cast for each basic land type among lands you control.|Flying|Domain - At the beginning of your upkeep, sacrifice Draco unless you pay {1}0. This cost is reduced by {2} for each basic land type among lands you control.	9	9
+Dragon Whelp	{2}{R}{R}		Creature	Dragon	Flying|{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.	2	3
+Dragonstorm	{8}{R}		Sorcery		Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.|Storm (When you cast this spell, copy it for each spell cast before it this turn.)		
+Ebon Dragon	{5}{B}{B}		Creature	Dragon	Flying|When Ebon Dragon enters the battlefield, you may have target opponent discard a card.	5	4
+Form of the Dragon	{4}{R}{R}{R}		Enchantment		At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.|At the beginning of each end step, your life total becomes 5.|Creatures without flying can't attack you.		
+Hellkite Overlord	{4}{B}{R}{R}{G}		Creature	Dragon	Flying, trample, haste|{R}: Hellkite Overlord gets +1/+0 until end of turn.|{B}{G}: Regenerate Hellkite Overlord.	8	8
+Kokusho, the Evening Star	{4}{B}{B}	Legendary	Creature	Dragon,Spirit	Flying|When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.	5	5
+Nicol Bolas	{2}{U}{U}{B}{B}{R}{R}	Legendary	Creature	Elder,Dragon	Flying|At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.|Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.	7	7
+Niv-Mizzet, the Firemind	{2}{U}{U}{R}{R}	Legendary	Creature	Dragon,Wizard	Flying|Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.|{T}: Draw a card.	4	4
+Rith, the Awakener	{3}{R}{G}{W}	Legendary	Creature	Dragon	Flying|Whenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color.	6	6
+Shivan Dragon	{4}{R}{R}		Creature	Dragon	Flying|{R}: Shivan Dragon gets +1/+0 until end of turn.	5	5
+Thunder Dragon	{5}{R}{R}		Creature	Dragon	Flying|When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.	5	5
+Two-Headed Dragon	{4}{R}{R}		Creature	Dragon	Flying|{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.|Two-Headed Dragon can't be blocked except by two or more creatures.|Two-Headed Dragon can block an additional creature.	4	4

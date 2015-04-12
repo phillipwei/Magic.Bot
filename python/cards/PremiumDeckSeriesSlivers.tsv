@@ -1,0 +1,42 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Acidic Sliver	{B}{R}		Creature	Sliver	All Slivers have '{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player.'	2	2
+Amoeboid Changeling	{1}{U}		Creature	Shapeshifter	Changeling (This card is every creature type at all times.)|{T}: Target creature gains all creature types until end of turn.|{T}: Target creature loses all creature types until end of turn.	1	1
+Ancient Ziggurat			Land		{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.		
+Aphetto Dredging	{3}{B}		Sorcery		Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.		
+Armor Sliver	{2}{W}		Creature	Sliver	All Sliver creatures have '{2}: This creature gets +0/+1 until end of turn.'	2	2
+Barbed Sliver	{2}{R}		Creature	Sliver	All Sliver creatures have '{2}: This creature gets +1/+0 until end of turn.'	2	2
+Brood Sliver	{4}{G}		Creature	Sliver	Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.	3	3
+Clot Sliver	{1}{B}		Creature	Sliver	All Slivers have '{2}: Regenerate this permanent.'	1	1
+Coat of Arms	{5}		Artifact		Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)		
+Crystalline Sliver	{W}{U}		Creature	Sliver	All Slivers have shroud. (They can't be the targets of spells or abilities.)	2	2
+Distant Melody	{3}{U}		Sorcery		Choose a creature type. Draw a card for each permanent you control of that type.		
+Forest		Basic	Land	Forest	G		
+Frenzy Sliver	{1}{B}		Creature	Sliver	All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)	1	1
+Fungus Sliver	{3}{G}		Creature	Fungus,Sliver	All Sliver creatures have 'Whenever this creature is dealt damage, put a +1/+1 counter on it.' (The damage is dealt before the counter is put on.)	2	2
+Fury Sliver	{5}{R}		Creature	Sliver	All Sliver creatures have double strike.	3	3
+Gemhide Sliver	{1}{G}		Creature	Sliver	All Slivers have '{T}: Add one mana of any color to your mana pool.'	1	1
+Heart Sliver	{1}{R}		Creature	Sliver	All Sliver creatures have haste.	1	1
+Heartstone	{3}		Artifact		Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.		
+Hibernation Sliver	{U}{B}		Creature	Sliver	All Slivers have 'Pay 2 life: Return this permanent to its owner's hand.'	2	2
+Homing Sliver	{2}{R}		Creature	Sliver	Each Sliver card in each player's hand has slivercycling {3}.|Slivercycling {3} ({3}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)	2	2
+Island		Basic	Land	Island	U		
+Metallic Sliver	{1}		Artifact,Creature	Sliver		1	1
+Might Sliver	{4}{G}		Creature	Sliver	All Sliver creatures get +2/+2.	2	2
+Mountain		Basic	Land	Mountain	R		
+Muscle Sliver	{1}{G}		Creature	Sliver	All Sliver creatures get +1/+1.	1	1
+Necrotic Sliver	{1}{W}{B}		Creature	Sliver	All Slivers have '{3}, Sacrifice this permanent: Destroy target permanent.'	2	2
+Plains		Basic	Land	Plains	W		
+Quick Sliver	{1}{G}		Creature	Sliver	Flash|Any player may play Sliver cards as though they had flash.	1	1
+Rootbound Crag			Land		Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.|{T}: Add {R} or {G} to your mana pool.		
+Rupture Spire			Land		Rupture Spire enters the battlefield tapped.|When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.|{T}: Add one mana of any color to your mana pool.		
+Sliver Overlord	{W}{U}{B}{R}{G}	Legendary	Creature	Sliver,Mutant	{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.|{3}: Gain control of target Sliver. (This effect lasts indefinitely.)	7	7
+Spectral Sliver	{2}{B}		Creature	Sliver,Spirit	All Sliver creatures have '{2}: This creature gets +1/+1 until end of turn.'	2	2
+Spined Sliver	{R}{G}		Creature	Sliver	Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.	2	2
+Swamp		Basic	Land	Swamp	B		
+Terramorphic Expanse			Land		{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Victual Sliver	{G}{W}		Creature	Sliver	All Slivers have '{2}, Sacrifice this permanent: You gain 4 life.'	2	2
+Virulent Sliver	{G}		Creature	Sliver	All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)	1	1
+Vivid Creek			Land		Vivid Creek enters the battlefield tapped with two charge counters on it.|{T}: Add {U} to your mana pool.|{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.		
+Vivid Grove			Land		Vivid Grove enters the battlefield tapped with two charge counters on it.|{T}: Add {G} to your mana pool.|{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.		
+Wild Pair	{4}{G}{G}		Enchantment		Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.		
+Winged Sliver	{1}{U}		Creature	Sliver	All Sliver creatures have flying.	1	1

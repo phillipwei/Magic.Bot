@@ -1,0 +1,149 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Æther Mutation	{3}{G}{U}		Sorcery		Return target creature to its owner's hand. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.		
+Ana Disciple	{G}		Creature	Human,Wizard	{U}, {T}: Target creature gains flying until end of turn.|{B}, {T}: Target creature gets -2/-0 until end of turn.	1	1
+Ana Sanctuary	{2}{G}		Enchantment		At the beginning of your upkeep, if you control a blue or black permanent, target creature gets +1/+1 until end of turn. If you control a blue permanent and a black permanent, that creature gets +5/+5 until end of turn instead.		
+Anavolver	{3}{G}		Creature	Volver	Kicker {1}{U} and/or {B} (You may pay an additional {1}{U} and/or {B} as you cast this spell.)|If Anavolver was kicked with its {1}{U} kicker, it enters the battlefield with two +1/+1 counters on it and with flying.|If Anavolver was kicked with its {B} kicker, it enters the battlefield with a +1/+1 counter on it and with 'Pay 3 life: Regenerate Anavolver.'	3	3
+Angelfire Crusader	{3}{W}		Creature	Human,Soldier,Knight	{R}: Angelfire Crusader gets +1/+0 until end of turn.	2	3
+Battlefield Forge			Land		{T}: Add {1} to your mana pool.|{T}: Add {R} or {W} to your mana pool. Battlefield Forge deals 1 damage to you.		
+Bloodfire Colossus	{6}{R}{R}		Creature	Giant	{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.	6	6
+Bloodfire Dwarf	{R}		Creature	Dwarf	{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.	1	1
+Bloodfire Infusion	{2}{R}		Enchantment	Aura	Enchant creature you control|{R}, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature's power to each creature.		
+Bloodfire Kavu	{2}{R}{R}		Creature	Kavu	{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.	2	2
+Bog Gnarr	{4}{G}		Creature	Beast	Whenever a player casts a black spell, Bog Gnarr gets +2/+2 until end of turn.	2	2
+Brass Herald	{6}		Artifact,Creature	Golem	As Brass Herald enters the battlefield, choose a creature type.|When Brass Herald enters the battlefield, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.|Creatures of the chosen type get +1/+1.	2	2
+Captain's Maneuver	{X}{R}{W}		Instant		The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead.		
+Caves of Koilos			Land		{T}: Add {1} to your mana pool.|{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.		
+Ceta Disciple	{U}		Creature	Merfolk,Wizard	{R}, {T}: Target creature gets +2/+0 until end of turn.|{G}, {T}: Add one mana of any color to your mana pool.	1	1
+Ceta Sanctuary	{2}{U}		Enchantment		At the beginning of your upkeep, if you control a red or green permanent, draw a card, then discard a card. If you control a red permanent and a green permanent, instead draw two cards, then discard a card.		
+Cetavolver	{1}{U}		Creature	Volver	Kicker {1}{R} and/or {G} (You may pay an additional {1}{R} and/or {G} as you cast this spell.)|If Cetavolver was kicked with its {1}{R} kicker, it enters the battlefield with two +1/+1 counters on it and with first strike.|If Cetavolver was kicked with its {G} kicker, it enters the battlefield with a +1/+1 counter on it and with trample.	1	1
+Order // Chaos (Chaos)	{2}{R}		Instant		Creatures can't block this turn.		
+Coalition Flag	{W}		Enchantment	Aura	Enchant creature you control|Enchanted creature is a Flagbearer.|While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.		
+Coalition Honor Guard	{3}{W}		Creature	Human,Flagbearer	While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.	2	4
+Coastal Drake	{2}{U}		Creature	Drake	Flying|{1}{U}, {T}: Return target Kavu to its owner's hand.	2	1
+Consume Strength	{1}{B}{G}		Instant		Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.		
+Cromat	{W}{U}{B}{R}{G}	Legendary	Creature	Illusion	{W}{B}: Destroy target creature blocking or blocked by Cromat.|{U}{R}: Cromat gains flying until end of turn.|{B}{G}: Regenerate Cromat.|{R}{W}: Cromat gets +1/+1 until end of turn.|{G}{U}: Put Cromat on top of its owner's library.	5	5
+Night // Day (Day)	{2}{W}		Instant		Creatures target player controls get +1/+1 until end of turn.		
+Dead Ringers	{4}{B}		Sorcery		Destroy two target nonblack creatures unless either one is a color the other isn't. They can't be regenerated.		
+Life // Death (Death)	{1}{B}		Sorcery		Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.		
+Death Grasp	{X}{W}{B}		Sorcery		Death Grasp deals X damage to target creature or player. You gain X life.		
+Death Mutation	{6}{B}{G}		Sorcery		Destroy target nonblack creature. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.		
+Dega Disciple	{W}		Creature	Human,Wizard	{B}, {T}: Target creature gets -2/-0 until end of turn.|{R}, {T}: Target creature gets +2/+0 until end of turn.	1	1
+Dega Sanctuary	{2}{W}		Enchantment		At the beginning of your upkeep, if you control a black or red permanent, you gain 2 life. If you control a black permanent and a red permanent, you gain 4 life instead.		
+Degavolver	{1}{W}		Creature	Volver	Kicker {1}{B} and/or {R} (You may pay an additional {1}{B} and/or {R} as you cast this spell.)|If Degavolver was kicked with its {1}{B} kicker, it enters the battlefield with two +1/+1 counters on it and with 'Pay 3 life: Regenerate Degavolver.'|If Degavolver was kicked with its {R} kicker, it enters the battlefield with a +1/+1 counter on it and with first strike.	1	1
+Desolation Angel	{3}{B}{B}		Creature	Angel	Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)|Flying|When Desolation Angel enters the battlefield, destroy all lands you control. If it was kicked, destroy all lands instead.	5	4
+Desolation Giant	{2}{R}{R}		Creature	Giant	Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)|When Desolation Giant enters the battlefield, destroy all other creatures you control. If it was kicked, destroy all other creatures instead.	3	3
+Diversionary Tactics	{3}{W}		Enchantment		Tap two untapped creatures you control: Tap target creature.		
+Divine Light	{W}		Sorcery		Prevent all damage that would be dealt this turn to creatures you control.		
+Dodecapod	{4}		Artifact,Creature	Golem	If a spell or ability an opponent controls causes you to discard Dodecapod, put it onto the battlefield with two +1/+1 counters on it instead of putting it into your graveyard.	3	3
+Dragon Arch	{5}		Artifact		{2}, {T}: You may put a multicolored creature card from your hand onto the battlefield.		
+Dwarven Landslide	{3}{R}		Sorcery		Kicker-{2}{R}, Sacrifice a land. (You may pay {2}{R} and sacrifice a land in addition to any other costs as you cast this spell.)|Destroy target land. If Dwarven Landslide was kicked, destroy another target land.		
+Dwarven Patrol	{2}{R}		Creature	Dwarf	Dwarven Patrol doesn't untap during your untap step.|Whenever you cast a nonred spell, untap Dwarven Patrol.	4	2
+Ebony Treefolk	{1}{B}{G}		Creature	Treefolk	{B}{G}: Ebony Treefolk gets +1/+1 until end of turn.	3	3
+Emblazoned Golem	{2}		Artifact,Creature	Golem	Kicker {X} (You may pay an additional {X} as you cast this spell.)|Spend only colored mana on X. No more than one mana of each color may be spent this way.|If Emblazoned Golem was kicked, it enters the battlefield with X +1/+1 counters on it.	1	2
+Enlistment Officer	{3}{W}		Creature	Human,Soldier	First strike|When Enlistment Officer enters the battlefield, reveal the top four cards of your library. Put all Soldier cards revealed this way into your hand and the rest on the bottom of your library in any order.	2	3
+Evasive Action	{1}{U}		Instant		Domain - Counter target spell unless its controller pays {1} for each basic land type among lands you control.		
+False Dawn	{1}{W}		Sorcery		Until end of turn, spells and abilities you control that would add colored mana to your mana pool add that much white mana instead. Until end of turn, you may spend white mana as though it were mana of any color.||Draw a card.		
+Fervent Charge	{1}{W}{B}{R}		Enchantment		Whenever a creature you control attacks, it gets +2/+2 until end of turn.		
+Fire // Ice (Fire)	{1}{R}		Instant		Fire deals 2 damage divided as you choose among one or two target creatures and/or players.|		
+Flowstone Charger	{2}{R}{W}		Creature	Beast	Whenever Flowstone Charger attacks, it gets +3/-3 until end of turn.	2	5
+Foul Presence	{2}{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets -1/-1 and has '{T}: Target creature gets -1/-1 until end of turn.'		
+Fungal Shambler	{4}{G}{U}{B}		Creature	Fungus,Beast	Trample|Whenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.	6	4
+Gaea's Balance	{3}{G}		Sorcery		As an additional cost to cast Gaea's Balance, sacrifice five lands.|Search your library for a land card of each basic land type and put them onto the battlefield. Then shuffle your library.		
+Gaea's Skyfolk	{G}{U}		Creature	Elf,Merfolk	Flying	2	2
+Gerrard Capashen	{3}{W}{W}	Legendary	Creature	Human,Soldier	At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.|{3}{W}: Tap target creature. Activate this ability only if Gerrard Capashen is attacking.	3	4
+Gerrard's Verdict	{W}{B}		Sorcery		Target player discards two cards. You gain 3 life for each land card discarded this way.		
+Glade Gnarr	{5}{G}		Creature	Beast	Whenever a player casts a blue spell, Glade Gnarr gets +2/+2 until end of turn.	4	4
+Goblin Legionnaire	{R}{W}		Creature	Goblin,Soldier	{R}, Sacrifice Goblin Legionnaire: Goblin Legionnaire deals 2 damage to target creature or player.|{W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to target creature or player this turn.	2	2
+Goblin Ringleader	{3}{R}		Creature	Goblin	Haste|When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.	2	2
+Goblin Trenches	{1}{R}{W}		Enchantment		{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens onto the battlefield.		
+Grave Defiler	{3}{B}		Creature	Zombie	When Grave Defiler enters the battlefield, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library in any order.|{1}{B}: Regenerate Grave Defiler.	2	1
+Guided Passage	{U}{R}{G}		Sorcery		Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle your library.		
+Haunted Angel	{2}{W}		Creature	Angel	Flying|When Haunted Angel dies, exile Haunted Angel and each other player puts a 3/3 black Angel creature token with flying onto the battlefield.	3	3
+Helionaut	{2}{W}		Creature	Human,Soldier	Flying|{1}, {T}: Add one mana of any color to your mana pool.	1	2
+Fire // Ice (Ice)	{1}{U}		Instant		Tap target permanent.|Draw a card.		
+Ice Cave	{3}{U}{U}		Enchantment		Whenever a player casts a spell, any other player may pay that spell's mana cost. If a player does, counter the spell. (Mana cost includes color.)		
+Illuminate	{X}{R}		Sorcery		Kicker {2}{R} and/or {3}{U} (You may pay an additional {2}{R} and/or {3}{U} as you cast this spell.)|Illuminate deals X damage to target creature. If Illuminate was kicked with its {2}{R} kicker, it deals X damage to that creature's controller. If Illuminate was kicked with its {3}{U} kicker, you draw X cards.		
+Illusion // Reality (Illusion)	{U}		Instant		Target spell or permanent becomes the color of your choice until end of turn.|		
+Index	{U}		Sorcery		Look at the top five cards of your library, then put them back in any order.		
+Jaded Response	{1}{U}		Instant		Counter target spell if it shares a color with a creature you control.		
+Jilt	{1}{U}		Instant		Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)|Return target creature to its owner's hand. If Jilt was kicked, it deals 2 damage to another target creature.		
+Jungle Barrier	{2}{G}{U}		Creature	Plant,Wall	Defender (This creature can't attack.)|When Jungle Barrier enters the battlefield, draw a card.	2	6
+Kavu Glider	{2}{R}		Creature	Kavu	{W}: Kavu Glider gets +0/+1 until end of turn.|{U}: Kavu Glider gains flying until end of turn.	2	1
+Kavu Howler	{4}{G}{G}		Creature	Kavu	When Kavu Howler enters the battlefield, reveal the top four cards of your library. Put all Kavu cards revealed this way into your hand and the rest on the bottom of your library in any order.	4	5
+Kavu Mauler	{4}{G}{G}		Creature	Kavu	Trample|Whenever Kavu Mauler attacks, it gets +1/+1 until end of turn for each other attacking Kavu.	4	4
+Last Caress	{2}{B}		Sorcery		Target player loses 1 life and you gain 1 life.||Draw a card.		
+Last Stand	{W}{U}{B}{R}{G}		Sorcery		Target opponent loses 2 life for each Swamp you control. Last Stand deals damage equal to the number of Mountains you control to target creature. Put a 1/1 green Saproling creature token onto the battlefield for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.		
+Lay of the Land	{G}		Sorcery		Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.		
+Legacy Weapon	{7}	Legendary	Artifact		{W}{U}{B}{R}{G}: Exile target permanent.|If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.		
+Life // Death (Life)	{G}		Sorcery		All lands you control become 1/1 creatures until end of turn. They're still lands.|		
+Lightning Angel	{1}{R}{W}{U}		Creature	Angel	Flying, vigilance, haste	3	4
+Living Airship	{3}{U}		Creature	Metathran	Flying|{2}{G}: Regenerate Living Airship.	2	3
+Llanowar Dead	{B}{G}		Creature	Zombie,Elf	{T}: Add {B} to your mana pool.	2	2
+Llanowar Wastes			Land		{T}: Add {1} to your mana pool.|{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.		
+Manacles of Decay	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack.|{B}: Enchanted creature gets -1/-1 until end of turn.|{R}: Enchanted creature can't block this turn.		
+Martyrs' Tomb	{2}{W}{B}		Enchantment		Pay 2 life: Prevent the next 1 damage that would be dealt to target creature this turn.		
+Mask of Intolerance	{2}		Artifact		At the beginning of each player's upkeep, if there are four or more basic land types among lands that player controls, Mask of Intolerance deals 3 damage to him or her.		
+Mind Extraction	{2}{B}		Sorcery		As an additional cost to cast Mind Extraction, sacrifice a creature.|Target player reveals his or her hand and discards all cards of each of the sacrificed creature's colors.		
+Minotaur Illusionist	{3}{U}{R}		Creature	Minotaur,Wizard	{1}{U}: Minotaur Illusionist gains shroud until end of turn. (It can't be the target of spells or abilities.)|{R}, Sacrifice Minotaur Illusionist: Minotaur Illusionist deals damage equal to its power to target creature.	3	4
+Minotaur Tactician	{3}{R}		Creature	Minotaur	Haste|Minotaur Tactician gets +1/+1 as long as you control a white creature.|Minotaur Tactician gets +1/+1 as long as you control a blue creature.	1	1
+Mournful Zombie	{2}{B}		Creature	Zombie	{W}, {T}: Target player gains 1 life.	2	1
+Mystic Snake	{1}{G}{U}{U}		Creature	Snake	Flash (You may cast this spell any time you could cast an instant.)|When Mystic Snake enters the battlefield, counter target spell.	2	2
+Necra Disciple	{B}		Creature	Human,Wizard	{G}, {T}: Add one mana of any color to your mana pool.|{W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.	1	1
+Necra Sanctuary	{2}{B}		Enchantment		At the beginning of your upkeep, if you control a green or white permanent, target player loses 1 life. If you control a green permanent and a white permanent, that player loses 3 life instead.		
+Necravolver	{2}{B}		Creature	Volver	Kicker {1}{G} and/or {W} (You may pay an additional {1}{G} and/or {W} as you cast this spell.)|If Necravolver was kicked with its {1}{G} kicker, it enters the battlefield with two +1/+1 counters on it and with trample.|If Necravolver was kicked with its {W} kicker, it enters the battlefield with a +1/+1 counter on it and with 'Whenever Necravolver deals damage, you gain that much life.'	2	2
+Night // Day (Night)	{B}		Instant		Target creature gets -1/-1 until end of turn.|		
+Order // Chaos (Order)	{3}{W}		Instant		Exile target attacking creature.|		
+Orim's Thunder	{2}{W}		Instant		Kicker {R} (You may pay an additional {R} as you cast this spell.)|Destroy target artifact or enchantment. If Orim's Thunder was kicked, it deals damage equal to that permanent's converted mana cost to target creature.		
+Overgrown Estate	{B}{G}{W}		Enchantment		Sacrifice a land: You gain 3 life.		
+Penumbra Bobcat	{2}{G}		Creature	Cat	When Penumbra Bobcat dies, put a 2/1 black Cat creature token onto the battlefield.	2	1
+Penumbra Kavu	{4}{G}		Creature	Kavu	When Penumbra Kavu dies, put a 3/3 black Kavu creature token onto the battlefield.	3	3
+Penumbra Wurm	{5}{G}{G}		Creature	Wurm	Trample|When Penumbra Wurm dies, put a 6/6 black Wurm creature token with trample onto the battlefield.	6	6
+Pernicious Deed	{1}{B}{G}		Enchantment		{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.		
+Phyrexian Arena	{1}{B}{B}		Enchantment		At the beginning of your upkeep, you draw a card and you lose 1 life.		
+Phyrexian Gargantua	{4}{B}{B}		Creature	Horror	When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.	4	4
+Phyrexian Rager	{2}{B}		Creature	Horror	When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.	2	2
+Planar Despair	{3}{B}{B}		Sorcery		Domain - All creatures get -1/-1 until end of turn for each basic land type among lands you control.		
+Powerstone Minefield	{2}{R}{W}		Enchantment		Whenever a creature attacks or blocks, Powerstone Minefield deals 2 damage to it.		
+Prophetic Bolt	{3}{U}{R}		Instant		Prophetic Bolt deals 4 damage to target creature or player. Look at the top four cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order.		
+Putrid Warrior	{W}{B}		Creature	Zombie,Soldier,Warrior	Whenever Putrid Warrior deals damage, choose one - Each player loses 1 life; or each player gains 1 life.	2	2
+Quagmire Druid	{2}{B}		Creature	Zombie,Druid	{G}, {T}, Sacrifice a creature: Destroy target enchantment.	2	2
+Quicksilver Dagger	{1}{U}{R}		Enchantment	Aura	Enchant creature|Enchanted creature has '{T}: This creature deals 1 damage to target player. You draw a card.'		
+Raka Disciple	{R}		Creature	Minotaur,Wizard	{W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.|{U}, {T}: Target creature gains flying until end of turn.	1	1
+Raka Sanctuary	{2}{R}		Enchantment		At the beginning of your upkeep, if you control a white or blue permanent, Raka Sanctuary deals 1 damage to target creature. If you control a white permanent and a blue permanent, Raka Sanctuary deals 3 damage to that creature instead.		
+Rakavolver	{2}{R}		Creature	Volver	Kicker {1}{W} and/or {U} (You may pay an additional {1}{W} and/or {U} as you cast this spell.)|If Rakavolver was kicked with its {1}{W} kicker, it enters the battlefield with two +1/+1 counters on it and with 'Whenever Rakavolver deals damage, you gain that much life.'|If Rakavolver was kicked with its {U} kicker, it enters the battlefield with a +1/+1 counter on it and with flying.	2	2
+Razorfin Hunter	{U}{R}		Creature	Merfolk,Goblin	{T}: Razorfin Hunter deals 1 damage to target creature or player.	1	1
+Illusion // Reality (Reality)	{2}{G}		Instant		Destroy target artifact.		
+Reef Shaman	{U}		Creature	Merfolk,Shaman	{T}: Target land becomes the basic land type of your choice until end of turn.	0	2
+Savage Gorilla	{4}{G}		Creature	Ape	{U}{B}, {T}, Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.	3	3
+Shield of Duty and Reason	{W}		Enchantment	Aura	Enchant creature|Enchanted creature has protection from green and from blue.		
+Shimmering Mirage	{1}{U}		Instant		Target land becomes the basic land type of your choice until end of turn.|Draw a card.		
+Shivan Reef			Land		{T}: Add {1} to your mana pool.|{T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.		
+Smash	{2}{R}		Instant		Destroy target artifact.|Draw a card.		
+Soul Link	{1}{W}{B}		Enchantment	Aura	Enchant creature|Whenever enchanted creature deals damage, you gain that much life.|Whenever enchanted creature is dealt damage, you gain that much life.		
+Spectral Lynx	{1}{W}		Creature	Cat,Spirit	Protection from green|{B}: Regenerate Spectral Lynx.	2	1
+Spiritmonger	{3}{B}{G}		Creature	Beast	Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.|{B}: Regenerate Spiritmonger.|{G}: Spiritmonger becomes the color of your choice until end of turn.	6	6
+Squee's Embrace	{R}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2.|When enchanted creature dies, return that card to its owner's hand.		
+Squee's Revenge	{1}{U}{R}		Sorcery		Choose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip.		
+Standard Bearer	{1}{W}		Creature	Human,Flagbearer	While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.	1	1
+Strength of Night	{2}{G}		Instant		Kicker {B} (You may pay an additional {B} as you cast this spell.)|Creatures you control get +1/+1 until end of turn. If Strength of Night was kicked, Zombie creatures you control get an additional +2/+2 until end of turn.		
+Suffocating Blast	{1}{U}{U}{R}		Instant		Counter target spell and Suffocating Blast deals 3 damage to target creature.		
+Suppress	{2}{B}		Sorcery		Target player exiles all cards from his or her hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to his or her hand.		
+Sylvan Messenger	{3}{G}		Creature	Elf	Trample|When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.	2	2
+Symbiotic Deployment	{2}{G}		Enchantment		Skip your draw step.||{1}, Tap two untapped creatures you control: Draw a card.		
+Tahngarth's Glare	{R}		Sorcery		Look at the top three cards of target opponent's library, then put them back in any order. That player looks at the top three cards of your library, then puts them back in any order.		
+Temporal Spring	{1}{G}{U}		Sorcery		Put target permanent on top of its owner's library.		
+Tidal Courier	{3}{U}		Creature	Merfolk	When Tidal Courier enters the battlefield, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library in any order.|{3}{U}: Tidal Courier gains flying until end of turn.	1	2
+Tranquil Path	{4}{G}		Sorcery		Destroy all enchantments.||Draw a card.		
+Tundra Kavu	{2}{R}		Creature	Kavu	{T}: Target land becomes a Plains or an Island until end of turn.	2	2
+Unnatural Selection	{1}{U}		Enchantment		{1}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.		
+Urborg Elf	{1}{G}		Creature	Elf,Druid	{T}: Add {G}, {U}, or {B} to your mana pool.	1	1
+Urborg Uprising	{4}{B}		Sorcery		Return up to two target creature cards from your graveyard to your hand.||Draw a card.		
+Vindicate	{1}{W}{B}		Sorcery		Destroy target permanent.		
+Vodalian Mystic	{1}{U}		Creature	Merfolk,Wizard	{T}: Target instant or sorcery spell becomes the color of your choice.	1	1
+Whirlpool Drake	{3}{U}		Creature	Drake	Flying|When Whirlpool Drake enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.|When Whirlpool Drake dies, shuffle the cards from your hand into your library, then draw that many cards.	2	2
+Whirlpool Rider	{1}{U}		Creature	Merfolk	When Whirlpool Rider enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.	1	1
+Whirlpool Warrior	{2}{U}		Creature	Merfolk,Warrior	When Whirlpool Warrior enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.|{R}, Sacrifice Whirlpool Warrior: Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.	2	2
+Wild Research	{2}{R}		Enchantment		{1}{W}: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.|{1}{U}: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.		
+Yavimaya Coast			Land		{T}: Add {1} to your mana pool.|{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.		
+Yavimaya's Embrace	{5}{G}{U}{U}		Enchantment	Aura	Enchant creature|You control enchanted creature.|Enchanted creature gets +2/+2 and has trample.		
+Zombie Boa	{4}{B}		Creature	Zombie,Snake	{1}{B}: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate this ability only any time you could cast a sorcery.	3	3

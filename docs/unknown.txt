@@ -1,0 +1,18 @@
+115.2c
+
+spells with multiple modes that fizzle cause of missed targeting (cryptic command w/ spell and draw)
+
+110.6d Only permanents have status. Cards not on the battlefield do not. Although an exiled card may be face down, this has no correlation to the face-down status of a permanent. Similarly, cards not on the battlefield are neither tapped nor untapped, regardless of their physical state.
+
+
+406.3. Exiled cards are, by default, kept face up and may be examined by any player at any time. Cards "exiled face down" can't be examined by any player except when instructions allow it. However, once a player is allowed to look at a card exiled face down, that player may continue to look at that card as long as it remains exiled, even if the instruction allowing the player to do so no longer applies. A card exiled face down has no characteristics, but the spell or ability that exiled it may allow it to be played from exile. Unless that card is being cast face down (see rule 707.4), the card is turned face up just before the player announces that he or she is playing the card (see rule 601.2).
+
+Linked Abilities
+
+do exiled spells have controllers -- stealing exiled objects, exiling into your zone
+ under certain circumstances, a player can activate mana abilities even if he or she doesn't have priority. See rule 605, "Mana Abilities."
+ 
+ ability vs effects
+ 
+ 
+invalidating casting cost - sac banisher priest

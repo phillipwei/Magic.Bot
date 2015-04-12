@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9678661B-1E8B-482D-BECD-88B1C2DE582E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Magic.Core</RootNamespace>
+    <AssemblyName>Magic.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ability.cs" />
+    <Compile Include="Exceptions\InvalidStateException.cs" />
+    <Compile Include="GameActions\CompoundGameAction.cs" />
+    <Compile Include="GameAction.cs" />
+    <Compile Include="Agent.cs" />
+    <Compile Include="Battlefield.cs" />
+    <Compile Include="Block.cs" />
+    <Compile Include="Card.cs" />
+    <Compile Include="CardDefinition.cs" />
+    <Compile Include="Choice.cs" />
+    <Compile Include="Copy.cs" />
+    <Compile Include="Counter.cs" />
+    <Compile Include="Effect.cs" />
+    <Compile Include="Emblem.cs" />
+    <Compile Include="Engine.cs" />
+    <Compile Include="Exile.cs" />
+    <Compile Include="Formatting.cs" />
+    <Compile Include="GameActions\DrawCard.cs" />
+    <Compile Include="GameActions\IncrementTurnNumber.cs" />
+    <Compile Include="GameActions\KeepStartingHand.cs" />
+    <Compile Include="GameActions\Mulligan.cs" />
+    <Compile Include="GameActions\PassPriority.cs" />
+    <Compile Include="GameActions\PlayCardAction.cs" />
+    <Compile Include="GameActions\PlayerChoice.cs" />
+    <Compile Include="GameActions\PlayerGameAction.cs" />
+    <Compile Include="GameActions\SetAction.cs" />
+    <Compile Include="GameActions\SetLifeTotal.cs" />
+    <Compile Include="GameActions\SetToAction.cs" />
+    <Compile Include="GameActions\SetValueForPlayer.cs" />
+    <Compile Include="GameActions\ShuffleLibrary.cs" />
+    <Compile Include="GameActions\Untap.cs" />
+    <Compile Include="GameEvent.cs" />
+    <Compile Include="Graveyard.cs" />
+    <Compile Include="Hand.cs" />
+    <Compile Include="HeadsOrTails.cs" />
+    <Compile Include="ICharacteristic.cs" />
+    <Compile Include="IDuplicatable.cs" />
+    <Compile Include="IO.cs" />
+    <Compile Include="LastKnownInformation.cs" />
+    <Compile Include="Library.cs" />
+    <Compile Include="ManaCost.cs" />
+    <Compile Include="GameState.cs" />
+    <Compile Include="Color.cs" />
+    <Compile Include="Deck.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="ManaCostFragment.cs" />
+    <Compile Include="ManaCostType.cs" />
+    <Compile Include="ManaFragment.cs" />
+    <Compile Include="ManaPool.cs" />
+    <Compile Include="ManaRestriction.cs" />
+    <Compile Include="ManaType.cs" />
+    <Compile Include="Notification.cs" />
+    <Compile Include="Object.cs" />
+    <Compile Include="ObjectFactory.cs" />
+    <Compile Include="Permanent.cs" />
+    <Compile Include="Phase.cs" />
+    <Compile Include="PhaseStep.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="PlayerState.cs" />
+    <Compile Include="PlayerZone.cs" />
+    <Compile Include="Rarity.cs" />
+    <Compile Include="ReversibleShuffle.cs" />
+    <Compile Include="RNG.cs" />
+    <Compile Include="Rules.cs" />
+    <Compile Include="SetAndRarity.cs" />
+    <Compile Include="Sideboard.cs" />
+    <Compile Include="Spell.cs" />
+    <Compile Include="Stack.cs" />
+    <Compile Include="StartState.cs" />
+    <Compile Include="StartStateStatus.cs" />
+    <Compile Include="StateBasedAction.cs" />
+    <Compile Include="Status.cs" />
+    <Compile Include="Step.cs" />
+    <Compile Include="SubType.cs" />
+    <Compile Include="CardType.cs" />
+    <Compile Include="OldCard.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Set.cs" />
+    <Compile Include="SuperType.cs" />
+    <Compile Include="TemporaryZone.cs" />
+    <Compile Include="Token.cs" />
+    <Compile Include="TurnBasedAction.cs" />
+    <Compile Include="Zone.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\Decks\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\Sets\M11.tsv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Sets\M14.tsv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Sets\ReturnToRavnica.tsv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Sets\Gatecrash.tsv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Sets\DragonsMaze.tsv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Sets\Theros.tsv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

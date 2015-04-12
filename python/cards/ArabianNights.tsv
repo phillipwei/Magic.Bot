@@ -1,0 +1,79 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abu Ja'far	{W}		Creature	Human	When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.	0	1
+Aladdin	{2}{R}{R}		Creature	Human,Rogue	{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.	1	1
+Aladdin's Lamp	{10}		Artifact		{X}, {T}: The next time you would draw a card this turn, instead look at the top X cards of your library, put all but one of them on the bottom of your library in a random order, then draw a card. X can't be 0.		
+Aladdin's Ring	{8}		Artifact		{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.		
+Ali Baba	{R}		Creature	Human,Rogue	{R}: Tap target Wall.	1	1
+Ali from Cairo	{2}{R}{R}		Creature	Human	Damage that would reduce your life total to less than 1 reduces it to 1 instead.	0	1
+Army of Allah	{1}{W}{W}		Instant		Attacking creatures get +2/+0 until end of turn.		
+Bazaar of Baghdad			Land		{T}: Draw two cards, then discard three cards.		
+Bird Maiden	{2}{R}		Creature	Human,Bird	Flying	1	2
+Bottle of Suleiman	{4}		Artifact		{1}, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.		
+Brass Man	{1}		Artifact,Creature	Construct	Brass Man doesn't untap during your untap step.|At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.	1	3
+Camel	{W}		Creature	Camel	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)|As long as Camel is attacking, prevent all damage Deserts would deal to Camel and to creatures banded with Camel.	0	1
+City in a Bottle	{2}		Artifact		Whenever a nontoken permanent originally printed in the Arabian Nights expansion other than City in a Bottle is on the battlefield, its controller sacrifices it.|Players can't play cards originally printed in the Arabian Nights expansion.		
+City of Brass			Land		Whenever City of Brass becomes tapped, it deals 1 damage to you.|{T}: Add one mana of any color to your mana pool.		
+Cuombajj Witches	{B}{B}		Creature	Human,Wizard	{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.	1	3
+Cyclone	{2}{G}{G}		Enchantment		At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.		
+Dancing Scimitar	{4}		Artifact,Creature	Spirit	Flying (This creature can't be blocked except by creatures with flying or reach.)	1	5
+Dandân	{U}{U}		Creature	Fish	Dandân can't attack unless defending player controls an Island.|When you control no Islands, sacrifice Dandân.	4	1
+Desert			Land	Desert	{T}: Add {1} to your mana pool.|{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.		
+Desert Nomads	{2}{R}		Creature	Human,Nomad	Desertwalk|Prevent all damage that would be dealt to Desert Nomads by Deserts.	2	2
+Desert Twister	{4}{G}{G}		Sorcery		Destroy target permanent.		
+Diamond Valley			Land		{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.		
+Drop of Honey	{G}		Enchantment		At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them.|When there are no creatures on the battlefield, sacrifice Drop of Honey.		
+Ebony Horse	{3}		Artifact		{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.		
+Elephant Graveyard			Land		{T}: Add {1} to your mana pool.|{T}: Regenerate target Elephant.		
+El-Hajjâj	{1}{B}{B}		Creature	Human,Wizard	Whenever El-Hajjâj deals damage, you gain that much life.	1	1
+Erg Raiders	{1}{B}		Creature	Human,Warrior	At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.	2	3
+Erhnam Djinn	{3}{G}		Creature	Djinn	At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.	4	5
+Eye for an Eye	{W}{W}		Instant		The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.		
+Fishliver Oil	{1}{U}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)		
+Flying Carpet	{4}		Artifact		{2}, {T}: Target creature gains flying until end of turn.		
+Flying Men	{U}		Creature	Human	Flying	1	1
+Ghazbán Ogre	{G}		Creature	Ogre	At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.	2	2
+Giant Tortoise	{1}{U}		Creature	Turtle	Giant Tortoise gets +0/+3 as long as it's untapped.	1	1
+Guardian Beast	{3}{B}		Creature	Beast	As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they have indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.	2	4
+Hasran Ogress	{B}{B}		Creature	Ogre	Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.	3	2
+Hurr Jackal	{R}		Creature	Hound	{T}: Target creature can't be regenerated this turn.	1	1
+Ifh-Bíff Efreet	{2}{G}{G}		Creature	Efreet	Flying|{G}: Ifh-Bíff Efreet deals 1 damage to each creature with flying and each player. Any player may activate this ability.	3	3
+Island Fish Jasconius	{4}{U}{U}{U}		Creature	Fish	Island Fish Jasconius doesn't untap during your untap step.|At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.|Island Fish Jasconius can't attack unless defending player controls an Island.|When you control no Islands, sacrifice Island Fish Jasconius.	6	8
+Island of Wak-Wak			Land		{T}: The power of target creature with flying becomes 0 until end of turn.		
+Jandor's Ring	{6}		Artifact		{2}, {T}, Discard the last card you drew this turn: Draw a card.		
+Jandor's Saddlebags	{2}		Artifact		{3}, {T}: Untap target creature.		
+Jeweled Bird	{1}		Artifact		Remove Jeweled Bird from your deck before playing if you're not playing for ante.|{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own from the ante into your graveyard, then draw a card.		
+Jihad	{W}{W}{W}		Enchantment		As Jihad enters the battlefield, choose a color and an opponent.|White creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color.|When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.		
+Junún Efreet	{1}{B}{B}		Creature	Efreet	Flying|At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.	3	3
+Juzám Djinn	{2}{B}{B}		Creature	Djinn	At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.	5	5
+Khabál Ghoul	{2}{B}		Creature	Zombie	At the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.	1	1
+King Suleiman	{1}{W}		Creature	Human	{T}: Destroy target Djinn or Efreet.	1	1
+Kird Ape	{R}		Creature	Ape	Kird Ape gets +1/+2 as long as you control a Forest.	1	1
+Library of Alexandria			Land		{T}: Add {1} to your mana pool.|{T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.		
+Magnetic Mountain	{1}{R}{R}		Enchantment		Blue creatures don't untap during their controllers' untap steps.|At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {4} for each creature chosen this way. If the player does, untap those creatures.		
+Merchant Ship	{U}		Creature	Human	Merchant Ship can't attack unless defending player controls an Island.|Whenever Merchant Ship attacks and isn't blocked, you gain 2 life.|When you control no Islands, sacrifice Merchant Ship.	0	2
+Metamorphosis	{G}		Sorcery		As an additional cost to cast Metamorphosis, sacrifice a creature.|Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.		
+Mijae Djinn	{R}{R}{R}		Creature	Djinn	Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.	6	3
+Moorish Cavalry	{2}{W}{W}		Creature	Human,Knight	Trample	3	3
+Mountain		Basic	Land	Mountain	R		
+Nafs Asp	{G}		Creature	Snake	Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays {1} before that draw step.	1	1
+Oasis			Land		{T}: Prevent the next 1 damage that would be dealt to target creature this turn.		
+Old Man of the Sea	{1}{U}{U}		Creature	Djinn	You may choose not to untap Old Man of the Sea during your untap step.|{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.	2	3
+Oubliette	{1}{B}{B}		Enchantment		When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.|When Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.		
+Piety	{2}{W}		Instant		Blocking creatures get +0/+3 until end of turn.		
+Pyramids	{6}		Artifact		{2}: Choose one - Destroy target Aura attached to a land; or the next time target land would be destroyed this turn, remove all damage marked on it instead.		
+Repentant Blacksmith	{1}{W}		Creature	Human	Protection from red	1	2
+Ring of Ma'rûf	{5}		Artifact		{5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.		
+Rukh Egg	{3}{R}		Creature	Bird	When Rukh Egg dies, put a 4/4 red Bird creature token with flying onto the battlefield at the beginning of the next end step.	0	3
+Sandals of Abdallah	{4}		Artifact		{2}, {T}: Target creature gains islandwalk until end of turn. When that creature dies this turn, destroy Sandals of Abdallah.		
+Sandstorm	{G}		Instant		Sandstorm deals 1 damage to each attacking creature.		
+Serendib Djinn	{2}{U}{U}		Creature	Djinn	Flying|At the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you.|When you control no lands, sacrifice Serendib Djinn.	5	6
+Serendib Efreet	{2}{U}		Creature	Efreet	Flying|At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.	3	4
+Shahrazad	{W}{W}		Sorcery		Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half his or her life, rounded up.		
+Sindbad	{1}{U}		Creature	Human	{T}: Draw a card and reveal it. If it isn't a land card, discard it.	1	1
+Singing Tree	{3}{G}		Creature	Plant	{T}: Target attacking creature's power becomes 0 until end of turn.	0	3
+Sorceress Queen	{1}{B}{B}		Creature	Human,Wizard	{T}: Target creature other than Sorceress Queen becomes 0/2 until end of turn.	1	1
+Stone-Throwing Devils	{B}		Creature	Devil	First strike	1	1
+Unstable Mutation	{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3.|At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.		
+War Elephant	{3}{W}		Creature	Elephant	Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	2
+Wyluli Wolf	{1}{G}		Creature	Wolf	{T}: Target creature gets +1/+1 until end of turn.	1	1
+Ydwen Efreet	{R}{R}{R}		Creature	Efreet	Whenever Ydwen Efreet blocks, flip a coin. If you lose the flip, remove Ydwen Efreet from combat and it can't block this turn. Creatures it was blocking that had become blocked by only Ydwen Efreet this combat become unblocked.	3	6

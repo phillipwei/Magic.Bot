@@ -1,0 +1,144 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abolish	{1}{W}{W}		Instant		You may discard a Plains card rather than pay Abolish's mana cost.|Destroy target artifact or enchantment.		
+Agent of Shauku	{1}{B}		Creature	Human,Mercenary	{1}{B}, Sacrifice a land: Target creature gets +2/+0 until end of turn.	1	1
+Alexi, Zephyr Mage	{3}{U}{U}	Legendary	Creature	Human,Spellshaper	{X}{U}, {T}, Discard two cards: Return X target creatures to their owners' hands.	3	3
+Alexi's Cloak	{1}{U}		Enchantment	Aura	Flash|Enchant creature|Enchanted creature has shroud. (It can't be the target of spells or abilities.)		
+Aura Fracture	{2}{W}		Enchantment		Sacrifice a land: Destroy target enchantment.		
+Avatar of Fury	{6}{R}{R}		Creature	Avatar	If an opponent controls seven or more lands, Avatar of Fury costs {6} less to cast.|Flying|{R}: Avatar of Fury gets +1/+0 until end of turn.	6	6
+Avatar of Hope	{6}{W}{W}		Creature	Avatar	If you have 3 or less life, Avatar of Hope costs {6} less to cast.|Flying|Avatar of Hope can block any number of creatures.	4	9
+Avatar of Might	{6}{G}{G}		Creature	Avatar	If an opponent controls at least four more creatures than you, Avatar of Might costs {6} less to cast.|Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)	8	8
+Avatar of Will	{6}{U}{U}		Creature	Avatar	If an opponent has no cards in hand, Avatar of Will costs {6} less to cast.|Flying	5	6
+Avatar of Woe	{6}{B}{B}		Creature	Avatar	If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.|Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|{T}: Destroy target creature. It can't be regenerated.	6	5
+Barbed Field	{2}{R}{R}		Enchantment	Aura	Enchant land|Enchanted land has '{T}: This land deals 1 damage to target creature or player.'		
+Blessed Wind	{7}{W}{W}		Sorcery		Target player's life total becomes 20.		
+Bog Elemental	{3}{B}{B}		Creature	Elemental	Protection from white|At the beginning of your upkeep, sacrifice Bog Elemental unless you sacrifice a land.	5	4
+Bog Glider	{2}{B}		Creature	Human,Mercenary	Flying|{T}, Sacrifice a land: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.	1	1
+Branded Brawlers	{R}		Creature	Human,Soldier	Branded Brawlers can't attack if defending player controls an untapped land.|Branded Brawlers can't block if you control an untapped land.	2	2
+Brutal Suppression	{R}		Enchantment		Activated abilities of nontoken Rebels cost an additional 'Sacrifice a land' to activate.		
+Calming Verse	{3}{G}		Sorcery		Destroy all enchantments you don't control. Then, if you control an untapped land, destroy all enchantments you control.		
+Celestial Convergence	{2}{W}{W}		Enchantment		Celestial Convergence enters the battlefield with seven omen counters on it.|At the beginning of your upkeep, remove an omen counter from Celestial Convergence. If there are no omen counters on Celestial Convergence, the player with the highest life total wins the game. If two or more players are tied for highest life total, the game is a draw.		
+Chilling Apparition	{2}{B}		Creature	Spirit	{B}: Regenerate Chilling Apparition.|Whenever Chilling Apparition deals combat damage to a player, that player discards a card.	1	1
+Chimeric Idol	{3}		Artifact		{0}: Tap all lands you control. Chimeric Idol becomes a 3/3 Turtle artifact creature until end of turn.		
+Citadel of Pain	{2}{R}		Enchantment		At the beginning of each player's end step, Citadel of Pain deals X damage to that player, where X is the number of untapped lands he or she controls.		
+Coastal Hornclaw	{4}{U}		Creature	Bird	Sacrifice a land: Coastal Hornclaw gains flying until end of turn.	3	3
+Coffin Puppets	{3}{B}{B}		Creature	Zombie	Sacrifice two lands: Return Coffin Puppets from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control a Swamp.	3	3
+Copper-Leaf Angel	{5}		Artifact,Creature	Angel	Flying|{T}, Sacrifice X lands: Put X +1/+1 counters on Copper-Leaf Angel.	2	2
+Darba	{3}{G}		Creature	Bird,Beast	At the beginning of your upkeep, sacrifice Darba unless you pay {G}{G}.	5	4
+Death Charmer	{2}{B}		Creature	Worm,Mercenary	Whenever Death Charmer deals combat damage to a creature, that creature's controller loses 2 life unless he or she pays {2}.	2	2
+Denying Wind	{7}{U}{U}		Sorcery		Search target player's library for up to seven cards and exile them. Then that player shuffles his or her library.		
+Despoil	{3}{B}		Sorcery		Destroy target land. Its controller loses 2 life.		
+Devastate	{3}{R}{R}		Sorcery		Destroy target land. Devastate deals 1 damage to each creature and each player.		
+Diving Griffin	{1}{W}{W}		Creature	Griffin	Flying, vigilance	2	2
+Dual Nature	{4}{G}{G}		Enchantment		Whenever a nontoken creature enters the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.|Whenever a nontoken creature leaves the battlefield, exile all tokens with the same name as that creature.|When Dual Nature leaves the battlefield, exile all tokens put onto the battlefield with Dual Nature.		
+Elephant Resurgence	{1}{G}		Sorcery		Each player puts a green Elephant creature token onto the battlefield. Those creatures have 'This creature's power and toughness are each equal to the number of creature cards in its controller's graveyard.'		
+Endbringer's Revel	{2}{B}		Enchantment		{4}: Return target creature card from a graveyard to its owner's hand. Any player may activate this ability but only any time he or she could cast a sorcery.		
+Entangler	{2}{W}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can block any number of creatures.		
+Excavation	{1}{U}		Enchantment		{1}, Sacrifice a land: Draw a card. Any player may activate this ability.		
+Excise	{X}{W}		Instant		Exile target attacking creature unless its controller pays {X}.		
+Fault Riders	{2}{R}		Creature	Human,Soldier	Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end of turn. Activate this ability only once each turn.	2	2
+Fen Stalker	{3}{B}		Creature	Nightstalker	Fen Stalker has fear as long as you control no untapped lands. (It can't be blocked except by artifact creatures and/or black creatures.)	3	2
+Fickle Efreet	{3}{R}		Creature	Efreet	Whenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet.	5	2
+Flameshot	{3}{R}		Sorcery		You may discard a Mountain card rather than pay Flameshot's mana cost.|Flameshot deals 3 damage divided as you choose among one, two, or three target creatures.		
+Flay	{3}{B}		Sorcery		Target player discards a card at random. Then that player discards another card at random unless he or she pays {1}.		
+Flowering Field	{1}{W}		Enchantment	Aura	Enchant land|Enchanted land has '{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.'		
+Foil	{2}{U}{U}		Instant		You may discard an Island card and another card rather than pay Foil's mana cost.|Counter target spell.		
+Forgotten Harvest	{1}{G}		Enchantment		At the beginning of your upkeep, you may exile a land card from your graveyard. If you do, put a +1/+1 counter on target creature.		
+Glittering Lion	{2}{W}		Creature	Cat	Prevent all damage that would be dealt to Glittering Lion.|{3}: Until end of turn, Glittering Lion loses 'Prevent all damage that would be dealt to Glittering Lion.' Any player may activate this ability.	2	2
+Glittering Lynx	{W}		Creature	Cat	Prevent all damage that would be dealt to Glittering Lynx.|{2}: Until end of turn, Glittering Lynx loses 'Prevent all damage that would be dealt to Glittering Lynx.' Any player may activate this ability.	1	1
+Greel, Mind Raker	{3}{B}{B}	Legendary	Creature	Horror,Spellshaper	{X}{B}, {T}, Discard two cards: Target player discards X cards at random.	3	3
+Greel's Caress	{1}{B}		Enchantment	Aura	Flash|Enchant creature|Enchanted creature gets -3/-0.		
+Gulf Squid	{3}{U}		Creature	Squid,Beast	When Gulf Squid enters the battlefield, tap all lands target player controls.	2	2
+Hazy Homunculus	{1}{U}		Creature	Homunculus,Illusion	Hazy Homunculus can't be blocked as long as defending player controls an untapped land.	1	1
+Heightened Awareness	{3}{U}{U}		Enchantment		As Heightened Awareness enters the battlefield, discard your hand.|At the beginning of your draw step, draw an additional card.		
+Hollow Warrior	{4}		Artifact,Creature	Golem,Warrior	Hollow Warrior can't attack or block unless you tap an untapped creature you control not declared as an attacking or blocking creature this combat. (This cost is paid as attackers or blockers are declared.)	4	4
+Infernal Genesis	{4}{B}{B}		Enchantment		At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard. Then he or she puts X 1/1 black Minion creature tokens onto the battlefield, where X is that card's converted mana cost.		
+Inflame	{R}		Instant		Inflame deals 2 damage to each creature dealt damage this turn.		
+Jeweled Spirit	{3}{W}{W}		Creature	Spirit	Flying|Sacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn.	3	3
+Jolrael, Empress of Beasts	{3}{G}{G}	Legendary	Creature	Human,Spellshaper	{2}{G}, {T}, Discard two cards: All lands target player controls become 3/3 creatures until end of turn. They're still lands.	3	3
+Jolrael's Favor	{1}{G}		Enchantment	Aura	Flash|Enchant creature|{1}{G}: Regenerate enchanted creature.		
+Keldon Arsonist	{2}{R}		Creature	Human,Soldier	{1}, Sacrifice two lands: Destroy target land.	1	1
+Keldon Battlewagon	{5}		Artifact,Creature	Juggernaut	Trample|Keldon Battlewagon can't block.|When Keldon Battlewagon attacks, sacrifice it at end of combat.|Tap an untapped creature you control: Keldon Battlewagon gets +X/+0 until end of turn, where X is the power of the creature tapped this way.	0	3
+Keldon Berserker	{3}{R}		Creature	Human,Soldier,Berserker	Whenever Keldon Berserker attacks, if you control no untapped lands, it gets +3/+0 until end of turn.	2	3
+Keldon Firebombers	{3}{R}{R}		Creature	Human,Soldier	When Keldon Firebombers enters the battlefield, each player sacrifices all lands he or she controls except for three.	3	3
+Latulla, Keldon Overseer	{3}{R}{R}	Legendary	Creature	Human,Spellshaper	{X}{R}, {T}, Discard two cards: Latulla, Keldon Overseer deals X damage to target creature or player.	3	3
+Latulla's Orders	{1}{R}		Enchantment	Aura	Flash|Enchant creature|Whenever enchanted creature deals combat damage to defending player, you may destroy target artifact that player controls.		
+Lesser Gargadon	{2}{R}{R}		Creature	Beast	Whenever Lesser Gargadon attacks or blocks, sacrifice a land.	6	4
+Living Terrain	{2}{G}{G}		Enchantment	Aura	Enchant land|Enchanted land is a 5/6 green Treefolk creature that's still a land.		
+Mageta the Lion	{3}{W}{W}	Legendary	Creature	Human,Spellshaper	{2}{W}{W}, {T}, Discard two cards: Destroy all creatures except for Mageta the Lion. Those creatures can't be regenerated.	3	3
+Mageta's Boon	{1}{W}		Enchantment	Aura	Flash|Enchant creature|Enchanted creature gets +1/+2.		
+Mana Vapors	{1}{U}		Sorcery		Lands target player controls don't untap during his or her next untap step.		
+Marsh Boa	{G}		Creature	Snake	Swampwalk	1	1
+Mercenary Informer	{2}{W}		Creature	Human,Rebel,Mercenary	Mercenary Informer can't be the target of black spells or abilities from black sources.|{2}{W}: Put target nontoken Mercenary on the bottom of its owner's library.	2	1
+Mine Bearer	{2}{W}		Creature	Human,Soldier	{T}, Sacrifice Mine Bearer: Destroy target attacking creature.	1	1
+Mirror Strike	{3}{W}		Instant		All combat damage that would be dealt to you this turn by target unblocked creature is dealt to its controller instead.		
+Mungha Wurm	{2}{G}{G}		Creature	Wurm	You can't untap more than one land during your untap step.	6	5
+Nakaya Shade	{1}{B}		Creature	Shade	{B}: Nakaya Shade gets +1/+1 until end of turn unless any player pays {2}.	1	1
+Noxious Field	{1}{B}{B}		Enchantment	Aura	Enchant land|Enchanted land has '{T}: This land deals 1 damage to each creature and each player.'		
+Outbreak	{3}{B}		Sorcery		You may discard a Swamp card rather than pay Outbreak's mana cost.|Choose a creature type. All creatures of that type get -1/-1 until end of turn.		
+Overburden	{1}{U}		Enchantment		Whenever a player puts a nontoken creature onto the battlefield, that player returns a land he or she controls to its owner's hand.		
+Panic Attack	{2}{R}		Sorcery		Up to three target creatures can't block this turn.		
+Pit Raptor	{2}{B}{B}		Creature	Bird,Mercenary	Flying, first strike|At the beginning of your upkeep, sacrifice Pit Raptor unless you pay {2}{B}{B}.	4	3
+Plague Fiend	{1}{B}		Creature	Insect	Whenever Plague Fiend deals combat damage to a creature, destroy that creature unless its controller pays {2}.	1	1
+Plague Wind	{7}{B}{B}		Sorcery		Destroy all creatures you don't control. They can't be regenerated.		
+Psychic Theft	{1}{U}		Sorcery		Target player reveals his or her hand. You choose an instant or sorcery card from it and exile that card. You may cast that card for as long as it remains exiled. At the beginning of the next end step, if you haven't cast the card, return it to its owner's hand.		
+Pygmy Razorback	{1}{G}		Creature	Boar	Trample	2	1
+Quicksilver Wall	{2}{U}		Creature	Wall	Defender (This creature can't attack.)|{4}: Return Quicksilver Wall to its owner's hand. Any player may activate this ability.	1	6
+Rebel Informer	{2}{B}		Creature	Human,Mercenary,Rebel	Rebel Informer can't be the target of white spells or abilities from white sources.|{3}: Put target nontoken Rebel on the bottom of its owner's library.	1	2
+Rethink	{2}{U}		Instant		Counter target spell unless its controller pays {X}, where X is its converted mana cost.		
+Reveille Squad	{2}{W}{W}		Creature	Human,Rebel	Whenever one or more creatures attack you, if Reveille Squad is untapped, you may untap all creatures you control.	3	3
+Rhystic Cave			Land		{T}: Choose a color. Add one mana of that color to your mana pool unless any player pays {1}. Activate this ability only any time you could cast an instant.		
+Rhystic Circle	{2}{W}{W}		Enchantment		{1}: Any player may pay {1}. If no one does, the next time a source of your choice would deal damage to you this turn, prevent that damage.		
+Rhystic Deluge	{2}{U}		Enchantment		{U}: Tap target creature unless its controller pays {1}.		
+Rhystic Lightning	{2}{R}		Instant		Rhystic Lightning deals 4 damage to target creature or player unless that creature's controller or that player pays {2}. If he or she does, Rhystic Lightning deals 2 damage to the creature or player.		
+Rhystic Scrying	{2}{U}{U}		Sorcery		Draw three cards. Then, if any player pays {2}, discard three cards.		
+Rhystic Shield	{1}{W}		Instant		Creatures you control get +0/+1 until end of turn. They get an additional +0/+2 until end of turn unless any player pays {2}.		
+Rhystic Study	{2}{U}		Enchantment		Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.		
+Rhystic Syphon	{3}{B}{B}		Sorcery		Unless target player pays {3}, he or she loses 5 life and you gain 5 life.		
+Rhystic Tutor	{2}{B}		Sorcery		Unless any player pays {2}, search your library for a card, put that card into your hand, then shuffle your library.		
+Rib Cage Spider	{2}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)	1	4
+Ribbon Snake	{1}{U}{U}		Creature	Snake	Flying|{2}: Ribbon Snake loses flying until end of turn. Any player may activate this ability.	2	3
+Ridgeline Rager	{2}{R}		Creature	Beast	{R}: Ridgeline Rager gets +1/+0 until end of turn.	1	2
+Root Cage	{1}{G}		Enchantment		Mercenaries don't untap during their controllers' untap steps.		
+Samite Sanctuary	{2}{W}		Enchantment		{2}: Prevent the next 1 damage that would be dealt to target creature this turn. Any player may activate this ability.		
+Scoria Cat	{3}{R}{R}		Creature	Cat	Scoria Cat gets +3/+3 as long as you control no untapped lands.	3	3
+Search for Survivors	{2}{R}		Sorcery		Reorder your graveyard at random. An opponent chooses a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, exile it.		
+Searing Wind	{8}{R}		Instant		Searing Wind deals 10 damage to target creature or player.		
+Sheltering Prayers	{W}		Enchantment		Basic lands each player controls have shroud as long as that player controls three or fewer lands. (They can't be the targets of spells or abilities.)		
+Shield Dancer	{2}{W}		Creature	Human,Rebel	{2}{W}: The next time target attacking creature would deal combat damage to Shield Dancer this turn, that creature deals that damage to itself instead.	1	3
+Shrouded Serpent	{4}{U}{U}{U}		Creature	Serpent	Whenever Shrouded Serpent attacks, defending player may pay {4}. If he or she doesn't, Shrouded Serpent can't be blocked this turn.	4	4
+Silt Crawler	{2}{G}		Creature	Beast	When Silt Crawler enters the battlefield, tap all lands you control.	3	3
+Snag	{3}{G}		Instant		You may discard a Forest card rather than pay Snag's mana cost.|Prevent all combat damage that would be dealt by unblocked creatures this turn.		
+Soul Charmer	{2}{W}		Creature	Human,Rebel	Whenever Soul Charmer deals combat damage to a creature, you gain 2 life unless that creature's controller pays {2}.	2	2
+Soul Strings	{X}{B}		Sorcery		Return two target creature cards from your graveyard to your hand unless any player pays {X}.		
+Spiketail Drake	{3}{U}{U}		Creature	Drake	Flying|Sacrifice Spiketail Drake: Counter target spell unless its controller pays {3}.	3	3
+Spiketail Hatchling	{1}{U}		Creature	Drake	Flying (This creature can't be blocked except by creatures with flying or reach.)|Sacrifice Spiketail Hatchling: Counter target spell unless its controller pays {1}.	1	1
+Spitting Spider	{3}{G}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)|Sacrifice a land: Spitting Spider deals 1 damage to each creature with flying.	3	5
+Spore Frog	{G}		Creature	Frog	Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.	1	1
+Spur Grappler	{2}{R}		Creature	Beast	Spur Grappler gets +2/+1 as long as you control no untapped lands.	2	1
+Squirrel Wrangler	{2}{G}{G}		Creature	Human,Druid	{1}{G}, Sacrifice a land: Put two 1/1 green Squirrel creature tokens onto the battlefield.|{1}{G}, Sacrifice a land: Squirrel creatures get +1/+1 until end of turn.	2	2
+Steal Strength	{1}{B}		Instant		Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.		
+Stormwatch Eagle	{3}{U}		Creature	Bird	Flying|Sacrifice a land: Return Stormwatch Eagle to its owner's hand.	2	1
+Sunken Field	{1}{U}		Enchantment	Aura	Enchant land|Enchanted land has '{T}: Counter target spell unless its controller pays {1}.'		
+Sword Dancer	{1}{W}		Creature	Human,Rebel	{W}{W}: Target attacking creature gets -1/-0 until end of turn.	1	2
+Task Mage Assembly	{2}{R}		Enchantment		When there are no creatures on the battlefield, sacrifice Task Mage Assembly.|{2}: Task Mage Assembly deals 1 damage to target creature. Any player may activate this ability but only any time he or she could cast a sorcery.		
+Thresher Beast	{3}{G}{G}		Creature	Beast	Whenever Thresher Beast becomes blocked, defending player sacrifices a land.	4	4
+Thrive	{X}{G}		Sorcery		Put a +1/+1 counter on each of X target creatures.		
+Trenching Steed	{3}{W}		Creature	Horse,Rebel	Sacrifice a land: Trenching Steed gets +0/+3 until end of turn.	2	3
+Troubled Healer	{2}{W}		Creature	Human,Cleric	Sacrifice a land: Prevent the next 2 damage that would be dealt to target creature or player this turn.	1	2
+Troublesome Spirit	{2}{U}{U}		Creature	Spirit	Flying|At the beginning of your end step, tap all lands you control.	3	4
+Verdant Field	{2}{G}		Enchantment	Aura	Enchant land|Enchanted land has '{T}: Target creature gets +1/+1 until end of turn.'		
+Veteran Brawlers	{1}{R}		Creature	Human,Soldier	Veteran Brawlers can't attack if defending player controls an untapped land.|Veteran Brawlers can't block if you control an untapped land.	4	4
+Vintara Elephant	{4}{G}		Creature	Elephant	Trample|{3}: Vintara Elephant loses trample until end of turn. Any player may activate this ability.	4	3
+Vintara Snapper	{G}{G}		Creature	Turtle	Vintara Snapper has shroud as long as you control no untapped lands. (It can't be the target of spells or abilities.)	2	2
+Vitalizing Wind	{8}{G}		Instant		Creatures you control get +7/+7 until end of turn.		
+Wall of Vipers	{2}{B}		Creature	Snake,Wall	Defender (This creature can't attack.)|{3}: Destroy Wall of Vipers and target creature it's blocking. Any player may activate this ability.	2	4
+Well of Discovery	{6}		Artifact		At the beginning of your end step, if you control no untapped lands, draw a card.		
+Well of Life	{4}		Artifact		At the beginning of your end step, if you control no untapped lands, you gain 2 life.		
+Whip Sergeant	{2}{R}		Creature	Human,Soldier	{R}: Target creature gains haste until end of turn. (It can attack this turn.)	2	1
+Whipstitched Zombie	{1}{B}		Creature	Zombie	At the beginning of your upkeep, sacrifice Whipstitched Zombie unless you pay {B}.	2	2
+Wild Might	{1}{G}		Instant		Target creature gets +1/+1 until end of turn. That creature gets an additional +4/+4 until end of turn unless any player pays {2}.		
+Windscouter	{3}{U}		Creature	Human,Scout	Flying|Whenever Windscouter attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)	3	3
+Wing Storm	{2}{G}		Sorcery		Wing Storm deals damage to each player equal to twice the number of creatures with flying that player controls.		
+Wintermoon Mesa			Land		Wintermoon Mesa enters the battlefield tapped.|{T}: Add {1} to your mana pool.|{2}, {T}, Sacrifice Wintermoon Mesa: Tap two target lands.		
+Withdraw	{U}{U}		Instant		Return target creature to its owner's hand. Then return another target creature to its owner's hand unless its controller pays {1}.		
+Zerapa Minotaur	{2}{R}{R}		Creature	Minotaur	First strike|{2}: Zerapa Minotaur loses first strike until end of turn. Any player may activate this ability.	3	3

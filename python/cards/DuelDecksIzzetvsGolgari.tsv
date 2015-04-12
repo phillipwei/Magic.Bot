@@ -1,0 +1,81 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Barren Moor			Land		Barren Moor enters the battlefield tapped.|{T}: Add {B} to your mana pool.|Cycling {B} ({B}, Discard this card: Draw a card.)		
+Boneyard Wurm	{1}{G}		Creature	Wurm	Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.	*	*
+Brain Weevil	{3}{B}		Creature	Insect	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)|Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.	1	1
+Brainstorm	{U}		Instant		Draw three cards, then put two cards from your hand on top of your library in any order.		
+Call to Heel	{1}{U}		Instant		Return target creature to its owner's hand. Its controller draws a card.		
+Dakmor Salvage			Land		Dakmor Salvage enters the battlefield tapped.|{T}: Add {B} to your mana pool.|Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)		
+Life // Death (Death)	{1}{B}		Sorcery		Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.		
+Dissipate	{1}{U}{U}		Instant		Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.		
+Djinn Illuminatus	{5}{U/R}{U/R}		Creature	Djinn	({U/R} can be paid with either {U} or {R}.)|Flying|Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)	3	5
+Doomgape	{4}{B/G}{B/G}{B/G}		Creature	Elemental	Trample|At the beginning of your upkeep, sacrifice a creature. You gain life equal to that creature's toughness.	10	10
+Dreg Mangler	{1}{B}{G}		Creature	Plant,Zombie	Haste|Scavenge {3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)	3	3
+Elves of Deep Shadow	{G}		Creature	Elf,Druid	{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.	1	1
+Eternal Witness	{1}{G}{G}		Creature	Human,Shaman	When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.	2	1
+Feast or Famine	{3}{B}		Instant		Choose one - Put a 2/2 black Zombie creature token onto the battlefield; or destroy target nonartifact, nonblack creature and it can't be regenerated.		
+Fire // Ice (Fire)	{1}{R}		Instant		Fire deals 2 damage divided as you choose among one or two target creatures and/or players.|		
+Force Spike	{U}		Instant		Counter target spell unless its controller pays {1}.		
+Forest		Basic	Land	Forest	G		
+Forgotten Cave			Land		Forgotten Cave enters the battlefield tapped.|{T}: Add {R} to your mana pool.|Cycling {R} ({R}, Discard this card: Draw a card.)		
+Galvanoth	{3}{R}{R}		Creature	Beast	At the beginning of your upkeep, you may look at the top card of your library. If it's an instant or sorcery card, you may cast it without paying its mana cost.	3	3
+Gelectrode	{1}{U}{R}		Creature	Weird	{T}: Gelectrode deals 1 damage to target creature or player.|Whenever you cast an instant or sorcery spell, you may untap Gelectrode.	0	1
+Ghoul's Feast	{1}{B}		Instant		Target creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.		
+Gleancrawler	{3}{B/G}{B/G}{B/G}		Creature	Insect,Horror	({B/G} can be paid with either {B} or {G}.)|Trample|At the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.	6	6
+Goblin Electromancer	{U}{R}		Creature	Goblin,Wizard	Instant and sorcery spells you cast cost {1} less to cast.	2	2
+Golgari Germination	{1}{B}{G}		Enchantment		Whenever a nontoken creature you control dies, put a 1/1 green Saproling creature token onto the battlefield.		
+Golgari Grave-Troll	{4}{G}		Creature	Skeleton,Troll	Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.|{1}, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate Golgari Grave-Troll.|Dredge 6 (If you would draw a card, instead you may put exactly six cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)	0	0
+Golgari Rot Farm			Land		Golgari Rot Farm enters the battlefield tapped.|When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.|{T}: Add {B}{G} to your mana pool.		
+Golgari Rotwurm	{3}{B}{G}		Creature	Zombie,Wurm	{B}, Sacrifice a creature: Target player loses 1 life.	5	4
+Golgari Signet	{2}		Artifact		{1}, {T}: Add {B}{G} to your mana pool.		
+Golgari Thug	{1}{B}		Creature	Human,Warrior	When Golgari Thug dies, put target creature card from your graveyard on top of your library.|Dredge 4 (If you would draw a card, instead you may put exactly four cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)	1	1
+Greater Mossdog	{3}{G}		Creature	Plant,Hound	Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)	3	3
+Grim Flowering	{5}{G}		Sorcery		Draw a card for each creature card in your graveyard.		
+Fire // Ice (Ice)	{1}{U}		Instant		Tap target permanent.|Draw a card.		
+Invoke the Firemind	{X}{U}{U}{R}		Sorcery		Choose one - Draw X cards; or Invoke the Firemind deals X damage to target creature or player.		
+Island		Basic	Land	Island	U		
+Isochron Scepter	{2}		Artifact		Imprint - When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.|{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.		
+Izzet Boilerworks			Land		Izzet Boilerworks enters the battlefield tapped.|When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.|{T}: Add {U}{R} to your mana pool.		
+Izzet Charm	{U}{R}		Instant		Choose one - Counter target noncreature spell unless its controller pays {2}; or Izzet Charm deals 2 damage to target creature; or draw two cards, then discard two cards.		
+Izzet Chronarch	{3}{U}{R}		Creature	Human,Wizard	When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.	2	2
+Izzet Guildmage	{U/R}{U/R}		Creature	Human,Wizard	({U/R} can be paid with either {U} or {R}.)|{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.|{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.	2	2
+Izzet Signet	{2}		Artifact		{1}, {T}: Add {U}{R} to your mana pool.		
+Jarad, Golgari Lich Lord	{B}{B}{G}{G}	Legendary	Creature	Zombie,Elf	Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.|{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.|Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.	2	2
+Kiln Fiend	{1}{R}		Creature	Elemental,Beast	Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.	1	2
+Korozda Guildmage	{B}{G}		Creature	Elf,Shaman	{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn.|{2}{B}{G}, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the sacrificed creature's toughness.	2	2
+Life // Death (Life)	{G}		Sorcery		All lands you control become 1/1 creatures until end of turn. They're still lands.|		
+Life from the Loam	{1}{G}		Sorcery		Return up to three target land cards from your graveyard to your hand.|Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)		
+Lonely Sandbar			Land		Lonely Sandbar enters the battlefield tapped.|{T}: Add {U} to your mana pool.|Cycling {U} ({U}, Discard this card: Draw a card.)		
+Magma Spray	{R}		Instant		Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.		
+Mountain		Basic	Land	Mountain	R		
+Nightmare Void	{3}{B}		Sorcery		Target player reveals his or her hand. You choose a card from it. That player discards that card.|Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)		
+Nivix, Aerie of the Firemind			Land		{T}: Add {1} to your mana pool.|{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery.		
+Niv-Mizzet, the Firemind	{2}{U}{U}{R}{R}	Legendary	Creature	Dragon,Wizard	Flying|Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.|{T}: Draw a card.	4	4
+Ogre Savant	{4}{R}		Creature	Ogre,Wizard	When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.	3	2
+Overwhelming Intellect	{4}{U}{U}		Instant		Counter target creature spell. Draw cards equal to that spell's converted mana cost.		
+Plagued Rusalka	{B}		Creature	Spirit	{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.	1	1
+Prophetic Bolt	{3}{U}{R}		Instant		Prophetic Bolt deals 4 damage to target creature or player. Look at the top four cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order.		
+Putrefy	{1}{B}{G}		Instant		Destroy target artifact or creature. It can't be regenerated.		
+Putrid Leech	{B}{G}		Creature	Zombie,Leech	Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.	2	2
+Pyromatics	{1}{R}		Instant		Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)|Pyromatics deals 1 damage to target creature or player.		
+Quicksilver Dagger	{1}{U}{R}		Enchantment	Aura	Enchant creature|Enchanted creature has '{T}: This creature deals 1 damage to target player. You draw a card.'		
+Ravenous Rats	{1}{B}		Creature	Rat	When Ravenous Rats enters the battlefield, target opponent discards a card.	1	1
+Reassembling Skeleton	{1}{B}		Creature	Skeleton,Warrior	{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.	1	1
+Reminisce	{2}{U}		Sorcery		Target player shuffles his or her graveyard into his or her library.		
+Sadistic Hypnotist	{3}{B}{B}		Creature	Human,Minion	Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.	2	2
+Shambling Shell	{1}{B}{G}		Creature	Plant,Zombie	Sacrifice Shambling Shell: Put a +1/+1 counter on target creature.|Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)	3	1
+Shrewd Hatchling	{3}{U/R}		Creature	Elemental	Shrewd Hatchling enters the battlefield with four -1/-1 counters on it.|{U/R}: Target creature can't block Shrewd Hatchling this turn.|Whenever you cast a blue spell, remove a -1/-1 counter from Shrewd Hatchling.|Whenever you cast a red spell, remove a -1/-1 counter from Shrewd Hatchling.	6	6
+Sphinx-Bone Wand	{7}		Artifact		Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage equal to the number of charge counters on it to target creature or player.		
+Steamcore Weird	{3}{U}		Creature	Weird	When Steamcore Weird enters the battlefield, if {R} was spent to cast Steamcore Weird, it deals 2 damage to target creature or player.	1	3
+Stingerfling Spider	{4}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)|When Stingerfling Spider enters the battlefield, you may destroy target creature with flying.	2	5
+Stinkweed Imp	{2}{B}		Creature	Imp	Flying|Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.|Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)	1	2
+Street Spasm	{X}{R}		Instant		Street Spasm deals X damage to target creature without flying you don't control.|Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of 'target' with 'each.')		
+Svogthos, the Restless Tomb			Land		{T}: Add {1} to your mana pool.|{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with 'This creature's power and toughness are each equal to the number of creature cards in your graveyard.' It's still a land.		
+Swamp		Basic	Land	Swamp	B		
+Thunderheads	{2}{U}		Instant		Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)|Put a 3/3 blue Weird creature token with defender and flying onto the battlefield. Exile it at the beginning of the next end step.		
+Train of Thought	{1}{U}		Sorcery		Replicate {1}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)|Draw a card.		
+Tranquil Thicket			Land		Tranquil Thicket enters the battlefield tapped.|{T}: Add {G} to your mana pool.|Cycling {G} ({G}, Discard this card: Draw a card.)		
+Twilight's Call	{4}{B}{B}		Sorcery		You may cast Twilight's Call any time you could cast an instant if you pay {2} more to cast it.|Each player returns all creature cards from his or her graveyard to the battlefield.		
+Vacuumelt	{2}{U}		Sorcery		Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)|Return target creature to its owner's hand.		
+Vigor Mortis	{2}{B}{B}		Sorcery		Return target creature card from your graveyard to the battlefield. If {G} was spent to cast Vigor Mortis, that creature enters the battlefield with an additional +1/+1 counter on it.		
+Wee Dragonauts	{1}{U}{R}		Creature	Faerie,Wizard	Flying|Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.	1	3
+Yoke of the Damned	{1}{B}		Enchantment	Aura	Enchant creature|When a creature dies, destroy enchanted creature.		

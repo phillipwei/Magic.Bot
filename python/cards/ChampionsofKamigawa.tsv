@@ -1,0 +1,302 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Akki Avalanchers	{R}		Creature	Goblin,Warrior	Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate this ability only once each turn.	1	1
+Akki Coalflinger	{1}{R}{R}		Creature	Goblin,Shaman	First strike|{R}, {T}: Attacking creatures gain first strike until end of turn.	2	2
+Akki Lavarunner	{3}{R}		Creature	Goblin,Warrior	Haste|Whenever Akki Lavarunner deals damage to an opponent, flip it.|	1	1
+Akki Rockspeaker	{1}{R}		Creature	Goblin,Shaman	When Akki Rockspeaker enters the battlefield, add {R} to your mana pool.	1	1
+Akki Underminer	{3}{R}		Creature	Goblin,Rogue,Shaman	Whenever Akki Underminer deals combat damage to a player, that player sacrifices a permanent.	1	1
+Ashen-Skin Zubera	{1}{B}		Creature	Zubera,Spirit	When Ashen-Skin Zubera dies, target opponent discards a card for each Zubera that died this turn.	1	2
+Aura of Dominion	{U}{U}		Enchantment	Aura	Enchant creature|{1}, Tap an untapped creature you control: Untap enchanted creature.		
+Kitsune Mystic (Autumn-Tail, Kitsune Sage)	{3}{W}	Legendary	Creature	Fox,Wizard	{1}: Attach target Aura attached to a creature to another creature.	4	5
+Azami, Lady of Scrolls	{2}{U}{U}{U}	Legendary	Creature	Human,Wizard	Tap an untapped Wizard you control: Draw a card.	0	2
+Azusa, Lost but Seeking	{2}{G}	Legendary	Creature	Human,Monk	You may play two additional lands on each of your turns.	1	2
+Battle-Mad Ronin	{1}{R}		Creature	Human,Samurai	Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)|Battle-Mad Ronin attacks each turn if able.	1	1
+Befoul	{2}{B}{B}		Sorcery		Destroy target land or nonblack creature. It can't be regenerated.		
+Ben-Ben, Akki Hermit	{2}{R}{R}	Legendary	Creature	Goblin,Shaman	{T}: Ben-Ben, Akki Hermit deals damage to target attacking creature equal to the number of untapped Mountains you control.	1	1
+Blessed Breath	{W}		Instant	Arcane	Target creature you control gains protection from the color of your choice until end of turn.|Splice onto Arcane {W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Blind with Anger	{3}{R}		Instant	Arcane	Untap target nonlegendary creature and gain control of it until end of turn. That creature gains haste until end of turn.		
+Blood Rites	{3}{R}{R}		Enchantment		{1}{R}, Sacrifice a creature: Blood Rites deals 2 damage to target creature or player.		
+Blood Speaker	{3}{B}		Creature	Ogre,Shaman	At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle your library.|Whenever a Demon enters the battlefield under your control, return Blood Speaker from your graveyard to your hand.	3	2
+Bloodthirsty Ogre	{2}{B}		Creature	Ogre,Warrior,Shaman	{T}: Put a devotion counter on Bloodthirsty Ogre.|{T}: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate this ability only if you control a Demon.	3	1
+Boseiju, Who Shelters All		Legendary	Land		Boseiju, Who Shelters All enters the battlefield tapped.|{T}, Pay 2 life: Add {1} to your mana pool. If that mana is spent on an instant or sorcery spell, that spell can't be countered by spells or abilities.		
+Brothers Yamazaki	{2}{R}	Legendary	Creature	Human,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)|If there are exactly two permanents named Brothers Yamazaki on the battlefield, the 'legend rule' doesn't apply to them.|Each other creature named Brothers Yamazaki gets +2/+2 and has haste.	2	1
+Brutal Deceiver	{2}{R}		Creature	Spirit	{1}: Look at the top card of your library.|{2}: Reveal the top card of your library. If it's a land card, Brutal Deceiver gets +1/+0 and gains first strike until end of turn. Activate this ability only once each turn.	2	2
+Budoka Gardener	{1}{G}		Creature	Human,Monk	{T}: You may put a land card from your hand onto the battlefield. If you control ten or more lands, flip Budoka Gardener.|	2	1
+Burr Grafter	{3}{G}		Creature	Spirit	Sacrifice Burr Grafter: Target creature gets +2/+2 until end of turn.|Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)	2	2
+Bushi Tenderfoot	{W}		Creature	Human,Soldier	When a creature dealt damage by Bushi Tenderfoot this turn dies, flip Bushi Tenderfoot.|	1	1
+Cage of Hands	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack or block.|{1}{W}: Return Cage of Hands to its owner's hand.		
+Call to Glory	{1}{W}		Instant		Untap all creatures you control. Samurai creatures you control get +1/+1 until end of turn.		
+Callous Deceiver	{2}{U}		Creature	Spirit	{1}: Look at the top card of your library.|{2}: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate this ability only once each turn.	1	3
+Candles' Glow	{1}{W}		Instant	Arcane	Prevent the next 3 damage that would be dealt to target creature or player this turn. You gain life equal to the damage prevented this way.|Splice onto Arcane {1}{W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Cleanfall	{2}{W}		Sorcery	Arcane	Destroy all enchantments.		
+Cloudcrest Lake			Land		{T}: Add {1} to your mana pool.|{T}: Add {W} or {U} to your mana pool. Cloudcrest Lake doesn't untap during your next untap step.		
+Commune with Nature	{G}		Sorcery		Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.		
+Consuming Vortex	{1}{U}		Instant	Arcane	Return target creature to its owner's hand.|Splice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Counsel of the Soratami	{2}{U}		Sorcery		Draw two cards.		
+Cranial Extraction	{3}{B}		Sorcery	Arcane	Name a nonland card. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.		
+Cruel Deceiver	{1}{B}		Creature	Spirit	{1}: Look at the top card of your library.|{2}: Reveal the top card of your library. If it's a land card, Cruel Deceiver gains 'Whenever Cruel Deceiver deals damage to a creature, destroy that creature' until end of turn. Activate this ability only once each turn.	2	1
+Crushing Pain	{1}{R}		Instant	Arcane	Crushing Pain deals 6 damage to target creature that was dealt damage this turn.		
+Cursed Ronin	{3}{B}		Creature	Human,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)|{B}: Cursed Ronin gets +1/+1 until end of turn.	1	1
+Cut the Tethers	{2}{U}{U}		Sorcery		For each Spirit, return it to its owner's hand unless that player pays {3}.		
+Dampen Thought	{1}{U}		Instant	Arcane	Target player puts the top four cards of his or her library into his or her graveyard.|Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Dance of Shadows	{3}{B}{B}		Sorcery	Arcane	Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)		
+Deathcurse Ogre	{5}{B}		Creature	Ogre,Warrior	When Deathcurse Ogre dies, each player loses 3 life.	3	3
+Desperate Ritual	{1}{R}		Instant	Arcane	Add {R}{R}{R} to your mana pool.|Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Devoted Retainer	{W}		Creature	Human,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)	1	1
+Devouring Greed	{2}{B}{B}		Sorcery	Arcane	As an additional cost to cast Devouring Greed, you may sacrifice any number of Spirits.|Target player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life.		
+Devouring Rage	{4}{R}		Instant	Arcane	As an additional cost to cast Devouring Rage, you may sacrifice any number of Spirits.|Target creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn.		
+Distress	{B}{B}		Sorcery		Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.		
+Budoka Gardener (Dokai, Weaver of Life)	{1}{G}	Legendary	Creature	Human,Monk	{4}{G}{G}, {T}: Put an X/X green Elemental creature token onto the battlefield, where X is the number of lands you control.	3	3
+Dosan the Falling Leaf	{1}{G}{G}	Legendary	Creature	Human,Monk	Players can cast spells only during their own turns.	2	2
+Dripping-Tongue Zubera	{1}{G}		Creature	Zubera,Spirit	When Dripping-Tongue Zubera dies, put a 1/1 colorless Spirit creature token onto the battlefield for each Zubera that died this turn.	1	2
+Earthshaker	{4}{R}{R}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, Earthshaker deals 2 damage to each creature without flying.	4	5
+Eerie Procession	{2}{U}		Sorcery	Arcane	Search your library for an Arcane card, reveal that card, and put it into your hand. Then shuffle your library.		
+Eiganjo Castle		Legendary	Land		{T}: Add {W} to your mana pool.|{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn.		
+Eight-and-a-Half-Tails	{W}{W}	Legendary	Creature	Fox,Cleric	{1}{W}: Target permanent you control gains protection from white until end of turn.|{1}: Target spell or permanent becomes white until end of turn.	2	2
+Ember-Fist Zubera	{1}{R}		Creature	Zubera,Spirit	When Ember-Fist Zubera dies, it deals damage to target creature or player equal to the number of Zubera that died this turn.	1	2
+Ethereal Haze	{W}		Instant	Arcane	Prevent all damage that would be dealt by creatures this turn.		
+Eye of Nowhere	{U}{U}		Sorcery	Arcane	Return target permanent to its owner's hand.		
+Feast of Worms	{3}{G}{G}		Sorcery	Arcane	Destroy target land. If that land was legendary, its controller sacrifices another land.		
+Feral Deceiver	{3}{G}		Creature	Spirit	{1}: Look at the top card of your library.|{2}: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.	3	2
+Field of Reality	{2}{U}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by Spirits.|{1}{U}: Return Field of Reality to its owner's hand.		
+Floating-Dream Zubera	{1}{U}		Creature	Zubera,Spirit	When Floating-Dream Zubera dies, draw a card for each Zubera that died this turn.	1	2
+Forbidden Orchard			Land		{T}: Add one mana of any color to your mana pool.|Whenever you tap Forbidden Orchard for mana, target opponent puts a 1/1 colorless Spirit creature token onto the battlefield.		
+Forest		Basic	Land	Forest	G		
+Frostwielder	{2}{R}{R}		Creature	Human,Shaman	{T}: Frostwielder deals 1 damage to target creature or player.|If a creature dealt damage by Frostwielder this turn would die, exile it instead.	1	2
+Gale Force	{4}{G}		Sorcery		Gale Force deals 5 damage to each creature with flying.		
+General's Kabuto	{4}		Artifact	Equipment	Equipped creature has shroud. (It can't be the target of spells or abilities.)|Prevent all combat damage that would be dealt to equipped creature.|Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)		
+Ghostly Prison	{2}{W}		Enchantment		Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.		
+Gibbering Kami	{3}{B}		Creature	Spirit	Flying|Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)	2	2
+Gifts Ungiven	{3}{U}		Instant		Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.		
+Glacial Ray	{1}{R}		Instant	Arcane	Glacial Ray deals 2 damage to target creature or player.|Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Glimpse of Nature	{G}		Sorcery		Whenever you cast a creature spell this turn, draw a card.		
+Godo, Bandit Warlord	{5}{R}	Legendary	Creature	Human,Barbarian	When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.|Whenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.	3	3
+Initiate of Blood (Goka the Unjust)	{3}{R}	Legendary	Creature	Ogre,Shaman	{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.	4	4
+Graceful Adept	{2}{U}		Creature	Human,Wizard	You have no maximum hand size.	1	3
+Guardian of Solitude	{1}{U}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, target creature gains flying until end of turn.	1	2
+Gutwrencher Oni	{3}{B}{B}		Creature	Demon,Spirit	Trample|At the beginning of your upkeep, discard a card if you don't control an Ogre.	5	4
+Hair-Strung Koto	{6}		Artifact		Tap an untapped creature you control: Target player puts the top card of his or her library into his or her graveyard.		
+Hall of the Bandit Lord		Legendary	Land		Hall of the Bandit Lord enters the battlefield tapped.|{T}, Pay 3 life: Add {1} to your mana pool. If that mana is spent on a creature spell, it gains haste.		
+Hana Kami	{G}		Creature	Spirit	{1}{G}, Sacrifice Hana Kami: Return target Arcane card from your graveyard to your hand.	1	1
+Hanabi Blast	{1}{R}{R}		Instant		Hanabi Blast deals 2 damage to target creature or player. Return Hanabi Blast to its owner's hand, then discard a card at random.		
+Hankyu	{1}		Artifact	Equipment	Equipped creature has '{T}: Put an aim counter on Hankyu' and '{T}, Remove all aim counters from Hankyu: This creature deals damage to target creature or player equal to the number of aim counters removed this way.'|Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)		
+Harsh Deceiver	{3}{W}		Creature	Spirit	{1}: Look at the top card of your library.|{2}: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate this ability only once each turn.	1	4
+He Who Hungers	{4}{B}	Legendary	Creature	Spirit	Flying|{1}, Sacrifice a Spirit: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.|Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)	3	2
+Heartbeat of Spring	{2}{G}		Enchantment		Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.		
+Hearth Kami	{1}{R}		Creature	Spirit	{X}, Sacrifice Hearth Kami: Destroy target artifact with converted mana cost X.	2	1
+Hideous Laughter	{2}{B}{B}		Instant	Arcane	All creatures get -2/-2 until end of turn.|Splice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Hikari, Twilight Guardian	{3}{W}{W}	Legendary	Creature	Spirit	Flying|Whenever you cast a Spirit or Arcane spell, you may exile Hikari, Twilight Guardian. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.	4	4
+Hinder	{1}{U}{U}		Instant		Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.		
+Hisoka, Minamo Sensei	{2}{U}{U}	Legendary	Creature	Human,Wizard	{2}{U}, Discard a card: Counter target spell if it has the same converted mana cost as the discarded card.	1	3
+Hisoka's Defiance	{1}{U}		Instant		Counter target Spirit or Arcane spell.		
+Hisoka's Guard	{1}{U}		Creature	Human,Wizard	You may choose not to untap Hisoka's Guard during your untap step.|{1}{U}, {T}: Target creature you control other than Hisoka's Guard has shroud for as long as Hisoka's Guard remains tapped. (It can't be the target of spells or abilities.)	1	1
+Hold the Line	{1}{W}{W}		Instant		Blocking creatures get +7/+7 until end of turn.		
+Honden of Cleansing Fire	{3}{W}	Legendary	Enchantment	Shrine	At the beginning of your upkeep, you gain 2 life for each Shrine you control.		
+Honden of Infinite Rage	{2}{R}	Legendary	Enchantment	Shrine	At the beginning of your upkeep, Honden of Infinite Rage deals damage to target creature or player equal to the number of Shrines you control.		
+Honden of Life's Web	{4}{G}	Legendary	Enchantment	Shrine	At the beginning of your upkeep, put a 1/1 colorless Spirit creature token onto the battlefield for each Shrine you control.		
+Honden of Night's Reach	{3}{B}	Legendary	Enchantment	Shrine	At the beginning of your upkeep, target opponent discards a card for each Shrine you control.		
+Honden of Seeing Winds	{4}{U}	Legendary	Enchantment	Shrine	At the beginning of your upkeep, draw a card for each Shrine you control.		
+Honor-Worn Shaku	{3}		Artifact		{T}: Add {1} to your mana pool.|Tap an untapped legendary permanent you control: Untap Honor-Worn Shaku.		
+Horizon Seed	{4}{W}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, regenerate target creature.	2	1
+Horobi, Death's Wail	{2}{B}{B}	Legendary	Creature	Spirit	Flying|Whenever a creature becomes the target of a spell or ability, destroy that creature.	4	4
+Humble Budoka	{1}{G}		Creature	Human,Monk	Shroud (This permanent can't be the target of spells or abilities.)	2	2
+Hundred-Talon Kami	{4}{W}		Creature	Spirit	Flying|Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)	2	3
+Imi Statue	{3}		Artifact		Players can't untap more than one artifact during their untap steps.		
+Iname, Death Aspect	{4}{B}{B}	Legendary	Creature	Spirit	When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards and put them into your graveyard. If you do, shuffle your library.	4	4
+Iname, Life Aspect	{4}{G}{G}	Legendary	Creature	Spirit	When Iname, Life Aspect dies, you may exile it. If you do, return any number of target Spirit cards from your graveyard to your hand.	4	4
+Indomitable Will	{1}{W}		Enchantment	Aura	Flash|Enchant creature|Enchanted creature gets +1/+2.		
+Initiate of Blood	{3}{R}		Creature	Ogre,Shaman	{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.|	2	2
+Innocence Kami	{3}{W}{W}		Creature	Spirit	{W}, {T}: Tap target creature.|Whenever you cast a Spirit or Arcane spell, untap Innocence Kami.	2	3
+Isamaru, Hound of Konda	{W}	Legendary	Creature	Hound		2	2
+Island		Basic	Land	Island	U		
+Jade Idol	{4}		Artifact		Whenever you cast a Spirit or Arcane spell, Jade Idol becomes a 4/4 Spirit artifact creature until end of turn.		
+Journeyer's Kite	{2}		Artifact		{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.		
+Joyous Respite	{3}{G}		Sorcery	Arcane	You gain 1 life for each land you control.		
+Jugan, the Rising Star	{3}{G}{G}{G}	Legendary	Creature	Dragon,Spirit	Flying|When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.	5	5
+Jukai Messenger	{G}		Creature	Human,Monk	Forestwalk	1	1
+Junkyo Bell	{4}		Artifact		At the beginning of your upkeep, you may have target creature you control get +X/+X until end of turn, where X is the number of creatures you control. If you do, sacrifice that creature at the beginning of the next end step.		
+Jushi Apprentice	{1}{U}		Creature	Human,Wizard	{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip Jushi Apprentice.|	1	2
+Kabuto Moth	{2}{W}		Creature	Spirit	Flying|{T}: Target creature gets +1/+2 until end of turn.	1	2
+Kami of Ancient Law	{1}{W}		Creature	Spirit	Sacrifice Kami of Ancient Law: Destroy target enchantment.	2	2
+Kami of Fire's Roar	{3}{R}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, target creature can't block this turn.	2	3
+Kami of Lunacy	{4}{B}{B}		Creature	Spirit	Flying|Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)	4	1
+Kami of Old Stone	{3}{W}		Creature	Spirit		1	7
+Kami of the Hunt	{2}{G}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, Kami of the Hunt gets +1/+1 until end of turn.	2	2
+Kami of the Painted Road	{4}{W}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, Kami of the Painted Road gains protection from the color of your choice until end of turn.	3	3
+Kami of the Palace Fields	{5}{W}		Creature	Spirit	Flying, first strike|Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)	3	2
+Kami of the Waning Moon	{2}{B}		Creature	Spirit	Flying|Whenever you cast a Spirit or Arcane spell, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)	1	1
+Kami of Twisted Reflection	{1}{U}{U}		Creature	Spirit	Sacrifice Kami of Twisted Reflection: Return target creature you control to its owner's hand.	2	2
+Kashi-Tribe Reaver	{3}{G}		Creature	Snake,Warrior	Whenever Kashi-Tribe Reaver deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.|{1}{G}: Regenerate Kashi-Tribe Reaver.	3	2
+Kashi-Tribe Warriors	{3}{G}{G}		Creature	Snake,Warrior	Whenever Kashi-Tribe Warriors deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.	2	4
+Keiga, the Tide Star	{5}{U}	Legendary	Creature	Dragon,Spirit	Flying|When Keiga, the Tide Star dies, gain control of target creature.	5	5
+Bushi Tenderfoot (Kenzo the Hardhearted)	{W}	Legendary	Creature	Human,Samurai	Double strike; bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)	3	4
+Kiki-Jiki, Mirror Breaker	{2}{R}{R}{R}	Legendary	Creature	Goblin,Shaman	Haste|{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.	2	2
+Kiku, Night's Flower	{B}{B}	Legendary	Creature	Human,Assassin	{2}{B}{B}, {T}: Target creature deals damage to itself equal to its power.	1	1
+Kitsune Blademaster	{2}{W}		Creature	Fox,Samurai	First strike|Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)	2	2
+Kitsune Diviner	{W}		Creature	Fox,Cleric	{T}: Tap target Spirit.	0	1
+Kitsune Healer	{3}{W}		Creature	Fox,Cleric	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.|{T}: Prevent all damage that would be dealt to target legendary creature this turn.	2	2
+Kitsune Mystic	{3}{W}		Creature	Fox,Wizard	At the beginning of the end step, if Kitsune Mystic is enchanted by two or more Auras, flip it.|	2	3
+Kitsune Riftwalker	{1}{W}{W}		Creature	Fox,Wizard	Protection from Spirits and from Arcane	2	1
+Kodama of the North Tree	{2}{G}{G}{G}	Legendary	Creature	Spirit	Trample; shroud (This permanent can't be the target of spells or abilities.)	6	4
+Kodama of the South Tree	{2}{G}{G}	Legendary	Creature	Spirit	Whenever you cast a Spirit or Arcane spell, each other creature you control gets +1/+1 and gains trample until end of turn.	4	4
+Kodama's Might	{G}		Instant	Arcane	Target creature gets +2/+2 until end of turn.|Splice onto Arcane {G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Kodama's Reach	{2}{G}		Sorcery	Arcane	Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.		
+Kokusho, the Evening Star	{4}{B}{B}	Legendary	Creature	Dragon,Spirit	Flying|When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.	5	5
+Konda, Lord of Eiganjo	{5}{W}{W}	Legendary	Creature	Human,Samurai	Indestructible|Vigilance (Attacking doesn't cause this creature to tap.)|Bushido 5 (When this blocks or becomes blocked, it gets +5/+5 until end of turn.)	3	3
+Konda's Banner	{2}	Legendary	Artifact	Equipment	Konda's Banner can be attached only to a legendary creature.|Creatures that share a color with equipped creature get +1/+1.|Creatures that share a creature type with equipped creature get +1/+1.|Equip {2}		
+Konda's Hatamoto	{1}{W}		Creature	Human,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)|As long as you control a legendary Samurai, Konda's Hatamoto gets +1/+2 and has vigilance. (Attacking doesn't cause this creature to tap.)	1	2
+Kumano, Master Yamabushi	{3}{R}{R}	Legendary	Creature	Human,Shaman	{1}{R}: Kumano, Master Yamabushi deals 1 damage to target creature or player.|If a creature dealt damage by Kumano this turn would die, exile it instead.	4	4
+Kumano's Pupils	{4}{R}		Creature	Human,Shaman	If a creature dealt damage by Kumano's Pupils this turn would die, exile it instead.	3	3
+Kuro, Pitlord	{6}{B}{B}{B}	Legendary	Creature	Demon,Spirit	At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.|Pay 1 life: Target creature gets -1/-1 until end of turn.	9	9
+Kusari-Gama	{3}		Artifact	Equipment	Equipped creature has '{2}: This creature gets +1/+0 until end of turn.'|Whenever equipped creature deals damage to a blocking creature, Kusari-Gama deals that much damage to each other creature defending player controls.|Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)		
+Lantern Kami	{W}		Creature	Spirit	Flying	1	1
+Lantern-Lit Graveyard			Land		{T}: Add {1} to your mana pool.|{T}: Add {B} or {R} to your mana pool. Lantern-Lit Graveyard doesn't untap during your next untap step.		
+Lava Spike	{R}		Sorcery	Arcane	Lava Spike deals 3 damage to target player.		
+Lifted by Clouds	{2}{U}		Instant	Arcane	Target creature gains flying until end of turn.|Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Long-Forgotten Gohei	{3}		Artifact		Arcane spells you cast cost {1} less to cast.|Spirit creatures you control get +1/+1.		
+Lure	{1}{G}{G}		Enchantment	Aura	Enchant creature|All creatures able to block enchanted creature do so.		
+Mana Seism	{1}{R}		Sorcery		Sacrifice any number of lands. Add {1} to your mana pool for each land sacrificed this way.		
+Marrow-Gnawer	{3}{B}{B}	Legendary	Creature	Rat,Rogue	Rat creatures have fear. (They can't be blocked except by artifact creatures and/or black creatures.)|{T}, Sacrifice a Rat: Put X 1/1 black Rat creature tokens onto the battlefield, where X is the number of Rats you control.	2	3
+Masako the Humorless	{2}{W}	Legendary	Creature	Human,Advisor	Flash|Tapped creatures you control can block as though they were untapped.	2	1
+Matsu-Tribe Decoy	{2}{G}		Creature	Snake,Warrior	{2}{G}: Target creature blocks Matsu-Tribe Decoy this turn if able.|Whenever Matsu-Tribe Decoy deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.	1	3
+Meloku the Clouded Mirror	{4}{U}	Legendary	Creature	Moonfolk,Wizard	Flying|{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.	2	4
+Midnight Covenant	{1}{B}		Enchantment	Aura	Enchant creature|Enchanted creature has '{B}: This creature gets +1/+1 until end of turn.'		
+Minamo, School at Water's Edge		Legendary	Land		{T}: Add {U} to your mana pool.|{U}, {T}: Untap target legendary permanent.		
+Mindblaze	{5}{R}		Sorcery		Name a nonland card and choose a number greater than 0. Target player reveals his or her library. If that library contains exactly the chosen number of the named card, Mindblaze deals 8 damage to that player. Then that player shuffles his or her library.		
+Moonring Mirror	{5}		Artifact		Whenever you draw a card, exile the top card of your library face down.|At the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with Moonring Mirror into your hand.		
+Moss Kami	{5}{G}		Creature	Spirit	Trample	5	5
+Mothrider Samurai	{3}{W}		Creature	Human,Samurai	Flying|Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)	2	2
+Mountain		Basic	Land	Mountain	R		
+Myojin of Cleansing Fire	{5}{W}{W}{W}	Legendary	Creature	Spirit	Myojin of Cleansing Fire enters the battlefield with a divinity counter on it if you cast it from your hand.|Myojin of Cleansing Fire has indestructible as long as it has a divinity counter on it.|Remove a divinity counter from Myojin of Cleansing Fire: Destroy all other creatures.	4	6
+Myojin of Infinite Rage	{7}{R}{R}{R}	Legendary	Creature	Spirit	Myojin of Infinite Rage enters the battlefield with a divinity counter on it if you cast it from your hand.|Myojin of Infinite Rage has indestructible as long as it has a divinity counter on it.|Remove a divinity counter from Myojin of Infinite Rage: Destroy all lands.	7	4
+Myojin of Life's Web	{6}{G}{G}{G}	Legendary	Creature	Spirit	Myojin of Life's Web enters the battlefield with a divinity counter on it if you cast it from your hand.|Myojin of Life's Web has indestructible as long as it has a divinity counter on it.|Remove a divinity counter from Myojin of Life's Web: Put any number of creature cards from your hand onto the battlefield.	8	8
+Myojin of Night's Reach	{5}{B}{B}{B}	Legendary	Creature	Spirit	Myojin of Night's Reach enters the battlefield with a divinity counter on it if you cast it from your hand.|Myojin of Night's Reach has indestructible as long as it has a divinity counter on it.|Remove a divinity counter from Myojin of Night's Reach: Each opponent discards his or her hand.	5	2
+Myojin of Seeing Winds	{7}{U}{U}{U}	Legendary	Creature	Spirit	Myojin of Seeing Winds enters the battlefield with a divinity counter on it if you cast it from your hand.|Myojin of Seeing Winds has indestructible as long as it has a divinity counter on it.|Remove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control.	3	3
+Mystic Restraints	{2}{U}{U}		Enchantment	Aura	Flash|Enchant creature|When Mystic Restraints enters the battlefield, tap enchanted creature.|Enchanted creature doesn't untap during its controller's untap step.		
+Nagao, Bound by Honor	{3}{W}	Legendary	Creature	Human,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)|Whenever Nagao, Bound by Honor attacks, Samurai creatures you control get +1/+1 until end of turn.	3	3
+Nature's Will	{2}{G}{G}		Enchantment		Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control.		
+Nezumi Bone-Reader	{1}{B}		Creature	Rat,Shaman	{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.	1	1
+Nezumi Cutthroat	{1}{B}		Creature	Rat,Warrior	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|Nezumi Cutthroat can't block.	2	1
+Nezumi Graverobber	{1}{B}		Creature	Rat,Rogue	{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.|	2	1
+Nezumi Ronin	{2}{B}		Creature	Rat,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)	3	1
+Nezumi Shortfang	{1}{B}		Creature	Rat,Rogue	{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.|	1	1
+Night Dealings	{2}{B}{B}		Enchantment		Whenever a source you control deals damage to another player, put that many theft counters on Night Dealings.|{2}{B}{B}, Remove X theft counters from Night Dealings: Search your library for a nonland card with converted mana cost X, reveal it, and put it into your hand. Then shuffle your library.		
+Night of Souls' Betrayal	{2}{B}{B}	Legendary	Enchantment		All creatures get -1/-1.		
+Nezumi Graverobber (Nighteyes the Desecrator)	{1}{B}	Legendary	Creature	Rat,Wizard	{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.	4	2
+Nine-Ringed Bo	{3}		Artifact		{T}: Nine-Ringed Bo deals 1 damage to target Spirit creature. If that creature would die this turn, exile it instead.		
+No-Dachi	{2}		Artifact	Equipment	Equipped creature gets +2/+0 and has first strike.|Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)		
+Numai Outcast	{3}{B}		Creature	Human,Samurai	Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)|{B}, Pay 5 life: Regenerate Numai Outcast.	1	1
+Oathkeeper, Takeno's Daisho	{3}	Legendary	Artifact	Equipment	Equipped creature gets +3/+1.|Whenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card.|When Oathkeeper, Takeno's Daisho is put into a graveyard from the battlefield, exile equipped creature.|Equip {2}		
+Okina, Temple to the Grandfathers		Legendary	Land		{T}: Add {G} to your mana pool.|{G}, {T}: Target legendary creature gets +1/+1 until end of turn.		
+Oni Possession	{2}{B}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, sacrifice a creature.|Enchanted creature gets +3/+3 and has trample.|Enchanted creature is a Demon Spirit.		
+Orbweaver Kumo	{4}{G}{G}		Creature	Spirit	Reach (This creature can block creatures with flying.)|Whenever you cast a Spirit or Arcane spell, Orbweaver Kumo gains forestwalk until end of turn.	3	4
+Order of the Sacred Bell	{3}{G}		Creature	Human,Monk		4	3
+Ore Gorger	{3}{R}{R}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, you may destroy target nonbasic land.	3	1
+Orochi Eggwatcher	{2}{G}		Creature	Snake,Shaman	{2}{G}, {T}: Put a 1/1 green Snake creature token onto the battlefield. If you control ten or more creatures, flip Orochi Eggwatcher.|	1	1
+Orochi Hatchery	{X}{X}		Artifact		Orochi Hatchery enters the battlefield with X charge counters on it.|{5}, {T}: Put a 1/1 green Snake creature token onto the battlefield for each charge counter on Orochi Hatchery.		
+Orochi Leafcaller	{G}		Creature	Snake,Shaman	{G}: Add one mana of any color to your mana pool.	1	1
+Orochi Ranger	{1}{G}		Creature	Snake,Warrior	Whenever Orochi Ranger deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.	2	1
+Orochi Sustainer	{1}{G}		Creature	Snake,Shaman	{T}: Add {G} to your mana pool.	1	2
+Otherworldly Journey	{1}{W}		Instant	Arcane	Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.		
+Pain Kami	{2}{R}		Creature	Spirit	{X}{R}, Sacrifice Pain Kami: Pain Kami deals X damage to target creature.	2	2
+Painwracker Oni	{3}{B}{B}		Creature	Demon,Spirit	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|At the beginning of your upkeep, sacrifice a creature if you don't control an Ogre.	5	4
+Part the Veil	{3}{U}		Instant	Arcane	Return all creatures you control to their owner's hand.		
+Peer Through Depths	{1}{U}		Instant	Arcane	Look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.		
+Petals of Insight	{4}{U}		Sorcery	Arcane	Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards.		
+Pinecrest Ridge			Land		{T}: Add {1} to your mana pool.|{T}: Add {R} or {G} to your mana pool. Pinecrest Ridge doesn't untap during your next untap step.		
+Pious Kitsune	{2}{W}		Creature	Fox,Cleric	At the beginning of your upkeep, put a devotion counter on Pious Kitsune. Then if a creature named Eight-and-a-Half-Tails is on the battlefield, you gain 1 life for each devotion counter on Pious Kitsune.|{T}, Remove a devotion counter from Pious Kitsune: You gain 1 life.	1	2
+Plains		Basic	Land	Plains	W		
+Psychic Puppetry	{1}{U}		Instant	Arcane	You may tap or untap target permanent.|Splice onto Arcane {U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Pull Under	{5}{B}		Instant	Arcane	Target creature gets -5/-5 until end of turn.		
+Quiet Purity	{W}		Instant	Arcane	Destroy target enchantment.		
+Rag Dealer	{B}		Creature	Human,Rogue	{2}{B}, {T}: Exile up to three target cards from a single graveyard.	1	1
+Ragged Veins	{1}{B}		Enchantment	Aura	Flash|Enchant creature|Whenever enchanted creature is dealt damage, its controller loses that much life.		
+Reach Through Mists	{U}		Instant	Arcane	Draw a card.		
+Reciprocate	{W}		Instant		Exile target creature that dealt damage to you this turn.		
+Reito Lantern	{2}		Artifact		{3}: Put target card from a graveyard on the bottom of its owner's library.		
+Rend Flesh	{2}{B}		Instant	Arcane	Destroy target non-Spirit creature.		
+Rend Spirit	{2}{B}		Instant		Destroy target Spirit.		
+Reverse the Sands	{6}{W}{W}		Sorcery		Redistribute any number of players' life totals. (Each of those players gets one life total back.)		
+Reweave	{5}{U}		Instant	Arcane	Target permanent's controller sacrifices it. If he or she does, that player reveals cards from the top of his or her library until he or she reveals a permanent card that shares a card type with the sacrificed permanent, puts that card onto the battlefield, then shuffles his or her library.|Splice onto Arcane {2}{U}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+River Kaijin	{2}{U}		Creature	Spirit		1	4
+Ronin Houndmaster	{2}{R}		Creature	Human,Samurai	Haste|Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)	2	2
+Rootrunner	{2}{G}{G}		Creature	Spirit	{G}{G}, Sacrifice Rootrunner: Put target land on top of its owner's library.|Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)	3	3
+Ryusei, the Falling Star	{5}{R}	Legendary	Creature	Dragon,Spirit	Flying|When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.	5	5
+Sachi, Daughter of Seshiro	{2}{G}{G}	Legendary	Creature	Snake,Shaman	Other Snake creatures you control get +0/+1.|Shamans you control have '{T}: Add {G}{G} to your mana pool.'	1	3
+Sakura-Tribe Elder	{1}{G}		Creature	Snake,Shaman	Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.	1	1
+Samurai Enforcers	{4}{W}{W}		Creature	Human,Samurai	Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)	4	4
+Samurai of the Pale Curtain	{W}{W}		Creature	Fox,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)|If a permanent would be put into a graveyard, exile it instead.	2	2
+Scuttling Death	{4}{B}		Creature	Spirit	Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn.|Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)	4	2
+Seizan, Perverter of Truth	{3}{B}{B}	Legendary	Creature	Demon,Spirit	At the beginning of each player's upkeep, that player loses 2 life and draws two cards.	6	5
+Sensei Golden-Tail	{1}{W}	Legendary	Creature	Fox,Samurai	Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)|{1}{W}, {T}: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate this ability only any time you could cast a sorcery.	2	1
+Sensei's Divining Top	{1}		Artifact		{1}: Look at the top three cards of your library, then put them back in any order.|{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.		
+Serpent Skin	{2}{G}		Enchantment	Aura	Flash|Enchant creature|Enchanted creature gets +1/+1.|{G}: Regenerate enchanted creature.		
+Seshiro the Anointed	{4}{G}{G}	Legendary	Creature	Snake,Monk	Other Snake creatures you control get +2/+2.|Whenever a Snake you control deals combat damage to a player, you may draw a card.	3	4
+Shell of the Last Kappa	{3}	Legendary	Artifact		{3}, {T}: Exile target instant or sorcery spell that targets you. (The spell has no effect.)|{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a card exiled with Shell of the Last Kappa without paying its mana cost.		
+Orochi Eggwatcher (Shidako, Broodmistress)	{2}{G}	Legendary	Creature	Snake,Shaman	{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.	3	3
+Shimatsu the Bloodcloaked	{3}{R}	Legendary	Creature	Demon,Spirit	As Shimatsu the Bloodcloaked enters the battlefield, sacrifice any number of permanents. Shimatsu enters the battlefield with that many +1/+1 counters on it.	0	0
+Shinka, the Bloodsoaked Keep		Legendary	Land		{T}: Add {R} to your mana pool.|{R}, {T}: Target legendary creature gains first strike until end of turn.		
+Shisato, Whispering Hunter	{3}{G}	Legendary	Creature	Snake,Warrior	At the beginning of your upkeep, sacrifice a Snake.|Whenever Shisato, Whispering Hunter deals combat damage to a player, that player skips his or her next untap step.	2	2
+Shizo, Death's Storehouse		Legendary	Land		{T}: Add {B} to your mana pool.|{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)		
+Sideswipe	{1}{R}		Instant		You may change any targets of target Arcane spell.		
+Sift Through Sands	{1}{U}{U}		Instant	Arcane	Draw two cards, then discard a card.|If you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle your library.		
+Silent-Chant Zubera	{1}{W}		Creature	Zubera,Spirit	When Silent-Chant Zubera dies, you gain 2 life for each Zubera that died this turn.	1	2
+Sire of the Storm	{4}{U}{U}		Creature	Spirit	Flying|Whenever you cast a Spirit or Arcane spell, you may draw a card.	3	3
+Soilshaper	{1}{G}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, target land becomes a 3/3 creature until end of turn. It's still a land.	1	1
+Sokenzan Bruiser	{4}{R}		Creature	Ogre,Warrior	Mountainwalk	3	3
+Soratami Cloudskater	{1}{U}		Creature	Moonfolk,Rogue	Flying|{2}, Return a land you control to its owner's hand: Draw a card, then discard a card.	1	1
+Soratami Mirror-Guard	{3}{U}		Creature	Moonfolk,Wizard	Flying|{2}, Return a land you control to its owner's hand: Target creature with power 2 or less can't be blocked this turn.	3	1
+Soratami Mirror-Mage	{3}{U}		Creature	Moonfolk,Wizard	Flying|{3}, Return three lands you control to their owner's hand: Return target creature to its owner's hand.	2	1
+Soratami Rainshaper	{2}{U}		Creature	Moonfolk,Wizard	Flying|{3}, Return a land you control to its owner's hand: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)	2	1
+Soratami Savant	{2}{U}{U}		Creature	Moonfolk,Wizard	Flying|{3}, Return a land you control to its owner's hand: Counter target spell unless its controller pays {3}.	2	2
+Soratami Seer	{4}{U}		Creature	Moonfolk,Wizard	Flying|{4}, Return two lands you control to their owner's hand: Discard all the cards in your hand, then draw that many cards.	2	3
+Sosuke, Son of Seshiro	{2}{G}{G}	Legendary	Creature	Snake,Warrior	Other Snake creatures you control get +1/+0.|Whenever a Warrior you control deals combat damage to a creature, destroy that creature at end of combat.	3	4
+Soul of Magma	{3}{R}{R}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, Soul of Magma deals 1 damage to target creature.	2	2
+Soulblast	{3}{R}{R}{R}		Instant		As an additional cost to cast Soulblast, sacrifice all creatures you control.|Soulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.		
+Soulless Revival	{1}{B}		Instant	Arcane	Return target creature card from your graveyard to your hand.|Splice onto Arcane {1}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Squelch	{1}{U}		Instant		Counter target activated ability. (Mana abilities can't be targeted.)|Draw a card.		
+Nezumi Shortfang (Stabwhisker the Odious)	{1}{B}	Legendary	Creature	Rat,Shaman	At the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in his or her hand.	3	3
+Stone Rain	{2}{R}		Sorcery		Destroy target land.		
+Strange Inversion	{2}{R}		Instant	Arcane	Switch target creature's power and toughness until end of turn.|Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Strength of Cedars	{4}{G}		Instant	Arcane	Target creature gets +X/+X until end of turn, where X is the number of lands you control.		
+Struggle for Sanity	{2}{B}{B}		Sorcery		Target opponent reveals his or her hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards he or she exiled this way to his or her hand and puts the rest into his or her graveyard.		
+Student of Elements	{1}{U}		Creature	Human,Wizard	When Student of Elements has flying, flip it.|	1	1
+Swallowing Plague	{X}{B}{B}		Sorcery	Arcane	Swallowing Plague deals X damage to target creature and you gain X life.		
+Swamp		Basic	Land	Swamp	B		
+Swirl the Mists	{2}{U}{U}		Enchantment		As Swirl the Mists enters the battlefield, choose a color word.|All instances of color words in the text of spells and permanents are changed to the chosen color word.		
+Takeno, Samurai General	{5}{W}	Legendary	Creature	Human,Samurai	Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)|Each other Samurai creature you control gets +1/+1 for each point of bushido it has.	3	3
+Tatsumasa, the Dragon's Fang	{6}	Legendary	Artifact	Equipment	Equipped creature gets +5/+5.|{6}, Exile Tatsumasa, the Dragon's Fang: Put a 5/5 blue Dragon Spirit creature token with flying onto the battlefield. Return Tatsumasa to the battlefield under its owner's control when that token dies.|Equip {3}		
+Teller of Tales	{3}{U}{U}		Creature	Spirit	Flying|Whenever you cast a Spirit or Arcane spell, you may tap or untap target creature.	3	3
+Tenza, Godo's Maul	{3}	Legendary	Artifact	Equipment	Equipped creature gets +1/+1. As long as it's legendary, it gets an additional +2/+2. As long as it's red, it has trample.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Terashi's Cry	{3}{W}		Sorcery	Arcane	Tap up to three target creatures.		
+The Unspeakable	{6}{U}{U}{U}	Legendary	Creature	Spirit	Flying, trample|Whenever The Unspeakable deals combat damage to a player, you may return target Arcane card from your graveyard to your hand.	6	7
+Thief of Hope	{2}{B}		Creature	Spirit	Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.|Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)	2	2
+Thoughtbind	{2}{U}		Instant		Counter target spell with converted mana cost 4 or less.		
+Thousand-legged Kami	{6}{G}{G}		Creature	Spirit	Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)	6	6
+Through the Breach	{4}{R}		Instant	Arcane	You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.|Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Tide of War	{4}{R}{R}		Enchantment		Whenever one or more creatures block, flip a coin. If you win the flip, each blocking creature is sacrificed by its controller. If you lose the flip, each blocked creature is sacrificed by its controller.		
+Time of Need	{1}{G}		Sorcery		Search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library.		
+Time Stop	{4}{U}{U}		Instant		End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and 'this turn' and 'until end of turn' effects end.)		
+Student of Elements (Tobita, Master of Winds)	{1}{U}	Legendary	Creature	Human,Wizard	Creatures you control have flying.	3	3
+Akki Lavarunner (Tok-Tok, Volcano Born)	{3}{R}	Legendary	Creature	Goblin,Shaman	Protection from red|If a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.	2	2
+Jushi Apprentice (Tomoya the Revealer)	{1}{U}	Legendary	Creature	Human,Wizard	{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.	2	3
+Tranquil Garden			Land		{T}: Add {1} to your mana pool.|{T}: Add {G} or {W} to your mana pool. Tranquil Garden doesn't untap during your next untap step.		
+Uba Mask	{4}		Artifact		If a player would draw a card, that player exiles that card face up instead.|Each player may play cards he or she exiled with Uba Mask this turn.		
+Uncontrollable Anger	{2}{R}{R}		Enchantment	Aura	Flash (You may cast this spell any time you could cast an instant.)|Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|Enchanted creature gets +2/+2 and attacks each turn if able.		
+Unearthly Blizzard	{2}{R}		Sorcery	Arcane	Up to three target creatures can't block this turn.		
+Unnatural Speed	{R}		Instant	Arcane	Target creature gains haste until end of turn.		
+Untaidake, the Cloud Keeper		Legendary	Land		Untaidake, the Cloud Keeper enters the battlefield tapped.|{T}, Pay 2 life: Add {2} to your mana pool. Spend this mana only to cast legendary spells.		
+Uyo, Silent Prophet	{4}{U}{U}	Legendary	Creature	Moonfolk,Wizard	Flying|{2}, Return two lands you control to their owner's hand: Copy target instant or sorcery spell. You may choose new targets for the copy.	4	4
+Vassal's Duty	{3}{W}		Enchantment		{1}: The next 1 damage that would be dealt to target legendary creature you control this turn is dealt to you instead.		
+Venerable Kumo	{4}{G}		Creature	Spirit	Reach (This creature can block creatures with flying.)|Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)	2	3
+Vigilance	{W}		Enchantment	Aura	Enchant creature|Enchanted creature has vigilance. (Attacking doesn't cause it to tap.)		
+Villainous Ogre	{2}{B}		Creature	Ogre,Warrior	Villainous Ogre can't block.|As long as you control a Demon, Villainous Ogre has '{B}: Regenerate Villainous Ogre.'	3	2
+Vine Kami	{6}{G}		Creature	Spirit	Vine Kami can't be blocked except by two or more creatures.|Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)	4	4
+Waking Nightmare	{2}{B}		Sorcery	Arcane	Target player discards two cards.		
+Wandering Ones	{U}		Creature	Spirit		1	1
+Waterveil Cavern			Land		{T}: Add {1} to your mana pool.|{T}: Add {U} or {B} to your mana pool. Waterveil Cavern doesn't untap during your next untap step.		
+Wear Away	{G}{G}		Instant	Arcane	Destroy target artifact or enchantment.|Splice onto Arcane {3}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)		
+Wicked Akuba	{B}{B}		Creature	Spirit	{B}: Target player dealt damage by Wicked Akuba this turn loses 1 life.	2	2
+Yamabushi's Flame	{2}{R}		Instant		Yamabushi's Flame deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.		
+Yamabushi's Storm	{1}{R}		Sorcery		Yamabushi's Storm deals 1 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.		
+Yosei, the Morning Star	{4}{W}{W}	Legendary	Creature	Dragon,Spirit	Flying|When Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.	5	5
+Zo-Zu the Punisher	{1}{R}{R}	Legendary	Creature	Goblin,Warrior	Whenever a land enters the battlefield, Zo-Zu the Punisher deals 2 damage to that land's controller.	2	2

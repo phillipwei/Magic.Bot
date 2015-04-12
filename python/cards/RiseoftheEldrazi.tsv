@@ -1,0 +1,234 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Affa Guard Hound	{2}{W}		Creature	Hound	Flash|When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.	2	2
+Akoum Boulderfoot	{4}{R}{R}		Creature	Giant,Warrior	When Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.	4	5
+All Is Dust	{7}		Tribal,Sorcery	Eldrazi	Each player sacrifices all colored permanents he or she controls.		
+Ancient Stirrings	{G}		Sorcery		Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)		
+Angelheart Vial	{5}		Artifact		Whenever you're dealt damage, you may put that many charge counters on Angelheart Vial.|{2}, {T}, Remove four charge counters from Angelheart Vial: You gain 2 life and draw a card.		
+Arrogant Bloodlord	{1}{B}{B}		Creature	Vampire,Knight	Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.	4	4
+Artisan of Kozilek	{9}		Creature	Eldrazi	When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.|Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)	10	9
+Aura Finesse	{U}		Instant		Attach target Aura you control to target creature.|Draw a card.		
+Aura Gnarlid	{2}{G}		Creature	Beast	Creatures with power less than Aura Gnarlid's power can't block it.|Aura Gnarlid gets +1/+1 for each Aura on the battlefield.	2	2
+Awakening Zone	{2}{G}		Enchantment		At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'		
+Bala Ged Scorpion	{3}{B}		Creature	Scorpion	When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.	2	3
+Baneful Omen	{4}{B}{B}{B}		Enchantment		At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's converted mana cost.		
+Battle Rampart	{2}{R}		Creature	Wall	Defender|{T}: Target creature gains haste until end of turn.	1	3
+Battle-Rattle Shaman	{3}{R}		Creature	Goblin,Shaman	At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.	2	2
+Bear Umbra	{2}{G}{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has 'Whenever this creature attacks, untap all lands you control.'|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Beastbreaker of Bala Ged	{1}{G}		Creature	Human,Warrior	Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-3|4/4||LEVEL 4+|6/6|Trample	2	2
+Bloodrite Invoker	{2}{B}		Creature	Vampire,Shaman	{8}: Target player loses 3 life and you gain 3 life.	3	1
+Bloodthrone Vampire	{1}{B}		Creature	Vampire	Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.	1	1
+Boar Umbra	{2}{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3.|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Bramblesnap	{1}{G}		Creature	Elemental	Trample|Tap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.	1	1
+Brimstone Mage	{2}{R}		Creature	Human,Shaman	Level up {3}{R} ({3}{R}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-2|2/3|{T}: Brimstone Mage deals 1 damage to target creature or player.|LEVEL 3+|2/4|{T}: Brimstone Mage deals 3 damage to target creature or player.	2	2
+Brood Birthing	{1}{R}		Sorcery		If you control an Eldrazi Spawn, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.' Otherwise, put one of those tokens onto the battlefield.		
+Broodwarden	{3}{G}{G}		Creature	Eldrazi,Drone	Eldrazi Spawn creatures you control get +2/+1.	4	4
+Cadaver Imp	{1}{B}{B}		Creature	Imp	Flying|When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.	1	1
+Caravan Escort	{W}		Creature	Human,Knight	Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-4|2/2||LEVEL 5+|5/5|First strike	1	1
+Cast Through Time	{4}{U}{U}{U}		Enchantment		Instant and sorcery spells you control have rebound. (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)		
+Champion's Drake	{1}{U}		Creature	Drake	Flying|Champion's Drake gets +3/+3 as long as you control a creature with three or more level counters on it.	1	1
+Conquering Manticore	{4}{R}{R}		Creature	Manticore	Flying|When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.	5	5
+Consume the Meek	{3}{B}{B}		Instant		Destroy each creature with converted mana cost 3 or less. They can't be regenerated.		
+Consuming Vapors	{3}{B}		Sorcery		Target player sacrifices a creature. You gain life equal to that creature's toughness.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Contaminated Ground	{1}{B}		Enchantment	Aura	Enchant land|Enchanted land is a Swamp.|Whenever enchanted land becomes tapped, its controller loses 2 life.		
+Coralhelm Commander	{U}{U}		Creature	Merfolk,Soldier	Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-3|3/3|Flying|LEVEL 4+|4/4|Flying|Other Merfolk creatures you control get +1/+1.	2	2
+Corpsehatch	{3}{B}{B}		Sorcery		Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'		
+Crab Umbra	{U}		Enchantment	Aura	Enchant creature|{2}{U}: Untap enchanted creature.|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Curse of Wizardry	{2}{B}{B}		Enchantment		As Curse of Wizardry enters the battlefield, choose a color.|Whenever a player casts a spell of the chosen color, that player loses 1 life.		
+Daggerback Basilisk	{2}{G}		Creature	Basilisk	Deathtouch	2	2
+Dawnglare Invoker	{2}{W}		Creature	Kor,Wizard	Flying|{8}: Tap all creatures target player controls.	2	1
+Death Cultist	{B}		Creature	Human,Wizard	Sacrifice Death Cultist: Target player loses 1 life and you gain 1 life.	1	1
+Deathless Angel	{4}{W}{W}		Creature	Angel	Flying|{W}{W}: Target creature gains indestructible until end of turn.	5	7
+Demonic Appetite	{B}		Enchantment	Aura	Enchant creature you control|Enchanted creature gets +3/+3.|At the beginning of your upkeep, sacrifice a creature.		
+Demystify	{W}		Instant		Destroy target enchantment.		
+Deprive	{U}{U}		Instant		As an additional cost to cast Deprive, return a land you control to its owner's hand.|Counter target spell.		
+Devastating Summons	{R}		Sorcery		As an additional cost to cast Devastating Summons, sacrifice X lands.|Put two X/X red Elemental creature tokens onto the battlefield.		
+Disaster Radius	{5}{R}{R}		Sorcery		As an additional cost to cast Disaster Radius, reveal a creature card from your hand.|Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.		
+Distortion Strike	{U}		Sorcery		Target creature gets +1/+0 until end of turn and can't be blocked this turn.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Domestication	{2}{U}{U}		Enchantment	Aura	Enchant creature|You control enchanted creature.|At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.		
+Dormant Gomazoa	{1}{U}{U}		Creature	Jellyfish	Flying|Dormant Gomazoa enters the battlefield tapped.|Dormant Gomazoa doesn't untap during your untap step.|Whenever you become the target of a spell, you may untap Dormant Gomazoa.	5	5
+Drake Umbra	{4}{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3 and has flying.|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Drana, Kalastria Bloodchief	{3}{B}{B}	Legendary	Creature	Vampire,Shaman	Flying|{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.	4	4
+Dread Drone	{4}{B}		Creature	Eldrazi,Drone	When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	4	1
+Dreamstone Hedron	{6}		Artifact		{T}: Add {3} to your mana pool.|{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.		
+Echo Mage	{1}{U}{U}		Creature	Human,Wizard	Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-3|2/4|{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.|LEVEL 4+|2/5|{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.	2	3
+Eel Umbra	{1}{U}		Enchantment	Aura	Flash (You may cast this spell any time you could cast an instant.)|Enchant creature|Enchanted creature gets +1/+1.|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Eland Umbra	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +0/+4.|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Eldrazi Conscription	{8}		Tribal,Enchantment	Eldrazi,Aura	Enchant creature|Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)		
+Eldrazi Temple			Land		{T}: Add {1} to your mana pool.|{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.		
+Emerge Unscathed	{W}		Instant		Target creature you control gains protection from the color of your choice until end of turn.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Emrakul, the Aeons Torn	{15}	Legendary	Creature	Eldrazi	Emrakul, the Aeons Torn can't be countered.|When you cast Emrakul, take an extra turn after this one.|Flying, protection from colored spells, annihilator 6|When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.	15	15
+Emrakul's Hatcher	{4}{R}		Creature	Eldrazi,Drone	When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	3	3
+Enatu Golem	{6}		Artifact,Creature	Golem	When Enatu Golem dies, you gain 4 life.	3	5
+Enclave Cryptologist	{U}		Creature	Merfolk,Wizard	Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-2|0/1|{T}: Draw a card, then discard a card.|LEVEL 3+|0/1|{T}: Draw a card.	0	1
+Escaped Null	{3}{B}		Creature	Zombie,Berserker	Lifelink|Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.	1	2
+Essence Feed	{5}{B}		Sorcery		Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'		
+Evolving Wilds			Land		{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Explosive Revelation	{3}{R}{R}		Sorcery		Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that creature or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.		
+Fissure Vent	{3}{R}{R}		Sorcery		Choose one or both - Destroy target artifact; and/or destroy target nonbasic land.		
+Flame Slash	{R}		Sorcery		Flame Slash deals 4 damage to target creature.		
+Fleeting Distraction	{U}		Instant		Target creature gets -1/-0 until end of turn.|Draw a card.		
+Forest		Basic	Land	Forest	G		
+Forked Bolt	{R}		Sorcery		Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.		
+Frostwind Invoker	{4}{U}		Creature	Merfolk,Wizard	Flying|{8}: Creatures you control gain flying until end of turn.	3	3
+Gelatinous Genesis	{X}{X}{G}		Sorcery		Put X X/X green Ooze creature tokens onto the battlefield.		
+Gideon Jura	{3}{W}{W}		Planeswalker	Gideon	+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.|-2: Destroy target tapped creature.|0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.		
+Gigantomancer	{7}{G}		Creature	Human,Shaman	{1}: Target creature you control becomes 7/7 until end of turn.	1	1
+Gloomhunter	{2}{B}		Creature	Bat	Flying	2	1
+Glory Seeker	{1}{W}		Creature	Human,Soldier		2	2
+Goblin Arsonist	{R}		Creature	Goblin,Shaman	When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.	1	1
+Goblin Tunneler	{1}{R}		Creature	Goblin,Rogue	{T}: Target creature with power 2 or less can't be blocked this turn.	1	1
+Gravitational Shift	{3}{U}{U}		Enchantment		Creatures with flying get +2/+0.|Creatures without flying get -2/-0.		
+Gravity Well	{1}{G}{G}		Enchantment		Whenever a creature with flying attacks, it loses flying until end of turn.		
+Grotag Siege-Runner	{1}{R}		Creature	Goblin,Rogue	{R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.	2	1
+Growth Spasm	{2}{G}		Sorcery		Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'		
+Guard Duty	{W}		Enchantment	Aura	Enchant creature|Enchanted creature has defender.		
+Guard Gomazoa	{2}{U}		Creature	Jellyfish	Defender, flying|Prevent all combat damage that would be dealt to Guard Gomazoa.	1	3
+Guul Draz Assassin	{B}		Creature	Vampire,Assassin	Level up {1}{B} ({1}{B}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-3|2/2|{B}, {T}: Target creature gets -2/-2 until end of turn.|LEVEL 4+|4/4|{B}, {T}: Target creature gets -4/-4 until end of turn.	1	1
+Hada Spy Patrol	{1}{U}		Creature	Human,Rogue	Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-2|2/2|Hada Spy Patrol can't be blocked.|LEVEL 3+|3/3|Shroud|Hada Spy Patrol can't be blocked.	1	1
+Halimar Wavewatch	{1}{U}		Creature	Merfolk,Soldier	Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-4|0/6||LEVEL 5+|6/6|Islandwalk	0	3
+Hand of Emrakul	{9}		Creature	Eldrazi	You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost.|Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)	7	7
+Harmless Assault	{2}{W}{W}		Instant		Prevent all combat damage that would be dealt this turn by attacking creatures.		
+Haze Frog	{3}{G}{G}		Creature	Frog	Flash (You may cast this spell any time you could cast an instant.)|When Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.	2	1
+Heat Ray	{X}{R}		Instant		Heat Ray deals X damage to target creature.		
+Hedron Matrix	{4}		Artifact	Equipment	Equipped creature gets +X/+X, where X is its converted mana cost.|Equip {4}		
+Hedron-Field Purists	{2}{W}		Creature	Human,Cleric	Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-4|1/4|If a source would deal damage to you or a creature you control, prevent 1 of that damage.|LEVEL 5+|2/5|If a source would deal damage to you or a creature you control, prevent 2 of that damage.	0	3
+Hellcarver Demon	{3}{B}{B}{B}		Creature	Demon	Flying|Whenever Hellcarver Demon deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of nonland cards exiled this way without paying their mana costs.	6	6
+Hellion Eruption	{5}{R}		Sorcery		Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.		
+Hyena Umbra	{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1 and has first strike.|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Ikiral Outrider	{1}{W}		Creature	Human,Soldier	Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-3|2/6|Vigilance|LEVEL 4+|3/10|Vigilance	1	2
+Induce Despair	{2}{B}		Instant		As an additional cost to cast Induce Despair, reveal a creature card from your hand.|Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.		
+Inquisition of Kozilek	{B}		Sorcery		Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.		
+Irresistible Prey	{G}		Sorcery		Target creature must be blocked this turn if able.|Draw a card.		
+Island		Basic	Land	Island	U		
+It That Betrays	{12}		Creature	Eldrazi	Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)|Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.	11	11
+Jaddi Lifestrider	{4}{G}		Creature	Elemental	When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.	2	8
+Joraga Treespeaker	{G}		Creature	Elf,Druid	Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-4|1/2|{T}: Add {G}{G} to your mana pool.|LEVEL 5+|1/4|Elves you control have '{T}: Add {G}{G} to your mana pool.'	1	1
+Jwari Scuttler	{2}{U}		Creature	Crab		2	3
+Kabira Vindicator	{3}{W}		Creature	Human,Knight	Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-4|3/6|Other creatures you control get +1/+1.|LEVEL 5+|4/8|Other creatures you control get +2/+2.	2	4
+Kargan Dragonlord	{R}{R}		Creature	Human,Warrior	Level up {R} ({R}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 4-7|4/4|Flying|LEVEL 8+|8/8|Flying, trample|{R}: Kargan Dragonlord gets +1/+0 until end of turn.	2	2
+Kazandu Tuskcaller	{1}{G}		Creature	Human,Shaman	Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-5|1/1|{T}: Put a 3/3 green Elephant creature token onto the battlefield.|LEVEL 6+|1/1|{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.	1	1
+Keening Stone	{6}		Artifact		{5}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in that player's graveyard.		
+Khalni Hydra	{G}{G}{G}{G}{G}{G}{G}{G}		Creature	Hydra	Khalni Hydra costs {G} less to cast for each green creature you control.|Trample	8	8
+Kiln Fiend	{1}{R}		Creature	Elemental,Beast	Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.	1	2
+Knight of Cliffhaven	{1}{W}		Creature	Kor,Knight	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-3|2/3|Flying|LEVEL 4+|4/4|Flying, vigilance	2	2
+Kor Line-Slinger	{1}{W}		Creature	Kor,Scout	{T}: Tap target creature with power 3 or less.	0	1
+Kor Spiritdancer	{1}{W}		Creature	Kor,Wizard	Kor Spiritdancer gets +2/+2 for each Aura attached to it.|Whenever you cast an Aura spell, you may draw a card.	0	2
+Kozilek, Butcher of Truth	{10}	Legendary	Creature	Eldrazi	When you cast Kozilek, Butcher of Truth, draw four cards.|Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)|When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.	12	12
+Kozilek's Predator	{3}{G}		Creature	Eldrazi,Drone	When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	3	3
+Lagac Lizard	{3}{R}		Creature	Lizard		3	3
+Last Kiss	{2}{B}		Instant		Last Kiss deals 2 damage to target creature and you gain 2 life.		
+Lavafume Invoker	{2}{R}		Creature	Goblin,Shaman	{8}: Creatures you control get +3/+0 until end of turn.	2	2
+Lay Bare	{2}{U}{U}		Instant		Counter target spell. Look at its controller's hand.		
+Leaf Arrow	{G}		Instant		Leaf Arrow deals 3 damage to target creature with flying.		
+Lighthouse Chronologist	{1}{U}		Creature	Human,Wizard	Level up {U} ({U}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 4-6|2/4||LEVEL 7+|3/5|At the beginning of each end step, if it's not your turn, take an extra turn after this one.	1	3
+Lightmine Field	{2}{W}{W}		Enchantment		Whenever one or more creatures attack, Lightmine Field deals damage to each of those creatures equal to the number of attacking creatures.		
+Linvala, Keeper of Silence	{2}{W}{W}	Legendary	Creature	Angel	Flying|Activated abilities of creatures your opponents control can't be activated.	3	4
+Living Destiny	{3}{G}		Instant		As an additional cost to cast Living Destiny, reveal a creature card from your hand.|You gain life equal to the revealed card's converted mana cost.		
+Lone Missionary	{1}{W}		Creature	Kor,Monk	When Lone Missionary enters the battlefield, you gain 4 life.	2	1
+Lord of Shatterskull Pass	{3}{R}		Creature	Minotaur,Shaman	Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-5|6/6||LEVEL 6+|6/6|Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.	3	3
+Luminous Wake	{2}{W}		Enchantment	Aura	Enchant creature|Whenever enchanted creature attacks or blocks, you gain 4 life.		
+Lust for War	{2}{R}		Enchantment	Aura	Enchant creature|Whenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature's controller.|Enchanted creature attacks each turn if able.		
+Magmaw	{3}{R}{R}		Creature	Elemental	{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.	4	4
+Makindi Griffin	{3}{W}		Creature	Griffin	Flying	2	4
+Mammoth Umbra	{4}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3 and has vigilance.|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Merfolk Observer	{1}{U}		Creature	Merfolk,Rogue	When Merfolk Observer enters the battlefield, look at the top card of target player's library.	2	1
+Merfolk Skyscout	{2}{U}{U}		Creature	Merfolk,Scout	Flying|Whenever Merfolk Skyscout attacks or blocks, untap target permanent.	2	3
+Might of the Masses	{G}		Instant		Target creature gets +1/+1 until end of turn for each creature you control.		
+Mnemonic Wall	{4}{U}		Creature	Wall	Defender|When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.	0	4
+Momentous Fall	{2}{G}{G}		Instant		As an additional cost to cast Momentous Fall, sacrifice a creature.|You draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.		
+Mortician Beetle	{B}		Creature	Insect	Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.	1	1
+Mountain		Basic	Land	Mountain	R		
+Mul Daya Channelers	{1}{G}{G}		Creature	Elf,Druid,Shaman	Play with the top card of your library revealed.|As long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3.|As long as the top card of your library is a land card, Mul Daya Channelers has '{T}: Add two mana of any one color to your mana pool.'	2	2
+Narcolepsy	{1}{U}		Enchantment	Aura	Enchant creature|At the beginning of each upkeep, if enchanted creature is untapped, tap it.		
+Naturalize	{1}{G}		Instant		Destroy target artifact or enchantment.		
+Near-Death Experience	{2}{W}{W}{W}		Enchantment		At the beginning of your upkeep, if you have exactly 1 life, you win the game.		
+Nema Siltlurker	{4}{G}		Creature	Lizard		3	5
+Nest Invader	{1}{G}		Creature	Eldrazi,Drone	When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	2	2
+Nighthaze	{B}		Sorcery		Target creature gains swampwalk until end of turn.|Draw a card.		
+Nirkana Cutthroat	{2}{B}		Creature	Vampire,Warrior	Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-2|4/3|Deathtouch|LEVEL 3+|5/4|First strike, deathtouch	3	2
+Nirkana Revenant	{4}{B}{B}		Creature	Vampire,Shade	Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces).|{B}: Nirkana Revenant gets +1/+1 until end of turn.	4	4
+Nomads' Assembly	{4}{W}{W}		Sorcery		Put a 1/1 white Kor Soldier creature token onto the battlefield for each creature you control.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Not of This World	{7}		Tribal,Instant	Eldrazi	Counter target spell or ability that targets a permanent you control.|Not of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.		
+Null Champion	{1}{B}		Creature	Zombie,Warrior	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-3|4/2||LEVEL 4+|7/3|{B}: Regenerate Null Champion.	1	1
+Ogre Sentry	{1}{R}		Creature	Ogre,Warrior	Defender	3	3
+Ogre's Cleaver	{2}		Artifact	Equipment	Equipped creature gets +5/+0.|Equip {5}		
+Ondu Giant	{3}{G}		Creature	Giant,Druid	When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.	2	4
+Oust	{W}		Sorcery		Put target creature into its owner's library second from the top. Its controller gains 3 life.		
+Overgrown Battlement	{1}{G}		Creature	Wall	Defender|{T}: Add {G} to your mana pool for each creature with defender you control.	0	4
+Pathrazer of Ulamog	{11}		Creature	Eldrazi	Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)|Pathrazer of Ulamog can't be blocked except by three or more creatures.	9	9
+Pawn of Ulamog	{1}{B}{B}		Creature	Vampire,Shaman	Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	2	2
+Pelakka Wurm	{4}{G}{G}{G}		Creature	Wurm	Trample|When Pelakka Wurm enters the battlefield, you gain 7 life.|When Pelakka Wurm dies, draw a card.	7	7
+Pennon Blade	{3}		Artifact	Equipment	Equipped creature gets +1/+1 for each creature you control.|Equip {4}		
+Perish the Thought	{2}{B}		Sorcery		Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.		
+Pestilence Demon	{5}{B}{B}{B}		Creature	Demon	Flying|{B}: Pestilence Demon deals 1 damage to each creature and each player.	7	6
+Phantasmal Abomination	{1}{U}{U}		Creature	Illusion	Defender|When Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.	5	5
+Plains		Basic	Land	Plains	W		
+Prey's Vengeance	{G}		Instant		Target creature gets +2/+2 until end of turn.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Prophetic Prism	{2}		Artifact		When Prophetic Prism enters the battlefield, draw a card.|{1}, {T}: Add one mana of any color to your mana pool.		
+Puncturing Light	{1}{W}		Instant		Destroy target attacking or blocking creature with power 3 or less.		
+Rage Nimbus	{2}{R}		Creature	Elemental	Defender, flying|{1}{R}: Target creature attacks this turn if able.	5	3
+Raid Bombardment	{2}{R}		Enchantment		Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.		
+Rapacious One	{5}{R}		Creature	Eldrazi,Drone	Trample|Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	5	4
+Reality Spasm	{X}{U}{U}		Instant		Choose one - Tap X target permanents; or untap X target permanents.		
+Realms Uncharted	{2}{G}		Instant		Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.		
+Recurring Insight	{4}{U}{U}		Sorcery		Draw cards equal to the number of cards in target opponent's hand.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Regress	{2}{U}		Instant		Return target permanent to its owner's hand.		
+Reinforced Bulwark	{3}		Artifact,Creature	Wall	Defender|{T}: Prevent the next 1 damage that would be dealt to you this turn.	0	4
+Renegade Doppelganger	{1}{U}		Creature	Shapeshifter	Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)	0	1
+Repay in Kind	{5}{B}{B}		Sorcery		Each player's life total becomes the lowest life total among all players.		
+Repel the Darkness	{2}{W}		Instant		Tap up to two target creatures.|Draw a card.		
+Runed Servitor	{2}		Artifact,Creature	Construct	When Runed Servitor dies, each player draws a card.	2	2
+Sarkhan the Mad	{3}{B}{R}		Planeswalker	Sarkhan	0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.|-2: Target creature's controller sacrifices it, then that player puts a 5/5 red Dragon creature token with flying onto the battlefield.|-4: Each Dragon creature you control deals damage equal to its power to target player.		
+Sea Gate Oracle	{2}{U}		Creature	Human,Wizard	When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.	1	3
+See Beyond	{1}{U}		Sorcery		Draw two cards, then shuffle a card from your hand into your library.		
+Shared Discovery	{U}		Sorcery		As an additional cost to cast Shared Discovery, tap four untapped creatures you control.|Draw three cards.		
+Shrivel	{1}{B}		Sorcery		All creatures get -1/-1 until end of turn.		
+Skeletal Wurm	{7}{B}		Creature	Skeleton,Wurm	{B}: Regenerate Skeletal Wurm.	7	6
+Skittering Invasion	{7}		Tribal,Sorcery	Eldrazi	Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'		
+Skywatcher Adept	{U}		Creature	Merfolk,Wizard	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-2|2/2|Flying|LEVEL 3+|4/2|Flying	1	1
+Smite	{W}		Instant		Destroy target blocked creature.		
+Snake Umbra	{2}{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1 and has 'Whenever this creature deals damage to an opponent, you may draw a card.'|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Soulbound Guardians	{4}{W}		Creature	Kor,Spirit	Defender, flying	4	5
+Soul's Attendant	{W}		Creature	Human,Cleric	Whenever another creature enters the battlefield, you may gain 1 life.	1	1
+Soulsurge Elemental	{3}{R}		Creature	Elemental	First strike|Soulsurge Elemental's power is equal to the number of creatures you control.	*	1
+Spawning Breath	{1}{R}		Instant		Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'		
+Spawnsire of Ulamog	{10}		Creature	Eldrazi	Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)|{4}: Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'|{2}0: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.	7	11
+Sphinx of Magosi	{3}{U}{U}{U}		Creature	Sphinx	Flying|{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.	6	6
+Sphinx-Bone Wand	{7}		Artifact		Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage equal to the number of charge counters on it to target creature or player.		
+Spider Umbra	{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1 and has reach. (It can block creatures with flying.)|Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)		
+Splinter Twin	{2}{R}{R}		Enchantment	Aura	Enchant creature|Enchanted creature has '{T}: Put a token that's a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step.'		
+Sporecap Spider	{2}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)	1	5
+Staggershock	{2}{R}		Instant		Staggershock deals 2 damage to target creature or player.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Stalwart Shield-Bearers	{1}{W}		Creature	Human,Soldier	Defender|Other creatures you control with defender get +0/+2.	0	3
+Stomper Cub	{3}{G}{G}		Creature	Beast	Trample	5	3
+Student of Warfare	{W}		Creature	Human,Knight	Level up {W} ({W}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-6|3/3|First strike|LEVEL 7+|4/4|Double strike	1	1
+Suffer the Past	{X}{B}		Instant		Exile X target cards from target player's graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.		
+Surrakar Spellblade	{1}{U}{U}		Creature	Surrakar	Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.|Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.	2	1
+Surreal Memoir	{3}{R}		Sorcery		Return an instant card at random from your graveyard to your hand.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Survival Cache	{2}{W}		Sorcery		You gain 2 life. Then if you have more life than an opponent, draw a card.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Swamp		Basic	Land	Swamp	B		
+Tajuru Preserver	{1}{G}		Creature	Elf,Shaman	Spells and abilities your opponents control can't cause you to sacrifice permanents.	2	1
+Thought Gorger	{2}{B}{B}		Creature	Horror	Trample|When Thought Gorger enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.|When Thought Gorger leaves the battlefield, draw a card for each +1/+1 counter on it.	2	2
+Time of Heroes	{1}{W}		Enchantment		Each creature you control with a level counter on it gets +2/+2.		
+Totem-Guide Hartebeest	{4}{W}		Creature	Antelope	When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.	2	5
+Training Grounds	{U}		Enchantment		Activated abilities of creatures you control cost up to {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.		
+Traitorous Instinct	{3}{R}		Sorcery		Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.		
+Transcendent Master	{1}{W}{W}		Creature	Human,Cleric,Avatar	Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 6-11|6/6|Lifelink|LEVEL 12+|9/9|Lifelink, indestructible	3	3
+Tuktuk the Explorer	{2}{R}	Legendary	Creature	Goblin	Haste|When Tuktuk the Explorer dies, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.	1	1
+Ulamog, the Infinite Gyre	{11}	Legendary	Creature	Eldrazi	When you cast Ulamog, the Infinite Gyre, destroy target permanent.|Indestructible|Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)|When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.	10	10
+Ulamog's Crusher	{8}		Creature	Eldrazi	Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)|Ulamog's Crusher attacks each turn if able.	8	8
+Umbra Mystic	{2}{W}		Creature	Human,Wizard	Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)	2	2
+Unified Will	{1}{U}		Instant		Counter target spell if you control more creatures than that spell's controller.		
+Valakut Fireboar	{4}{R}		Creature	Elemental,Boar	Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.	1	7
+Vendetta	{B}		Instant		Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.		
+Venerated Teacher	{2}{U}		Creature	Human,Wizard	When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.	2	2
+Vengevine	{2}{G}{G}		Creature	Elemental	Haste|Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.	4	3
+Vent Sentinel	{3}{R}		Creature	Elemental	Defender|{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.	2	4
+Virulent Swipe	{B}		Instant		Target creature gets +2/+0 and gains deathtouch until end of turn.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Wall of Omens	{1}{W}		Creature	Wall	Defender|When Wall of Omens enters the battlefield, draw a card.	0	4
+Warmonger's Chariot	{2}		Artifact	Equipment	Equipped creature gets +2/+2.|As long as equipped creature has defender, it can attack as though it didn't have defender.|Equip {3}		
+Wildheart Invoker	{2}{G}{G}		Creature	Elf,Shaman	{8}: Target creature gets +5/+5 and gains trample until end of turn.	4	3
+World at War	{3}{R}{R}		Sorcery		After the first postcombat main phase this turn, there's an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn.|Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)		
+Wrap in Flames	{3}{R}		Sorcery		Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.		
+Zof Shade	{3}{B}		Creature	Shade	{2}{B}: Zof Shade gets +2/+2 until end of turn.	2	2
+Zulaport Enforcer	{B}		Creature	Human,Warrior	Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-2|3/3||LEVEL 3+|5/5|Zulaport Enforcer can't be blocked except by black creatures.	1	1

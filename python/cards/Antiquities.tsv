@@ -1,0 +1,86 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Amulet of Kroog	{2}		Artifact		{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.		
+Argivian Archaeologist	{1}{W}{W}		Creature	Human,Artificer	{W}{W}, {T}: Return target artifact card from your graveyard to your hand.	1	1
+Argivian Blacksmith	{1}{W}{W}		Creature	Human,Artificer	{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.	2	2
+Argothian Pixies	{1}{G}		Creature	Faerie	Argothian Pixies can't be blocked by artifact creatures.|Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.	2	1
+Argothian Treefolk	{3}{G}{G}		Creature	Treefolk	Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.	3	5
+Armageddon Clock	{6}		Artifact		At the beginning of your upkeep, put a doom counter on Armageddon Clock.|At the beginning of your draw step, Armageddon Clock deals damage equal to the number of doom counters on it to each player.|{4}: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.		
+Artifact Blast	{R}		Instant		Counter target artifact spell.		
+Artifact Possession	{2}{B}		Enchantment	Aura	Enchant artifact|Whenever enchanted artifact becomes tapped or a player activates an ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.		
+Artifact Ward	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by artifact creatures.|Prevent all damage that would be dealt to enchanted creature by artifact sources.|Enchanted creature can't be the target of abilities from artifact sources.		
+Ashnod's Altar	{3}		Artifact		Sacrifice a creature: Add {2} to your mana pool.		
+Ashnod's Battle Gear	{2}		Artifact		You may choose not to untap Ashnod's Battle Gear during your untap step.|{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.		
+Ashnod's Transmogrant	{1}		Artifact		{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.		
+Atog	{1}{R}		Creature	Atog	Sacrifice an artifact: Atog gets +2/+2 until end of turn.	1	2
+Battering Ram	{2}		Artifact,Creature	Construct	At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)|Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.	1	1
+Bronze Tablet	{6}		Artifact		Remove Bronze Tablet from your deck before playing if you're not playing for ante.|Bronze Tablet enters the battlefield tapped.|{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If he or she does, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.		
+Candelabra of Tawnos	{1}		Artifact		{X}, {T}: Untap X target lands.		
+Circle of Protection: Artifacts	{1}{W}		Enchantment		{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.		
+Citanul Druid	{1}{G}		Creature	Human,Druid	Whenever an opponent casts an artifact spell, put a +1/+1 counter on Citanul Druid.	1	1
+Clay Statue	{4}		Artifact,Creature	Golem	{2}: Regenerate Clay Statue.	3	1
+Clockwork Avian	{5}		Artifact,Creature	Bird	Flying|Clockwork Avian enters the battlefield with four +1/+0 counters on it.|At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.|{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.	0	4
+Colossus of Sardia	{9}		Artifact,Creature	Golem	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)|Colossus of Sardia doesn't untap during your untap step.|{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.	9	9
+Coral Helm	{3}		Artifact		{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.		
+Crumble	{G}		Instant		Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.		
+Cursed Rack	{4}		Artifact		As Cursed Rack enters the battlefield, choose an opponent.|The chosen player's maximum hand size is four.		
+Damping Field	{2}{W}		Enchantment		Players can't untap more than one artifact during their untap steps.		
+Detonate	{X}{R}		Sorcery		Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.		
+Drafna's Restoration	{U}		Sorcery		Return any number of target artifact cards from target player's graveyard to the top of his or her library in any order.		
+Dragon Engine	{3}		Artifact,Creature	Construct	{2}: Dragon Engine gets +1/+0 until end of turn.	1	3
+Dwarven Weaponsmith	{1}{R}		Creature	Dwarf,Artificer	{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.	1	1
+Energy Flux	{2}{U}		Enchantment		All artifacts have 'At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.'		
+Feldon's Cane	{1}		Artifact		{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.		
+Gaea's Avenger	{1}{G}{G}		Creature	Treefolk	Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.		
+Gate to Phyrexia	{B}{B}		Enchantment		Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.		
+Goblin Artisans	{R}		Creature	Goblin,Artificer	{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.	1	1
+Golgothian Sylex	{4}		Artifact		{1}, {T}: Each nontoken permanent originally printed in the Antiquities expansion is sacrificed by its controller.		
+Grapeshot Catapult	{4}		Artifact,Creature	Construct	{T}: Grapeshot Catapult deals 1 damage to target creature with flying.	2	3
+Haunting Wind	{3}{B}		Enchantment		Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.		
+Hurkyl's Recall	{1}{U}		Instant		Return all artifacts target player owns to his or her hand.		
+Ivory Tower	{1}		Artifact		At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.		
+Jalum Tome	{3}		Artifact		{2}, {T}: Draw a card, then discard a card.		
+Martyrs of Korlis	{3}{W}{W}		Creature	Human	As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.	1	6
+Mightstone	{4}		Artifact		Attacking creatures get +1/+0.		
+Millstone	{2}		Artifact		{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.		
+Mishra's Factory			Land		{T}: Add {1} to your mana pool.|{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.|{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.		
+Mishra's War Machine	{7}		Artifact,Creature	Juggernaut	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)|At the beginning of your upkeep, Mishra's War Machine deals 3 damage to you unless you discard a card. If Mishra's War Machine deals damage to you this way, tap it.	5	5
+Mishra's Workshop			Land		{T}: Add {3} to your mana pool. Spend this mana only to cast artifact spells.		
+Obelisk of Undoing	{1}		Artifact		{6}, {T}: Return target permanent you both own and control to your hand.		
+Onulet	{3}		Artifact,Creature	Construct	When Onulet dies, you gain 2 life.	2	2
+Orcish Mechanics	{2}{R}		Creature	Orc	{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to target creature or player.	1	1
+Ornithopter	{0}		Artifact,Creature	Thopter	Flying	0	2
+Phyrexian Gremlins	{2}{B}		Creature	Gremlin	You may choose not to untap Phyrexian Gremlins during your untap step.|{T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Phyrexian Gremlins remains tapped.	1	1
+Power Artifact	{U}{U}		Enchantment	Aura	Enchant artifact|Enchanted artifact's activated abilities cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.		
+Powerleech	{G}{G}		Enchantment		Whenever an artifact an opponent controls becomes tapped or an opponent activates an artifact's ability without {T} in its activation cost, you gain 1 life.		
+Priest of Yawgmoth	{1}{B}		Creature	Human,Cleric	{T}, Sacrifice an artifact: Add to your mana pool an amount of {B} equal to the sacrificed artifact's converted mana cost.	1	2
+Primal Clay	{4}		Artifact,Creature	Shapeshifter	As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can't attack.)	*	*
+Rakalite	{6}		Artifact		{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at the beginning of the next end step.		
+Reconstruction	{U}		Sorcery		Return target artifact card from your graveyard to your hand.		
+Reverse Polarity	{W}{W}		Instant		You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.		
+Rocket Launcher	{4}		Artifact		{2}: Rocket Launcher deals 1 damage to target creature or player. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.		
+Sage of Lat-Nam	{1}{U}		Creature	Human,Artificer	{T}, Sacrifice an artifact: Draw a card.	1	2
+Shapeshifter	{6}		Artifact,Creature	Shapeshifter	As Shapeshifter enters the battlefield, choose a number between 0 and 7.|At the beginning of your upkeep, you may choose a number between 0 and 7.|Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.		
+Shatterstorm	{2}{R}{R}		Sorcery		Destroy all artifacts. They can't be regenerated.		
+Staff of Zegon	{4}		Artifact		{3}, {T}: Target creature gets -2/-0 until end of turn.		
+Strip Mine			Land		{T}: Add {1} to your mana pool.||{T}, Sacrifice Strip Mine: Destroy target land.		
+Su-Chi	{4}		Artifact,Creature	Construct	When Su-Chi dies, add {4} to your mana pool.	4	4
+Tablet of Epityr	{1}		Artifact		Whenever an artifact you control is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.		
+Tawnos's Coffin	{4}		Artifact		You may choose not to untap Tawnos's Coffin during your untap step.|{3}, {T}: Exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature. When Tawnos's Coffin leaves the battlefield or becomes untapped, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.		
+Tawnos's Wand	{4}		Artifact		{2}, {T}: Target creature with power 2 or less can't be blocked this turn.		
+Tawnos's Weaponry	{2}		Artifact		You may choose not to untap Tawnos's Weaponry during your untap step.|{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.		
+Tetravus	{6}		Artifact,Creature	Construct	Flying|Tetravus enters the battlefield with three +1/+1 counters on it.|At the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, put that many 1/1 colorless Tetravite artifact creature tokens onto the battlefield. They each have flying and 'This creature can't be enchanted.'|At the beginning of your upkeep, you may exile any number of tokens put onto the battlefield with Tetravus. If you do, put that many +1/+1 counters on Tetravus.	1	1
+The Rack	{1}		Artifact		As The Rack enters the battlefield, choose an opponent.|At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.		
+Titania's Song	{3}{G}		Enchantment		Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.		
+Transmute Artifact	{U}{U}		Sorcery		Sacrifice an artifact. If you do, search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it onto the battlefield. If it's greater, you may pay {X}, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle your library.		
+Triskelion	{6}		Artifact,Creature	Construct	Triskelion enters the battlefield with three +1/+1 counters on it.|Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.	1	1
+Urza's Avenger	{6}		Artifact,Creature	Shapeshifter	{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	4	4
+Urza's Chalice	{1}		Artifact		Whenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.		
+Urza's Mine			Land	Urza’s,Mine	{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.		
+Urza's Miter	{3}		Artifact		Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.		
+Urza's Power Plant			Land	Urza’s,Power-Plant	{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.		
+Urza's Tower			Land	Urza’s,Tower	{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.		
+Wall of Spears	{3}		Artifact,Creature	Wall	Defender (This creature can't attack.)|First strike	2	3
+Weakstone	{4}		Artifact		Attacking creatures get -1/-0.		
+Xenic Poltergeist	{1}{B}{B}		Creature	Spirit	{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.	1	1
+Yawgmoth Demon	{4}{B}{B}		Creature	Demon	Flying (This creature can't be blocked except by creatures with flying or reach.)|First strike (This creature deals combat damage before creatures without first strike.)|At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.	6	6
+Yotian Soldier	{3}		Artifact,Creature	Soldier	Vigilance	1	4

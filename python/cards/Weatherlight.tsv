@@ -1,0 +1,168 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abduction	{2}{U}{U}		Enchantment	Aura	Enchant creature|When Abduction enters the battlefield, untap enchanted creature.|You control enchanted creature.|When enchanted creature dies, return that card to the battlefield under its owner's control.		
+Abeyance	{1}{W}		Instant		Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.|Draw a card.		
+Abjure	{U}		Instant		As an additional cost to cast Abjure, sacrifice a blue permanent.|Counter target spell.		
+Aboroth	{4}{G}{G}		Creature	Elemental	Cumulative upkeep-Put a -1/-1 counter on Aboroth. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	9	9
+Abyssal Gatekeeper	{1}{B}		Creature	Horror	When Abyssal Gatekeeper dies, each player sacrifices a creature.	1	1
+Æther Flash	{2}{R}{R}		Enchantment		Whenever a creature enters the battlefield, Æther Flash deals 2 damage to it.		
+Agonizing Memories	{2}{B}{B}		Sorcery		Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.		
+Alabaster Dragon	{4}{W}{W}		Creature	Dragon	Flying|When Alabaster Dragon dies, shuffle it into its owner's library.	4	4
+Alms	{W}		Enchantment		{1}, Exile the top card of your graveyard: Prevent the next 1 damage that would be dealt to target creature this turn.		
+Ancestral Knowledge	{1}{U}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|When Ancestral Knowledge enters the battlefield, look at the top ten cards of your library, then exile any number of them and put the rest back on top of your library in any order.|When Ancestral Knowledge leaves the battlefield, shuffle your library.		
+Angelic Renewal	{1}{W}		Enchantment		Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.		
+Apathy	{U}		Enchantment	Aura	Enchant creature|Enchanted creature doesn't untap during its controller's untap step.|At the beginning of the upkeep of enchanted creature's controller, that player may discard a card at random. If he or she does, untap that creature.		
+Arctic Wolves	{3}{G}{G}		Creature	Wolf	Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|When Arctic Wolves enters the battlefield, draw a card.	4	5
+Ardent Militia	{4}{W}		Creature	Human,Soldier	Vigilance	2	5
+Argivian Find	{W}		Instant		Return target artifact or enchantment card from your graveyard to your hand.		
+Argivian Restoration	{2}{U}{U}		Sorcery		Return target artifact card from your graveyard to the battlefield.		
+Aura of Silence	{1}{W}{W}		Enchantment		Artifact and enchantment spells your opponents cast cost {2} more to cast.|Sacrifice Aura of Silence: Destroy target artifact or enchantment.		
+Avizoa	{3}{U}		Creature	Jellyfish	Flying|{0}: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn.	2	2
+Barishi	{2}{G}{G}		Creature	Elemental	When Barishi dies, exile Barishi, then shuffle all creature cards from your graveyard into your library.	4	3
+Barrow Ghoul	{1}{B}		Creature	Zombie	At the beginning of your upkeep, sacrifice Barrow Ghoul unless you exile the top creature card of your graveyard.	4	4
+Benalish Infantry	{2}{W}		Creature	Human,Soldier	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	1	3
+Benalish Knight	{2}{W}		Creature	Human,Knight	Flash (You may cast this spell any time you could cast an instant.)|First strike (This creature deals combat damage before creatures without first strike.)	2	2
+Benalish Missionary	{W}		Creature	Human,Cleric	{1}{W}, {T}: Prevent all combat damage that would be dealt by target blocked creature this turn.	1	1
+Betrothed of Fire	{1}{R}		Enchantment	Aura	Enchant creature|Sacrifice an untapped creature: Enchanted creature gets +2/+0 until end of turn.|Sacrifice enchanted creature: Creatures you control get +2/+0 until end of turn.		
+Bloodrock Cyclops	{2}{R}		Creature	Cyclops	Bloodrock Cyclops attacks each turn if able.	3	3
+Blossoming Wreath	{G}		Instant		You gain life equal to the number of creature cards in your graveyard.		
+Bogardan Firefiend	{2}{R}		Creature	Elemental,Spirit	When Bogardan Firefiend dies, it deals 2 damage to target creature.	2	1
+Boiling Blood	{2}{R}		Instant		Target creature attacks this turn if able.|Draw a card.		
+Bone Dancer	{1}{B}{B}		Creature	Zombie	Whenever Bone Dancer attacks and isn't blocked, you may put the top creature card of defending player's graveyard onto the battlefield under your control. If you do, Bone Dancer assigns no combat damage this turn.	2	2
+Bösium Strip	{3}		Artifact		{3}, {T}: Until end of turn, if the top card of your graveyard is an instant or sorcery card, you may cast that card. If a card cast this way would be put into a graveyard this turn, exile it instead.		
+Briar Shield	{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1.|Sacrifice Briar Shield: Enchanted creature gets +3/+3 until end of turn.		
+Bubble Matrix	{4}		Artifact		Prevent all damage that would be dealt to creatures.		
+Buried Alive	{2}{B}		Sorcery		Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.		
+Call of the Wild	{2}{G}{G}		Enchantment		{2}{G}{G}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.		
+Chimeric Sphere	{3}		Artifact		{2}: Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying.|{2}: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature without flying.		
+Choking Vines	{X}{G}		Instant		Cast Choking Vines only during the declare blockers step.|X target attacking creatures become blocked. Choking Vines deals 1 damage to each of those creatures. (This spell works on creatures that can't be blocked.)		
+Cinder Giant	{3}{R}		Creature	Giant	At the beginning of your upkeep, Cinder Giant deals 2 damage to each other creature you control.	5	3
+Cinder Wall	{R}		Creature	Wall	Defender (This creature can't attack.)|When Cinder Wall blocks, destroy it at end of combat.	3	3
+Circling Vultures	{B}		Creature	Bird	Flying|You may discard Circling Vultures any time you could cast an instant.|At the beginning of your upkeep, sacrifice Circling Vultures unless you exile the top creature card of your graveyard.	3	2
+Cloud Djinn	{5}{U}		Creature	Djinn	Flying|Cloud Djinn can block only creatures with flying.	5	4
+Coils of the Medusa	{1}{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/-1.|Sacrifice Coils of the Medusa: Destroy all non-Wall creatures blocking enchanted creature.		
+Cone of Flame	{3}{R}{R}		Sorcery		Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.		
+Debt of Loyalty	{1}{W}{W}		Instant		Regenerate target creature. You gain control of that creature if it regenerates this way.		
+Dense Foliage	{2}{G}		Enchantment		Creatures can't be the targets of spells.		
+Desperate Gambit	{R}		Instant		Choose a source you control and flip a coin. If you win the flip, the next time that source would deal damage this turn, it deals double that damage instead. If you lose the flip, the next time it would deal damage this turn, prevent that damage.		
+Dingus Staff	{4}		Artifact		Whenever a creature dies, Dingus Staff deals 2 damage to that creature's controller.		
+Disrupt	{U}		Instant		Counter target instant or sorcery spell unless its controller pays {1}.||Draw a card.		
+Doomsday	{B}{B}{B}		Sorcery		Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.		
+Downdraft	{2}{G}		Enchantment		{G}: Target creature loses flying until end of turn.||Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.		
+Duskrider Falcon	{1}{W}		Creature	Bird	Flying, protection from black	1	1
+Dwarven Berserker	{1}{R}		Creature	Dwarf,Berserker	Whenever Dwarven Berserker becomes blocked, it gets +3/+0 and gains trample until end of turn.	1	1
+Dwarven Thaumaturgist	{2}{R}		Creature	Dwarf,Shaman	{T}: Switch target creature's power and toughness until end of turn.	1	2
+Empyrial Armor	{1}{W}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1 for each card in your hand.		
+Ertai's Familiar	{1}{U}		Creature	Illusion	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)|When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard.|{U}: Until your next upkeep, Ertai's Familiar can't phase out.	2	2
+Fallow Wurm	{2}{G}		Creature	Wurm	When Fallow Wurm enters the battlefield, sacrifice it unless you discard a land card.	4	4
+Familiar Ground	{2}{G}		Enchantment		Each creature you control can't be blocked by more than one creature.		
+Fatal Blow	{B}		Instant		Destroy target creature that was dealt damage this turn. It can't be regenerated.		
+Fervor	{2}{R}		Enchantment		Creatures you control have haste. (They can attack and {T} as soon as they come under your control.)		
+Festering Evil	{3}{B}{B}		Enchantment		At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player.||{B}{B}, Sacrifice Festering Evil: Festering Evil deals 3 damage to each creature and each player.		
+Fire Whip	{1}{R}		Enchantment	Aura	Enchant creature you control|Enchanted creature has '{T}: This creature deals 1 damage to target creature or player.'|Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.		
+Firestorm	{R}		Instant		As an additional cost to cast Firestorm, discard X cards.|Firestorm deals X damage to each of X target creatures and/or players.		
+Fit of Rage	{1}{R}		Sorcery		Target creature gets +3/+3 and gains first strike until end of turn.		
+Fledgling Djinn	{1}{B}		Creature	Djinn	Flying|At the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.	2	2
+Flux	{2}{U}		Sorcery		Each player discards any number of cards, then draws that many cards.|Draw a card.		
+Fog Elemental	{2}{U}		Creature	Elemental	Flying (This creature can't be blocked except by creatures with flying or reach.)|When Fog Elemental attacks or blocks, sacrifice it at end of combat.	4	4
+Foriysian Brigade	{3}{W}		Creature	Human,Soldier	Foriysian Brigade can block an additional creature.	2	4
+Fungus Elemental	{3}{G}		Creature	Fungus,Elemental	{G}, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn.	3	3
+Gaea's Blessing	{1}{G}		Sorcery		Target player shuffles up to three target cards from his or her graveyard into his or her library.|Draw a card.|When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.		
+Gallowbraid	{3}{B}{B}	Legendary	Creature	Horror	Trample|Cumulative upkeep-Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	5	5
+Gemstone Mine			Land		Gemstone Mine enters the battlefield with three mining counters on it.|{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it.		
+Gerrard's Wisdom	{2}{W}{W}		Sorcery		You gain 2 life for each card in your hand.		
+Goblin Bomb	{1}{R}		Enchantment		At the beginning of your upkeep, you may flip a coin. If you win the flip, put a fuse counter on Goblin Bomb. If you lose the flip, remove a fuse counter from Goblin Bomb.|Remove five fuse counters from Goblin Bomb, Sacrifice Goblin Bomb: Goblin Bomb deals 20 damage to target player.		
+Goblin Grenadiers	{3}{R}		Creature	Goblin	Whenever Goblin Grenadiers attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature and target land.	2	2
+Goblin Vandal	{R}		Creature	Goblin,Rogue	Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.	1	1
+Guided Strike	{1}{W}		Instant		Target creature gets +1/+0 and gains first strike until end of turn.||Draw a card.		
+Harvest Wurm	{1}{G}		Creature	Wurm	When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.	3	2
+Haunting Misery	{1}{B}{B}		Sorcery		As an additional cost to cast Haunting Misery, exile X creature cards from your graveyard.|Haunting Misery deals X damage to target player.		
+Heart of Bogardan	{2}{R}{R}		Enchantment		Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|When a player doesn't pay Heart of Bogardan's cumulative upkeep, Heart of Bogardan deals X damage to target player and each creature he or she controls, where X is twice the number of age counters on Heart of Bogardan minus 2.		
+Heat Stroke	{2}{R}		Enchantment		At end of combat, destroy each creature that blocked or was blocked this turn.		
+Heavy Ballista	{3}{W}		Creature	Human,Soldier	{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.	2	3
+Hidden Horror	{1}{B}{B}		Creature	Horror	When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.	4	4
+Hurloon Shaman	{1}{R}{R}		Creature	Minotaur,Shaman	When Hurloon Shaman dies, each player sacrifices a land.	2	3
+Infernal Tribute	{B}{B}{B}		Enchantment		{2}, Sacrifice a nontoken permanent: Draw a card.		
+Inner Sanctum	{1}{W}{W}		Enchantment		Cumulative upkeep-Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|Prevent all damage that would be dealt to creatures you control.		
+Jabari's Banner	{2}		Artifact		{1}, {T}: Target creature gains flanking until end of turn. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)		
+Jangling Automaton	{3}		Artifact,Creature	Construct	Whenever Jangling Automaton attacks, untap all creatures defending player controls.	3	2
+Kithkin Armor	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked by creatures with power 3 or greater.|Sacrifice Kithkin Armor: The next time a source of your choice would deal damage to enchanted creature this turn, prevent that damage.		
+Lava Hounds	{2}{R}{R}		Creature	Hound	Haste|When Lava Hounds enters the battlefield, it deals 4 damage to you.	4	4
+Lava Storm	{3}{R}{R}		Instant		Lava Storm deals 2 damage to each attacking creature or Lava Storm deals 2 damage to each blocking creature.		
+Liege of the Hollows	{2}{G}{G}		Creature	Spirit	When Liege of the Hollows dies, each player may pay any amount of mana. Then each player who paid mana this way puts that many 1/1 green Squirrel creature tokens onto the battlefield.	3	4
+Llanowar Behemoth	{3}{G}{G}		Creature	Elemental	Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.	4	4
+Llanowar Druid	{1}{G}		Creature	Elf,Druid	{T}, Sacrifice Llanowar Druid: Untap all Forests.	1	2
+Llanowar Sentinel	{2}{G}		Creature	Elf	When Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.	2	3
+Lotus Vale			Land		If Lotus Vale would enter the battlefield, sacrifice two untapped lands instead. If you do, put Lotus Vale onto the battlefield. If you don't, put it into its owner's graveyard.|{T}: Add three mana of any one color to your mana pool.		
+Mana Chains	{U}		Enchantment	Aura	Enchant creature|Enchanted creature has 'Cumulative upkeep {1}.' (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)		
+Mana Web	{3}		Artifact		Whenever a land an opponent controls is tapped for mana, tap all lands that player controls that could produce any type of mana that land could produce.		
+Manta Ray	{1}{U}{U}		Creature	Fish	Manta Ray can't attack unless defending player controls an Island.|Manta Ray can't be blocked except by blue creatures.|When you control no Islands, sacrifice Manta Ray.	3	3
+Maraxus of Keld	{4}{R}{R}	Legendary	Creature	Human,Warrior	Maraxus of Keld's power and toughness are each equal to the number of untapped artifacts, creatures, and lands you control.	*	*
+Master of Arms	{2}{W}		Creature	Human,Soldier	First strike|{1}{W}: Tap target creature blocking Master of Arms.	2	2
+Merfolk Traders	{1}{U}		Creature	Merfolk	When Merfolk Traders enters the battlefield, draw a card, then discard a card.	1	2
+Mind Stone	{2}		Artifact		{T}: Add {1} to your mana pool.|{1}, {T}, Sacrifice Mind Stone: Draw a card.		
+Mischievous Poltergeist	{2}{B}		Creature	Spirit	Flying|Pay 1 life: Regenerate Mischievous Poltergeist.	1	1
+Mistmoon Griffin	{3}{W}		Creature	Griffin	Flying|When Mistmoon Griffin dies, exile Mistmoon Griffin, then return the top creature card of your graveyard to the battlefield.	2	2
+Morinfen	{3}{B}{B}	Legendary	Creature	Horror	Flying|Cumulative upkeep-Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	5	4
+Mwonvuli Ooze	{G}		Creature	Ooze	Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay {2} for each age counter on it.)|Mwonvuli Ooze's power and toughness are each equal to 1 plus twice the number of age counters on it.		
+Nature's Kiss	{1}{G}		Enchantment	Aura	Enchant creature|{1}, Exile the top card of your graveyard: Enchanted creature gets +1/+1 until end of turn.		
+Nature's Resurgence	{2}{G}{G}		Sorcery		Each player draws a card for each creature card in his or her graveyard.		
+Necratog	{1}{B}{B}		Creature	Atog	Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.	1	2
+Noble Benefactor	{2}{U}		Creature	Human,Cleric	When Noble Benefactor dies, each player may search his or her library for a card and put that card into his or her hand. Then each player who searched his or her library this way shuffles it.	2	2
+Null Rod	{2}		Artifact		Activated abilities of artifacts can't be activated.		
+Odylic Wraith	{3}{B}		Creature	Wraith	Swampwalk|Whenever Odylic Wraith deals damage to a player, that player discards a card.	2	2
+Ophidian	{2}{U}		Creature	Snake	Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.	1	3
+Orcish Settlers	{1}{R}		Creature	Orc	{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.	1	1
+Paradigm Shift	{1}{U}		Sorcery		Exile all cards from your library. Then shuffle your graveyard into your library.		
+Peacekeeper	{2}{W}		Creature	Human	At the beginning of your upkeep, sacrifice Peacekeeper unless you pay {1}{W}.|Creatures can't attack.	1	1
+Pendrell Mists	{3}{U}		Enchantment		All creatures have 'At the beginning of your upkeep, sacrifice this creature unless you pay {1}.'		
+Phantom Warrior	{1}{U}{U}		Creature	Illusion,Warrior	Phantom Warrior can't be blocked.	2	2
+Phantom Wings	{1}{U}		Enchantment	Aura	Enchant creature|Enchanted creature has flying.|Sacrifice Phantom Wings: Return enchanted creature to its owner's hand.		
+Phyrexian Furnace	{1}		Artifact		{T}: Exile the bottom card of target player's graveyard.|{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.		
+Psychic Vortex	{2}{U}{U}		Enchantment		Cumulative upkeep-Draw a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|At the beginning of your end step, sacrifice a land and discard your hand.		
+Razortooth Rats	{2}{B}		Creature	Rat	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)	2	1
+Redwood Treefolk	{4}{G}		Creature	Treefolk		3	6
+Relearn	{1}{U}{U}		Sorcery		Return target instant or sorcery card from your graveyard to your hand.		
+Revered Unicorn	{1}{W}		Creature	Unicorn	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|When Revered Unicorn leaves the battlefield, you gain life equal to the number of age counters on it.	2	3
+Roc Hatchling	{R}		Creature	Bird	Roc Hatchling enters the battlefield with four shell counters on it.|At the beginning of your upkeep, remove a shell counter from Roc Hatchling.|As long as Roc Hatchling has no shell counters on it, it gets +3/+2 and has flying.	0	1
+Rogue Elephant	{G}		Creature	Elephant	When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest.	3	3
+Sage Owl	{1}{U}		Creature	Bird	Flying|When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.	1	1
+Sawtooth Ogre	{2}{R}{R}		Creature	Ogre	Whenever Sawtooth Ogre blocks or becomes blocked by a creature, Sawtooth Ogre deals 1 damage to that creature at end of combat.	3	3
+Scorched Ruins			Land		If Scorched Ruins would enter the battlefield, sacrifice two untapped lands instead. If you do, put Scorched Ruins onto the battlefield. If you don't, put it into its owner's graveyard.|{T}: Add {4} to your mana pool.		
+Serenity	{1}{W}		Enchantment		At the beginning of your upkeep, destroy all artifacts and enchantments. They can't be regenerated.		
+Serra's Blessing	{1}{W}		Enchantment		Creatures you control have vigilance. (Attacking doesn't cause them to tap.)		
+Serrated Biskelion	{3}		Artifact,Creature	Construct	{T}: Put a -1/-1 counter on Serrated Biskelion and a -1/-1 counter on target creature.	2	2
+Shadow Rider	{2}{B}{B}		Creature	Zombie,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)	3	3
+Shattered Crypt	{X}{B}{B}		Sorcery		Return X target creature cards from your graveyard to your hand. You lose X life.		
+Soul Shepherd	{1}{W}		Creature	Human,Cleric	{W}, Exile a creature card from your graveyard: You gain 1 life.	2	1
+Southern Paladin	{2}{W}{W}		Creature	Human,Knight	{W}{W}, {T}: Destroy target red permanent.	3	3
+Spinning Darkness	{4}{B}{B}		Instant		You may exile the top three black cards of your graveyard rather than pay Spinning Darkness's mana cost.|Spinning Darkness deals 3 damage to target nonblack creature. You gain 3 life.		
+Steel Golem	{3}		Artifact,Creature	Golem	You can't cast creature spells.	3	4
+Strands of Night	{2}{B}{B}		Enchantment		{B}{B}, Pay 2 life, Sacrifice a Swamp: Return target creature card from your graveyard to the battlefield.		
+Straw Golem	{1}		Artifact,Creature	Golem	When an opponent casts a creature spell, sacrifice Straw Golem.	2	3
+Striped Bears	{3}{G}		Creature	Bear	When Striped Bears enters the battlefield, draw a card.	2	2
+Sylvan Hierophant	{1}{G}		Creature	Human,Cleric	When Sylvan Hierophant dies, exile Sylvan Hierophant, then return another target creature card from your graveyard to your hand.	1	2
+Tariff	{1}{W}		Sorcery		Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.		
+Teferi's Veil	{1}{U}		Enchantment		Whenever a creature you control attacks, it phases out at end of combat. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)		
+Tendrils of Despair	{B}		Sorcery		As an additional cost to cast Tendrils of Despair, sacrifice a creature.|Target opponent discards two cards.		
+Thran Forge	{3}		Artifact		{2}: Until end of turn, target nonartifact creature gets +1/+0 and becomes an artifact in addition to its other types.		
+Thran Tome	{4}		Artifact		{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.		
+Thunderbolt	{1}{R}		Instant		Choose one - Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.		
+Thundermare	{5}{R}		Creature	Elemental,Horse	Haste (This creature can attack the turn it comes under your control.)|When Thundermare enters the battlefield, tap all other creatures.	5	5
+Timid Drake	{2}{U}		Creature	Drake	Flying|When another creature enters the battlefield, return Timid Drake to its owner's hand.	3	3
+Tolarian Drake	{2}{U}		Creature	Drake	Flying|Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)	2	4
+Tolarian Entrancer	{1}{U}		Creature	Human,Wizard	Whenever Tolarian Entrancer becomes blocked by a creature, gain control of that creature at end of combat.	1	1
+Tolarian Serpent	{5}{U}{U}		Creature	Serpent	At the beginning of your upkeep, put the top seven cards of your library into your graveyard.	7	7
+Touchstone	{2}		Artifact		{T}: Tap target artifact you don't control.		
+Tranquil Grove	{1}{G}		Enchantment		{1}{G}{G}: Destroy all other enchantments.		
+Uktabi Efreet	{2}{G}{G}		Creature	Efreet	Cumulative upkeep {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	5	4
+Urborg Justice	{B}{B}		Instant		Target opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.		
+Urborg Stalker	{3}{B}		Creature	Horror	At the beginning of each player's upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.	2	4
+Veteran Explorer	{G}		Creature	Human,Soldier,Scout	When Veteran Explorer dies, each player may search his or her library for up to two basic land cards and put them onto the battlefield. Then each player who searched his or her library this way shuffles it.	1	1
+Vitalize	{G}		Instant		Untap all creatures you control.		
+Vodalian Illusionist	{2}{U}		Creature	Merfolk,Wizard	{U}{U}, {T}: Target creature phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)	2	2
+Volunteer Reserves	{1}{W}		Creature	Human,Soldier	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)|Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)	2	4
+Wave of Terror	{2}{B}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|At the beginning of your draw step, destroy each creature with converted mana cost equal to the number of age counters on Wave of Terror. They can't be regenerated.		
+Well of Knowledge	{3}		Artifact		{2}: Draw a card. Any player may activate this ability but only during his or her draw step.		
+Winding Canyons			Land		{T}: Add {1} to your mana pool.|{2}, {T}: Until end of turn, you may play creature cards as though they had flash.		
+Xanthic Statue	{8}		Artifact		{5}: Until end of turn, Xanthic Statue becomes an 8/8 Golem artifact creature with trample.		
+Zombie Scavengers	{2}{B}		Creature	Zombie	Exile the top creature card of your graveyard: Regenerate Zombie Scavengers.	3	1

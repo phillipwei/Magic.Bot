@@ -1,0 +1,81 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Ageless Entity	{3}{G}{G}		Creature	Elemental	Whenever you gain life, put that many +1/+1 counters on Ageless Entity.	4	4
+Agonizing Demise	{3}{B}		Instant		Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)|Destroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.		
+Ajani Vengeant	{2}{R}{W}		Planeswalker	Ajani	+1: Target permanent doesn't untap during its controller's next untap step.|-2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.|-7: Destroy all lands target player controls.		
+Ajani's Mantra	{1}{W}		Enchantment		At the beginning of your upkeep, you may gain 1 life.		
+Ajani's Pridemate	{1}{W}		Creature	Cat,Soldier	Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate. (For example, if an effect causes you to gain 3 life, you may put one +1/+1 counter on this creature.)	2	2
+Behemoth Sledge	{1}{G}{W}		Artifact	Equipment	Equipped creature gets +2/+2 and has lifelink and trample.|Equip {3}		
+Blazing Specter	{2}{B}{R}		Creature	Specter	Flying, haste|Whenever Blazing Specter deals combat damage to a player, that player discards a card.	2	2
+Brackwater Elemental	{2}{U}		Creature	Elemental	When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.|Unearth {2}{U} ({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)	4	4
+Briarhorn	{3}{G}		Creature	Elemental	Flash|When Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.|Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)	3	3
+Canyon Wildcat	{1}{R}		Creature	Cat	Mountainwalk	2	1
+Countersquall	{U}{B}		Instant		Counter target noncreature spell. Its controller loses 2 life.		
+Cruel Ultimatum	{U}{U}{B}{B}{B}{R}{R}		Sorcery		Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.		
+Crumbling Necropolis			Land		Crumbling Necropolis enters the battlefield tapped.|{T}: Add {U}, {B}, or {R} to your mana pool.		
+Deep Analysis	{3}{U}		Sorcery		Target player draws two cards.|Flashback-{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Dimir Cutpurse	{1}{U}{B}		Creature	Spirit	Whenever Dimir Cutpurse deals combat damage to a player, that player discards a card and you draw a card.	2	2
+Elder Mastery	{3}{U}{B}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3 and has flying.|Whenever enchanted creature deals damage to a player, that player discards two cards.		
+Essence Warden	{G}		Creature	Elf,Shaman	Whenever another creature enters the battlefield, you gain 1 life.	1	1
+Evolving Wilds			Land		{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Rise // Fall (Fall)	{B}{R}		Sorcery		Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.		
+Fire-Field Ogre	{1}{U}{B}{R}		Creature	Ogre,Mutant	First strike|Unearth {U}{B}{R} ({U}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)	4	2
+Firemane Angel	{3}{R}{W}{W}		Creature	Angel	Flying, first strike|At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.|{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.	4	3
+Fleetfoot Panther	{1}{G}{W}		Creature	Cat	Flash|When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.	3	4
+Forest		Basic	Land	Forest	G		
+Graypelt Refuge			Land		Graypelt Refuge enters the battlefield tapped.|When Graypelt Refuge enters the battlefield, you gain 1 life.|{T}: Add {G} or {W} to your mana pool.		
+Grazing Gladehart	{2}{G}		Creature	Antelope	Landfall - Whenever a land enters the battlefield under your control, you may gain 2 life.	2	2
+Griffin Guide	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has flying.|When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.		
+Grixis Charm	{U}{B}{R}		Instant		Choose one - Return target permanent to its owner's hand; or target creature gets -4/-4 until end of turn; or creatures you control get +2/+0 until end of turn.		
+Hellfire Mongrel	{2}{R}		Creature	Elemental,Hound	At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.	2	2
+Icy Manipulator	{4}		Artifact		{1}, {T}: Tap target artifact, creature, or land.		
+Igneous Pouncer	{4}{B}{R}		Creature	Elemental	Haste|Swampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)	5	1
+Island		Basic	Land	Island	U		
+Jade Mage	{1}{G}		Creature	Human,Shaman	{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.	2	1
+Jhessian Zombies	{4}{U}{B}		Creature	Zombie	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|Islandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)	2	4
+Jungle Shrine			Land		Jungle Shrine enters the battlefield tapped.|{T}: Add {R}, {G}, or {W} to your mana pool.		
+Kazandu Refuge			Land		Kazandu Refuge enters the battlefield tapped.|When Kazandu Refuge enters the battlefield, you gain 1 life.|{T}: Add {R} or {G} to your mana pool.		
+Kird Ape	{R}		Creature	Ape	Kird Ape gets +1/+2 as long as you control a Forest.	1	1
+Lead the Stampede	{2}{G}		Sorcery		Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.		
+Lightning Helix	{R}{W}		Instant		Lightning Helix deals 3 damage to target creature or player and you gain 3 life.		
+Loam Lion	{W}		Creature	Cat	Loam Lion gets +1/+2 as long as you control a Forest.	1	1
+Loxodon Hierarch	{2}{G}{W}		Creature	Elephant,Cleric	When Loxodon Hierarch enters the battlefield, you gain 4 life.|{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.	4	4
+Spite // Malice (Malice)	{3}{B}		Instant		Destroy target nonblack creature. It can't be regenerated.		
+Marisi's Twinclaws	{2}{R/W}{G}		Creature	Cat,Warrior	Double strike	2	4
+Morgue Toad	{2}{B}		Creature	Frog	Sacrifice Morgue Toad: Add {U}{R} to your mana pool.	2	2
+Moroii	{2}{U}{B}		Creature	Vampire	Flying|At the beginning of your upkeep, you lose 1 life.	4	4
+Mountain		Basic	Land	Mountain	R		
+Nacatl Hunt-Pride	{5}{W}		Creature	Cat,Warrior	Vigilance|{R}, {T}: Target creature can't block this turn.|{G}, {T}: Target creature blocks this turn if able.	5	4
+Naya Charm	{R}{G}{W}		Instant		Choose one - Naya Charm deals 3 damage to target creature; or return target card from a graveyard to its owner's hand; or tap all creatures target player controls.		
+Nicol Bolas, Planeswalker	{4}{U}{B}{B}{R}		Planeswalker	Bolas	+3: Destroy target noncreature permanent.|-2: Gain control of target creature.|-9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.		
+Nightscape Familiar	{1}{B}		Creature	Zombie	Blue spells and red spells you cast cost {1} less to cast.|{1}{B}: Regenerate Nightscape Familiar.	1	1
+Obelisk of Grixis	{3}		Artifact		{T}: Add {U}, {B}, or {R} to your mana pool.		
+Ogre Savant	{4}{R}		Creature	Ogre,Wizard	When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.	3	2
+Pain // Suffering (Pain)	{B}		Sorcery		Target player discards a card.|		
+Plains		Basic	Land	Plains	W		
+Pride of Lions	{3}{G}{G}		Creature	Cat	You may have Pride of Lions assign its combat damage as though it weren't blocked.	4	4
+Profane Command	{X}{B}{B}		Sorcery		Choose two - Target player loses X life; or return target creature card with converted mana cost X or less from your graveyard to the battlefield; or target creature gets -X/-X until end of turn; or up to X target creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)		
+Qasali Pridemage	{G}{W}		Creature	Cat,Wizard	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)|{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.	2	2
+Recoil	{1}{U}{B}		Instant		Return target permanent to its owner's hand. Then that player discards a card.		
+Recumbent Bliss	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack or block.|At the beginning of your upkeep, you may gain 1 life.		
+Rise // Fall (Rise)	{U}{B}		Sorcery		Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.|		
+Rupture Spire			Land		Rupture Spire enters the battlefield tapped.|When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.|{T}: Add one mana of any color to your mana pool.		
+Sapseep Forest			Land	Forest	({T}: Add {G} to your mana pool.)|Sapseep Forest enters the battlefield tapped.|{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.		
+Searing Meditation	{1}{R}{W}		Enchantment		Whenever you gain life, you may pay {2}. If you do, Searing Meditation deals 2 damage to target creature or player.		
+Shriekmaw	{4}{B}		Creature	Elemental	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.|Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)	3	2
+Slave of Bolas	{3}{U/R}{B}		Sorcery		Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.		
+Slavering Nulls	{1}{R}		Creature	Goblin,Zombie	Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.	2	1
+Spite // Malice (Spite)	{3}{U}		Instant		Counter target noncreature spell.|		
+Spitemare	{2}{R/W}{R/W}		Creature	Elemental	Whenever Spitemare is dealt damage, it deals that much damage to target creature or player.	3	3
+Steamcore Weird	{3}{U}		Creature	Weird	When Steamcore Weird enters the battlefield, if {R} was spent to cast Steamcore Weird, it deals 2 damage to target creature or player.	1	3
+Pain // Suffering (Suffering)	{3}{R}		Sorcery		Destroy target land.		
+Surveilling Sprite	{1}{U}		Creature	Faerie,Rogue	Flying|When Surveilling Sprite dies, you may draw a card.	1	1
+Swamp		Basic	Land	Swamp	B		
+Sylvan Bounty	{5}{G}		Instant		Target player gains 8 life.|Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Sylvan Ranger	{1}{G}		Creature	Elf,Scout	When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.	1	1
+Terramorphic Expanse			Land		{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Titanic Ultimatum	{R}{R}{G}{G}{G}{W}{W}		Sorcery		Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.		
+Undermine	{U}{U}{B}		Instant		Counter target spell. Its controller loses 3 life.		
+Vapor Snag	{U}		Instant		Return target creature to its owner's hand. Its controller loses 1 life.		
+Vitu-Ghazi, the City-Tree			Land		{T}: Add {1} to your mana pool.|{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.		
+Wild Nacatl	{G}		Creature	Cat,Warrior	Wild Nacatl gets +1/+1 as long as you control a Mountain.|Wild Nacatl gets +1/+1 as long as you control a Plains.	1	1
+Woolly Thoctar	{R}{G}{W}		Creature	Beast		5	4

@@ -1,0 +1,144 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Academy Rector	{3}{W}		Creature	Human,Cleric	When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.	1	2
+Æther Sting	{3}{R}		Enchantment		Whenever an opponent casts a creature spell, Æther Sting deals 1 damage to that player.		
+Ancient Silverback	{4}{G}{G}		Creature	Ape	{G}: Regenerate Ancient Silverback. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)	6	5
+Apprentice Necromancer	{1}{B}		Creature	Zombie,Wizard	{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it.	1	1
+Archery Training	{W}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, you may put an arrow counter on Archery Training.|Enchanted creature has '{T}: This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on Archery Training.'		
+Attrition	{1}{B}{B}		Enchantment		{B}, Sacrifice a creature: Destroy target nonblack creature.		
+Aura Thief	{3}{U}		Creature	Illusion	Flying|When Aura Thief dies, you gain control of all enchantments. (You don't get to move Auras.)	2	2
+Blizzard Elemental	{5}{U}{U}		Creature	Elemental	Flying|{3}{U}: Untap Blizzard Elemental.	5	5
+Bloodshot Cyclops	{5}{R}		Creature	Cyclops,Giant	{T}, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the sacrificed creature's power to target creature or player.	4	4
+Body Snatcher	{2}{B}{B}		Creature	Minion	When Body Snatcher enters the battlefield, exile it unless you discard a creature card.|When Body Snatcher dies, exile Body Snatcher and return target creature card from your graveyard to the battlefield.	2	2
+Braidwood Cup	{3}		Artifact		{T}: You gain 1 life.		
+Braidwood Sextant	{1}		Artifact		{2}, {T}, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.		
+Brass Secretary	{3}		Artifact,Creature	Construct	{2}, Sacrifice Brass Secretary: Draw a card.	2	1
+Brine Seer	{3}{U}		Creature	Human,Wizard	{2}{U}, {T}: Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.	1	1
+Bubbling Beebles	{4}{U}		Creature	Beeble	Bubbling Beebles can't be blocked as long as defending player controls an enchantment.	3	3
+Bubbling Muck	{B}		Sorcery		Until end of turn, whenever a player taps a Swamp for mana, that player adds {B} to his or her mana pool (in addition to the mana the land produces).		
+Caltrops	{3}		Artifact		Whenever a creature attacks, Caltrops deals 1 damage to it.		
+Capashen Knight	{1}{W}		Creature	Human,Knight	First strike (This creature deals combat damage before creatures without first strike.)|{1}{W}: Capashen Knight gets +1/+0 until end of turn.	1	1
+Capashen Standard	{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1.|{2}, Sacrifice Capashen Standard: Draw a card.		
+Capashen Templar	{2}{W}		Creature	Human,Knight	{W}: Capashen Templar gets +0/+1 until end of turn.	2	2
+Carnival of Souls	{1}{B}		Enchantment		Whenever a creature enters the battlefield, you lose 1 life and add {B} to your mana pool.		
+Chime of Night	{1}{B}		Enchantment	Aura	Enchant creature|When Chime of Night is put into a graveyard from the battlefield, destroy target nonblack creature.		
+Cinder Seer	{3}{R}		Creature	Human,Wizard	{2}{R}, {T}: Reveal any number of red cards in your hand. Cinder Seer deals X damage to target creature or player, where X is the number of cards revealed this way.	1	1
+Colos Yearling	{2}{R}		Creature	Goat,Beast	Mountainwalk|{R}: Colos Yearling gets +1/+0 until end of turn.	1	1
+Compost	{1}{G}		Enchantment		Whenever a black card is put into an opponent's graveyard from anywhere, you may draw a card.		
+Covetous Dragon	{4}{R}		Creature	Dragon	Flying|When you control no artifacts, sacrifice Covetous Dragon.	6	5
+Disappear	{2}{U}{U}		Enchantment	Aura	Enchant creature|{U}: Return enchanted creature and Disappear to their owners' hands.		
+Disease Carriers	{2}{B}{B}		Creature	Rat	When Disease Carriers dies, target creature gets -2/-2 until end of turn.	2	2
+Donate	{2}{U}		Sorcery		Target player gains control of target permanent you control.		
+Dying Wail	{1}{B}		Enchantment	Aura	Enchant creature|When enchanted creature dies, target player discards two cards.		
+Elvish Lookout	{G}		Creature	Elf	Shroud (This permanent can't be the target of spells or abilities.)	1	1
+Elvish Piper	{3}{G}		Creature	Elf,Shaman	{G}, {T}: You may put a creature card from your hand onto the battlefield.	1	1
+Emperor Crocodile	{3}{G}		Creature	Crocodile	When you control no other creatures, sacrifice Emperor Crocodile.	5	5
+Encroach	{B}		Sorcery		Target player reveals his or her hand. You choose a nonbasic land card from it. That player discards that card.		
+Eradicate	{2}{B}{B}		Sorcery		Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles his or her library.		
+Extruder	{4}		Artifact,Creature	Juggernaut	Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|Sacrifice an artifact: Put a +1/+1 counter on target creature.	4	3
+False Prophet	{2}{W}{W}		Creature	Human,Cleric	When False Prophet dies, exile all creatures.	2	2
+Fatigue	{1}{U}		Sorcery		Target player skips his or her next draw step.		
+Fend Off	{1}{W}		Instant		Prevent all combat damage that would be dealt by target creature this turn.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Festering Wound	{1}{B}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, you may put an infection counter on Festering Wound.|At the beginning of the upkeep of enchanted creature's controller, Festering Wound deals X damage to that player, where X is the number of infection counters on Festering Wound.		
+Field Surgeon	{1}{W}		Creature	Human,Cleric	Tap an untapped creature you control: Prevent the next 1 damage that would be dealt to target creature this turn.	1	1
+Flame Jet	{1}{R}		Sorcery		Flame Jet deals 3 damage to target player.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Fledgling Osprey	{U}		Creature	Bird	Fledgling Osprey has flying as long as it's enchanted.	1	1
+Flicker	{1}{W}		Sorcery		Exile target nontoken permanent, then return it to the battlefield under its owner's control.		
+Fodder Cannon	{4}		Artifact		{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature.		
+Gamekeeper	{3}{G}		Creature	Elf	When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.	2	2
+Goblin Berserker	{3}{R}		Creature	Goblin,Berserker	First strike, haste	2	2
+Goblin Festival	{1}{R}		Enchantment		{2}: Goblin Festival deals 1 damage to target creature or player. Flip a coin. If you lose the flip, choose one of your opponents. That player gains control of Goblin Festival.		
+Goblin Gardener	{3}{R}		Creature	Goblin	When Goblin Gardener dies, destroy target land.	2	1
+Goblin Marshal	{4}{R}{R}		Creature	Goblin,Warrior	Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Goblin Marshal enters the battlefield or dies, put two 1/1 red Goblin creature tokens onto the battlefield.	3	3
+Goblin Masons	{1}{R}		Creature	Goblin	When Goblin Masons dies, destroy target Wall.	2	1
+Goliath Beetle	{2}{G}		Creature	Insect	Trample	3	1
+Heart Warden	{1}{G}		Creature	Elf,Druid	{T}: Add {G} to your mana pool.|{2}, Sacrifice Heart Warden: Draw a card.	1	1
+Hulking Ogre	{2}{R}		Creature	Ogre	Hulking Ogre can't block.	3	3
+Hunting Moa	{2}{G}		Creature	Bird,Beast	Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Hunting Moa enters the battlefield or dies, put a +1/+1 counter on target creature.	3	2
+Illuminated Wings	{1}{U}		Enchantment	Aura	Enchant creature|Enchanted creature has flying.|{2}, Sacrifice Illuminated Wings: Draw a card.		
+Impatience	{2}{R}		Enchantment		At the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to him or her.		
+Incendiary	{R}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, you may put a fuse counter on Incendiary.|When enchanted creature dies, Incendiary deals X damage to target creature or player, where X is the number of fuse counters on Incendiary.		
+Iridescent Drake	{3}{U}		Creature	Drake	Flying|When Iridescent Drake enters the battlefield, put target Aura card from a graveyard onto the battlefield under your control attached to Iridescent Drake.	2	2
+Ivy Seer	{3}{G}		Creature	Elf,Wizard	{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.	1	1
+Jasmine Seer	{3}{W}		Creature	Human,Wizard	{2}{W}, {T}: Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.	1	1
+Junk Diver	{3}		Artifact,Creature	Bird	Flying|When Junk Diver dies, return another target artifact card from your graveyard to your hand.	1	1
+Keldon Champion	{2}{R}{R}		Creature	Human,Barbarian	Haste|Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Keldon Champion enters the battlefield, it deals 3 damage to target player.	3	2
+Keldon Vandals	{2}{R}		Creature	Human,Rogue	Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Keldon Vandals enters the battlefield, destroy target artifact.	4	1
+Kingfisher	{3}{U}		Creature	Bird	Flying|When Kingfisher dies, draw a card.	2	2
+Landslide	{R}		Sorcery		Sacrifice any number of Mountains. Landslide deals that much damage to target player.		
+Lurking Jackals	{B}		Enchantment		When an opponent has 10 or less life, if Lurking Jackals is an enchantment, it becomes a 3/2 Hound creature.		
+Magnify	{G}		Instant		All creatures get +1/+1 until end of turn.		
+Mantis Engine	{5}		Artifact,Creature	Insect	{2}: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)|{2}: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)	3	3
+Mark of Fury	{R}		Enchantment	Aura	Enchant creature|Enchanted creature has haste.|At the beginning of the end step, return Mark of Fury to its owner's hand.		
+Marker Beetles	{1}{G}{G}		Creature	Insect	When Marker Beetles dies, target creature gets +1/+1 until end of turn.|{2}, Sacrifice Marker Beetles: Draw a card.	2	3
+Mask of Law and Grace	{W}		Enchantment	Aura	Enchant creature|Enchanted creature has protection from black and from red.		
+Master Healer	{4}{W}		Creature	Human,Cleric	{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.	1	4
+Masticore	{4}		Artifact,Creature	Masticore	At the beginning of your upkeep, sacrifice Masticore unless you discard a card.|{2}: Masticore deals 1 damage to target creature.|{2}: Regenerate Masticore.	4	4
+Mental Discipline	{1}{U}{U}		Enchantment		{1}{U}, Discard a card: Draw a card.		
+Metalworker	{3}		Artifact,Creature	Construct	{T}: Reveal any number of artifact cards in your hand. Add {2} to your mana pool for each card revealed this way.	1	2
+Metathran Elite	{1}{U}{U}		Creature	Metathran,Soldier	Metathran Elite can't be blocked as long as it's enchanted.	2	3
+Metathran Soldier	{1}{U}		Creature	Metathran,Soldier	Metathran Soldier can't be blocked.	1	1
+Momentum	{2}{G}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, you may put a growth counter on Momentum.|Enchanted creature gets +1/+1 for each growth counter on Momentum.		
+Multani's Decree	{3}{G}		Sorcery		Destroy all enchantments. You gain 2 life for each enchantment destroyed this way.		
+Nightshade Seer	{3}{B}		Creature	Human,Wizard	{2}{B}, {T}: Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.	1	1
+Opalescence	{2}{W}{W}		Enchantment		Each other non-Aura enchantment is a creature with power and toughness each equal to its converted mana cost. It's still an enchantment.		
+Opposition	{2}{U}{U}		Enchantment		Tap an untapped creature you control: Tap target artifact, creature, or land.		
+Pattern of Rebirth	{3}{G}		Enchantment	Aura	Enchant creature|When enchanted creature dies, that creature's controller may search his or her library for a creature card and put that card onto the battlefield. If that player does, he or she shuffles his or her library.		
+Phyrexian Monitor	{3}{B}		Creature	Skeleton	{B}: Regenerate Phyrexian Monitor.	2	2
+Phyrexian Negator	{2}{B}		Creature	Horror	Trample|Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents.	5	5
+Plague Dogs	{4}{B}		Creature	Zombie,Hound	When Plague Dogs dies, all creatures get -1/-1 until end of turn.|{2}, Sacrifice Plague Dogs: Draw a card.	3	3
+Plated Spider	{4}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)	4	4
+Plow Under	{3}{G}{G}		Sorcery		Put two target lands on top of their owners' libraries.		
+Powder Keg	{2}		Artifact		At the beginning of your upkeep, you may put a fuse counter on Powder Keg.||{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.		
+Private Research	{U}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, you may put a page counter on Private Research.|When enchanted creature dies, draw a card for each page counter on Private Research.		
+Quash	{2}{U}{U}		Instant		Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.		
+Rapid Decay	{1}{B}		Instant		Exile up to three target cards from a single graveyard.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Ravenous Rats	{1}{B}		Creature	Rat	When Ravenous Rats enters the battlefield, target opponent discards a card.	1	1
+Rayne, Academy Chancellor	{2}{U}	Legendary	Creature	Human,Wizard	Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card. You may draw an additional card if Rayne, Academy Chancellor is enchanted.	1	1
+Reckless Abandon	{R}		Sorcery		As an additional cost to cast Reckless Abandon, sacrifice a creature.|Reckless Abandon deals 4 damage to target creature or player.		
+Reliquary Monk	{2}{W}		Creature	Human,Monk,Cleric	When Reliquary Monk dies, destroy target artifact or enchantment.	2	2
+Repercussion	{1}{R}{R}		Enchantment		Whenever a creature is dealt damage, Repercussion deals that much damage to that creature's controller.		
+Replenish	{3}{W}		Sorcery		Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)		
+Rescue	{U}		Instant		Return target permanent you control to its owner's hand.		
+Rofellos, Llanowar Emissary	{G}{G}	Legendary	Creature	Elf,Druid	{T}: Add {G} to your mana pool for each Forest you control.	2	1
+Rofellos's Gift	{G}		Sorcery		Reveal any number of green cards in your hand. Return an enchantment card from your graveyard to your hand for each card revealed this way.		
+Sanctimony	{1}{W}		Enchantment		Whenever an opponent taps a Mountain for mana, you may gain 1 life.		
+Scent of Brine	{1}{U}		Instant		Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.		
+Scent of Cinder	{1}{R}		Sorcery		Reveal any number of red cards in your hand. Scent of Cinder deals X damage to target creature or player, where X is the number of cards revealed this way.		
+Scent of Ivy	{G}		Instant		Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.		
+Scent of Jasmine	{W}		Instant		Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.		
+Scent of Nightshade	{1}{B}		Instant		Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.		
+Scour	{2}{W}{W}		Instant		Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles his or her library.		
+Scrying Glass	{2}		Artifact		{3}, {T}: Choose a number greater than 0 and a color. Target opponent reveals his or her hand. If that opponent reveals exactly the chosen number of cards of the chosen color, you draw a card.		
+Serra Advocate	{3}{W}		Creature	Angel	Flying|{T}: Target attacking or blocking creature gets +2/+2 until end of turn.	2	2
+Sigil of Sleep	{U}		Enchantment	Aura	Enchant creature|Whenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand.		
+Skittering Horror	{2}{B}		Creature	Horror	When you cast a creature spell, sacrifice Skittering Horror.	4	3
+Slinking Skirge	{3}{B}		Creature	Imp	Flying|{2}, Sacrifice Slinking Skirge: Draw a card.	2	1
+Solidarity	{3}{W}		Instant		Creatures you control get +0/+5 until end of turn.		
+Soul Feast	{3}{B}{B}		Sorcery		Target player loses 4 life and you gain 4 life.		
+Sowing Salt	{2}{R}{R}		Sorcery		Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles his or her library.		
+Splinter	{2}{G}{G}		Sorcery		Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles his or her library.		
+Squirming Mass	{1}{B}		Creature	Horror	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)	1	1
+Storage Matrix	{3}		Artifact		As long as Storage Matrix is untapped, each player chooses artifact, creature, or land during his or her untap step. That player can untap only permanents of the chosen type this step.		
+Taunting Elf	{G}		Creature	Elf	All creatures able to block Taunting Elf do so.	0	1
+Telepathic Spies	{2}{U}		Creature	Human,Wizard	When Telepathic Spies enters the battlefield, look at target opponent's hand.	2	2
+Temporal Adept	{1}{U}{U}		Creature	Human,Wizard	{U}{U}{U}, {T}: Return target permanent to its owner's hand.	1	1
+Tethered Griffin	{W}		Creature	Griffin	Flying||When you control no enchantments, sacrifice Tethered Griffin.	2	3
+Thieving Magpie	{2}{U}{U}		Creature	Bird	Flying (This creature can't be blocked except by creatures with flying or reach.)|Whenever Thieving Magpie deals damage to an opponent, draw a card.	1	3
+Thorn Elemental	{5}{G}{G}		Creature	Elemental	You may have Thorn Elemental assign its combat damage as though it weren't blocked.	7	7
+Thran Dynamo	{4}		Artifact		{T}: Add {3} to your mana pool.		
+Thran Foundry	{1}		Artifact		{1}, {T}, Exile Thran Foundry: Target player shuffles his or her graveyard into his or her library.		
+Thran Golem	{5}		Artifact,Creature	Golem	As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.	3	3
+Tormented Angel	{3}{W}		Creature	Angel	Flying	1	5
+Treachery	{3}{U}{U}		Enchantment	Aura	Enchant creature|When Treachery enters the battlefield, untap up to five lands.|You control enchanted creature.		
+Trumpet Blast	{2}{R}		Instant		Attacking creatures get +2/+0 until end of turn.		
+Twisted Experiment	{1}{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/-1.		
+Urza's Incubator	{3}		Artifact		As Urza's Incubator enters the battlefield, choose a creature type.|Creature spells of the chosen type cost {2} less to cast.		
+Voice of Duty	{3}{W}		Creature	Angel	Flying, protection from green	2	2
+Voice of Reason	{3}{W}		Creature	Angel	Flying, protection from blue	2	2
+Wake of Destruction	{3}{R}{R}{R}		Sorcery		Destroy target land and all other lands with the same name as that land.		
+Wall of Glare	{1}{W}		Creature	Wall	Defender (This creature can't attack.)|Wall of Glare can block any number of creatures.	0	5
+Wild Colos	{2}{R}		Creature	Goat,Beast	Haste	2	2
+Yavimaya Elder	{1}{G}{G}		Creature	Human,Druid	When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.|{2}, Sacrifice Yavimaya Elder: Draw a card.	2	1
+Yavimaya Enchantress	{2}{G}		Creature	Human,Druid	Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.	2	2
+Yavimaya Hollow		Legendary	Land		{T}: Add {1} to your mana pool.|{G}, {T}: Regenerate target creature.		
+Yawgmoth's Bargain	{4}{B}{B}		Enchantment		Skip your draw step.||Pay 1 life: Draw a card.		

@@ -1,0 +1,21 @@
+﻿Main
+4  Burning-Tree Emissary
+4  Chandra’s Phoenix
+4  Firedrinker Satyr
+4  Firefist Striker
+4  Foundry Street Denizen
+4  Gore-House Chainwalker
+4  Rakdos Cackler
+2  Rubblebelt Maaka
+4  Lightning Strike
+4  Shock
+18 Mountain
+4  Mutavault
+
+Sideboard
+1  Rubblebelt Maaka
+1  Burning Earth
+4  Skullcrack
+2  Act of Treason
+4  Mizzium Mortars
+3  Peak Eruption

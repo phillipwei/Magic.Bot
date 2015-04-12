@@ -1,0 +1,69 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Anax and Cymede	{1}{R}{W}	Legendary	Creature	Human,Soldier	First strike, vigilance|Heroic - Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.	3	2
+Armory Guard	{3}{W}		Creature	Giant,Soldier	Armory Guard has vigilance as long as you control a Gate.	2	5
+Auramancer	{2}{W}		Creature	Human,Wizard	When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.	2	2
+Battle Mastery	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature has double strike.		
+Beast Within	{2}{G}		Instant		Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.		
+Blood Ogre	{2}{R}		Creature	Ogre,Warrior	Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)|First strike (This creature deals combat damage before creatures without first strike.)	2	2
+Bonds of Faith	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.		
+Boros Guildgate			Land	Gate	Boros Guildgate enters the battlefield tapped.|{T}: Add {R} or {W} to your mana pool.		
+Cavalry Pegasus	{1}{W}		Creature	Pegasus	Flying|Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.	1	1
+Condemn	{W}		Instant		Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.		
+Conquering Manticore	{4}{R}{R}		Creature	Manticore	Flying|When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.	5	5
+Crater Hellion	{4}{R}{R}		Creature	Hellion,Beast	Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)|When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.	6	6
+Crowned Ceratok	{3}{G}		Creature	Rhino	Trample|Each creature you control with a +1/+1 counter on it has trample.	4	3
+Daily Regimen	{W}		Enchantment	Aura	Enchant creature|{1}{W}: Put a +1/+1 counter on enchanted creature.		
+Dawnstrike Paladin	{3}{W}{W}		Creature	Human,Knight	Vigilance (Attacking doesn't cause this creature to tap.)|Lifelink (Damage dealt by this creature also causes you to gain that much life.)	2	4
+Deadly Recluse	{1}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)|Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)	1	2
+Destructive Revelry	{R}{G}		Instant		Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.		
+Deus of Calamity	{R/G}{R/G}{R/G}{R/G}{R/G}		Creature	Spirit,Avatar	Trample|Whenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls.	6	6
+Dragon Blood	{3}		Artifact		{3}, {T}: Put a +1/+1 counter on target creature.		
+Fencing Ace	{1}{W}		Creature	Human,Soldier	Double strike (This creature deals both first-strike and regular combat damage.)	1	1
+Figure of Destiny	{R/W}		Creature	Kithkin	{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.|{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.|{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.	1	1
+Fires of Yavimaya	{1}{R}{G}		Enchantment		Creatures you control have haste.|Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.		
+Forest		Basic	Land	Forest	G		
+Freewind Equenaut	{2}{W}		Creature	Human,Archer	Flying|As long as Freewind Equenaut is enchanted, it has '{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature.'	2	2
+Ghor-Clan Savage	{3}{G}{G}		Creature	Centaur,Berserker	Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)	2	3
+Gorehorn Minotaurs	{2}{R}{R}		Creature	Minotaur,Warrior	Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)	3	3
+Griffin Guide	{2}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has flying.|When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.		
+Gustcloak Sentinel	{2}{W}{W}		Creature	Human,Soldier	Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.	3	3
+Kamahl, Pit Fighter	{4}{R}{R}	Legendary	Creature	Human,Barbarian	Haste (This creature can attack and {T} as soon as it comes under your control.)|{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.	6	1
+Kavu Predator	{1}{G}		Creature	Kavu	Trample|Whenever an opponent gains life, put that many +1/+1 counters on Kavu Predator.	2	2
+Kazandu Refuge			Land		Kazandu Refuge enters the battlefield tapped.|When Kazandu Refuge enters the battlefield, you gain 1 life.|{T}: Add {R} or {G} to your mana pool.		
+Krosan Tusker	{5}{G}{G}		Creature	Boar,Beast	Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)|When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.	6	5
+Llanowar Reborn			Land		Llanowar Reborn enters the battlefield tapped.|{T}: Add {G} to your mana pool.|Graft 1 (This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)		
+Magma Jet	{1}{R}		Instant		Magma Jet deals 2 damage to target creature or player. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)		
+Miraculous Recovery	{4}{W}		Instant		Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.		
+Moment of Heroism	{1}{W}		Instant		Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)		
+Mountain		Basic	Land	Mountain	R		
+New Benalia			Land		New Benalia enters the battlefield tapped.|When New Benalia enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)|{T}: Add {W} to your mana pool.		
+Nobilis of War	{R/W}{R/W}{R/W}{R/W}{R/W}		Creature	Spirit,Avatar	Flying|Attacking creatures you control get +2/+0.	3	4
+Orcish Lumberjack	{R}		Creature	Orc	{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.	1	1
+Ordeal of Purphoros	{1}{R}		Enchantment	Aura	Enchant creature|Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.|When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.		
+Pay No Heed	{W}		Instant		Prevent all damage a source of your choice would deal this turn.		
+Plains		Basic	Land	Plains	W		
+Polukranos, World Eater	{2}{G}{G}	Legendary	Creature	Hydra	{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)|When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.	5	5
+Prey Upon	{G}		Sorcery		Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)		
+Pyroclasm	{1}{R}		Sorcery		Pyroclasm deals 2 damage to each creature.		
+Pyrokinesis	{4}{R}{R}		Instant		You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.|Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.		
+Regrowth	{1}{G}		Sorcery		Return target card from your graveyard to your hand.		
+Righteousness	{W}		Instant		Target blocking creature gets +7/+7 until end of turn.		
+Satyr Hedonist	{1}{G}		Creature	Satyr	{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.	2	1
+Shower of Sparks	{R}		Instant		Shower of Sparks deals 1 damage to target creature and 1 damage to target player.		
+Skarrg, the Rage Pits			Land		{T}: Add {1} to your mana pool.|{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.		
+Skarrgan Firebird	{4}{R}{R}		Creature	Phoenix	Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)|Flying|{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.	3	3
+Skarrgan Skybreaker	{4}{R}{R}{G}		Creature	Giant,Shaman	Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)|{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.	3	3
+Smite the Monstrous	{3}{W}		Instant		Destroy target creature with power 4 or greater.		
+Somberwald Vigilante	{R}		Creature	Human,Warrior	Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.	1	1
+Stand Firm	{W}		Instant		Target creature gets +1/+1 until end of turn.|Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)		
+Stun Sniper	{R}{W}		Creature	Human,Archer	{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.	1	1
+Sun Titan	{4}{W}{W}		Creature	Giant	Vigilance|Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.	6	6
+Terrifying Presence	{1}{G}		Instant		Prevent all combat damage that would be dealt by creatures other than target creature this turn.		
+Thraben Valiant	{1}{W}		Creature	Human,Soldier	Vigilance	2	1
+Troll Ascetic	{1}{G}{G}		Creature	Troll,Shaman	Hexproof (This creature can't be the target of spells or abilities your opponents control.)|{1}{G}: Regenerate Troll Ascetic.	3	2
+Truefire Paladin	{R}{W}		Creature	Human,Knight	Vigilance|{R}{W}: Truefire Paladin gets +2/+0 until end of turn.|{R}{W}: Truefire Paladin gains first strike until end of turn.	2	2
+Undying Rage	{2}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and can't block.|When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand.		
+Valley Rannet	{4}{R}{G}		Creature	Beast	Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)	6	3
+Volt Charge	{2}{R}		Instant		Volt Charge deals 3 damage to target creature or player. Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)		
+Winds of Rath	{3}{W}{W}		Sorcery		Destroy all creatures that aren't enchanted. They can't be regenerated.		
+Zhur-Taa Druid	{R}{G}		Creature	Human,Druid	{T}: Add {G} to your mana pool.|Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.	1	1

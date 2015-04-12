@@ -1,0 +1,201 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Alabaster Dragon	{4}{W}{W}		Creature	Dragon	Flying|When Alabaster Dragon dies, shuffle it into its owner's library.	4	4
+Alluring Scent	{1}{G}{G}		Sorcery		All creatures able to block target creature this turn do so.		
+Anaconda	{3}{G}		Creature	Snake	Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)	3	3
+Ancestral Memories	{2}{U}{U}{U}		Sorcery		Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.		
+Angelic Blessing	{2}{W}		Sorcery		Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)		
+Archangel	{5}{W}{W}		Creature	Angel	Flying, vigilance	5	5
+Ardent Militia	{4}{W}		Creature	Human,Soldier	Vigilance	2	5
+Armageddon	{3}{W}		Sorcery		Destroy all lands.		
+Armored Pegasus	{1}{W}		Creature	Pegasus	Flying	1	2
+Arrogant Vampire	{3}{B}{B}		Creature	Vampire	Flying	4	3
+Assassin's Blade	{1}{B}		Instant		Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.|Destroy target nonblack attacking creature.		
+Balance of Power	{3}{U}{U}		Sorcery		If target opponent has more cards in hand than you, draw cards equal to the difference.		
+Baleful Stare	{2}{U}		Sorcery		Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.		
+Bee Sting	{3}{G}		Sorcery		Bee Sting deals 2 damage to target creature or player.		
+Blaze	{X}{R}		Sorcery		Blaze deals X damage to target creature or player.		
+Blessed Reversal	{1}{W}		Instant		You gain 3 life for each creature attacking you.		
+Blinding Light	{2}{W}		Sorcery		Tap all nonwhite creatures.		
+Bog Imp	{1}{B}		Creature	Imp	Flying (This creature can't be blocked except by creatures with flying or reach.)	1	1
+Bog Raiders	{2}{B}		Creature	Zombie	Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)	2	2
+Bog Wraith	{3}{B}		Creature	Wraith	Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)	3	3
+Boiling Seas	{3}{R}		Sorcery		Destroy all Islands.		
+Border Guard	{2}{W}		Creature	Human,Soldier		1	4
+Breath of Life	{3}{W}		Sorcery		Return target creature card from your graveyard to the battlefield.		
+Bull Hippo	{3}{G}		Creature	Hippo	Islandwalk	3	3
+Burning Cloak	{R}		Sorcery		Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.		
+Capricious Sorcerer	{2}{U}		Creature	Human,Wizard	{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.	1	1
+Charging Bandits	{4}{B}		Creature	Human,Rogue	Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.	3	3
+Charging Paladin	{2}{W}		Creature	Human,Knight	Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.	2	2
+Charging Rhino	{3}{G}{G}		Creature	Rhino	Charging Rhino can't be blocked by more than one creature.	4	4
+Cloak of Feathers	{U}		Sorcery		Target creature gains flying until end of turn.||Draw a card.		
+Cloud Dragon	{5}{U}		Creature	Illusion,Dragon	Flying|Cloud Dragon can block only creatures with flying.	5	4
+Cloud Pirates	{U}		Creature	Human,Pirate	Flying|Cloud Pirates can block only creatures with flying.	1	1
+Cloud Spirit	{2}{U}		Creature	Spirit	Flying|Cloud Spirit can block only creatures with flying.	3	1
+Command of Unsummoning	{2}{U}		Instant		Cast Command of Unsummoning only during the declare attackers step and only if you've been attacked this step.|Return one or two target attacking creatures to their owner's hand.		
+Coral Eel	{1}{U}		Creature	Fish		2	1
+Craven Giant	{2}{R}		Creature	Giant	Craven Giant can't block.	4	1
+Craven Knight	{1}{B}		Creature	Human,Knight	Craven Knight can't block.	2	2
+Cruel Bargain	{B}{B}{B}		Sorcery		Draw four cards. You lose half your life, rounded up.		
+Cruel Fate	{4}{U}		Sorcery		Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard and the rest on top of his or her library in any order.		
+Cruel Tutor	{2}{B}		Sorcery		Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.		
+Deep Wood	{1}{G}		Instant		Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.|Prevent all damage that would be dealt to you this turn by attacking creatures.		
+Deep-Sea Serpent	{4}{U}{U}		Creature	Serpent	Deep-Sea Serpent can't attack unless defending player controls an Island.	5	5
+Defiant Stand	{1}{W}		Instant		Cast Defiant Stand only during the declare attackers step and only if you've been attacked this step.|Target creature gets +1/+3 until end of turn. Untap that creature.		
+Déjà Vu	{2}{U}		Sorcery		Return target sorcery card from your graveyard to your hand.		
+Desert Drake	{3}{R}		Creature	Drake	Flying	2	2
+Devastation	{5}{R}{R}		Sorcery		Destroy all creatures and lands.		
+Devoted Hero	{W}		Creature	Elf,Soldier		1	2
+Djinn of the Lamp	{5}{U}{U}		Creature	Djinn	Flying	5	6
+Dread Charge	{3}{B}		Sorcery		Black creatures you control can't be blocked this turn except by black creatures.		
+Dread Reaper	{3}{B}{B}{B}		Creature	Horror	Flying|When Dread Reaper enters the battlefield, you lose 5 life.	6	5
+Dry Spell	{1}{B}		Sorcery		Dry Spell deals 1 damage to each creature and each player.		
+Earthquake	{X}{R}		Sorcery		Earthquake deals X damage to each creature without flying and each player.		
+Ebon Dragon	{5}{B}{B}		Creature	Dragon	Flying|When Ebon Dragon enters the battlefield, you may have target opponent discard a card.	5	4
+Elite Cat Warrior	{2}{G}		Creature	Cat,Warrior	Forestwalk	2	3
+Elven Cache	{2}{G}{G}		Sorcery		Return target card from your graveyard to your hand.		
+Elvish Ranger	{2}{G}		Creature	Elf		4	1
+Endless Cockroaches	{1}{B}{B}		Creature	Insect	When Endless Cockroaches dies, return it to its owner's hand.	1	1
+Exhaustion	{2}{U}		Sorcery		Creatures and lands target opponent controls don't untap during his or her next untap step.		
+False Peace	{W}		Sorcery		Target player skips all combat phases of his or her next turn.		
+Feral Shadow	{2}{B}		Creature	Nightstalker	Flying	2	1
+Final Strike	{2}{B}{B}		Sorcery		As an additional cost to cast Final Strike, sacrifice a creature.|Final Strike deals damage to target opponent equal to the sacrificed creature's power.		
+Fire Dragon	{6}{R}{R}{R}		Creature	Dragon	Flying|When Fire Dragon enters the battlefield, it deals damage to target creature equal to the number of Mountains you control.	6	6
+Fire Imp	{2}{R}		Creature	Imp	When Fire Imp enters the battlefield, it deals 2 damage to target creature.	2	1
+Fire Snake	{4}{R}		Creature	Snake	When Fire Snake dies, destroy target land.	3	1
+Fire Tempest	{5}{R}{R}		Sorcery		Fire Tempest deals 6 damage to each creature and each player.		
+Flashfires	{3}{R}		Sorcery		Destroy all Plains.		
+Fleet-Footed Monk	{1}{W}		Creature	Human,Monk	Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.	1	1
+Flux	{2}{U}		Sorcery		Each player discards any number of cards, then draws that many cards.|Draw a card.		
+Foot Soldiers	{3}{W}		Creature	Human,Soldier		2	4
+Forest		Basic	Land	Forest	G		
+Forked Lightning	{3}{R}		Sorcery		Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.		
+Fruition	{G}		Sorcery		You gain 1 life for each Forest on the battlefield.		
+Giant Octopus	{3}{U}		Creature	Octopus		3	3
+Giant Spider	{3}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)	2	4
+Gift of Estates	{1}{W}		Sorcery		If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.		
+Goblin Bully	{1}{R}		Creature	Goblin		2	1
+Gorilla Warrior	{2}{G}		Creature	Ape,Warrior		3	2
+Gravedigger	{3}{B}		Creature	Zombie	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.	2	2
+Grizzly Bears	{1}{G}		Creature	Bear		2	2
+Hand of Death	{2}{B}		Sorcery		Destroy target nonblack creature.		
+Harsh Justice	{2}{W}		Instant		Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step.|This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.		
+Highland Giant	{2}{R}{R}		Creature	Giant		3	4
+Hill Giant	{3}{R}		Creature	Giant		3	3
+Horned Turtle	{2}{U}		Creature	Turtle		1	4
+Howling Fury	{2}{B}		Sorcery		Target creature gets +4/+0 until end of turn.		
+Hulking Cyclops	{3}{R}{R}		Creature	Cyclops	Hulking Cyclops can't block.	5	5
+Hulking Goblin	{1}{R}		Creature	Goblin	Hulking Goblin can't block.	2	2
+Hurricane	{X}{G}		Sorcery		Hurricane deals X damage to each creature with flying and each player.		
+Ingenious Thief	{1}{U}		Creature	Human,Rogue	Flying|When Ingenious Thief enters the battlefield, look at target player's hand.	1	1
+Island		Basic	Land	Island	U		
+Jungle Lion	{G}		Creature	Cat	Jungle Lion can't block.	2	1
+Keen-Eyed Archers	{2}{W}		Creature	Elf,Archer	Reach (This creature can block creatures with flying.)	2	2
+King's Assassin	{1}{B}{B}		Creature	Human,Assassin	{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.	1	1
+Knight Errant	{1}{W}		Creature	Human,Knight		2	2
+Last Chance	{R}{R}		Sorcery		Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.		
+Lava Axe	{4}{R}		Sorcery		Lava Axe deals 5 damage to target player.		
+Lava Flow	{3}{R}{R}		Sorcery		Destroy target creature or land.		
+Lizard Warrior	{3}{R}		Creature	Lizard,Warrior		4	2
+Man-o'-War	{2}{U}		Creature	Jellyfish	When Man-o'-War enters the battlefield, return target creature to its owner's hand.	2	2
+Mercenary Knight	{2}{B}		Creature	Human,Mercenary,Knight	When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.	4	4
+Merfolk of the Pearl Trident	{U}		Creature	Merfolk		1	1
+Mind Knives	{1}{B}		Sorcery		Target opponent discards a card at random.		
+Mind Rot	{2}{B}		Sorcery		Target player discards two cards.		
+Minotaur Warrior	{2}{R}		Creature	Minotaur,Warrior		2	3
+Mobilize	{G}		Sorcery		Untap all creatures you control.		
+Monstrous Growth	{1}{G}		Sorcery		Target creature gets +4/+4 until end of turn.		
+Moon Sprite	{1}{G}		Creature	Faerie	Flying	1	1
+Mountain		Basic	Land	Mountain	R		
+Mountain Goat	{R}		Creature	Goat	Mountainwalk	1	1
+Muck Rats	{B}		Creature	Rat		1	1
+Mystic Denial	{1}{U}{U}		Instant		Counter target creature or sorcery spell.		
+Natural Order	{2}{G}{G}		Sorcery		As an additional cost to cast Natural Order, sacrifice a green creature.|Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.		
+Natural Spring	{3}{G}{G}		Sorcery		Target player gains 8 life.		
+Nature's Cloak	{2}{G}		Sorcery		Green creatures you control gain forestwalk until end of turn.		
+Nature's Lore	{1}{G}		Sorcery		Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.		
+Nature's Ruin	{2}{B}		Sorcery		Destroy all green creatures.		
+Needle Storm	{2}{G}		Sorcery		Needle Storm deals 4 damage to each creature with flying.		
+Noxious Toad	{2}{B}		Creature	Frog	When Noxious Toad dies, each opponent discards a card.	1	1
+Omen	{1}{U}		Sorcery		Look at the top three cards of your library, then put them back in any order. You may shuffle your library.|Draw a card.		
+Owl Familiar	{1}{U}		Creature	Bird	Flying|When Owl Familiar enters the battlefield, draw a card, then discard a card.	1	1
+Panther Warriors	{4}{G}		Creature	Cat,Warrior		6	3
+Path of Peace	{3}{W}		Sorcery		Destroy target creature. Its owner gains 4 life.		
+Personal Tutor	{U}		Sorcery		Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.		
+Phantom Warrior	{1}{U}{U}		Creature	Illusion,Warrior	Phantom Warrior can't be blocked.	2	2
+Pillaging Horde	{2}{R}{R}		Creature	Human,Barbarian	When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.	5	5
+Plains		Basic	Land	Plains	W		
+Plant Elemental	{1}{G}		Creature	Plant,Elemental	When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.	3	4
+Primeval Force	{2}{G}{G}{G}		Creature	Elemental	When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.	8	8
+Prosperity	{X}{U}		Sorcery		Each player draws X cards.		
+Pyroclasm	{1}{R}		Sorcery		Pyroclasm deals 2 damage to each creature.		
+Python	{1}{B}{B}		Creature	Snake		3	2
+Raging Cougar	{2}{R}		Creature	Cat	Haste	2	2
+Raging Goblin	{R}		Creature	Goblin,Berserker	Haste (This creature can attack and {T} as soon as it comes under your control.)	1	1
+Raging Minotaur	{2}{R}{R}		Creature	Minotaur,Berserker	Haste	3	3
+Rain of Salt	{4}{R}{R}		Sorcery		Destroy two target lands.		
+Rain of Tears	{1}{B}{B}		Sorcery		Destroy target land.		
+Raise Dead	{B}		Sorcery		Return target creature card from your graveyard to your hand.		
+Redwood Treefolk	{4}{G}		Creature	Treefolk		3	6
+Regal Unicorn	{2}{W}		Creature	Unicorn		2	3
+Renewing Dawn	{1}{W}		Sorcery		You gain 2 life for each Mountain target opponent controls.		
+Rowan Treefolk	{3}{G}		Creature	Treefolk		3	4
+Sacred Knight	{3}{W}		Creature	Human,Knight	Sacred Knight can't be blocked by black and/or red creatures.	3	2
+Sacred Nectar	{1}{W}		Sorcery		You gain 4 life.		
+Scorching Spear	{R}		Sorcery		Scorching Spear deals 1 damage to target creature or player.		
+Scorching Winds	{R}		Instant		Cast Scorching Winds only during the declare attackers step and only if you've been attacked this step.|Scorching Winds deals 1 damage to each attacking creature.		
+Seasoned Marshal	{2}{W}{W}		Creature	Human,Soldier	Whenever Seasoned Marshal attacks, you may tap target creature.	2	2
+Serpent Assassin	{3}{B}{B}		Creature	Snake,Assassin	When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.	2	2
+Serpent Warrior	{2}{B}		Creature	Snake,Warrior	When Serpent Warrior enters the battlefield, you lose 3 life.	3	3
+Skeletal Crocodile	{3}{B}		Creature	Crocodile,Skeleton		5	1
+Skeletal Snake	{1}{B}		Creature	Snake,Skeleton		2	1
+Snapping Drake	{3}{U}		Creature	Drake	Flying	3	2
+Sorcerous Sight	{U}		Sorcery		Look at target opponent's hand.||Draw a card.		
+Soul Shred	{3}{B}{B}		Sorcery		Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.		
+Spined Wurm	{4}{G}		Creature	Wurm		5	4
+Spiritual Guardian	{3}{W}{W}		Creature	Spirit	When Spiritual Guardian enters the battlefield, you gain 4 life.	3	4
+Spitting Earth	{1}{R}		Sorcery		Spitting Earth deals damage to target creature equal to the number of Mountains you control.		
+Spotted Griffin	{3}{W}		Creature	Griffin	Flying	2	3
+Stalking Tiger	{3}{G}		Creature	Cat	Stalking Tiger can't be blocked by more than one creature.	3	3
+Starlight	{1}{W}		Sorcery		You gain 3 life for each black creature target opponent controls.		
+Starlit Angel	{3}{W}{W}		Creature	Angel	Flying	3	4
+Steadfastness	{1}{W}		Sorcery		Creatures you control get +0/+3 until end of turn.		
+Stern Marshal	{2}{W}		Creature	Human,Soldier	{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.	2	2
+Stone Rain	{2}{R}		Sorcery		Destroy target land.		
+Storm Crow	{1}{U}		Creature	Bird	Flying (This creature can't be blocked except by creatures with flying or reach.)	1	2
+Summer Bloom	{1}{G}		Sorcery		You may play up to three additional lands this turn.		
+Swamp		Basic	Land	Swamp	B		
+Sylvan Tutor	{G}		Sorcery		Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.		
+Symbol of Unsummoning	{2}{U}		Sorcery		Return target creature to its owner's hand.||Draw a card.		
+Taunt	{U}		Sorcery		During target player's next turn, creatures that player controls attack you if able.		
+Temporary Truce	{1}{W}		Sorcery		Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.		
+Theft of Dreams	{2}{U}		Sorcery		Draw a card for each tapped creature target opponent controls.		
+Thing from the Deep	{6}{U}{U}{U}		Creature	Leviathan	Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.	9	9
+Thundering Wurm	{2}{G}		Creature	Wurm	When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.	4	4
+Thundermare	{5}{R}		Creature	Elemental,Horse	Haste (This creature can attack the turn it comes under your control.)|When Thundermare enters the battlefield, tap all other creatures.	5	5
+Tidal Surge	{1}{U}		Sorcery		Tap up to three target creatures without flying.		
+Time Ebb	{2}{U}		Sorcery		Put target creature on top of its owner's library.		
+Touch of Brilliance	{3}{U}		Sorcery		Draw two cards.		
+Treetop Defense	{1}{G}		Instant		Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.|Creatures you control gain reach until end of turn. (They can block creatures with flying.)		
+Undying Beast	{3}{B}		Creature	Beast	When Undying Beast dies, put it on top of its owner's library.	3	2
+Untamed Wilds	{2}{G}		Sorcery		Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.		
+Valorous Charge	{1}{W}{W}		Sorcery		White creatures get +2/+0 until end of turn.		
+Vampiric Feast	{5}{B}{B}		Sorcery		Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.		
+Vampiric Touch	{2}{B}		Sorcery		Vampiric Touch deals 2 damage to target opponent and you gain 2 life.		
+Venerable Monk	{2}{W}		Creature	Human,Monk,Cleric	When Venerable Monk enters the battlefield, you gain 2 life.	2	2
+Vengeance	{3}{W}		Sorcery		Destroy target tapped creature.		
+Virtue's Ruin	{2}{B}		Sorcery		Destroy all white creatures.		
+Volcanic Dragon	{4}{R}{R}		Creature	Dragon	Flying|Haste (This creature can attack and {T} as soon as it comes under your control.)	4	4
+Volcanic Hammer	{1}{R}		Sorcery		Volcanic Hammer deals 3 damage to target creature or player.		
+Wall of Granite	{2}{R}		Creature	Wall	Defender (This creature can't attack.)	0	7
+Wall of Swords	{3}{W}		Creature	Wall	Defender (This creature can't attack.)|Flying	3	5
+Warrior's Charge	{2}{W}		Sorcery		Creatures you control get +1/+1 until end of turn.		
+Whiptail Wurm	{6}{G}		Creature	Wurm		8	5
+Wicked Pact	{1}{B}{B}		Sorcery		Destroy two target nonblack creatures. You lose 5 life.		
+Willow Dryad	{G}		Creature	Dryad	Forestwalk	1	1
+Wind Drake	{2}{U}		Creature	Drake	Flying	2	2
+Winds of Change	{R}		Sorcery		Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.		
+Winter's Grasp	{1}{G}{G}		Sorcery		Destroy target land.		
+Withering Gaze	{2}{U}		Sorcery		Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.		
+Wood Elves	{2}{G}		Creature	Elf,Scout	When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.	1	1
+Wrath of God	{2}{W}{W}		Sorcery		Destroy all creatures. They can't be regenerated.		

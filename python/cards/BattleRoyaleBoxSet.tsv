@@ -1,0 +1,106 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abyssal Specter	{2}{B}{B}		Creature	Specter	Flying|Whenever Abyssal Specter deals damage to a player, that player discards a card.	2	3
+Advance Scout	{1}{W}		Creature	Human,Soldier,Scout	First strike|{W}: Target creature gains first strike until end of turn.	1	1
+Air Elemental	{3}{U}{U}		Creature	Elemental	Flying	4	4
+Angelic Page	{1}{W}		Creature	Angel,Spirit	Flying|{T}: Target attacking or blocking creature gets +1/+1 until end of turn.	1	1
+Arc Lightning	{2}{R}		Sorcery		Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.		
+Argothian Elder	{3}{G}		Creature	Elf,Druid	{T}: Untap two target lands.	2	2
+Armored Pegasus	{1}{W}		Creature	Pegasus	Flying	1	2
+Azure Drake	{3}{U}		Creature	Drake	Flying	2	4
+Blinking Spirit	{3}{W}		Creature	Spirit	{0}: Return Blinking Spirit to its owner's hand.	2	2
+Broken Fall	{2}{G}		Enchantment		Return Broken Fall to its owner's hand: Regenerate target creature.		
+Cackling Fiend	{2}{B}{B}		Creature	Zombie	When Cackling Fiend enters the battlefield, each opponent discards a card.	2	1
+Catastrophe	{4}{W}{W}		Sorcery		Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.		
+Cinder Marsh			Land		{T}: Add {1} to your mana pool.|{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.		
+Control Magic	{2}{U}{U}		Enchantment	Aura	Enchant creature|You control enchanted creature.		
+Counterspell	{U}{U}		Instant		Counter target spell.		
+Crazed Skirge	{3}{B}		Creature	Imp	Flying, haste	2	2
+Curfew	{U}		Instant		Each player returns a creature he or she controls to its owner's hand.		
+Dark Ritual	{B}		Instant		Add {B}{B}{B} to your mana pool.		
+Dirtcowl Wurm	{4}{G}		Creature	Wurm	Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.	3	4
+Disenchant	{1}{W}		Instant		Destroy target artifact or enchantment.		
+Disruptive Student	{2}{U}		Creature	Human,Wizard	{T}: Counter target spell unless its controller pays {1}.	1	1
+Drifting Meadow			Land		Drifting Meadow enters the battlefield tapped.|{T}: Add {W} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Elvish Lyrist	{G}		Creature	Elf	{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.	1	1
+Exhume	{1}{B}		Sorcery		Each player puts a creature card from his or her graveyard onto the battlefield.		
+Fecundity	{2}{G}		Enchantment		Whenever a creature dies, that creature's controller may draw a card.		
+Fertile Ground	{1}{G}		Enchantment	Aura	Enchant land|Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).		
+Fire Ants	{2}{R}		Creature	Insect	{T}: Fire Ants deals 1 damage to each other creature without flying.	2	1
+Flood	{U}		Enchantment		{U}{U}: Tap target creature without flying.		
+Forest		Basic	Land	Forest	G		
+Giant Growth	{G}		Instant		Target creature gets +3/+3 until end of turn.		
+Gorilla Warrior	{2}{G}		Creature	Ape,Warrior		3	2
+Healing Salve	{W}		Instant		Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.		
+Heat Ray	{X}{R}		Instant		Heat Ray deals X damage to target creature.		
+Hurricane	{X}{G}		Sorcery		Hurricane deals X damage to each creature with flying and each player.		
+Infantry Veteran	{W}		Creature	Human,Soldier	{T}: Target attacking creature gets +1/+1 until end of turn.	1	1
+Island		Basic	Land	Island	U		
+Land Tax	{W}		Enchantment		At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.		
+Lhurgoyf	{2}{G}{G}		Creature	Lhurgoyf	Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.		
+Lightning Elemental	{3}{R}		Creature	Elemental	Haste (This creature can attack and {T} as soon as it comes under your control.)	4	1
+Living Death	{3}{B}{B}		Sorcery		Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.		
+Llanowar Elves	{G}		Creature	Elf,Druid	{T}: Add {G} to your mana pool.	1	1
+Mana Leak	{1}{U}		Instant		Counter target spell unless its controller pays {3}.		
+Maniacal Rage	{1}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and can't block.		
+Man-o'-War	{2}{U}		Creature	Jellyfish	When Man-o'-War enters the battlefield, return target creature to its owner's hand.	2	2
+Manta Riders	{U}		Creature	Merfolk	{U}: Manta Riders gains flying until end of turn.	1	1
+Master Decoy	{1}{W}		Creature	Human,Soldier	{W}, {T}: Tap target creature.	1	2
+Mogg Hollows			Land		{T}: Add {1} to your mana pool.|{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.		
+Mountain		Basic	Land	Mountain	R		
+Nekrataal	{2}{B}{B}		Creature	Human,Assassin	First strike (This creature deals combat damage before creatures without first strike.)|When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.	2	1
+Opportunity	{4}{U}{U}		Instant		Target player draws four cards.		
+Pacifism	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack or block.		
+Pestilence	{2}{B}{B}		Enchantment		At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.|{B}: Pestilence deals 1 damage to each creature and each player.		
+Phyrexian Ghoul	{2}{B}		Creature	Zombie	Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.	2	2
+Pincher Beetles	{2}{G}		Creature	Insect	Shroud (This creature can't be the target of spells or abilities.)	3	1
+Plains		Basic	Land	Plains	W		
+Plated Rootwalla	{4}{G}		Creature	Lizard	{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.	3	3
+Polluted Mire			Land		Polluted Mire enters the battlefield tapped.|{T}: Add {B} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Prodigal Sorcerer	{2}{U}		Creature	Human,Wizard	{T}: Prodigal Sorcerer deals 1 damage to target creature or player.	1	1
+Raging Goblin	{R}		Creature	Goblin,Berserker	Haste (This creature can attack and {T} as soon as it comes under your control.)	1	1
+Ray of Command	{3}{U}		Instant		Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.		
+Reanimate	{B}		Sorcery		Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.		
+Remote Isle			Land		Remote Isle enters the battlefield tapped.|{T}: Add {U} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+River Boa	{1}{G}		Creature	Snake	Islandwalk|{G}: Regenerate River Boa.	2	1
+Rolling Thunder	{X}{R}{R}		Sorcery		Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.		
+Sadistic Glee	{B}		Enchantment	Aura	Enchant creature|Whenever a creature dies, put a +1/+1 counter on enchanted creature.		
+Sanctum Custodian	{2}{W}		Creature	Human,Cleric	{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.	1	2
+Sanctum Guardian	{1}{W}{W}		Creature	Human,Cleric	Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.	1	4
+Sandstorm	{G}		Instant		Sandstorm deals 1 damage to each attacking creature.		
+Scaled Wurm	{7}{G}		Creature	Wurm		7	6
+Scryb Sprites	{G}		Creature	Faerie	Flying	1	1
+Seasoned Marshal	{2}{W}{W}		Creature	Human,Soldier	Whenever Seasoned Marshal attacks, you may tap target creature.	2	2
+Seeker of Skybreak	{1}{G}		Creature	Elf	{T}: Untap target creature.	2	1
+Sengir Vampire	{3}{B}{B}		Creature	Vampire	Flying|Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.	4	4
+Sewer Rats	{B}		Creature	Rat	{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.	1	1
+Shower of Sparks	{R}		Instant		Shower of Sparks deals 1 damage to target creature and 1 damage to target player.		
+Skyshroud Elite	{G}		Creature	Elf	Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.	1	1
+Slippery Karst			Land		Slippery Karst enters the battlefield tapped.|{T}: Add {G} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Soltari Foot Soldier	{W}		Creature	Soltari,Soldier	Shadow (This creature can block or be blocked by only creatures with shadow.)	1	1
+Songstitcher	{W}		Creature	Human,Cleric	{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.	1	1
+Soul Warden	{W}		Creature	Human,Cleric	Whenever another creature enters the battlefield, you gain 1 life.	1	1
+Spike Colony	{4}{G}		Creature	Spike	Spike Colony enters the battlefield with four +1/+1 counters on it.|{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.	0	0
+Spike Feeder	{1}{G}{G}		Creature	Spike	Spike Feeder enters the battlefield with two +1/+1 counters on it.|{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.|Remove a +1/+1 counter from Spike Feeder: You gain 2 life.	0	0
+Spike Weaver	{2}{G}{G}		Creature	Spike	Spike Weaver enters the battlefield with three +1/+1 counters on it.|{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.|{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.	0	0
+Spike Worker	{2}{G}		Creature	Spike	Spike Worker enters the battlefield with two +1/+1 counters on it.|{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.	0	0
+Steam Blast	{2}{R}		Sorcery		Steam Blast deals 2 damage to each creature and each player.		
+Subversion	{3}{B}{B}		Enchantment		At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.		
+Sun Clasp	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+3.|{W}: Return enchanted creature to its owner's hand.		
+Swamp		Basic	Land	Swamp	B		
+Swords to Plowshares	{W}		Instant		Exile target creature. Its controller gains life equal to its power.		
+Symbiosis	{1}{G}		Instant		Two target creatures each get +2/+2 until end of turn.		
+Syphon Soul	{2}{B}		Sorcery		Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.		
+Terror	{1}{B}		Instant		Destroy target nonartifact, nonblack creature. It can't be regenerated.		
+Thalakos Lowlands			Land		{T}: Add {1} to your mana pool.|{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.		
+Tranquility	{2}{G}		Sorcery		Destroy all enchantments.		
+Trumpeting Armodon	{3}{G}		Creature	Elephant	{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.	3	3
+Unnerve	{3}{B}		Sorcery		Each opponent discards two cards.		
+Uthden Troll	{2}{R}		Creature	Troll	{R}: Regenerate Uthden Troll.	2	2
+Vec Townships			Land		{T}: Add {1} to your mana pool.|{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.		
+Village Elder	{G}		Creature	Human,Druid	{G}, {T}, Sacrifice a Forest: Regenerate target creature.	1	1
+Wall of Heat	{2}{R}		Creature	Wall	Defender (This creature can't attack.)	2	6
+Weakness	{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets -2/-1.		
+Wildfire Emissary	{3}{R}		Creature	Efreet	Protection from white|{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.	2	4
+Wind Drake	{2}{U}		Creature	Drake	Flying	2	2
+Windfall	{2}{U}		Sorcery		Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.		
+Wrath of God	{2}{W}{W}		Sorcery		Destroy all creatures. They can't be regenerated.		

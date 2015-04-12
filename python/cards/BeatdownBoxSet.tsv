@@ -1,0 +1,83 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Air Elemental	{3}{U}{U}		Creature	Elemental	Flying	4	4
+Balduvian Horde	{2}{R}{R}		Creature	Human,Barbarian	When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.	5	5
+Ball Lightning	{R}{R}{R}		Creature	Elemental	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)|Haste (This creature can attack and {T} as soon as it comes under your control.)|At the beginning of the end step, sacrifice Ball Lightning.	6	1
+Blizzard Elemental	{5}{U}{U}		Creature	Elemental	Flying|{3}{U}: Untap Blizzard Elemental.	5	5
+Bloodrock Cyclops	{2}{R}		Creature	Cyclops	Bloodrock Cyclops attacks each turn if able.	3	3
+Bone Harvest	{2}{B}		Instant		Put any number of target creature cards from your graveyard on top of your library.|Draw a card at the beginning of the next turn's upkeep.		
+Brainstorm	{U}		Instant		Draw three cards, then put two cards from your hand on top of your library in any order.		
+Clockwork Avian	{5}		Artifact,Creature	Bird	Flying|Clockwork Avian enters the battlefield with four +1/+0 counters on it.|At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.|{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.	0	4
+Clockwork Beast	{6}		Artifact,Creature	Beast	Clockwork Beast enters the battlefield with seven +1/+0 counters on it.|At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.|{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.	0	4
+Cloud Djinn	{5}{U}		Creature	Djinn	Flying|Cloud Djinn can block only creatures with flying.	5	4
+Cloud Elemental	{2}{U}		Creature	Elemental	Flying|Cloud Elemental can block only creatures with flying.	2	3
+Coercion	{2}{B}		Sorcery		Target opponent reveals his or her hand. You choose a card from it. That player discards that card.		
+Counterspell	{U}{U}		Instant		Counter target spell.		
+Crash of Rhinos	{6}{G}{G}		Creature	Rhino	Trample	8	4
+Crashing Boars	{3}{G}{G}		Creature	Boar	Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.	4	4
+Dark Ritual	{B}		Instant		Add {B}{B}{B} to your mana pool.		
+Deadly Insect	{4}{G}		Creature	Insect	Shroud (This permanent can't be the target of spells or abilities.)	6	1
+Death Stroke	{B}{B}		Sorcery		Destroy target tapped creature.		
+Diabolic Edict	{1}{B}		Instant		Target player sacrifices a creature.		
+Diabolic Vision	{U}{B}		Sorcery		Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.		
+Drain Life	{X}{1}{B}		Sorcery		Spend only black mana on X.|Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.		
+Dwarven Ruins			Land		Dwarven Ruins enters the battlefield tapped.|{T}: Add {R} to your mana pool.|{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.		
+Ebon Stronghold			Land		Ebon Stronghold enters the battlefield tapped.|{T}: Add {B} to your mana pool.|{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.		
+Erhnam Djinn	{3}{G}		Creature	Djinn	At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.	4	5
+Fallen Angel	{3}{B}{B}		Creature	Angel	Flying|Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.	3	3
+Feral Shadow	{2}{B}		Creature	Nightstalker	Flying	2	1
+Fireball	{X}{R}		Sorcery		Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.|Fireball costs {1} more to cast for each target beyond the first.		
+Fog	{G}		Instant		Prevent all combat damage that would be dealt this turn.		
+Fog Elemental	{2}{U}		Creature	Elemental	Flying (This creature can't be blocked except by creatures with flying or reach.)|When Fog Elemental attacks or blocks, sacrifice it at end of combat.	4	4
+Force of Nature	{2}{G}{G}{G}{G}		Creature	Elemental	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)|At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.	8	8
+Forest		Basic	Land	Forest	G		
+Gaseous Form	{2}{U}		Enchantment	Aura	Enchant creature|Prevent all combat damage that would be dealt to and dealt by enchanted creature.		
+Giant Crab	{4}{U}		Creature	Crab	{U}: Giant Crab gains shroud until end of turn. (It can't be the target of spells or abilities.)	3	3
+Giant Growth	{G}		Instant		Target creature gets +3/+3 until end of turn.		
+Gravedigger	{3}{B}		Creature	Zombie	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.	2	2
+Havenwood Battleground			Land		Havenwood Battleground enters the battlefield tapped.|{T}: Add {G} to your mana pool.|{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.		
+Hollow Dogs	{4}{B}		Creature	Zombie,Hound	Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.	3	3
+Hulking Cyclops	{3}{R}{R}		Creature	Cyclops	Hulking Cyclops can't block.	5	5
+Impulse	{1}{U}		Instant		Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.		
+Island		Basic	Land	Island	U		
+Killer Whale	{3}{U}{U}		Creature	Whale	{U}: Killer Whale gains flying until end of turn.	3	5
+Kird Ape	{R}		Creature	Ape	Kird Ape gets +1/+2 as long as you control a Forest.	1	1
+Lava Axe	{4}{R}		Sorcery		Lava Axe deals 5 damage to target player.		
+Leviathan	{5}{U}{U}{U}{U}		Creature	Leviathan	Trample|Leviathan enters the battlefield tapped and doesn't untap during your untap step.|At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.|Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)	10	10
+Lightning Bolt	{R}		Instant		Lightning Bolt deals 3 damage to target creature or player.		
+Llanowar Elves	{G}		Creature	Elf,Druid	{T}: Add {G} to your mana pool.	1	1
+Lowland Giant	{2}{R}{R}		Creature	Giant		4	3
+Mahamoti Djinn	{4}{U}{U}		Creature	Djinn	Flying (This creature can't be blocked except by creatures with flying or reach.)	5	6
+Mountain		Basic	Land	Mountain	R		
+Plated Spider	{4}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)	4	4
+Polluted Mire			Land		Polluted Mire enters the battlefield tapped.|{T}: Add {B} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Power Sink	{X}{U}		Instant		Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.		
+Quirion Elves	{1}{G}		Creature	Elf,Druid	As Quirion Elves enters the battlefield, choose a color.|{T}: Add {G} to your mana pool.|{T}: Add one mana of the chosen color to your mana pool.	1	1
+Raging Goblin	{R}		Creature	Goblin,Berserker	Haste (This creature can attack and {T} as soon as it comes under your control.)	1	1
+Rampant Growth	{1}{G}		Sorcery		Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.		
+Remote Isle			Land		Remote Isle enters the battlefield tapped.|{T}: Add {U} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Scaled Wurm	{7}{G}		Creature	Wurm		7	6
+Segmented Wurm	{3}{R}{G}		Creature	Wurm	Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it.	5	5
+Sengir Vampire	{3}{B}{B}		Creature	Vampire	Flying|Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.	4	4
+Shambling Strider	{4}{G}{G}		Creature	Yeti	{R}{G}: Shambling Strider gets +1/-1 until end of turn.	5	5
+Shivan Dragon	{4}{R}{R}		Creature	Dragon	Flying|{R}: Shivan Dragon gets +1/+0 until end of turn.	5	5
+Shock	{R}		Instant		Shock deals 2 damage to target creature or player.		
+Skittering Horror	{2}{B}		Creature	Horror	When you cast a creature spell, sacrifice Skittering Horror.	4	3
+Skittering Skirge	{B}{B}		Creature	Imp	Flying|When you cast a creature spell, sacrifice Skittering Skirge.	3	2
+Slippery Karst			Land		Slippery Karst enters the battlefield tapped.|{T}: Add {G} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Smoldering Crater			Land		Smoldering Crater enters the battlefield tapped.|{T}: Add {R} to your mana pool.|Cycling {2} ({2}, Discard this card: Draw a card.)		
+Snapping Drake	{3}{U}		Creature	Drake	Flying	3	2
+Sonic Burst	{1}{R}		Instant		As an additional cost to cast Sonic Burst, discard a card at random.|Sonic Burst deals 4 damage to target creature or player.		
+Svyelunite Temple			Land		Svyelunite Temple enters the battlefield tapped.|{T}: Add {U} to your mana pool.|{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.		
+Swamp		Basic	Land	Swamp	B		
+Talruum Minotaur	{2}{R}{R}		Creature	Minotaur,Berserker	Haste	3	3
+Tar Pit Warrior	{2}{B}		Creature	Cyclops,Warrior	When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.	3	4
+Terror	{1}{B}		Instant		Destroy target nonartifact, nonblack creature. It can't be regenerated.		
+Thunderbolt	{1}{R}		Instant		Choose one - Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.		
+Thundering Giant	{3}{R}{R}		Creature	Giant	Haste	4	3
+Tolarian Winds	{1}{U}		Instant		Discard all the cards in your hand, then draw that many cards.		
+Viashino Warrior	{3}{R}		Creature	Viashino,Warrior		4	2
+Vigilant Drake	{4}{U}		Creature	Drake	Flying||{2}{U}: Untap Vigilant Drake.	3	3
+Wayward Soul	{2}{U}{U}		Creature	Spirit	Flying||{U}: Put Wayward Soul on top of its owner's library.	3	2
+Wild Growth	{G}		Enchantment	Aura	Enchant land|Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).		
+Woolly Spider	{1}{G}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)|Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.	2	3
+Yavimaya Wurm	{4}{G}{G}		Creature	Wurm	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)	6	4

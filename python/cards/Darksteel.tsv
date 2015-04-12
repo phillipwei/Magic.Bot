@@ -1,0 +1,166 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Æther Snap	{3}{B}{B}		Sorcery		Remove all counters from all permanents and exile all tokens.		
+Æther Vial	{1}		Artifact		At the beginning of your upkeep, you may put a charge counter on Æther Vial.|{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.		
+Ageless Entity	{3}{G}{G}		Creature	Elemental	Whenever you gain life, put that many +1/+1 counters on Ageless Entity.	4	4
+Angel's Feather	{2}		Artifact		Whenever a player casts a white spell, you may gain 1 life.		
+Arcane Spyglass	{4}		Artifact		{2}, {T}, Sacrifice a land: Draw a card and put a charge counter on Arcane Spyglass.|Remove three charge counters from Arcane Spyglass: Draw a card.		
+Arcbound Bruiser	{5}		Artifact,Creature	Golem	Modular 3 (This enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Crusher	{4}		Artifact,Creature	Juggernaut	Trample|Whenever another artifact enters the battlefield, put a +1/+1 counter on Arcbound Crusher.|Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Fiend	{6}		Artifact,Creature	Horror	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|At the beginning of your upkeep, you may move a +1/+1 counter from target creature onto Arcbound Fiend.|Modular 3 (This enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Hybrid	{4}		Artifact,Creature	Beast	Haste|Modular 2 (This enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Lancer	{7}		Artifact,Creature	Beast	First strike|Modular 4 (This enters the battlefield with four +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Overseer	{8}		Artifact,Creature	Golem	At the beginning of your upkeep, put a +1/+1 counter on each creature with modular you control.|Modular 6 (This enters the battlefield with six +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Ravager	{2}		Artifact,Creature	Beast	Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.|Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Reclaimer	{4}		Artifact,Creature	Golem	Remove a +1/+1 counter from Arcbound Reclaimer: Put target artifact card from your graveyard on top of your library.|Modular 2 (This enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Slith	{2}		Artifact,Creature	Slith	Whenever Arcbound Slith deals combat damage to a player, put a +1/+1 counter on it.|Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Stinger	{2}		Artifact,Creature	Insect	Flying|Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Arcbound Worker	{1}		Artifact,Creature	Construct	Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)	0	0
+Auriok Glaivemaster	{W}		Creature	Human,Soldier	As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.	1	1
+Auriok Siege Sled	{6}		Artifact,Creature	Juggernaut	{1}: Target artifact creature blocks Auriok Siege Sled this turn if able.|{1}: Target artifact creature can't block Auriok Siege Sled this turn.	3	5
+Barbed Lightning	{2}{R}		Instant		Choose one - Barbed Lightning deals 3 damage to target creature; or Barbed Lightning deals 3 damage to target player.|Entwine {2} (Choose both if you pay the entwine cost.)		
+Blinkmoth Nexus			Land		{T}: Add {1} to your mana pool.|{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.|{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.		
+Burden of Greed	{3}{B}		Instant		Target player loses 1 life for each tapped artifact he or she controls.		
+Carry Away	{U}{U}		Enchantment	Aura	Enchant Equipment|When Carry Away enters the battlefield, unattach enchanted Equipment.|You control enchanted Equipment.		
+Chimeric Egg	{3}		Artifact		Whenever an opponent casts a nonartifact spell, put a charge counter on Chimeric Egg.|Remove three charge counters from Chimeric Egg: Chimeric Egg becomes a 6/6 Construct artifact creature with trample until end of turn.		
+Chittering Rats	{1}{B}{B}		Creature	Rat	When Chittering Rats enters the battlefield, target opponent puts a card from his or her hand on top of his or her library.	2	2
+Chromescale Drake	{6}{U}{U}{U}		Creature	Drake	Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)|Flying|When Chromescale Drake enters the battlefield, reveal the top three cards of your library. Put all artifact cards revealed this way into your hand and the rest into your graveyard.	3	4
+Coretapper	{2}		Artifact,Creature	Myr	{T}: Put a charge counter on target artifact.|Sacrifice Coretapper: Put two charge counters on target artifact.	1	1
+Crazed Goblin	{R}		Creature	Goblin,Warrior	Crazed Goblin attacks each turn if able.	1	1
+Darksteel Brute	{2}		Artifact		Indestructible (Damage and effects that say 'destroy' don't destroy this artifact.)|{3}: Darksteel Brute becomes a 2/2 Beast artifact creature until end of turn.		
+Darksteel Citadel			Artifact,Land		Indestructible (Effects that say 'destroy' don't destroy this permanent.)|{T}: Add {1} to your mana pool.		
+Darksteel Colossus	{11}		Artifact,Creature	Golem	Trample, indestructible|If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.	11	11
+Darksteel Forge	{9}		Artifact		Artifacts you control have indestructible. (Effects that say 'destroy' don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)		
+Darksteel Gargoyle	{7}		Artifact,Creature	Gargoyle	Flying|Indestructible (Damage and effects that say 'destroy' don't destroy this creature.)	3	3
+Darksteel Ingot	{3}		Artifact		Indestructible|{T}: Add one mana of any color to your mana pool.		
+Darksteel Pendant	{2}		Artifact		Indestructible (Effects that say 'destroy' don't destroy this artifact.)|{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.		
+Darksteel Reactor	{4}		Artifact		Indestructible (Effects that say 'destroy' don't destroy this artifact.)|At the beginning of your upkeep, you may put a charge counter on Darksteel Reactor.|When Darksteel Reactor has twenty or more charge counters on it, you win the game.		
+Death Cloud	{X}{B}{B}{B}		Sorcery		Each player loses X life, discards X cards, sacrifices X creatures, then sacrifices X lands.		
+Death-Mask Duplicant	{7}		Artifact,Creature	Shapeshifter	Imprint - {1}: Exile target creature card from your graveyard.|As long as a card exiled with Death-Mask Duplicant has flying, Death-Mask Duplicant has flying. The same is true for fear, first strike, double strike, haste, landwalk, protection, and trample.	5	5
+Demon's Horn	{2}		Artifact		Whenever a player casts a black spell, you may gain 1 life.		
+Dismantle	{2}{R}		Sorcery		Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters or charge counters on an artifact you control.		
+Dragon's Claw	{2}		Artifact		Whenever a player casts a red spell, you may gain 1 life.		
+Drill-Skimmer	{4}		Artifact,Creature	Thopter	Flying|Drill-Skimmer has shroud as long as you control another artifact creature. (It can't be the target of spells or abilities.)	2	1
+Drooling Ogre	{1}{R}		Creature	Ogre	Whenever a player casts an artifact spell, that player gains control of Drooling Ogre. (This effect lasts indefinitely.)	3	3
+Dross Golem	{5}		Artifact,Creature	Golem	Affinity for Swamps (This spell costs {1} less to cast for each Swamp you control.)|Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)	3	2
+Eater of Days	{4}		Artifact,Creature	Leviathan	Flying, trample|When Eater of Days enters the battlefield, you skip your next two turns.	9	8
+Echoing Calm	{1}{W}		Instant		Destroy target enchantment and all other enchantments with the same name as that enchantment.		
+Echoing Courage	{1}{G}		Instant		Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.		
+Echoing Decay	{1}{B}		Instant		Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.		
+Echoing Ruin	{1}{R}		Sorcery		Destroy target artifact and all other artifacts with the same name as that artifact.		
+Echoing Truth	{1}{U}		Instant		Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.		
+Emissary of Despair	{1}{B}{B}		Creature	Spirit	Flying|Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.	2	1
+Emissary of Hope	{1}{W}{W}		Creature	Spirit	Flying|Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.	2	1
+Essence Drain	{4}{B}		Sorcery		Essence Drain deals 3 damage to target creature or player and you gain 3 life.		
+Fangren Firstborn	{1}{G}{G}{G}		Creature	Beast	Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.	4	2
+Fireball	{X}{R}		Sorcery		Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.|Fireball costs {1} more to cast for each target beyond the first.		
+Flamebreak	{R}{R}{R}		Sorcery		Flamebreak deals 3 damage to each creature without flying and each player. Creatures dealt damage this way can't be regenerated this turn.		
+Furnace Dragon	{6}{R}{R}{R}		Creature	Dragon	Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)|Flying|When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts.	5	5
+Gemini Engine	{6}		Artifact,Creature	Construct	Whenever Gemini Engine attacks, put a colorless Construct artifact creature token named Twin onto the battlefield attacking. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.	3	4
+Genesis Chamber	{2}		Artifact		Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller puts a 1/1 colorless Myr artifact creature token onto the battlefield.		
+Geth's Grimoire	{4}		Artifact		Whenever an opponent discards a card, you may draw a card.		
+Goblin Archaeologist	{1}{R}		Creature	Goblin,Artificer	{R}, {T}: Flip a coin. If you win the flip, destroy target artifact and untap Goblin Archaeologist. If you lose the flip, sacrifice Goblin Archaeologist.	1	2
+Greater Harvester	{2}{B}{B}{B}		Creature	Horror	At the beginning of your upkeep, sacrifice a permanent.|Whenever Greater Harvester deals combat damage to a player, that player sacrifices two permanents.	5	6
+Grimclaw Bats	{1}{B}		Creature	Bat	Flying|{B}, Pay 1 life: Grimclaw Bats gets +1/+1 until end of turn.	1	1
+Hallow	{W}		Instant		Prevent all damage target spell would deal this turn. You gain life equal to the damage prevented this way.		
+Heartseeker	{4}		Artifact	Equipment	Equipped creature gets +2/+1 and has '{T}, Unattach Heartseeker: Destroy target creature.'|Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)		
+Hoverguard Observer	{2}{U}{U}		Creature	Drone	Flying|Hoverguard Observer can block only creatures with flying.	3	3
+Hunger of the Nim	{1}{B}		Sorcery		Target creature gets +1/+0 until end of turn for each artifact you control.		
+Infested Roothold	{4}{G}		Creature	Wall	Defender (This creature can't attack.)|Protection from artifacts|Whenever an opponent casts an artifact spell, you may put a 1/1 green Insect creature token onto the battlefield.	0	3
+Inflame	{R}		Instant		Inflame deals 2 damage to each creature dealt damage this turn.		
+Juggernaut	{4}		Artifact,Creature	Juggernaut	Juggernaut attacks each turn if able.|Juggernaut can't be blocked by Walls.	5	3
+Karstoderm	{2}{G}{G}		Creature	Beast	Karstoderm enters the battlefield with five +1/+1 counters on it.|Whenever an artifact enters the battlefield, remove a +1/+1 counter from Karstoderm.	0	0
+Kraken's Eye	{2}		Artifact		Whenever a player casts a blue spell, you may gain 1 life.		
+Krark-Clan Stoker	{2}{R}		Creature	Goblin,Shaman	{T}, Sacrifice an artifact: Add {R}{R} to your mana pool.	2	2
+Last Word	{2}{U}{U}		Instant		Last Word can't be countered by spells or abilities.|Counter target spell.		
+Leonin Battlemage	{3}{W}		Creature	Cat,Wizard	{T}: Target creature gets +1/+1 until end of turn.|Whenever you cast a spell, you may untap Leonin Battlemage.	2	3
+Leonin Bola	{1}		Artifact	Equipment	Equipped creature has '{T}, Unattach Leonin Bola: Tap target creature.'|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)		
+Leonin Shikari	{1}{W}		Creature	Cat,Soldier	You may activate equip abilities any time you could cast an instant.	2	2
+Lich's Tomb	{4}		Artifact		You don't lose the game for having 0 or less life.|Whenever you lose life, sacrifice a permanent for each 1 life you lost. (Damage causes loss of life.)		
+Loxodon Mystic	{3}{W}{W}		Creature	Elephant,Cleric	{W}, {T}: Tap target creature.	3	3
+Machinate	{1}{U}{U}		Instant		Look at the top X cards of your library, where X is the number of artifacts you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.		
+Magnetic Flux	{2}{U}		Instant		Artifact creatures you control gain flying until end of turn.		
+Memnarch	{7}	Legendary	Artifact,Creature	Wizard	{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. (This effect lasts indefinitely.)|{3}{U}: Gain control of target artifact. (This effect lasts indefinitely.)	4	5
+Mephitic Ooze	{4}{B}		Creature	Ooze	Mephitic Ooze gets +1/+0 for each artifact you control.|Whenever Mephitic Ooze deals combat damage to a creature, destroy that creature. The creature can't be regenerated.	0	5
+Metal Fatigue	{2}{W}		Instant		Tap all artifacts.		
+Mirrodin's Core			Land		{T}: Add {1} to your mana pool.|{T}: Put a charge counter on Mirrodin's Core.|{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.		
+Murderous Spoils	{5}{B}		Instant		Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. (This effect lasts indefinitely.)		
+Mycosynth Lattice	{6}		Artifact		All permanents are artifacts in addition to their other types.|All cards that aren't on the battlefield, spells, and permanents are colorless.|Players may spend mana as though it were mana of any color.		
+Myr Landshaper	{3}		Artifact,Creature	Myr	{T}: Target land becomes an artifact in addition to its other types until end of turn.	1	1
+Myr Matrix	{5}		Artifact		Indestructible (Effects that say 'destroy' don't destroy this artifact.)|Myr creatures get +1/+1.|{5}: Put a 1/1 colorless Myr artifact creature token onto the battlefield.		
+Myr Moonvessel	{1}		Artifact,Creature	Myr	When Myr Moonvessel dies, add {1} to your mana pool.	1	1
+Nemesis Mask	{3}		Artifact	Equipment	All creatures able to block equipped creature do so.|Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)		
+Neurok Prodigy	{2}{U}		Creature	Human,Wizard	Flying|Discard an artifact card: Return Neurok Prodigy to its owner's hand.	2	1
+Neurok Transmuter	{2}{U}		Creature	Human,Wizard	{U}: Target creature becomes an artifact in addition to its other types until end of turn.|{U}: Until end of turn, target artifact creature becomes blue and isn't an artifact.	2	2
+Nim Abomination	{2}{B}		Creature	Zombie	At the beginning of your end step, if Nim Abomination is untapped, you lose 3 life.	3	4
+Nourish	{G}{G}		Instant		You gain 6 life.		
+Oxidda Golem	{6}		Artifact,Creature	Golem	Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)|Haste	3	2
+Oxidize	{G}		Instant		Destroy target artifact. It can't be regenerated.		
+Panoptic Mirror	{5}		Artifact		Imprint - {X}, {T}: You may exile an instant or sorcery card with converted mana cost X from your hand.|At the beginning of your upkeep, you may copy a card exiled with Panoptic Mirror. If you do, you may cast the copy without paying its mana cost.		
+Pristine Angel	{4}{W}{W}		Creature	Angel	Flying|As long as Pristine Angel is untapped, it has protection from artifacts and from all colors.|Whenever you cast a spell, you may untap Pristine Angel.	4	4
+Psychic Overload	{3}{U}		Enchantment	Aura	Enchant permanent|When Psychic Overload enters the battlefield, tap enchanted permanent.|Enchanted permanent doesn't untap during its controller's untap step.|Enchanted permanent has 'Discard two artifact cards: Untap this permanent.'		
+Pteron Ghost	{1}{W}		Creature	Spirit	Flying|Sacrifice Pteron Ghost: Regenerate target artifact.	1	1
+Pulse of the Dross	{1}{B}{B}		Sorcery		Target player reveals three cards from his or her hand and you choose one of them. That player discards that card. Then if that player has more cards in hand than you, return Pulse of the Dross to its owner's hand.		
+Pulse of the Fields	{1}{W}{W}		Instant		You gain 4 life. Then if an opponent has more life than you, return Pulse of the Fields to its owner's hand.		
+Pulse of the Forge	{1}{R}{R}		Instant		Pulse of the Forge deals 4 damage to target player. Then if that player has more life than you, return Pulse of the Forge to its owner's hand.		
+Pulse of the Grid	{1}{U}{U}		Instant		Draw two cards, then discard a card. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.		
+Pulse of the Tangle	{1}{G}{G}		Sorcery		Put a 3/3 green Beast creature token onto the battlefield. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand.		
+Purge	{1}{W}		Instant		Destroy target artifact creature or black creature. It can't be regenerated.		
+Quicksilver Behemoth	{6}{U}		Creature	Beast	Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)|When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)	4	5
+Razor Golem	{6}		Artifact,Creature	Golem	Affinity for Plains (This spell costs {1} less to cast for each Plains you control.)|Vigilance	3	4
+Reap and Sow	{3}{G}		Sorcery		Choose one - Destroy target land; or search your library for a land card, put that card onto the battlefield, then shuffle your library.|Entwine {1}{G} (Choose both if you pay the entwine cost.)		
+Rebuking Ceremony	{3}{G}{G}		Sorcery		Put two target artifacts on top of their owners' libraries.		
+Reshape	{X}{U}{U}		Sorcery		As an additional cost to cast Reshape, sacrifice an artifact.|Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.		
+Retract	{U}		Instant		Return all artifacts you control to their owner's hand.		
+Ritual of Restoration	{W}		Sorcery		Return target artifact card from your graveyard to your hand.		
+Roaring Slagwurm	{5}{G}{G}		Creature	Wurm	Whenever Roaring Slagwurm attacks, tap all artifacts.	6	4
+Savage Beating	{3}{R}{R}		Instant		Cast Savage Beating only during your turn and only during combat.|Choose one - Creatures you control gain double strike until end of turn; or untap all creatures you control and after this phase, there is an additional combat phase.|Entwine {1}{R} (Choose both if you pay the entwine cost.)		
+Scavenging Scarab	{3}{B}		Creature	Insect	Scavenging Scarab can't block.	3	3
+Screams from Within	{1}{B}{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets -1/-1.|When enchanted creature dies, return Screams from Within from your graveyard to the battlefield.		
+Scrounge	{2}{B}		Sorcery		Target opponent chooses an artifact card in his or her graveyard. Put that card onto the battlefield under your control.		
+Second Sight	{2}{U}		Instant		Choose one - Look at the top five cards of target opponent's library, then put them back in any order; or look at the top five cards of your library, then put them back in any order.|Entwine {U} (Choose both if you pay the entwine cost.)		
+Serum Powder	{3}		Artifact		{T}: Add {1} to your mana pool.|Any time you could mulligan and Serum Powder is in your hand, you may exile all the cards from your hand, then draw that many cards. (You can do this in addition to taking mulligans.)		
+Shield of Kaldra	{4}	Legendary	Artifact	Equipment	Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra have indestructible.|Equipped creature has indestructible. (Damage and effects that say 'destroy' don't destroy it.)|Equip {4}		
+Shriveling Rot	{2}{B}{B}		Instant		Choose one - Until end of turn, whenever a creature is dealt damage, destroy it; or until end of turn, whenever a creature dies, that creature's controller loses life equal to its toughness.|Entwine {2}{B} (Choose both if you pay the entwine cost.)		
+Shunt	{1}{R}{R}		Instant		Change the target of target spell with a single target.		
+Skullclamp	{1}		Artifact	Equipment	Equipped creature gets +1/-1.|Whenever equipped creature dies, draw two cards.|Equip {1}		
+Slobad, Goblin Tinkerer	{1}{R}	Legendary	Creature	Goblin,Artificer	Sacrifice an artifact: Target artifact gains indestructible until end of turn. (Effects that say 'destroy' don't destroy it. A creature with indestructible can't be destroyed by damage.)	1	2
+Soulscour	{7}{W}{W}{W}		Sorcery		Destroy all nonartifact permanents.		
+Spawning Pit	{2}		Artifact		Sacrifice a creature: Put a charge counter on Spawning Pit.|{1}, Remove two charge counters from Spawning Pit: Put a 2/2 colorless Spawn artifact creature token onto the battlefield.		
+Specter's Shroud	{2}		Artifact	Equipment	Equipped creature gets +1/+0.|Whenever equipped creature deals combat damage to a player, that player discards a card.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)		
+Spellbinder	{3}		Artifact	Equipment	Imprint - When Spellbinder enters the battlefield, you may exile an instant card from your hand.|Whenever equipped creature deals combat damage to a player, you may copy the exiled card. If you do, you may cast the copy without paying its mana cost.|Equip {4}		
+Spincrusher	{2}		Artifact,Creature	Construct	Whenever Spincrusher blocks, put a +1/+1 counter on it.|Remove a +1/+1 counter from Spincrusher: Spincrusher can't be blocked this turn.	0	2
+Spire Golem	{6}		Artifact,Creature	Golem	Affinity for Islands (This spell costs {1} less to cast for each Island you control.)|Flying	2	4
+Stand Together	{3}{G}{G}		Instant		Put two +1/+1 counters on target creature and two +1/+1 counters on another target creature.		
+Steelshaper Apprentice	{2}{W}{W}		Creature	Human,Soldier	{W}, {T}, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.	1	3
+Stir the Pride	{4}{W}		Instant		Choose one - Creatures you control get +2/+2 until end of turn; or until end of turn, creatures you control gain 'Whenever this creature deals damage, you gain that much life.'|Entwine {1}{W} (Choose both if you pay the entwine cost.)		
+Sundering Titan	{8}		Artifact,Creature	Golem	When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.	7	10
+Surestrike Trident	{2}		Artifact	Equipment	Equipped creature has first strike and '{T}, Unattach Surestrike Trident: This creature deals damage equal to its power to target player.'|Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)		
+Sword of Fire and Ice	{3}		Artifact	Equipment	Equipped creature gets +2/+2 and has protection from red and from blue.|Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.|Equip {2}		
+Sword of Light and Shadow	{3}		Artifact	Equipment	Equipped creature gets +2/+2 and has protection from white and from black.|Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.|Equip {2}		
+Synod Artificer	{2}{U}		Creature	Vedalken,Artificer	{X}, {T}: Tap X target noncreature artifacts.|{X}, {T}: Untap X target noncreature artifacts.	1	2
+Talon of Pain	{4}		Artifact		Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain.|{X}, {T}, Remove X charge counters from Talon of Pain: Talon of Pain deals X damage to target creature or player.		
+Tangle Golem	{7}		Artifact,Creature	Golem	Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)	5	4
+Tangle Spider	{4}{G}{G}		Creature	Spider	Flash (You may cast this spell any time you could cast an instant.)|Reach (This creature can block creatures with flying.)	3	4
+Tanglewalker	{2}{G}		Creature	Dryad	Each creature you control can't be blocked as long as defending player controls an artifact land.	2	2
+Tears of Rage	{2}{R}{R}		Instant		Cast Tears of Rage only during the declare attackers step.|Attacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at the beginning of the next end step.		
+Tel-Jilad Outrider	{3}{G}		Creature	Elf,Warrior	Protection from artifacts	3	1
+Tel-Jilad Wolf	{2}{G}		Creature	Wolf	Whenever Tel-Jilad Wolf becomes blocked by an artifact creature, Tel-Jilad Wolf gets +3/+3 until end of turn.	2	2
+Test of Faith	{1}{W}		Instant		Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.		
+Thought Dissector	{4}		Artifact		{X}, {T}: Target opponent reveals cards from the top of his or her library until an artifact card or X cards are revealed, whichever comes first. If an artifact card is revealed this way, put it onto the battlefield under your control and sacrifice Thought Dissector. Put the rest of the revealed cards into that player's graveyard.		
+Thunderstaff	{3}		Artifact		As long as Thunderstaff is untapped, if a creature would deal combat damage to you, prevent 1 of that damage.|{2}, {T}: Attacking creatures get +1/+0 until end of turn.		
+Trinisphere	{3}		Artifact		As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)		
+Turn the Tables	{3}{W}{W}		Instant		All combat damage that would be dealt to you this turn is dealt to target attacking creature instead.		
+Unforge	{2}{R}		Instant		Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.		
+Ur-Golem's Eye	{4}		Artifact		{T}: Add {2} to your mana pool.		
+Vedalken Engineer	{1}{U}		Creature	Vedalken,Artificer	{T}: Add two mana of any one color to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.	1	1
+Vex	{2}{U}		Instant		Counter target spell. That spell's controller may draw a card.		
+Viridian Acolyte	{G}		Creature	Elf,Shaman	{1}, {T}: Add one mana of any color to your mana pool.	1	1
+Viridian Zealot	{G}{G}		Creature	Elf,Warrior	{1}{G}, Sacrifice Viridian Zealot: Destroy target artifact or enchantment.	2	1
+Voltaic Construct	{4}		Artifact,Creature	Golem,Construct	{2}: Untap target artifact creature.	2	2
+Vulshok Morningstar	{2}		Artifact	Equipment	Equipped creature gets +2/+2.|Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)		
+Vulshok War Boar	{2}{R}{R}		Creature	Boar,Beast	When Vulshok War Boar enters the battlefield, sacrifice it unless you sacrifice an artifact.	5	5
+Wand of the Elements	{4}		Artifact		{T}, Sacrifice an Island: Put a 2/2 blue Elemental creature token with flying onto the battlefield.|{T}, Sacrifice a Mountain: Put a 3/3 red Elemental creature token onto the battlefield.		
+Well of Lost Dreams	{4}		Artifact		Whenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.		
+Whispersilk Cloak	{3}		Artifact	Equipment	Equipped creature can't be blocked and has shroud.|Equip {2}		
+Wirefly Hive	{3}		Artifact		{3}, {T}: Flip a coin. If you win the flip, put a 2/2 colorless Insect artifact creature token with flying named Wirefly onto the battlefield. If you lose the flip, destroy all permanents named Wirefly.		
+Wurm's Tooth	{2}		Artifact		Whenever a player casts a green spell, you may gain 1 life.		

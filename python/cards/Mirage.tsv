@@ -1,0 +1,336 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abyssal Hunter	{3}{B}		Creature	Human,Assassin	{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter's power to that creature.	1	1
+Acidic Dagger	{4}		Artifact		{4}, {T}: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only before blockers are declared.		
+Afiya Grove	{1}{G}		Enchantment		Afiya Grove enters the battlefield with three +1/+1 counters on it.|At the beginning of your upkeep, move a +1/+1 counter from Afiya Grove onto target creature.|When Afiya Grove has no +1/+1 counters on it, sacrifice it.		
+Afterlife	{2}{W}		Instant		Destroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.		
+Agility	{1}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1 and has flanking. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)		
+Alarum	{1}{W}		Instant		Untap target nonattacking creature. It gets +1/+3 until end of turn.		
+Aleatory	{1}{R}		Instant		Cast Aleatory only during combat after blockers are declared.|Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn.|Draw a card at the beginning of the next turn's upkeep.		
+Amber Prison	{4}		Artifact		You may choose not to untap Amber Prison during your untap step.|{4}, {T}: Tap target artifact, creature, or land. That permanent doesn't untap during its controller's untap step for as long as Amber Prison remains tapped.		
+Amulet of Unmaking	{5}		Artifact		{5}, {T}, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate this ability only any time you could cast a sorcery.		
+Ancestral Memories	{2}{U}{U}{U}		Sorcery		Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.		
+Armor of Thorns	{1}{G}		Enchantment	Aura	You may cast Armor of Thorns as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.|Enchant nonblack creature|Enchanted creature gets +2/+2.		
+Armorer Guildmage	{R}		Creature	Human,Wizard	{B}, {T}: Target creature gets +1/+0 until end of turn.|{G}, {T}: Target creature gets +0/+1 until end of turn.	1	1
+Ashen Powder	{2}{B}{B}		Sorcery		Put target creature card from an opponent's graveyard onto the battlefield under your control.		
+Asmira, Holy Avenger	{2}{G}{W}	Legendary	Creature	Human,Cleric	Flying|At the beginning of each end step, put a +1/+1 counter on Asmira, Holy Avenger for each creature put into your graveyard from the battlefield this turn.	2	3
+Auspicious Ancestor	{3}{W}		Creature	Human,Cleric	When Auspicious Ancestor dies, you gain 3 life.|Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.	2	3
+Azimaet Drake	{2}{U}		Creature	Drake	Flying|{U}: Azimaet Drake gets +1/+0 until end of turn. Activate this ability only once each turn.	1	3
+Bad River			Land		Bad River enters the battlefield tapped.|{T}, Sacrifice Bad River: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.		
+Barbed Foliage	{2}{G}{G}		Enchantment		Whenever a creature attacks you, it loses flanking until end of turn.||Whenever a creature without flying attacks you, Barbed Foliage deals 1 damage to it.		
+Barbed-Back Wurm	{4}{B}		Creature	Wurm	{B}: Target green creature blocking Barbed-Back Wurm gets -1/-1 until end of turn.	4	3
+Barreling Attack	{2}{R}{R}		Instant		Target creature gains trample until end of turn. When that creature becomes blocked this turn, it gets +1/+1 until end of turn for each creature blocking it.		
+Basalt Golem	{5}		Artifact,Creature	Golem	Basalt Golem can't be blocked by artifact creatures.|Whenever Basalt Golem becomes blocked by a creature, that creature's controller sacrifices it at end of combat. If the player does, he or she puts a 0/2 colorless Wall artifact creature token with defender onto the battlefield.	2	4
+Bay Falcon	{1}{U}		Creature	Bird	Flying, vigilance	1	1
+Bazaar of Wonders	{3}{U}{U}	World	Enchantment		When Bazaar of Wonders enters the battlefield, exile all cards from all graveyards.|Whenever a player casts a spell, counter it if a card with the same name is in a graveyard or a nontoken permanent with the same name is on the battlefield.		
+Benevolent Unicorn	{1}{W}		Creature	Unicorn	If a spell would deal damage to a creature or player, it deals that much damage minus 1 to that creature or player instead.	1	2
+Benthic Djinn	{2}{U}{B}		Creature	Djinn	Islandwalk||At the beginning of your upkeep, you lose 2 life.	5	3
+Binding Agony	{1}{B}		Enchantment	Aura	Enchant creature|Whenever enchanted creature is dealt damage, Binding Agony deals that much damage to that creature's controller.		
+Blighted Shaman	{1}{B}		Creature	Human,Cleric,Shaman	{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn.|{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.	1	1
+Blind Fury	{2}{R}{R}		Instant		Cast Blind Fury only before the combat damage step.|All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.		
+Blinding Light	{2}{W}		Sorcery		Tap all nonwhite creatures.		
+Blistering Barrier	{2}{R}		Creature	Wall	Defender (This creature can't attack.)	5	2
+Bone Harvest	{2}{B}		Instant		Put any number of target creature cards from your graveyard on top of your library.|Draw a card at the beginning of the next turn's upkeep.		
+Bone Mask	{4}		Artifact		{2}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage. Exile cards from the top of your library equal to the damage prevented this way.		
+Boomerang	{U}{U}		Instant		Return target permanent to its owner's hand.		
+Breathstealer	{2}{B}		Creature	Nightstalker	{B}: Breathstealer gets +1/-1 until end of turn.	2	2
+Brushwagg	{1}{G}{G}		Creature	Brushwagg	Whenever Brushwagg blocks or becomes blocked, it gets -2/+2 until end of turn.	3	2
+Builder's Bane	{X}{X}{R}		Sorcery		Destroy X target artifacts. Builder's Bane deals damage to each player equal to the number of artifacts he or she controlled put into a graveyard this way.		
+Burning Palm Efreet	{2}{R}{R}		Creature	Efreet	{1}{R}{R}: Burning Palm Efreet deals 2 damage to target creature with flying and that creature loses flying until end of turn.	2	2
+Burning Shield Askari	{2}{R}		Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|{R}{R}: Burning Shield Askari gains first strike until end of turn.	2	2
+Cadaverous Bloom	{3}{B}{G}		Enchantment		Exile a card from your hand: Add {B}{B} or {G}{G} to your mana pool.		
+Cadaverous Knight	{2}{B}		Creature	Zombie,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|{1}{B}{B}: Regenerate Cadaverous Knight.	2	2
+Canopy Dragon	{4}{G}{G}		Creature	Dragon	Trample|{1}{G}: Canopy Dragon gains flying and loses trample until end of turn.	4	4
+Carrion	{1}{B}{B}		Instant		As an additional cost to cast Carrion, sacrifice a creature.|Put X 0/1 black Insect creature tokens onto the battlefield, where X is the sacrificed creature's power.		
+Catacomb Dragon	{4}{B}{B}		Creature	Dragon	Flying|Whenever Catacomb Dragon becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature's power, rounded down.	4	4
+Celestial Dawn	{1}{W}{W}		Enchantment		Lands you control are Plains.|Nonland cards you own that aren't on the battlefield, spells you control, and nonland permanents you control are white.|You may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.		
+Cerulean Wyvern	{4}{U}		Creature	Drake	Flying, protection from green	3	3
+Chaos Charm	{R}		Instant		Choose one - Destroy target Wall; or Chaos Charm deals 1 damage to target creature; or target creature gains haste until end of turn.		
+Chaosphere	{2}{R}	World	Enchantment		Creatures with flying can block only creatures with flying.|Creatures without flying have reach. (They can block creatures with flying.)		
+Charcoal Diamond	{2}		Artifact		Charcoal Diamond enters the battlefield tapped.|{T}: Add {B} to your mana pool.		
+Chariot of the Sun	{3}		Artifact		{2}, {T}: Until end of turn, target creature you control gains flying and its toughness becomes 1.		
+Choking Sands	{1}{B}{B}		Sorcery		Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land's controller.		
+Cinder Cloud	{3}{R}{R}		Instant		Destroy target creature. If a white creature dies this way, Cinder Cloud deals damage to that creature's controller equal to the creature's power.		
+Circle of Despair	{1}{W}{B}		Enchantment		{1}, Sacrifice a creature: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.		
+Civic Guildmage	{W}		Creature	Human,Wizard	{G}, {T}: Target creature gets +0/+1 until end of turn.|{U}, {T}: Put target creature you control on top of its owner's library.	1	1
+Cloak of Invisibility	{U}		Enchantment	Aura	Enchant creature|Enchanted creature has phasing and can't be blocked except by Walls. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)		
+Consuming Ferocity	{1}{R}		Enchantment	Aura	Enchant non-Wall creature|Enchanted creature gets +1/+0.|At the beginning of your upkeep, put a +1/+0 counter on enchanted creature. If that creature has three or more +1/+0 counters on it, it deals damage equal to its power to its controller, then destroy that creature and it can't be regenerated.		
+Coral Fighters	{1}{U}		Creature	Merfolk,Soldier	Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.	1	1
+Crash of Rhinos	{6}{G}{G}		Creature	Rhino	Trample	8	4
+Crimson Hellkite	{6}{R}{R}{R}		Creature	Dragon	Flying|{X}, {T}: Crimson Hellkite deals X damage to target creature. Spend only red mana this way.	6	6
+Crimson Roc	{4}{R}		Creature	Bird	Flying|Whenever Crimson Roc blocks a creature without flying, Crimson Roc gets +1/+0 and gains first strike until end of turn.	2	2
+Crypt Cobra	{3}{B}		Creature	Snake	Whenever Crypt Cobra attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)	3	3
+Crystal Golem	{4}		Artifact,Creature	Golem	At the beginning of your end step, Crystal Golem phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)	3	3
+Crystal Vein			Land		{T}: Add {1} to your mana pool.|{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.		
+Cursed Totem	{2}		Artifact		Activated abilities of creatures can't be activated.		
+Cycle of Life	{1}{G}{G}		Enchantment		Return Cycle of Life to its owner's hand: Target creature you cast this turn becomes 0/1 until your next upkeep. At the beginning of your next upkeep, put a +1/+1 counter on that creature.		
+Daring Apprentice	{1}{U}{U}		Creature	Human,Wizard	{T}, Sacrifice Daring Apprentice: Counter target spell.	1	1
+Dark Banishing	{2}{B}		Instant		Destroy target nonblack creature. It can't be regenerated.		
+Dark Ritual	{B}		Instant		Add {B}{B}{B} to your mana pool.		
+Dazzling Beauty	{2}{W}		Instant		Cast Dazzling Beauty only during the declare blockers step.|Target unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)|Draw a card at the beginning of the next turn's upkeep.		
+Decomposition	{1}{G}		Enchantment	Aura	Enchant black creature|Enchanted creature has 'Cumulative upkeep-Pay 1 life.' (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)|When enchanted creature dies, its controller loses 2 life.		
+Delirium	{1}{B}{R}		Instant		Cast Delirium only during an opponent's turn.|Tap target creature that player controls. That creature deals damage equal to its power to the player. Prevent all combat damage that would be dealt to and dealt by the creature this turn.		
+Dirtwater Wraith	{3}{B}		Creature	Wraith	Swampwalk||{B}: Dirtwater Wraith gets +1/+0 until end of turn.	1	3
+Discordant Spirit	{2}{B}{R}		Creature	Spirit	At the beginning of each end step, if it's an opponent's turn, put a +1/+1 counter on Discordant Spirit for each 1 damage dealt to you this turn.|At the beginning of your end step, remove all +1/+1 counters from Discordant Spirit.	2	2
+Disempower	{1}{W}		Instant		Put target artifact or enchantment on top of its owner's library.		
+Disenchant	{1}{W}		Instant		Destroy target artifact or enchantment.		
+Dissipate	{1}{U}{U}		Instant		Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.		
+Divine Offering	{1}{W}		Instant		Destroy target artifact. You gain life equal to its converted mana cost.		
+Divine Retribution	{1}{W}		Instant		Divine Retribution deals damage to target attacking creature equal to the number of attacking creatures.		
+Drain Life	{X}{1}{B}		Sorcery		Spend only black mana on X.|Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.		
+Dread Specter	{3}{B}		Creature	Specter	Whenever Dread Specter blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.	2	2
+Dream Cache	{2}{U}		Sorcery		Draw three cards, then put two cards from your hand both on top of your library or both on the bottom of your library.		
+Dream Fighter	{2}{U}		Creature	Human,Soldier	Whenever Dream Fighter blocks or becomes blocked by a creature, Dream Fighter and that creature phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)	1	1
+Dwarven Miner	{1}{R}		Creature	Dwarf	{2}{R}, {T}: Destroy target nonbasic land.	1	2
+Dwarven Nomad	{2}{R}		Creature	Dwarf,Nomad	{T}: Target creature with power 2 or less can't be blocked this turn.	1	1
+Early Harvest	{1}{G}{G}		Instant		Target player untaps all basic lands he or she controls.		
+Ebony Charm	{B}		Instant		Choose one - Target opponent loses 1 life and you gain 1 life; or exile up to three target cards from a single graveyard; or target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)		
+Ekundu Cyclops	{3}{R}		Creature	Cyclops	If a creature you control attacks, Ekundu Cyclops also attacks if able.	3	4
+Ekundu Griffin	{3}{W}		Creature	Griffin	Flying, first strike	2	2
+Elixir of Vitality	{4}		Artifact		Elixir of Vitality enters the battlefield tapped.|{T}, Sacrifice Elixir of Vitality: You gain 4 life.|{8}, {T}, Sacrifice Elixir of Vitality: You gain 8 life.		
+Emberwilde Caliph	{2}{U}{R}		Creature	Djinn	Flying, trample||Emberwilde Caliph attacks each turn if able.||Whenever Emberwilde Caliph deals damage, you lose that much life.	4	4
+Emberwilde Djinn	{2}{R}{R}		Creature	Djinn	Flying||At the beginning of each player's upkeep, that player may pay {R}{R} or 2 life. If he or she does, the player gains control of Emberwilde Djinn.	5	4
+Energy Bolt	{X}{R}{W}		Sorcery		Choose one - Energy Bolt deals X damage to target player; or target player gains X life.		
+Energy Vortex	{3}{U}{U}		Enchantment		As Energy Vortex enters the battlefield, choose an opponent.|At the beginning of your upkeep, remove all energy counters from Energy Vortex.|At the beginning of the chosen player's upkeep, Energy Vortex deals 3 damage to that player unless he or she pays {1} for each energy counter on Energy Vortex.|{X}: Put X energy counters on Energy Vortex. Activate this ability only during your upkeep.		
+Enfeeblement	{B}{B}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|Enchanted creature gets -2/-2.		
+Enlightened Tutor	{W}		Instant		Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.		
+Ersatz Gnomes	{3}		Artifact,Creature	Gnome	{T}: Target spell becomes colorless.|{T}: Target permanent becomes colorless until end of turn.	1	1
+Ether Well	{3}{U}		Instant		Put target creature on top of its owner's library. If that creature is red, you may put it on the bottom of its owner's library instead.		
+Ethereal Champion	{2}{W}{W}{W}		Creature	Avatar	Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal Champion this turn.	3	4
+Fallow Earth	{2}{G}		Sorcery		Put target land on top of its owner's library.		
+Favorable Destiny	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+2 as long as it's white.|Enchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.)		
+Femeref Archers	{2}{G}		Creature	Human,Archer	{T}: Femeref Archers deals 4 damage to target attacking creature with flying.	2	2
+Femeref Healer	{1}{W}		Creature	Human,Cleric	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.	1	1
+Femeref Knight	{2}{W}		Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|{W}: Femeref Knight gains vigilance until end of turn.	2	2
+Femeref Scouts	{2}{W}		Creature	Human,Scout		1	4
+Feral Shadow	{2}{B}		Creature	Nightstalker	Flying	2	1
+Fetid Horror	{3}{B}		Creature	Shade,Horror	{B}: Fetid Horror gets +1/+1 until end of turn.	1	2
+Final Fortune	{R}{R}		Instant		Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.		
+Fire Diamond	{2}		Artifact		Fire Diamond enters the battlefield tapped.|{T}: Add {R} to your mana pool.		
+Firebreathing	{R}		Enchantment	Aura	Enchant creature|{R}: Enchanted creature gets +1/+0 until end of turn.		
+Flame Elemental	{2}{R}{R}		Creature	Elemental	{R}, {T}, Sacrifice Flame Elemental: Flame Elemental deals damage equal to its power to target creature.	3	2
+Flare	{2}{R}		Instant		Flare deals 1 damage to target creature or player.||Draw a card at the beginning of the next turn's upkeep.		
+Flash	{1}{U}		Instant		You may put a creature card from your hand onto the battlefield. If you do, sacrifice it unless you pay its mana cost reduced by up to {2}.		
+Flood Plain			Land		Flood Plain enters the battlefield tapped.|{T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.		
+Floodgate	{3}{U}		Creature	Wall	Defender (This creature can't attack.)|When Floodgate has flying, sacrifice it.|When Floodgate leaves the battlefield, it deals damage equal to half the number of Islands you control, rounded down, to each nonblue creature without flying.	0	5
+Fog	{G}		Instant		Prevent all combat damage that would be dealt this turn.		
+Foratog	{2}{G}		Creature	Atog	{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.	1	2
+Forbidden Crypt	{3}{B}{B}		Enchantment		If you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game.|If a card would be put into your graveyard from anywhere, exile that card instead.		
+Forest		Basic	Land	Forest	G		
+Forsaken Wastes	{2}{B}	World	Enchantment		Players can't gain life.|At the beginning of each player's upkeep, that player loses 1 life.|Whenever Forsaken Wastes becomes the target of a spell, that spell's controller loses 5 life.		
+Frenetic Efreet	{1}{U}{R}		Creature	Efreet	Flying|{0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)	2	1
+Giant Mantis	{3}{G}		Creature	Insect	Reach (This creature can block creatures with flying.)	2	4
+Gibbering Hyenas	{2}{G}		Creature	Hyena	Gibbering Hyenas can't block black creatures.	3	2
+Goblin Elite Infantry	{1}{R}		Creature	Goblin,Warrior	Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.	2	2
+Goblin Scouts	{3}{R}{R}		Sorcery		Put three 1/1 red Goblin Scout creature tokens with mountainwalk onto the battlefield.		
+Goblin Soothsayer	{R}		Creature	Goblin,Shaman	{R}, {T}, Sacrifice a Goblin: Red creatures get +1/+1 until end of turn.	1	1
+Goblin Tinkerer	{1}{R}		Creature	Goblin,Artificer	{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.	1	2
+Granger Guildmage	{G}		Creature	Human,Wizard	{R}, {T}: Granger Guildmage deals 1 damage to target creature or player and 1 damage to you.|{W}, {T}: Target creature gains first strike until end of turn.	1	1
+Grasslands			Land		Grasslands enters the battlefield tapped.|{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.		
+Grave Servitude	{1}{B}		Enchantment	Aura	You may cast Grave Servitude as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.|Enchant creature|Enchanted creature gets +3/-1 and is black.		
+Gravebane Zombie	{3}{B}		Creature	Zombie	If Gravebane Zombie would die, put Gravebane Zombie on top of its owner's library instead.	3	2
+Grim Feast	{1}{B}{G}		Enchantment		At the beginning of your upkeep, Grim Feast deals 1 damage to you.|Whenever a creature is put into an opponent's graveyard from the battlefield, you gain life equal to its toughness.		
+Grinning Totem	{4}		Artifact		{2}, {T}, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles his or her library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.		
+Hakim, Loreweaver	{3}{U}{U}	Legendary	Creature	Human,Wizard	Flying|{U}{U}: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate this ability only during your upkeep and only if Hakim isn't enchanted.|{U}{U}, {T}: Destroy all Auras attached to Hakim.	2	4
+Hall of Gemstone	{1}{G}{G}	World	Enchantment		At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.		
+Hammer of Bogardan	{1}{R}{R}		Sorcery		Hammer of Bogardan deals 3 damage to target creature or player.|{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.		
+Harbinger of Night	{2}{B}{B}		Creature	Spirit	At the beginning of your upkeep, put a -1/-1 counter on each creature.	2	3
+Harbor Guardian	{2}{W}{U}		Creature	Gargoyle	Reach (This creature can block creatures with flying.)|Whenever Harbor Guardian attacks, defending player may draw a card.	3	4
+Harmattan Efreet	{2}{U}{U}		Creature	Efreet	Flying||{1}{U}{U}: Target creature gains flying until end of turn.	2	2
+Haunting Apparition	{1}{U}{B}		Creature	Spirit	Flying|As Haunting Apparition enters the battlefield, choose an opponent.|Haunting Apparition's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.		
+Hazerider Drake	{2}{W}{U}		Creature	Drake	Flying, protection from red	2	3
+Healing Salve	{W}		Instant		Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.		
+Hivis of the Scale	{3}{R}{R}	Legendary	Creature	Viashino,Shaman	You may choose not to untap Hivis of the Scale during your untap step.|{T}: Gain control of target Dragon for as long as you control Hivis and Hivis remains tapped.	3	4
+Horrible Hordes	{3}		Artifact,Creature	Spirit	Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)	2	2
+Igneous Golem	{5}		Artifact,Creature	Golem	{2}: Igneous Golem gains trample until end of turn.	3	4
+Illicit Auction	{3}{R}{R}		Sorcery		Each player may bid life for control of target creature. You start the bidding with a bid of 0. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and gains control of the creature. (This effect lasts indefinitely.)		
+Illumination	{W}{W}		Instant		Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.		
+Incinerate	{1}{R}		Instant		Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.		
+Infernal Contract	{B}{B}{B}		Sorcery		Draw four cards. You lose half your life, rounded up.		
+Iron Tusk Elephant	{4}{W}		Creature	Elephant	Trample	3	3
+Island		Basic	Land	Island	U		
+Ivory Charm	{W}		Instant		Choose one - All creatures get -2/-0 until end of turn; or tap target creature; or prevent the next 1 damage that would be dealt to target creature or player this turn.		
+Jabari's Influence	{3}{W}{W}		Instant		Cast Jabari's Influence only after combat.|Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.		
+Jolrael's Centaur	{1}{G}{G}		Creature	Centaur,Archer	Shroud (This permanent can't be the target of spells or abilities.)|Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)	2	2
+Jolt	{2}{U}		Instant		You may tap or untap target artifact, creature, or land.|Draw a card at the beginning of the next turn's upkeep.		
+Jungle Patrol	{3}{G}		Creature	Human,Soldier	{1}{G}, {T}: Put a 0/1 green Wall creature token with defender named Wood onto the battlefield.|Sacrifice a token named Wood: Add {R} to your mana pool.	3	2
+Jungle Troll	{1}{R}{G}		Creature	Troll	{R}: Regenerate Jungle Troll.||{G}: Regenerate Jungle Troll.	2	1
+Jungle Wurm	{3}{G}{G}		Creature	Wurm	Whenever Jungle Wurm becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.	5	5
+Kaervek's Hex	{3}{B}		Sorcery		Kaervek's Hex deals 1 damage to each nonblack creature and an additional 1 damage to each green creature.		
+Kaervek's Purge	{X}{B}{R}		Sorcery		Destroy target creature with converted mana cost X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller.		
+Kaervek's Torch	{X}{R}		Sorcery		As long as Kaervek's Torch is on the stack, spells that target it cost {2} more to cast.|Kaervek's Torch deals X damage to target creature or player.		
+Karoo Meerkat	{1}{G}		Creature	Mongoose	Protection from blue	2	1
+Kukemssa Pirates	{3}{U}		Creature	Human,Pirate	Whenever Kukemssa Pirates attacks and isn't blocked, you may gain control of target artifact defending player controls. If you do, Kukemssa Pirates assigns no combat damage this turn.	2	2
+Kukemssa Serpent	{3}{U}		Creature	Serpent	Kukemssa Serpent can't attack unless defending player controls an Island.|{U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn.|When you control no Islands, sacrifice Kukemssa Serpent.	4	3
+Lead Golem	{5}		Artifact,Creature	Golem	Whenever Lead Golem attacks, it doesn't untap during its controller's next untap step.	3	5
+Leering Gargoyle	{1}{W}{U}		Creature	Gargoyle	Flying||{T}: Leering Gargoyle gets -2/+2 and loses flying until end of turn.	2	2
+Lightning Reflexes	{1}{R}		Enchantment	Aura	You may cast Lightning Reflexes as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.|Enchant creature|Enchanted creature gets +1/+0 and has first strike.		
+Lion's Eye Diamond	{0}		Artifact		Sacrifice Lion's Eye Diamond, Discard your hand: Add three mana of any one color to your mana pool. Activate this ability only any time you could cast an instant.		
+Locust Swarm	{3}{G}		Creature	Insect	Flying|{G}: Regenerate Locust Swarm.|{G}: Untap Locust Swarm. Activate this ability only once each turn.	1	1
+Lure of Prey	{2}{G}{G}		Instant		Cast Lure of Prey only if an opponent cast a creature spell this turn.|You may put a green creature card from your hand onto the battlefield.		
+Malignant Growth	{3}{G}{U}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|At the beginning of your upkeep, put a growth counter on Malignant Growth.|At the beginning of each opponent's draw step, that player draws an additional card for each growth counter on Malignant Growth, then Malignant Growth deals damage to the player equal to the number of cards he or she drew this way.		
+Mana Prism	{3}		Artifact		{T}: Add {1} to your mana pool.||{1}, {T}: Add one mana of any color to your mana pool.		
+Mangara's Blessing	{2}{W}		Instant		You gain 5 life.|When a spell or ability an opponent controls causes you to discard Mangara's Blessing, you gain 2 life, and you return Mangara's Blessing from your graveyard to your hand at the beginning of the next end step.		
+Mangara's Equity	{1}{W}{W}		Enchantment		As Mangara's Equity enters the battlefield, choose black or red.|At the beginning of your upkeep, sacrifice Mangara's Equity unless you pay {1}{W}.|Whenever a creature of the chosen color deals damage to you or a white creature you control, Mangara's Equity deals that much damage to that creature.		
+Mangara's Tome	{5}		Artifact		When Mangara's Tome enters the battlefield, search your library for five cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library.|{2}: The next time you would draw a card this turn, instead put the top card of the exiled pile into its owner's hand.		
+Marble Diamond	{2}		Artifact		Marble Diamond enters the battlefield tapped.|{T}: Add {W} to your mana pool.		
+Maro	{2}{G}{G}		Creature	Elemental	Maro's power and toughness are each equal to the number of cards in your hand.	*	*
+Meddle	{1}{U}		Instant		If target spell has only one target and that target is a creature, change that spell's target to another creature.		
+Melesse Spirit	{3}{W}{W}		Creature	Angel,Spirit	Flying, protection from black	3	3
+Memory Lapse	{1}{U}		Instant		Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.		
+Merfolk Raiders	{1}{U}		Creature	Merfolk,Soldier	Islandwalk|Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)	2	3
+Merfolk Seer	{2}{U}		Creature	Merfolk,Wizard	When Merfolk Seer dies, you may pay {1}{U}. If you do, draw a card.	2	2
+Mind Bend	{U}		Instant		Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change 'nonblack creature' to 'nongreen creature' or 'forestwalk' to 'islandwalk.' This effect lasts indefinitely.)		
+Mind Harness	{U}		Enchantment	Aura	Enchant red or green creature|Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|You control enchanted creature.		
+Mindbender Spores	{2}{G}		Creature	Fungus,Wall	Defender (This creature can't attack.)|Flying|Whenever Mindbender Spores blocks a creature, put four fungus counters on that creature. The creature gains 'This creature doesn't untap during your untap step if it has a fungus counter on it' and 'At the beginning of your upkeep, remove a fungus counter from this creature.'	0	1
+Mire Shade	{1}{B}		Creature	Shade	{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.	1	1
+Misers' Cage	{3}		Artifact		At the beginning of each opponent's upkeep, if that player has five or more cards in hand, Misers' Cage deals 2 damage to him or her.		
+Mist Dragon	{4}{U}{U}		Creature	Dragon	{0}: Mist Dragon gains flying. (This effect lasts indefinitely.)|{0}: Mist Dragon loses flying. (This effect lasts indefinitely.)|{3}{U}{U}: Mist Dragon phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)	4	4
+Moss Diamond	{2}		Artifact		Moss Diamond enters the battlefield tapped.|{T}: Add {G} to your mana pool.		
+Mountain		Basic	Land	Mountain	R		
+Mountain Valley			Land		Mountain Valley enters the battlefield tapped.|{T}, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.		
+Mtenda Griffin	{3}{W}		Creature	Griffin	Flying|{W}, {T}: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep.	2	2
+Mtenda Herder	{W}		Creature	Human,Scout	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)	1	1
+Mtenda Lion	{G}		Creature	Cat	Whenever Mtenda Lion attacks, defending player may pay {U}. If that player does, prevent all combat damage that would be dealt by Mtenda Lion this turn.	2	1
+Mystical Tutor	{U}		Instant		Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.		
+Natural Balance	{2}{G}{G}		Sorcery		Each player who controls six or more lands chooses five lands he or she controls and sacrifices the rest. Each player who controls four or fewer lands may search his or her library for up to X basic land cards and put them onto the battlefield, where X is five minus the number of lands he or she controls. Then each player who searched his or her library this way shuffles it.		
+Nettletooth Djinn	{3}{G}		Creature	Djinn	At the beginning of your upkeep, Nettletooth Djinn deals 1 damage to you.	4	4
+Noble Elephant	{3}{W}		Creature	Elephant	Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	2
+Nocturnal Raid	{2}{B}{B}		Instant		Black creatures get +2/+0 until end of turn.		
+Null Chamber	{3}{W}	World	Enchantment		As Null Chamber enters the battlefield, you and an opponent each name a card other than a basic land card.|The named cards can't be played.		
+Pacifism	{1}{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack or block.		
+Painful Memories	{1}{B}		Sorcery		Look at target opponent's hand and choose a card from it. Put that card on top of that player's library.		
+Patagia Golem	{4}		Artifact,Creature	Golem	{3}: Patagia Golem gains flying until end of turn.	2	3
+Paupers' Cage	{3}		Artifact		At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Paupers' Cage deals 2 damage to him or her.		
+Pearl Dragon	{4}{W}{W}		Creature	Dragon	Flying|{1}{W}: Pearl Dragon gets +0/+1 until end of turn.	4	4
+Phyrexian Dreadnought	{1}		Artifact,Creature	Dreadnought	Trample|When Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.	12	12
+Phyrexian Purge	{2}{B}{R}		Sorcery		Destroy any number of target creatures.|Phyrexian Purge costs 3 life more to cast for each target.		
+Phyrexian Tribute	{2}{B}		Sorcery		As an additional cost to cast Phyrexian Tribute, sacrifice two creatures.|Destroy target artifact.		
+Phyrexian Vault	{3}		Artifact		{2}, {T}, Sacrifice a creature: Draw a card.		
+Plains		Basic	Land	Plains	W		
+Political Trickery	{2}{U}		Sorcery		Exchange control of target land you control and target land an opponent controls. (This effect lasts indefinitely.)		
+Polymorph	{3}{U}		Sorcery		Destroy target creature. It can't be regenerated. Its controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.		
+Power Sink	{X}{U}		Instant		Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.		
+Preferred Selection	{2}{G}{G}		Enchantment		At the beginning of your upkeep, look at the top two cards of your library. You may sacrifice Preferred Selection and pay {2}{G}{G}. If you do, put one of those cards into your hand. If you don't, put one of those cards on the bottom of your library.		
+Prismatic Boon	{X}{W}{U}		Instant		Choose a color. X target creatures gain protection from the chosen color until end of turn.		
+Prismatic Circle	{2}{W}		Enchantment		Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|As Prismatic Circle enters the battlefield, choose a color.|{1}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.		
+Prismatic Lace	{U}		Instant		Target permanent becomes the color or colors of your choice. (This effect lasts indefinitely.)		
+Psychic Transfer	{4}{U}		Sorcery		If the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.		
+Purgatory	{2}{W}{B}		Enchantment		Whenever a nontoken creature is put into your graveyard from the battlefield, exile that card.|At the beginning of your upkeep, you may pay {4} and 2 life. If you do, return a card exiled with Purgatory to the battlefield.		
+Purraj of Urborg	{3}{B}{B}	Legendary	Creature	Cat,Warrior	Purraj of Urborg has first strike as long as it's attacking.|Whenever a player casts a black spell, you may pay {B}. If you do, put a +1/+1 counter on Purraj of Urborg.	2	3
+Pyric Salamander	{1}{R}		Creature	Salamander	{R}: Pyric Salamander gets +1/+0 until end of turn. Sacrifice Pyric Salamander at the beginning of the next end step.	1	1
+Quirion Elves	{1}{G}		Creature	Elf,Druid	As Quirion Elves enters the battlefield, choose a color.|{T}: Add {G} to your mana pool.|{T}: Add one mana of the chosen color to your mana pool.	1	1
+Radiant Essence	{1}{G}{W}		Creature	Spirit	Radiant Essence gets +1/+2 as long as an opponent controls a black permanent.	2	3
+Raging Spirit	{3}{R}		Creature	Spirit	{2}: Raging Spirit becomes colorless until end of turn.	3	3
+Rampant Growth	{1}{G}		Sorcery		Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.		
+Rashida Scalebane	{3}{W}{W}	Legendary	Creature	Human,Soldier	{T}: Destroy target attacking or blocking Dragon. It can't be regenerated. You gain life equal to its power.	3	4
+Ravenous Vampire	{3}{B}{B}		Creature	Vampire	Flying||At the beginning of your upkeep, you may sacrifice a nonartifact creature. If you do, put a +1/+1 counter on Ravenous Vampire. If you don't, tap Ravenous Vampire.	3	3
+Ray of Command	{3}{U}		Instant		Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.		
+Razor Pendulum	{4}		Artifact		At the beginning of each player's end step, if that player has 5 or less life, Razor Pendulum deals 2 damage to him or her.		
+Reality Ripple	{1}{U}		Instant		Target artifact, creature, or land phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)		
+Reckless Embermage	{3}{R}		Creature	Human,Wizard	{1}{R}: Reckless Embermage deals 1 damage to target creature or player and 1 damage to itself.	2	2
+Reflect Damage	{3}{R}{W}		Instant		The next time a source of your choice would deal damage this turn, that damage is dealt to that source's controller instead.		
+Regeneration	{1}{G}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)		
+Reign of Chaos	{2}{R}{R}		Sorcery		Choose one - Destroy target Plains and target white creature; or destroy target Island and target blue creature.		
+Reign of Terror	{3}{B}{B}		Sorcery		Destroy all green creatures or all white creatures. They can't be regenerated. You lose 2 life for each creature that died this way.		
+Reparations	{1}{W}{U}		Enchantment		Whenever an opponent casts a spell that targets you or a creature you control, you may draw a card.		
+Restless Dead	{1}{B}		Creature	Skeleton	{B}: Regenerate Restless Dead.	1	1
+Ritual of Steel	{2}{W}		Enchantment	Aura	Enchant creature|When Ritual of Steel enters the battlefield, draw a card at the beginning of the next turn's upkeep.|Enchanted creature gets +0/+2.		
+Rock Basilisk	{4}{R}{G}		Creature	Basilisk	Whenever Rock Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.	4	5
+Rocky Tar Pit			Land		Rocky Tar Pit enters the battlefield tapped.|{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.		
+Roots of Life	{1}{G}{G}		Enchantment		As Roots of Life enters the battlefield, choose Island or Swamp.|Whenever a land of the chosen type an opponent controls becomes tapped, you gain 1 life.		
+Sabertooth Cobra	{2}{G}		Creature	Snake	Whenever Sabertooth Cobra deals damage to a player, he or she gets a poison counter. That player gets another poison counter at the beginning of his or her next upkeep unless he or she pays {2} before that step. (A player with ten or more poison counters loses the game.)	2	2
+Sacred Mesa	{2}{W}		Enchantment		At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.|{1}{W}: Put a 1/1 white Pegasus creature token with flying onto the battlefield.		
+Sand Golem	{5}		Artifact,Creature	Golem	When a spell or ability an opponent controls causes you to discard Sand Golem, return Sand Golem from your graveyard to the battlefield with a +1/+1 counter on it at the beginning of the next end step.	3	3
+Sandbar Crocodile	{4}{U}		Creature	Crocodile	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)	6	5
+Sandstorm	{G}		Instant		Sandstorm deals 1 damage to each attacking creature.		
+Sapphire Charm	{U}		Instant		Choose one - Target player draws a card at the beginning of the next turn's upkeep; or target creature gains flying until end of turn; or target creature an opponent controls phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)		
+Savage Twister	{X}{R}{G}		Sorcery		Savage Twister deals X damage to each creature.		
+Sawback Manticore	{3}{R}{G}		Creature	Manticore	{4}: Sawback Manticore gains flying until end of turn.|{1}: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn.	2	4
+Sea Scryer	{1}{U}		Creature	Merfolk,Wizard	{T}: Add {1} to your mana pool.|{1}, {T}: Add {U} to your mana pool.	1	1
+Sealed Fate	{X}{U}{B}		Sorcery		Look at the top X cards of target opponent's library. Exile one of those cards and put the rest back on top of that player's library in any order.		
+Searing Spear Askari	{2}{R}		Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|{1}{R}: Searing Spear Askari can't be blocked except by two or more creatures this turn.	2	2
+Seedling Charm	{G}		Instant		Choose one - Return target Aura attached to a creature to its owner's hand; or regenerate target green creature; or target creature gains trample until end of turn.		
+Seeds of Innocence	{1}{G}{G}		Sorcery		Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its converted mana cost.		
+Serene Heart	{1}{G}		Instant		Destroy all Auras.		
+Sewer Rats	{B}		Creature	Rat	{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.	1	1
+Shadow Guildmage	{B}		Creature	Human,Wizard	{U}, {T}: Put target creature you control on top of its owner's library.|{R}, {T}: Shadow Guildmage deals 1 damage to target creature or player and 1 damage to you.	1	1
+Shadowbane	{1}{W}		Instant		The next time a source of your choice would deal damage to you and/or creatures you control this turn, prevent that damage. If damage from a black source is prevented this way, you gain that much life.		
+Shallow Grave	{1}{B}		Instant		Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.		
+Shaper Guildmage	{U}		Creature	Human,Wizard	{W}, {T}: Target creature gains first strike until end of turn.|{B}, {T}: Target creature gets +1/+0 until end of turn.	1	1
+Shauku, Endbringer	{5}{B}{B}	Legendary	Creature	Vampire	Flying|Shauku, Endbringer can't attack if there's another creature on the battlefield.|At the beginning of your upkeep, you lose 3 life.|{T}: Exile target creature and put a +1/+1 counter on Shauku.	5	5
+Shauku's Minion	{1}{B}{R}		Creature	Human,Minion	{B}{R}, {T}: Shauku's Minion deals 2 damage to target white creature.	2	2
+Shimmer	{2}{U}{U}		Enchantment		As Shimmer enters the battlefield, choose a land type.|Each land of the chosen type has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)		
+Sidar Jabari	{3}{W}	Legendary	Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|Whenever Sidar Jabari attacks, tap target creature defending player controls.	2	2
+Sirocco	{1}{R}		Instant		Target player reveals his or her hand. For each blue instant card revealed this way, that player discards that card unless he or she pays 4 life.		
+Skulking Ghost	{1}{B}		Creature	Spirit	Flying|When Skulking Ghost becomes the target of a spell or ability, sacrifice it.	2	1
+Sky Diamond	{2}		Artifact		Sky Diamond enters the battlefield tapped.|{T}: Add {U} to your mana pool.		
+Soar	{1}{U}		Enchantment	Aura	You may cast Soar as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.|Enchant creature|Enchanted creature gets +0/+1 and has flying.		
+Soul Echo	{X}{W}{W}		Enchantment		Soul Echo enters the battlefield with X echo counters on it.|You don't lose the game for having 0 or less life.|At the beginning of your upkeep, sacrifice Soul Echo if there are no echo counters on it. Otherwise, target opponent may choose that for each 1 damage that would be dealt to you until your next upkeep, you remove an echo counter from Soul Echo instead.		
+Soul Rend	{1}{B}		Instant		Destroy target creature if it's white. A creature destroyed this way can't be regenerated.||Draw a card at the beginning of the next turn's upkeep.		
+Soulshriek	{B}		Instant		Target creature you control gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. Sacrifice that creature at the beginning of the next end step.		
+Spatial Binding	{U}{B}		Enchantment		Pay 1 life: Until your next upkeep, target permanent can't phase out.		
+Spectral Guardian	{2}{W}{W}		Creature	Spirit	As long as Spectral Guardian is untapped, noncreature artifacts have shroud. (They can't be the targets of spells or abilities.)	2	3
+Spirit of the Night	{6}{B}{B}{B}	Legendary	Creature	Demon,Spirit	Flying, trample, haste, protection from black|Spirit of the Night has first strike as long as it's attacking.	6	5
+Spitting Earth	{1}{R}		Sorcery		Spitting Earth deals damage to target creature equal to the number of Mountains you control.		
+Stalking Tiger	{3}{G}		Creature	Cat	Stalking Tiger can't be blocked by more than one creature.	3	3
+Stone Rain	{2}{R}		Sorcery		Destroy target land.		
+Stupor	{2}{B}		Sorcery		Target opponent discards a card at random, then discards a card.		
+Subterranean Spirit	{3}{R}{R}		Creature	Elemental,Spirit	Protection from red|{T}: Subterranean Spirit deals 1 damage to each creature without flying.	3	3
+Sunweb	{3}{W}		Creature	Wall	Defender (This creature can't attack.)|Flying|Sunweb can't block creatures with power 2 or less.	5	6
+Superior Numbers	{G}{G}		Sorcery		Superior Numbers deals damage to target creature equal to the number of creatures you control in excess of the number of creatures target opponent controls.		
+Suq'Ata Firewalker	{1}{U}{U}		Creature	Human,Wizard	Suq'Ata Firewalker can't be the target of red spells or abilities from red sources.|{T}: Suq'Ata Firewalker deals 1 damage to target creature or player.	0	1
+Swamp		Basic	Land	Swamp	B		
+Tainted Specter	{3}{B}		Creature	Specter	Flying|{1}{B}{B}, {T}: Target player discards a card unless he or she puts a card from his or her hand on top of his or her library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate this ability only any time you could cast a sorcery.	2	2
+Talruum Minotaur	{2}{R}{R}		Creature	Minotaur,Berserker	Haste	3	3
+Taniwha	{3}{U}{U}	Legendary	Creature	Serpent	Trample|Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)|At the beginning of your upkeep, all lands you control phase out. (They phase in before you untap during your next untap step.)	7	7
+Teeka's Dragon	{9}		Artifact,Creature	Dragon	Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)	5	5
+Teferi's Curse	{1}{U}		Enchantment	Aura	Enchant artifact or creature|Enchanted permanent has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)		
+Teferi's Drake	{2}{U}		Creature	Drake	Flying|Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)	3	2
+Teferi's Imp	{2}{U}		Creature	Imp	Flying|Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)|Whenever Teferi's Imp phases out, discard a card.|Whenever Teferi's Imp phases in, draw a card.	1	1
+Teferi's Isle		Legendary	Land		Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)|Teferi's Isle enters the battlefield tapped.|{T}: Add {U}{U} to your mana pool.		
+Telim'Tor	{4}{R}	Legendary	Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|Whenever Telim'Tor attacks, all attacking creatures with flanking get +1/+1 until end of turn.	2	2
+Telim'Tor's Darts	{2}		Artifact		{2}, {T}: Telim'Tor's Darts deals 1 damage to target player.		
+Telim'Tor's Edict	{R}		Instant		Exile target permanent you own or control.|Draw a card at the beginning of the next turn's upkeep.		
+Teremko Griffin	{3}{W}		Creature	Griffin	Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	2
+Thirst	{2}{U}		Enchantment	Aura	Enchant creature|When Thirst enters the battlefield, tap enchanted creature.|Enchanted creature doesn't untap during its controller's untap step.|At the beginning of your upkeep, sacrifice Thirst unless you pay {U}.		
+Tidal Wave	{2}{U}		Instant		Put a 5/5 blue Wall creature token with defender onto the battlefield. Sacrifice it at the beginning of the next end step.		
+Tombstone Stairwell	{2}{B}{B}	World	Enchantment		Cumulative upkeep {1}{B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)|At the beginning of each upkeep, if Tombstone Stairwell is on the battlefield, each player puts a 2/2 black Zombie creature token with haste named Tombspawn onto the battlefield for each creature card in his or her graveyard.|At the beginning of each end step or when Tombstone Stairwell leaves the battlefield, destroy all tokens put onto the battlefield with Tombstone Stairwell. They can't be regenerated.		
+Torrent of Lava	{X}{R}{R}		Sorcery		Torrent of Lava deals X damage to each creature without flying.|As long as Torrent of Lava is on the stack, each creature has '{T}: Prevent the next 1 damage that would be dealt to this creature by Torrent of Lava this turn.'		
+Tranquil Domain	{1}{G}		Instant		Destroy all non-Aura enchantments.		
+Tropical Storm	{X}{G}		Sorcery		Tropical Storm deals X damage to each creature with flying and 1 additional damage to each blue creature.		
+Uktabi Faerie	{1}{G}		Creature	Faerie	Flying|{3}{G}, Sacrifice Uktabi Faerie: Destroy target artifact.	1	1
+Uktabi Wildcats	{4}{G}		Creature	Cat	Uktabi Wildcats's power and toughness are each equal to the number of Forests you control.|{G}, Sacrifice a Forest: Regenerate Uktabi Wildcats.	*	*
+Unerring Sling	{3}		Artifact		{3}, {T}, Tap an untapped creature you control: Unerring Sling deals damage equal to the tapped creature's power to target attacking or blocking creature with flying.		
+Unfulfilled Desires	{1}{U}{B}		Enchantment		{1}, Pay 1 life: Draw a card, then discard a card.		
+Unseen Walker	{1}{G}		Creature	Dryad	Forestwalk||{1}{G}{G}: Target creature gains forestwalk until end of turn.	1	1
+Unyaro Bee Sting	{3}{G}		Sorcery		Unyaro Bee Sting deals 2 damage to target creature or player.		
+Unyaro Griffin	{3}{W}		Creature	Griffin	Flying||Sacrifice Unyaro Griffin: Counter target red instant or sorcery spell.	2	2
+Urborg Panther	{2}{B}		Creature	Nightstalker,Cat	{B}, Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther.|Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library.	2	2
+Vaporous Djinn	{2}{U}{U}		Creature	Djinn	Flying|At the beginning of your upkeep, Vaporous Djinn phases out unless you pay {U}{U}. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)	3	4
+Ventifact Bottle	{3}		Artifact		{X}{1}, {T}: Put X charge counters on Ventifact Bottle. Activate this ability only any time you could cast a sorcery.|At the beginning of your precombat main phase, if Ventifact Bottle has a charge counter on it, tap it and remove all charge counters from it. Add {1} to your mana pool for each charge counter removed this way.		
+Viashino Warrior	{3}{R}		Creature	Viashino,Warrior		4	2
+Vigilant Martyr	{W}		Creature	Human,Cleric	Sacrifice Vigilant Martyr: Regenerate target creature.|{W}{W}, {T}, Sacrifice Vigilant Martyr: Counter target spell that targets an enchantment.	1	1
+Village Elder	{G}		Creature	Human,Druid	{G}, {T}, Sacrifice a Forest: Regenerate target creature.	1	1
+Vitalizing Cascade	{X}{G}{W}		Instant		You gain X plus 3 life.		
+Volcanic Dragon	{4}{R}{R}		Creature	Dragon	Flying|Haste (This creature can attack and {T} as soon as it comes under your control.)	4	4
+Volcanic Geyser	{X}{R}{R}		Instant		Volcanic Geyser deals X damage to target creature or player.		
+Waiting in the Weeds	{1}{G}{G}		Sorcery		Each player puts a 1/1 green Cat creature token onto the battlefield for each untapped Forest he or she controls.		
+Wall of Corpses	{1}{B}		Creature	Wall	Defender (This creature can't attack.)|{B}, Sacrifice Wall of Corpses: Destroy target creature Wall of Corpses is blocking.	0	2
+Wall of Resistance	{1}{W}		Creature	Wall	Defender (This creature can't attack.)|Flying|At the beginning of each end step, if Wall of Resistance was dealt damage this turn, put a +0/+1 counter on it.	0	3
+Wall of Roots	{1}{G}		Creature	Plant,Wall	Defender|Put a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Activate this ability only once each turn.	0	5
+Ward of Lights	{W}{W}		Enchantment	Aura	You may cast Ward of Lights as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.|Enchant creature|As Ward of Lights enters the battlefield, choose a color.|Enchanted creature has protection from the chosen color. This effect doesn't remove Ward of Lights.		
+Warping Wurm	{2}{G}{U}		Creature	Wurm	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)|At the beginning of your upkeep, Warping Wurm phases out unless you pay {2}{G}{U}.|When Warping Wurm phases in, put a +1/+1 counter on it.	1	1
+Wave Elemental	{2}{U}{U}		Creature	Elemental	{U}, {T}, Sacrifice Wave Elemental: Tap up to three target creatures without flying.	2	3
+Wellspring	{1}{G}{W}		Enchantment	Aura	Enchant land|When Wellspring enters the battlefield, gain control of enchanted land until end of turn.|At the beginning of your upkeep, untap enchanted land. You gain control of that land until end of turn.		
+Wild Elephant	{3}{G}		Creature	Elephant	Trample	3	3
+Wildfire Emissary	{3}{R}		Creature	Efreet	Protection from white|{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.	2	4
+Windreaper Falcon	{1}{R}{G}		Creature	Bird	Flying, protection from blue	1	1
+Withering Boon	{1}{B}		Instant		As an additional cost to cast Withering Boon, pay 3 life.|Counter target creature spell.		
+Worldly Tutor	{G}		Instant		Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.		
+Yare	{2}{W}		Instant		Target creature defending player controls gets +3/+0 until end of turn. That creature can block up to two additional creatures this turn.		
+Zebra Unicorn	{2}{G}{W}		Creature	Unicorn	Whenever Zebra Unicorn deals damage, you gain that much life.	2	2
+Zhalfirin Commander	{2}{W}		Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.	2	2
+Zhalfirin Knight	{2}{W}		Creature	Human,Knight	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)|{W}{W}: Zhalfirin Knight gains first strike until end of turn.	2	2
+Zirilan of the Claw	{3}{R}{R}	Legendary	Creature	Viashino,Shaman	{1}{R}{R}, {T}: Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.	3	4
+Zombie Mob	{2}{B}{B}		Creature	Zombie	Zombie Mob enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.|When Zombie Mob enters the battlefield, exile all creature cards from your graveyard.	2	0
+Zuberi, Golden Feather	{4}{W}	Legendary	Creature	Griffin	Flying|Other Griffin creatures get +1/+1.	3	3

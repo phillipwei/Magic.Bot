@@ -1,0 +1,435 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abbey Gargoyles	{2}{W}{W}{W}		Creature	Gargoyle	Flying, protection from red	3	4
+Abyssal Specter	{2}{B}{B}		Creature	Specter	Flying|Whenever Abyssal Specter deals damage to a player, that player discards a card.	2	3
+Adarkar Wastes			Land		{T}: Add {1} to your mana pool.|{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.		
+Æther Storm	{3}{U}		Enchantment		Creature spells can't be cast.|Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.		
+Air Elemental	{3}{U}{U}		Creature	Elemental	Flying	4	4
+Akron Legionnaire	{6}{W}{W}		Creature	Giant,Soldier	Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.	8	4
+Alabaster Potion	{X}{W}{W}		Instant		Choose one - Target player gains X life; or prevent the next X damage that would be dealt to target creature or player this turn.		
+Aladdin's Ring	{8}		Artifact		{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.		
+Ambush Party	{4}{R}		Creature	Human,Rogue	First strike, haste	3	1
+Amulet of Kroog	{2}		Artifact		{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.		
+Angry Mob	{2}{W}{W}		Creature	Human	Trample|As long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.		
+An-Havva Constable	{1}{G}{G}		Creature	Human	An-Havva Constable's toughness is equal to 1 plus the number of green creatures on the battlefield.		
+Animate Dead	{1}{B}		Enchantment	Aura	Enchant creature card in a graveyard|When Animate Dead enters the battlefield, if it's on the battlefield, it loses 'enchant creature card in a graveyard' and gains 'enchant creature put onto the battlefield with Animate Dead.' Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.|Enchanted creature gets -1/-0.		
+Animate Wall	{W}		Enchantment	Aura	Enchant Wall|Enchanted Wall can attack as though it didn't have defender.		
+Ankh of Mishra	{2}		Artifact		Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.		
+Anti-Magic Aura	{2}{U}		Enchantment	Aura	Enchant creature|Enchanted creature can't be the target of spells and can't be enchanted by other Auras.		
+Arenson's Aura	{2}{W}		Enchantment		{W}, Sacrifice an enchantment: Destroy target enchantment.||{3}{U}{U}: Counter target enchantment spell.		
+Armageddon	{3}{W}		Sorcery		Destroy all lands.		
+Armor of Faith	{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1.|{W}: Enchanted creature gets +0/+1 until end of turn.		
+Ashes to Ashes	{1}{B}{B}		Sorcery		Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.		
+Ashnod's Altar	{3}		Artifact		Sacrifice a creature: Add {2} to your mana pool.		
+Ashnod's Transmogrant	{1}		Artifact		{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.		
+Aspect of Wolf	{1}{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.		
+Atog	{1}{R}		Creature	Atog	Sacrifice an artifact: Atog gets +2/+2 until end of turn.	1	2
+Aurochs	{3}{G}		Creature	Aurochs	Trample|Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.	2	3
+Aysen Bureaucrats	{1}{W}		Creature	Human,Advisor	{T}: Tap target creature with power 2 or less.	1	1
+Azure Drake	{3}{U}		Creature	Drake	Flying	2	4
+Bad Moon	{1}{B}		Enchantment		Black creatures get +1/+1.		
+Ball Lightning	{R}{R}{R}		Creature	Elemental	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)|Haste (This creature can attack and {T} as soon as it comes under your control.)|At the beginning of the end step, sacrifice Ball Lightning.	6	1
+Barbed Sextant	{1}		Artifact		{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.		
+Barl's Cage	{4}		Artifact		{3}: Target creature doesn't untap during its controller's next untap step.		
+Battering Ram	{2}		Artifact,Creature	Construct	At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)|Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.	1	1
+Benalish Hero	{W}		Creature	Human,Soldier	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	1	1
+Binding Grasp	{3}{U}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.|You control enchanted creature.|Enchanted creature gets +0/+1.		
+Bird Maiden	{2}{R}		Creature	Human,Bird	Flying	1	2
+Birds of Paradise	{G}		Creature	Bird	Flying|{T}: Add one mana of any color to your mana pool.	0	1
+Black Knight	{B}{B}		Creature	Human,Knight	First strike (This creature deals combat damage before creatures without first strike.)|Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)	2	2
+Blessed Wine	{1}{W}		Instant		You gain 1 life.|Draw a card at the beginning of the next turn's upkeep.		
+Blight	{B}{B}		Enchantment	Aura	Enchant land|When enchanted land becomes tapped, destroy it.		
+Blinking Spirit	{3}{W}		Creature	Spirit	{0}: Return Blinking Spirit to its owner's hand.	2	2
+Blood Lust	{1}{R}		Instant		If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.		
+Bog Imp	{1}{B}		Creature	Imp	Flying (This creature can't be blocked except by creatures with flying or reach.)	1	1
+Bog Rats	{B}		Creature	Rat	Bog Rats can't be blocked by Walls.	1	1
+Bog Wraith	{3}{B}		Creature	Wraith	Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)	3	3
+Boomerang	{U}{U}		Instant		Return target permanent to its owner's hand.		
+Bottle of Suleiman	{4}		Artifact		{1}, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.		
+Bottomless Vault			Land		Bottomless Vault enters the battlefield tapped.|You may choose not to untap Bottomless Vault during your untap step.|At the beginning of your upkeep, if Bottomless Vault is tapped, put a storage counter on it.|{T}, Remove any number of storage counters from Bottomless Vault: Add {B} to your mana pool for each storage counter removed this way.		
+Brainstorm	{U}		Instant		Draw three cards, then put two cards from your hand on top of your library in any order.		
+Brainwash	{W}		Enchantment	Aura	Enchant creature|Enchanted creature can't attack unless its controller pays {3}.		
+Brassclaw Orcs	{2}{R}		Creature	Orc	Brassclaw Orcs can't block creatures with power 2 or greater.	3	2
+Breeding Pit	{3}{B}		Enchantment		At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.|At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.		
+Broken Visage	{4}{B}		Instant		Destroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.		
+Brothers of Fire	{1}{R}{R}		Creature	Human,Shaman	{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.	2	2
+Brushland			Land		{T}: Add {1} to your mana pool.|{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.		
+Carapace	{G}		Enchantment	Aura	Enchant creature|Enchanted creature gets +0/+2.|Sacrifice Carapace: Regenerate enchanted creature.		
+Caribou Range	{2}{W}{W}		Enchantment	Aura	Enchant land you control|Enchanted land has '{W}{W}, {T}: Put a 0/1 white Caribou creature token onto the battlefield.'|Sacrifice a Caribou token: You gain 1 life.		
+Carrion Ants	{2}{B}{B}		Creature	Insect	{1}: Carrion Ants gets +1/+1 until end of turn.	0	1
+Castle	{3}{W}		Enchantment		Untapped creatures you control get +0/+2.		
+Cat Warriors	{1}{G}{G}		Creature	Cat,Warrior	Forestwalk	2	2
+Cave People	{1}{R}{R}		Creature	Human	Whenever Cave People attacks, it gets +1/-2 until end of turn.|{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn.	1	4
+Chub Toad	{2}{G}		Creature	Frog	Whenever Chub Toad blocks or becomes blocked, it gets +2/+2 until end of turn.	1	1
+Circle of Protection: Artifacts	{1}{W}		Enchantment		{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: Black	{1}{W}		Enchantment		{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: Blue	{1}{W}		Enchantment		{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: Green	{1}{W}		Enchantment		{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: Red	{1}{W}		Enchantment		{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.		
+Circle of Protection: White	{1}{W}		Enchantment		{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.		
+City of Brass			Land		Whenever City of Brass becomes tapped, it deals 1 damage to you.|{T}: Add one mana of any color to your mana pool.		
+Clay Statue	{4}		Artifact,Creature	Golem	{2}: Regenerate Clay Statue.	3	1
+Cloak of Confusion	{1}{B}		Enchantment	Aura	Enchant creature you control|Whenever enchanted creature attacks and isn't blocked, you may have it assign no combat damage this turn. If you do, defending player discards a card at random.		
+Clockwork Beast	{6}		Artifact,Creature	Beast	Clockwork Beast enters the battlefield with seven +1/+0 counters on it.|At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.|{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.	0	4
+Clockwork Steed	{4}		Artifact,Creature	Horse	Clockwork Steed enters the battlefield with four +1/+0 counters on it.|Clockwork Steed can't be blocked by artifact creatures.|At end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.|{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.	0	3
+Cockatrice	{3}{G}{G}		Creature	Cockatrice	Flying|Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.	2	4
+Colossus of Sardia	{9}		Artifact,Creature	Golem	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)|Colossus of Sardia doesn't untap during your untap step.|{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.	9	9
+Conquer	{3}{R}{R}		Enchantment	Aura	Enchant land|You control enchanted land.		
+Coral Helm	{3}		Artifact		{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.		
+Counterspell	{U}{U}		Instant		Counter target spell.		
+Craw Giant	{3}{G}{G}{G}{G}		Creature	Giant	Trample|Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)	6	4
+Craw Wurm	{4}{G}{G}		Creature	Wurm		6	4
+Crimson Manticore	{2}{R}{R}		Creature	Manticore	Flying|{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.	2	2
+Crown of the Ages	{2}		Artifact		{4}, {T}: Attach target Aura attached to a creature to another creature.		
+Crumble	{G}		Instant		Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.		
+Crusade	{W}{W}		Enchantment		White creatures get +1/+1.		
+Crystal Rod	{1}		Artifact		Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life.		
+Cursed Land	{2}{B}{B}		Enchantment	Aura	Enchant land|At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.		
+Dance of Many	{U}{U}		Enchantment		When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield.|When Dance of Many leaves the battlefield, exile the token.|When the token leaves the battlefield, sacrifice Dance of Many.|At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.		
+Dancing Scimitar	{4}		Artifact,Creature	Spirit	Flying (This creature can't be blocked except by creatures with flying or reach.)	1	5
+Dandân	{U}{U}		Creature	Fish	Dandân can't attack unless defending player controls an Island.|When you control no Islands, sacrifice Dandân.	4	1
+Dark Maze	{4}{U}		Creature	Wall	Defender (This creature can't attack.)|{0}: Dark Maze can attack this turn as though it didn't have defender. Exile it at the beginning of the next end step.	4	5
+Dark Ritual	{B}		Instant		Add {B}{B}{B} to your mana pool.		
+D'Avenant Archer	{2}{W}		Creature	Human,Soldier,Archer	{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.	1	2
+Death Speakers	{W}		Creature	Human,Cleric	Protection from black	1	1
+Death Ward	{W}		Instant		Regenerate target creature.		
+Deathgrip	{B}{B}		Enchantment		{B}{B}: Counter target green spell.		
+Deflection	{3}{U}		Instant		Change the target of target spell with a single target.		
+Derelor	{3}{B}		Creature	Thrull	Black spells you cast cost {B} more to cast.	4	4
+Desert Twister	{4}{G}{G}		Sorcery		Destroy target permanent.		
+Detonate	{X}{R}		Sorcery		Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.		
+Diabolic Machine	{7}		Artifact,Creature	Construct	{3}: Regenerate Diabolic Machine.	4	4
+Dingus Egg	{4}		Artifact		Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.		
+Disenchant	{1}{W}		Instant		Destroy target artifact or enchantment.		
+Disintegrate	{X}{R}		Sorcery		Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would die this turn, exile it instead.		
+Disrupting Scepter	{3}		Artifact		{3}, {T}: Target player discards a card. Activate this ability only during your turn.		
+Divine Offering	{1}{W}		Instant		Destroy target artifact. You gain life equal to its converted mana cost.		
+Divine Transformation	{2}{W}{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3.		
+Dragon Engine	{3}		Artifact,Creature	Construct	{2}: Dragon Engine gets +1/+0 until end of turn.	1	3
+Drain Life	{X}{1}{B}		Sorcery		Spend only black mana on X.|Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.		
+Drain Power	{U}{U}		Sorcery		Target player activates a mana ability of each land he or she controls. Then put all mana from that player's mana pool into yours.		
+Drudge Skeletons	{1}{B}		Creature	Skeleton	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)	1	1
+Durkwood Boars	{4}{G}		Creature	Boar		4	4
+Dust to Dust	{1}{W}{W}		Sorcery		Exile two target artifacts.		
+Dwarven Catapult	{X}{R}		Instant		Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.		
+Dwarven Hold			Land		Dwarven Hold enters the battlefield tapped.|You may choose not to untap Dwarven Hold during your untap step.|At the beginning of your upkeep, if Dwarven Hold is tapped, put a storage counter on it.|{T}, Remove any number of storage counters from Dwarven Hold: Add {R} to your mana pool for each storage counter removed this way.		
+Dwarven Ruins			Land		Dwarven Ruins enters the battlefield tapped.|{T}: Add {R} to your mana pool.|{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.		
+Dwarven Soldier	{1}{R}		Creature	Dwarf,Soldier	Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.	2	1
+Dwarven Warriors	{2}{R}		Creature	Dwarf,Warrior	{T}: Target creature with power 2 or less can't be blocked this turn.	1	1
+Earthquake	{X}{R}		Sorcery		Earthquake deals X damage to each creature without flying and each player.		
+Ebon Stronghold			Land		Ebon Stronghold enters the battlefield tapped.|{T}: Add {B} to your mana pool.|{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.		
+Elder Druid	{3}{G}		Creature	Elf,Cleric,Druid	{3}{G}, {T}: You may tap or untap target artifact, creature, or land.	2	2
+Elkin Bottle	{3}		Artifact		{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.		
+Elven Riders	{3}{G}{G}		Creature	Elf	Elven Riders can't be blocked except by Walls and/or creatures with flying.	3	3
+Elvish Archers	{1}{G}		Creature	Elf,Archer	First strike	2	1
+Energy Flux	{2}{U}		Enchantment		All artifacts have 'At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.'		
+Enervate	{1}{U}		Instant		Tap target artifact, creature, or land.||Draw a card at the beginning of the next turn's upkeep.		
+Erg Raiders	{1}{B}		Creature	Human,Warrior	At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.	2	3
+Errantry	{1}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+0 and can only attack alone.		
+Eternal Warrior	{R}		Enchantment	Aura	Enchant creature|Enchanted creature has vigilance.		
+Evil Eye of Orms-by-Gore	{4}{B}		Creature	Eye	Non-Eye creatures you control can't attack.|Evil Eye of Orms-by-Gore can't be blocked except by Walls.	3	6
+Evil Presence	{B}		Enchantment	Aura	Enchant land|Enchanted land is a Swamp.		
+Eye for an Eye	{W}{W}		Instant		The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.		
+Fallen Angel	{3}{B}{B}		Creature	Angel	Flying|Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.	3	3
+Fear	{B}{B}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)		
+Feedback	{2}{U}		Enchantment	Aura	Enchant enchantment|At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.		
+Feldon's Cane	{1}		Artifact		{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.		
+Fellwar Stone	{2}		Artifact		{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.		
+Feroz's Ban	{6}		Artifact		Creature spells cost {2} more to cast.		
+Fire Drake	{1}{R}{R}		Creature	Drake	Flying|{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.	1	2
+Fireball	{X}{R}		Sorcery		Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.|Fireball costs {1} more to cast for each target beyond the first.		
+Firebreathing	{R}		Enchantment	Aura	Enchant creature|{R}: Enchanted creature gets +1/+0 until end of turn.		
+Flame Spirit	{4}{R}		Creature	Elemental,Spirit	{R}: Flame Spirit gets +1/+0 until end of turn.	2	3
+Flare	{2}{R}		Instant		Flare deals 1 damage to target creature or player.||Draw a card at the beginning of the next turn's upkeep.		
+Flashfires	{3}{R}		Sorcery		Destroy all Plains.		
+Flight	{U}		Enchantment	Aura	Enchant creature|Enchanted creature has flying.		
+Flood	{U}		Enchantment		{U}{U}: Tap target creature without flying.		
+Flying Carpet	{4}		Artifact		{2}, {T}: Target creature gains flying until end of turn.		
+Fog	{G}		Instant		Prevent all combat damage that would be dealt this turn.		
+Force of Nature	{2}{G}{G}{G}{G}		Creature	Elemental	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)|At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.	8	8
+Force Spike	{U}		Instant		Counter target spell unless its controller pays {1}.		
+Forest		Basic	Land	Forest	G		
+Forget	{U}{U}		Sorcery		Target player discards two cards, then draws as many cards as he or she discarded this way.		
+Fountain of Youth	{0}		Artifact		{2}, {T}: You gain 1 life.		
+Foxfire	{2}{G}		Instant		Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.|Draw a card at the beginning of the next turn's upkeep.		
+Frozen Shade	{2}{B}		Creature	Shade	{B}: Frozen Shade gets +1/+1 until end of turn.	0	1
+Funeral March	{1}{B}{B}		Enchantment	Aura	Enchant creature|When enchanted creature leaves the battlefield, its controller sacrifices a creature.		
+Fungusaur	{3}{G}		Creature	Fungus,Lizard	Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.	2	2
+Fyndhorn Elder	{2}{G}		Creature	Elf,Druid	{T}: Add {G}{G} to your mana pool.	1	1
+Game of Chaos	{R}{R}{R}		Sorcery		Flip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.		
+Gaseous Form	{2}{U}		Enchantment	Aura	Enchant creature|Prevent all combat damage that would be dealt to and dealt by enchanted creature.		
+Gauntlets of Chaos	{5}		Artifact		{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.		
+Ghazbán Ogre	{G}		Creature	Ogre	At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.	2	2
+Giant Growth	{G}		Instant		Target creature gets +3/+3 until end of turn.		
+Giant Spider	{3}{G}		Creature	Spider	Reach (This creature can block creatures with flying.)	2	4
+Giant Strength	{R}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2.		
+Glacial Wall	{2}{U}		Creature	Wall	Defender (This creature can't attack.)	0	7
+Glasses of Urza	{1}		Artifact		{T}: Look at target player's hand.		
+Gloom	{2}{B}		Enchantment		White spells cost {3} more to cast.|Activated abilities of white enchantments cost {3} more to activate.		
+Goblin Digging Team	{R}		Creature	Goblin	{T}, Sacrifice Goblin Digging Team: Destroy target Wall.	1	1
+Goblin Hero	{2}{R}		Creature	Goblin		2	2
+Goblin King	{1}{R}{R}		Creature	Goblin	Other Goblin creatures get +1/+1 and have mountainwalk. (They can't be blocked as long as defending player controls a Mountain.)	2	2
+Goblin War Drums	{2}{R}		Enchantment		Each creature you control can't be blocked except by two or more creatures.		
+Goblin Warrens	{2}{R}		Enchantment		{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.		
+Grapeshot Catapult	{4}		Artifact,Creature	Construct	{T}: Grapeshot Catapult deals 1 damage to target creature with flying.	2	3
+Greater Realm of Preservation	{1}{W}		Enchantment		{1}{W}: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.		
+Greater Werewolf	{4}{B}		Creature	Werewolf	At end of combat, put a -0/-2 counter on each creature blocking or blocked by Greater Werewolf.	2	4
+Grizzly Bears	{1}{G}		Creature	Bear		2	2
+Havenwood Battleground			Land		Havenwood Battleground enters the battlefield tapped.|{T}: Add {G} to your mana pool.|{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.		
+Heal	{W}		Instant		Prevent the next 1 damage that would be dealt to target creature or player this turn.||Draw a card at the beginning of the next turn's upkeep.		
+Healing Salve	{W}		Instant		Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.		
+Hecatomb	{1}{B}{B}		Enchantment		When Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.|Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.		
+Helm of Chatzuk	{1}		Artifact		{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)		
+Hill Giant	{3}{R}		Creature	Giant		3	3
+Hipparion	{1}{W}		Creature	Horse	Hipparion can't block creatures with power 3 or greater unless you pay {1}.	1	3
+Hollow Trees			Land		Hollow Trees enters the battlefield tapped.|You may choose not to untap Hollow Trees during your untap step.|At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it.|{T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.		
+Holy Strength	{W}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+2.		
+Homarid Warrior	{4}{U}		Creature	Homarid,Warrior	{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. (A permanent with shroud can't be the target of spells or abilities.)	3	3
+Howl from Beyond	{X}{B}		Instant		Target creature gets +X/+0 until end of turn.		
+Howling Mine	{2}		Artifact		At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.		
+Hungry Mist	{2}{G}{G}		Creature	Elemental	At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.	6	2
+Hurkyl's Recall	{1}{U}		Instant		Return all artifacts target player owns to his or her hand.		
+Hurloon Minotaur	{1}{R}{R}		Creature	Minotaur		2	3
+Hurricane	{X}{G}		Sorcery		Hurricane deals X damage to each creature with flying and each player.		
+Hydroblast	{U}		Instant		Choose one - Counter target spell if it's red; or destroy target permanent if it's red.		
+Icatian Phalanx	{4}{W}		Creature	Human,Soldier	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	4
+Icatian Scout	{W}		Creature	Human,Soldier,Scout	{1}, {T}: Target creature gains first strike until end of turn.	1	1
+Icatian Store			Land		Icatian Store enters the battlefield tapped.|You may choose not to untap Icatian Store during your untap step.|At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.|{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.		
+Icatian Town	{5}{W}		Sorcery		Put four 1/1 white Citizen creature tokens onto the battlefield.		
+Ice Floe			Land		You may choose not to untap Ice Floe during your untap step.|{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.		
+Imposing Visage	{R}		Enchantment	Aura	Enchant creature|Enchanted creature can't be blocked except by two or more creatures.		
+Incinerate	{1}{R}		Instant		Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.		
+Inferno	{5}{R}{R}		Instant		Inferno deals 6 damage to each creature and each player.		
+Infinite Hourglass	{4}		Artifact		At the beginning of your upkeep, put a time counter on Infinite Hourglass.|All creatures get +1/+0 for each time counter on Infinite Hourglass.|{3}: Remove a time counter from Infinite Hourglass. Any player may activate this ability but only during any upkeep step.		
+Initiates of the Ebon Hand	{B}		Creature	Cleric	{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.	1	1
+Instill Energy	{G}		Enchantment	Aura	Enchant creature|Enchanted creature can attack as though it had haste.|{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.		
+Iron Star	{1}		Artifact		Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.		
+Ironclaw Curse	{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets -0/-1.|Enchanted creature can't block creatures with power equal to or greater than the enchanted creature's toughness.		
+Ironclaw Orcs	{1}{R}		Creature	Orc	Ironclaw Orcs can't block creatures with power 2 or greater.	2	2
+Ironroot Treefolk	{4}{G}		Creature	Treefolk		3	5
+Island		Basic	Land	Island	U		
+Island Sanctuary	{1}{W}		Enchantment		If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.		
+Ivory Cup	{1}		Artifact		Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.		
+Ivory Guardians	{4}{W}{W}		Creature	Giant,Cleric	Protection from red|Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.	3	3
+Jade Monolith	{4}		Artifact		{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.		
+Jalum Tome	{3}		Artifact		{2}, {T}: Draw a card, then discard a card.		
+Jandor's Saddlebags	{2}		Artifact		{3}, {T}: Untap target creature.		
+Jayemdae Tome	{4}		Artifact		{4}, {T}: Draw a card.		
+Jester's Cap	{4}		Artifact		{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.		
+Johtull Wurm	{5}{G}		Creature	Wurm	Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.	6	6
+Jokulhaups	{4}{R}{R}		Sorcery		Destroy all artifacts, creatures, and lands. They can't be regenerated.		
+Joven's Tools	{6}		Artifact		{4}, {T}: Target creature can't be blocked this turn except by Walls.		
+Justice	{2}{W}{W}		Enchantment		At the beginning of your upkeep, sacrifice Justice unless you pay {W}{W}.||Whenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller.		
+Juxtapose	{3}{U}		Sorcery		You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.		
+Karma	{2}{W}{W}		Enchantment		At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.		
+Karplusan Forest			Land		{T}: Add {1} to your mana pool.|{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.		
+Keldon Warlord	{2}{R}{R}		Creature	Human,Barbarian	Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.	*	*
+Killer Bees	{1}{G}{G}		Creature	Insect	Flying|{G}: Killer Bees gets +1/+1 until end of turn.	0	1
+Kismet	{3}{W}		Enchantment		Artifacts, creatures, and lands played by your opponents enter the battlefield tapped.		
+Kjeldoran Dead	{B}		Creature	Skeleton	When Kjeldoran Dead enters the battlefield, sacrifice a creature.|{B}: Regenerate Kjeldoran Dead.	3	1
+Kjeldoran Royal Guard	{3}{W}{W}		Creature	Human,Soldier	{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.	2	5
+Kjeldoran Skycaptain	{4}{W}		Creature	Human,Soldier	Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	2	2
+Knight of Stromgald	{B}{B}		Creature	Human,Knight	Protection from white|{B}: Knight of Stromgald gains first strike until end of turn.|{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.	2	1
+Krovikan Fetish	{2}{B}		Enchantment	Aura	Enchant creature|When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.|Enchanted creature gets +1/+1.		
+Krovikan Sorcerer	{2}{U}		Creature	Human,Wizard	{T}, Discard a nonblack card: Draw a card.|{T}, Discard a black card: Draw two cards, then discard one of them.	1	1
+Labyrinth Minotaur	{3}{U}		Creature	Minotaur	Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.	1	4
+Leshrac's Rite	{B}		Enchantment	Aura	Enchant creature|Enchanted creature has swampwalk.		
+Leviathan	{5}{U}{U}{U}{U}		Creature	Leviathan	Trample|Leviathan enters the battlefield tapped and doesn't untap during your untap step.|At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.|Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)	10	10
+Ley Druid	{2}{G}		Creature	Human,Druid	{T}: Untap target land.	1	1
+Lhurgoyf	{2}{G}{G}		Creature	Lhurgoyf	Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.		
+Library of Leng	{1}		Artifact		You have no maximum hand size.|If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.		
+Lifeforce	{G}{G}		Enchantment		{G}{G}: Counter target black spell.		
+Lifetap	{U}{U}		Enchantment		Whenever a Forest an opponent controls becomes tapped, you gain 1 life.		
+Living Artifact	{G}		Enchantment	Aura	Enchant artifact|Whenever you're dealt damage, put that many vitality counters on Living Artifact.|At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.		
+Living Lands	{3}{G}		Enchantment		All Forests are 1/1 creatures that are still lands.		
+Llanowar Elves	{G}		Creature	Elf,Druid	{T}: Add {G} to your mana pool.	1	1
+Lord of Atlantis	{U}{U}		Creature	Merfolk	Other Merfolk creatures get +1/+1 and have islandwalk.	2	2
+Lord of the Pit	{4}{B}{B}{B}		Creature	Demon	Flying, trample|At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.	7	7
+Lost Soul	{1}{B}{B}		Creature	Spirit,Minion	Swampwalk	2	1
+Lure	{1}{G}{G}		Enchantment	Aura	Enchant creature|All creatures able to block enchanted creature do so.		
+Magical Hack	{U}		Instant		Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change 'swampwalk' to 'plainswalk.' This effect lasts indefinitely.)		
+Magus of the Unseen	{1}{U}		Creature	Human,Wizard	{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.	1	1
+Mana Clash	{R}		Sorcery		You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.		
+Mana Flare	{2}{R}		Enchantment		Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.		
+Mana Vault	{1}		Artifact		Mana Vault doesn't untap during your untap step.|At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.|At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.|{T}: Add {3} to your mana pool.		
+Manabarbs	{3}{R}		Enchantment		Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.		
+Marsh Viper	{3}{G}		Creature	Snake	Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)	1	2
+Meekstone	{1}		Artifact		Creatures with power 3 or greater don't untap during their controllers' untap steps.		
+Memory Lapse	{1}{U}		Instant		Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.		
+Merfolk of the Pearl Trident	{U}		Creature	Merfolk		1	1
+Mesa Falcon	{1}{W}		Creature	Bird	Flying|{1}{W}: Mesa Falcon gets +0/+1 until end of turn.	1	1
+Mesa Pegasus	{1}{W}		Creature	Pegasus	Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	1	1
+Millstone	{2}		Artifact		{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.		
+Mind Bomb	{U}		Sorcery		Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards he or she discarded this way.		
+Mind Ravel	{2}{B}		Sorcery		Target player discards a card.|Draw a card at the beginning of the next turn's upkeep.		
+Mind Warp	{X}{3}{B}		Sorcery		Look at target player's hand and choose X cards from it. That player discards those cards.		
+Mindstab Thrull	{1}{B}{B}		Creature	Thrull	Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.	2	2
+Mole Worms	{2}{B}		Creature	Worm	You may choose not to untap Mole Worms during your untap step.|{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mole Worms remains tapped.	1	1
+Mons's Goblin Raiders	{R}		Creature	Goblin		1	1
+Mountain		Basic	Land	Mountain	R		
+Mountain Goat	{R}		Creature	Goat	Mountainwalk	1	1
+Murk Dwellers	{3}{B}		Creature	Zombie	Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.	2	2
+Nature's Lore	{1}{G}		Sorcery		Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.		
+Necrite	{1}{B}{B}		Creature	Thrull	Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.	2	2
+Necropotence	{B}{B}{B}		Enchantment		Skip your draw step.|Whenever you discard a card, exile that card from your graveyard.|Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.		
+Nether Shadow	{B}{B}		Creature	Spirit	Haste|At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.	1	1
+Nevinyrral's Disk	{4}		Artifact		Nevinyrral's Disk enters the battlefield tapped.|{1}, {T}: Destroy all artifacts, creatures, and enchantments.		
+Nightmare	{5}{B}		Creature	Nightmare,Horse	Flying|Nightmare's power and toughness are each equal to the number of Swamps you control.	*	*
+Obelisk of Undoing	{1}		Artifact		{6}, {T}: Return target permanent you both own and control to your hand.		
+Orcish Artillery	{1}{R}{R}		Creature	Orc,Warrior	{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.	1	3
+Orcish Captain	{R}		Creature	Orc,Warrior	{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.	1	1
+Orcish Conscripts	{R}		Creature	Orc	Orcish Conscripts can't attack unless at least two other creatures attack.||Orcish Conscripts can't block unless at least two other creatures block.	2	2
+Orcish Farmer	{1}{R}{R}		Creature	Orc	{T}: Target land becomes a Swamp until its controller's next untap step.	2	2
+Orcish Oriflamme	{3}{R}		Enchantment		Attacking creatures you control get +1/+0.		
+Orcish Squatters	{4}{R}		Creature	Orc	Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.	2	3
+Order of the Sacred Torch	{1}{W}{W}		Creature	Human,Knight	{T}, Pay 1 life: Counter target black spell.	2	2
+Order of the White Shield	{W}{W}		Creature	Human,Knight	Protection from black|{W}: Order of the White Shield gains first strike until end of turn.|{W}{W}: Order of the White Shield gets +1/+0 until end of turn.	2	1
+Orgg	{3}{R}{R}		Creature	Orgg	Trample|Orgg can't attack if defending player controls an untapped creature with power 3 or greater.|Orgg can't block creatures with power 3 or greater.	6	6
+Ornithopter	{0}		Artifact,Creature	Thopter	Flying	0	2
+Panic	{R}		Instant		Cast Panic only during combat before blockers are declared.|Target creature can't block this turn.|Draw a card at the beginning of the next turn's upkeep.		
+Paralyze	{B}		Enchantment	Aura	Enchant creature|When Paralyze enters the battlefield, tap enchanted creature.|Enchanted creature doesn't untap during its controller's untap step.|At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.		
+Pearled Unicorn	{2}{W}		Creature	Unicorn		2	2
+Pentagram of the Ages	{4}		Artifact		{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.		
+Personal Incarnation	{3}{W}{W}{W}		Creature	Avatar,Incarnation	{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.|When Personal Incarnation dies, its owner loses half his or her life, rounded up.	6	6
+Pestilence	{2}{B}{B}		Enchantment		At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.|{B}: Pestilence deals 1 damage to each creature and each player.		
+Phantasmal Forces	{3}{U}		Creature	Illusion	Flying|At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.	4	1
+Phantasmal Terrain	{U}{U}		Enchantment	Aura	Enchant land|As Phantasmal Terrain enters the battlefield, choose a basic land type.|Enchanted land is the chosen type.		
+Phantom Monster	{3}{U}		Creature	Illusion	Flying	3	3
+Pikemen	{1}{W}		Creature	Human,Soldier	First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	1	1
+Pirate Ship	{4}{U}		Creature	Human,Pirate	Pirate Ship can't attack unless defending player controls an Island.|{T}: Pirate Ship deals 1 damage to target creature or player.|When you control no Islands, sacrifice Pirate Ship.	4	3
+Pit Scorpion	{2}{B}		Creature	Scorpion	Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)	1	1
+Plague Rats	{2}{B}		Creature	Rat	Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.	*	*
+Plains		Basic	Land	Plains	W		
+Portent	{U}		Sorcery		Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.|Draw a card at the beginning of the next turn's upkeep.		
+Power Sink	{X}{U}		Instant		Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.		
+Pox	{B}{B}{B}		Sorcery		Each player loses a third of his or her life, then discards a third of the cards in his or her hand, then sacrifices a third of the creatures he or she controls, then sacrifices a third of the lands he or she controls. Round up each time.		
+Pradesh Gypsies	{2}{G}		Creature	Human,Nomad	{1}{G}, {T}: Target creature gets -2/-0 until end of turn.	1	1
+Primal Clay	{4}		Artifact,Creature	Shapeshifter	As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can't attack.)	*	*
+Primal Order	{2}{G}{G}		Enchantment		At the beginning of each player's upkeep, Primal Order deals damage to that player equal to the number of nonbasic lands he or she controls.		
+Primordial Ooze	{R}		Creature	Ooze	Primordial Ooze attacks each turn if able.|At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.	1	1
+Prismatic Ward	{1}{W}		Enchantment	Aura	Enchant creature|As Prismatic Ward enters the battlefield, choose a color.|Prevent all damage that would be dealt to enchanted creature by sources of the chosen color.		
+Prodigal Sorcerer	{2}{U}		Creature	Human,Wizard	{T}: Prodigal Sorcerer deals 1 damage to target creature or player.	1	1
+Psychic Venom	{1}{U}		Enchantment	Aura	Enchant land|Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.		
+Pyroblast	{R}		Instant		Choose one - Counter target spell if it's blue; or destroy target permanent if it's blue.		
+Pyrotechnics	{4}{R}		Sorcery		Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.		
+Rabid Wombat	{2}{G}{G}		Creature	Wombat	Vigilance|Rabid Wombat gets +2/+2 for each Aura attached to it.	0	1
+Radjan Spirit	{3}{G}		Creature	Spirit	{T}: Target creature loses flying until end of turn.	3	2
+Rag Man	{2}{B}{B}		Creature	Human,Minion	{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Activate this ability only during your turn.	2	1
+Raise Dead	{B}		Sorcery		Return target creature card from your graveyard to your hand.		
+Ray of Command	{3}{U}		Instant		Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.		
+Recall	{X}{X}{U}		Sorcery		Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.		
+Reef Pirates	{1}{U}{U}		Creature	Zombie,Pirate	Whenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.	2	2
+Regeneration	{1}{G}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)		
+Remove Soul	{1}{U}		Instant		Counter target creature spell.		
+Repentant Blacksmith	{1}{W}		Creature	Human	Protection from red	1	2
+Reverse Damage	{1}{W}{W}		Instant		The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.		
+Righteousness	{W}		Instant		Target blocking creature gets +7/+7 until end of turn.		
+Rod of Ruin	{4}		Artifact		{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.		
+Ruins of Trokair			Land		Ruins of Trokair enters the battlefield tapped.|{T}: Add {W} to your mana pool.|{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.		
+Sabretooth Tiger	{2}{R}		Creature	Cat	First strike	2	1
+Sacred Boon	{1}{W}		Instant		Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.		
+Samite Healer	{1}{W}		Creature	Human,Cleric	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.	1	1
+Sand Silos			Land		Sand Silos enters the battlefield tapped.|You may choose not to untap Sand Silos during your untap step.|At the beginning of your upkeep, if Sand Silos is tapped, put a storage counter on it.|{T}, Remove any number of storage counters from Sand Silos: Add {U} to your mana pool for each storage counter removed this way.		
+Scaled Wurm	{7}{G}		Creature	Wurm		7	6
+Scathe Zombies	{2}{B}		Creature	Zombie		2	2
+Scavenger Folk	{G}		Creature	Human	{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.	1	1
+Scryb Sprites	{G}		Creature	Faerie	Flying	1	1
+Sea Serpent	{5}{U}		Creature	Serpent	Sea Serpent can't attack unless defending player controls an Island.||When you control no Islands, sacrifice Sea Serpent.	5	5
+Sea Spirit	{4}{U}		Creature	Elemental,Spirit	{U}: Sea Spirit gets +1/+0 until end of turn.	2	3
+Sea Sprite	{1}{U}		Creature	Faerie	Flying, protection from red	1	1
+Seasinger	{1}{U}{U}		Creature	Merfolk	When you control no Islands, sacrifice Seasinger.|You may choose not to untap Seasinger during your untap step.|{T}: Gain control of target creature whose controller controls an Island for as long as you control Seasinger and Seasinger remains tapped.	0	1
+Segovian Leviathan	{4}{U}		Creature	Leviathan	Islandwalk	3	3
+Sengir Autocrat	{3}{B}		Creature	Human	When Sengir Autocrat enters the battlefield, put three 0/1 black Serf creature tokens onto the battlefield.|When Sengir Autocrat leaves the battlefield, exile all Serf tokens.	2	2
+Seraph	{6}{W}		Creature	Angel	Flying|Whenever a creature dealt damage by Seraph this turn dies, put that card onto the battlefield under your control at the beginning of the next end step. Sacrifice the creature when you lose control of Seraph.	4	4
+Serpent Generator	{6}		Artifact		{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. It has 'Whenever this creature deals damage to a player, that player gets a poison counter.' (A player with ten or more poison counters loses the game.)		
+Serra Bestiary	{W}{W}		Enchantment	Aura	Enchant creature|At the beginning of your upkeep, sacrifice Serra Bestiary unless you pay {W}{W}.|Enchanted creature can't attack or block, and its activated abilities with {T} in their costs can't be activated.		
+Serra Paladin	{2}{W}{W}		Creature	Human,Knight	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.|{1}{W}{W}, {T}: Target creature gains vigilance until end of turn.	2	2
+Shanodin Dryads	{G}		Creature	Nymph,Dryad	Forestwalk	1	1
+Shapeshifter	{6}		Artifact,Creature	Shapeshifter	As Shapeshifter enters the battlefield, choose a number between 0 and 7.|At the beginning of your upkeep, you may choose a number between 0 and 7.|Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.		
+Shatter	{1}{R}		Instant		Destroy target artifact.		
+Shatterstorm	{2}{R}{R}		Sorcery		Destroy all artifacts. They can't be regenerated.		
+Shield Bearer	{1}{W}		Creature	Human,Soldier	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	0	3
+Shield Wall	{1}{W}		Instant		Creatures you control get +0/+2 until end of turn.		
+Shivan Dragon	{4}{R}{R}		Creature	Dragon	Flying|{R}: Shivan Dragon gets +1/+0 until end of turn.	5	5
+Shrink	{G}		Instant		Target creature gets -5/-0 until end of turn.		
+Sibilant Spirit	{5}{U}		Creature	Spirit	Flying|Whenever Sibilant Spirit attacks, defending player may draw a card.	5	6
+Skull Catapult	{4}		Artifact		{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.		
+Sleight of Mind	{U}		Instant		Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change 'target black spell' to 'target blue spell.' This effect lasts indefinitely.)		
+Smoke	{R}{R}		Enchantment		Players can't untap more than one creature during their untap steps.		
+Sorceress Queen	{1}{B}{B}		Creature	Human,Wizard	{T}: Target creature other than Sorceress Queen becomes 0/2 until end of turn.	1	1
+Soul Barrier	{2}{U}		Enchantment		Whenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless he or she pays {2}.		
+Soul Net	{1}		Artifact		Whenever a creature dies, you may pay {1}. If you do, you gain 1 life.		
+Spell Blast	{X}{U}		Instant		Counter target spell with converted mana cost X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)		
+Spirit Link	{W}		Enchantment	Aura	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)|Whenever enchanted creature deals damage, you gain that much life.		
+Stampede	{1}{G}{G}		Instant		Attacking creatures get +1/+0 and gain trample until end of turn.		
+Stasis	{1}{U}		Enchantment		Players skip their untap steps.||At the beginning of your upkeep, sacrifice Stasis unless you pay {U}.		
+Steal Artifact	{2}{U}{U}		Enchantment	Aura	Enchant artifact|You control enchanted artifact.		
+Stone Giant	{2}{R}{R}		Creature	Giant	{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.	3	4
+Stone Rain	{2}{R}		Sorcery		Destroy target land.		
+Stone Spirit	{4}{R}		Creature	Elemental,Spirit	Stone Spirit can't be blocked by creatures with flying.	4	3
+Stream of Life	{X}{G}		Sorcery		Target player gains X life.		
+Stromgald Cabal	{1}{B}{B}		Creature	Human,Knight	{T}, Pay 1 life: Counter target white spell.	2	2
+Sulfurous Springs			Land		{T}: Add {1} to your mana pool.|{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.		
+Svyelunite Temple			Land		Svyelunite Temple enters the battlefield tapped.|{T}: Add {U} to your mana pool.|{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.		
+Swamp		Basic	Land	Swamp	B		
+Sylvan Library	{1}{G}		Enchantment		At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.		
+Tarpan	{G}		Creature	Horse	When Tarpan dies, you gain 1 life.	1	1
+Tawnos's Weaponry	{2}		Artifact		You may choose not to untap Tawnos's Weaponry during your untap step.|{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.		
+Terror	{1}{B}		Instant		Destroy target nonartifact, nonblack creature. It can't be regenerated.		
+The Brute	{1}{R}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+0.|{R}{R}{R}: Regenerate enchanted creature.		
+The Hive	{5}		Artifact		{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.)		
+The Wretched	{3}{B}{B}		Creature	Demon	At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.	2	5
+Thicket Basilisk	{3}{G}{G}		Creature	Basilisk	Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.	2	4
+Throne of Bone	{1}		Artifact		Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life.		
+Thrull Retainer	{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets +1/+1.|Sacrifice Thrull Retainer: Regenerate enchanted creature.		
+Time Bomb	{4}		Artifact		At the beginning of your upkeep, put a time counter on Time Bomb.|{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.		
+Time Elemental	{2}{U}		Creature	Elemental	When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you.|{2}{U}{U}, {T}: Return target permanent that isn't enchanted to its owner's hand.	0	2
+Titania's Song	{3}{G}		Enchantment		Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.		
+Torture	{B}		Enchantment	Aura	Enchant creature|{1}{B}: Put a -1/-1 counter on enchanted creature.		
+Touch of Death	{2}{B}		Sorcery		Touch of Death deals 1 damage to target player. You gain 1 life.||Draw a card at the beginning of the next turn's upkeep.		
+Tranquility	{2}{G}		Sorcery		Destroy all enchantments.		
+Truce	{2}{W}		Instant		Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.		
+Tsunami	{3}{G}		Sorcery		Destroy all Islands.		
+Tundra Wolves	{W}		Creature	Wolf	First strike (This creature deals combat damage before creatures without first strike.)	1	1
+Twiddle	{U}		Instant		You may tap or untap target artifact, creature, or land.		
+Underground River			Land		{T}: Add {1} to your mana pool.|{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.		
+Unholy Strength	{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+1.		
+Unstable Mutation	{U}		Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3.|At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.		
+Unsummon	{U}		Instant		Return target creature to its owner's hand.		
+Untamed Wilds	{2}{G}		Sorcery		Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.		
+Updraft	{1}{U}		Instant		Target creature gains flying until end of turn.||Draw a card at the beginning of the next turn's upkeep.		
+Urza's Avenger	{6}		Artifact,Creature	Shapeshifter	{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)	4	4
+Urza's Bauble	{0}		Artifact		{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.		
+Urza's Mine			Land	Urza’s,Mine	{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.		
+Urza's Power Plant			Land	Urza’s,Power-Plant	{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.		
+Urza's Tower			Land	Urza’s,Tower	{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.		
+Vampire Bats	{B}		Creature	Bat	Flying (This creature can't be blocked except by creatures with flying or reach.)|{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.	0	1
+Venom	{1}{G}{G}		Enchantment	Aura	Enchant creature|Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat.		
+Verduran Enchantress	{1}{G}{G}		Creature	Human,Druid	Whenever you cast an enchantment spell, you may draw a card.	0	2
+Vodalian Soldiers	{1}{U}		Creature	Merfolk,Soldier		1	2
+Wall of Air	{1}{U}{U}		Creature	Wall	Defender, flying (This creature can't attack, and it can block creatures with flying.)	1	5
+Wall of Bone	{2}{B}		Creature	Skeleton,Wall	Defender (This creature can't attack.)|{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)	1	4
+Wall of Brambles	{2}{G}		Creature	Plant,Wall	Defender (This creature can't attack.)|{G}: Regenerate Wall of Brambles.	2	3
+Wall of Fire	{1}{R}{R}		Creature	Wall	Defender (This creature can't attack.)|{R}: Wall of Fire gets +1/+0 until end of turn.	0	5
+Wall of Spears	{3}		Artifact,Creature	Wall	Defender (This creature can't attack.)|First strike	2	3
+Wall of Stone	{1}{R}{R}		Creature	Wall	Defender (This creature can't attack.)	0	8
+Wall of Swords	{3}{W}		Creature	Wall	Defender (This creature can't attack.)|Flying	3	5
+Wanderlust	{2}{G}		Enchantment	Aura	Enchant creature|At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.		
+War Mammoth	{3}{G}		Creature	Elephant	Trample	3	3
+Warp Artifact	{B}{B}		Enchantment	Aura	Enchant artifact|At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.		
+Weakness	{B}		Enchantment	Aura	Enchant creature|Enchanted creature gets -2/-1.		
+Whirling Dervish	{G}{G}		Creature	Human,Monk	Protection from black|At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.	1	1
+White Knight	{W}{W}		Creature	Human,Knight	First strike (This creature deals combat damage before creatures without first strike.)|Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)	2	2
+Wild Growth	{G}		Enchantment	Aura	Enchant land|Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).		
+Wind Spirit	{4}{U}		Creature	Elemental,Spirit	Flying|Wind Spirit can't be blocked except by two or more creatures.	3	2
+Winds of Change	{R}		Sorcery		Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.		
+Winter Blast	{X}{G}		Sorcery		Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.		
+Winter Orb	{2}		Artifact		Players can't untap more than one land during their untap steps.		
+Wolverine Pack	{2}{G}{G}		Creature	Wolverine	Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)	2	4
+Wooden Sphere	{1}		Artifact		Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.		
+Word of Blasting	{1}{R}		Instant		Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.		
+Wrath of God	{2}{W}{W}		Sorcery		Destroy all creatures. They can't be regenerated.		
+Wyluli Wolf	{1}{G}		Creature	Wolf	{T}: Target creature gets +1/+1 until end of turn.	1	1
+Xenic Poltergeist	{1}{B}{B}		Creature	Spirit	{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.	1	1
+Zephyr Falcon	{1}{U}		Creature	Bird	Flying, vigilance	1	1
+Zombie Master	{1}{B}{B}		Creature	Zombie	Other Zombie creatures have swampwalk.|Other Zombies have '{B}: Regenerate this permanent.'	2	3
+Zur's Weirding	{3}{U}		Enchantment		Players play with their hands revealed.|If a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.		
