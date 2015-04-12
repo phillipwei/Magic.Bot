@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Magic.Core.Test
 {
-    [TestFixture]
+    [TestClass]
     public class ReversibleShuffleTest
     {
-        [Test]
+        [TestMethod]
         public void SmallListTest()
         {
             var list = Enumerable.Range(1, 10).ToList();
@@ -23,7 +23,7 @@ namespace Magic.Core.Test
             Assert.IsTrue(Enumerable.SequenceEqual(original, list));
         }
 
-        [Test]
+        [TestMethod]
         public void BigListTest()
         {
             var list = Enumerable.Range(1, 1000).ToList();

@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Magic.Core;
-using NUnit.Framework;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
 
 namespace Magic.Core.Test
 {
-    [TestFixture]
+    [TestClass]
     public class DeckTest
     {
-        [Test]
-        public static void LoadAndDisplayDecksTest()
+        [TestMethod]
+        public void LoadAndDisplayDecksTest()
         {
             string deckPath = @"Data\Decks";
             foreach (string path in Directory.EnumerateFiles(deckPath, "*.txt"))

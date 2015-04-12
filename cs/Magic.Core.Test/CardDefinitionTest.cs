@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Magic.Core;
-using NUnit.Framework;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Diagnostics;
 
 namespace Magic.Core.Test
 {
-    [TestFixture]
+    [TestClass]
     public class CardDefinitionTest
     {
         public class TimeTracker : IDisposable
@@ -35,21 +35,21 @@ namespace Magic.Core.Test
             }
         }
 
-        [Test]
-        public static void TimeLoadTest()
+        [TestMethod]
+        public void TimeLoadTest()
         {
             var maxLoadTime = TimeSpan.FromSeconds(1);
             using (new TimeTracker(t => {
                 Console.WriteLine("CardDefinition.Load() took {0} to complete.", t);
-                Assert.Less(t, maxLoadTime);
+                Assert.IsTrue(t < maxLoadTime);
             }))
             {
                 CardDefinition.Load();
             }
         }
 
-        [Test]
-        public static void DisplayAllTest()
+        [TestMethod]
+        public void DisplayAllTest()
         {
             CardDefinition.Load();
             var sb = new StringBuilder();

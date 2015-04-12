@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Magic.Core.Test
 {
-    [TestFixture]
+    [TestClass]
     public class IOTest
     {
         public class TestObjectA
@@ -15,8 +15,8 @@ namespace Magic.Core.Test
             public int Number { get; set; }
         }
 
-        [Test]
-        public static void LoadFromFileBasicCsv()
+        [TestMethod]
+        public void LoadFromFileBasicCsv()
         {
             var list = IO.LoadFromFile<TestObjectA>(@"Data\LoadFromFileA.csv", ',', ';', "---");
             Assert.AreEqual(2, list.Count);
@@ -39,8 +39,8 @@ namespace Magic.Core.Test
             public TestEnumA Fruit { get; set; }
         }
 
-        [Test]
-        public static void LoadFromFileEnums()
+        [TestMethod]
+        public void LoadFromFileEnums()
         {
             var list = IO.LoadFromFile<TestObjectB>(@"Data\LoadFromFileB.csv", ',', ';', "---");
         }

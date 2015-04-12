@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Magic.Core;
-using NUnit.Framework;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Magic.Core.Test
 {
-    [TestFixture]
+    [TestClass]
     public class EngineTest
     {
         public class RandomAgent : Agent
@@ -39,8 +39,8 @@ namespace Magic.Core.Test
             { }
         }
 
-        [Test]
-        public static void RandomPlayerEngineTest()
+        [TestMethod]
+        public void RandomPlayerEngineTest()
         {
             int simulations = 1;
             for (var i = 0; i < simulations; i++)
@@ -55,6 +55,7 @@ namespace Magic.Core.Test
 
                 while (true)
                 {
+                    throw new NotImplementedException();
                     engine.Tick();
                     Console.ReadKey();
                 }

@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,19 +6,19 @@ using System.Text;
 
 namespace Magic.Core.Test
 {
-    [TestFixture]
+    [TestClass]
     public class ManaCostTest
     {
-        [Test]
-        public static void OneVariableTest()
+        [TestMethod]
+        public void OneVariableTest()
         {
             var mc = ManaCost.Parse("{X}");
             Assert.AreEqual(1, mc.Fragments.Count);
             Assert.AreEqual(typeof(VariableManaCostFragment), mc.Fragments[0].GetType());
         }
 
-        [Test]
-        public static void OneGenericTest()
+        [TestMethod]
+        public void OneGenericTest()
         {
             for(int i=0; i<20; i++)
             {
@@ -29,8 +29,8 @@ namespace Magic.Core.Test
             }
         }
 
-        [Test]
-        public static void OneColoredTest()
+        [TestMethod]
+        public void OneColoredTest()
         {
             foreach (var symbol in new string[] {"W", "U", "B", "G", "R"})
             {
@@ -42,8 +42,8 @@ namespace Magic.Core.Test
             }
         }
 
-        [Test]
-        public static void RepeatingColoredTest()
+        [TestMethod]
+        public void RepeatingColoredTest()
         {
             foreach (var symbol in new string[] { "W", "U", "B", "G", "R" })
             {
@@ -58,8 +58,8 @@ namespace Magic.Core.Test
             }
         }
 
-        [Test]
-        public static void IncinerateTest()
+        [TestMethod]
+        public void IncinerateTest()
         {
             var mc = ManaCost.Parse("{1}{R}");
             Assert.AreEqual(2, mc.Fragments.Count);
@@ -70,8 +70,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(Color.Red, mc.Fragments.OfType<ColoredManaCostFragment>().First().Color);
         }
 
-        [Test]
-        public static void TerminateTest()
+        [TestMethod]
+        public void TerminateTest()
         {
             var mc = ManaCost.Parse("{B}{R}");
             Assert.AreEqual(2, mc.Fragments.Count);
@@ -80,8 +80,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(1, mc.Fragments.OfType<ColoredManaCostFragment>().Where(f => f.Color == Color.Red).First().Amount);
         }
 
-        [Test]
-        public static void ForceOfNatureTest()
+        [TestMethod]
+        public void ForceOfNatureTest()
         {
             var mc = ManaCost.Parse("{2}{G}{G}{G}{G}");
             Assert.AreEqual(2, mc.Fragments.Count);
@@ -92,8 +92,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(Color.Green, mc.Fragments.OfType<ColoredManaCostFragment>().First().Color);
         }
 
-        [Test]
-        public static void ProgenitusTest()
+        [TestMethod]
+        public void ProgenitusTest()
         {
             var mc = ManaCost.Parse("{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}");
             Assert.AreEqual(5, mc.Fragments.Count);
@@ -105,8 +105,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(2, mc.Fragments.OfType<ColoredManaCostFragment>().Where(f => f.Color == Color.Green).First().Amount);
         }
 
-        [Test]
-        public static void BorosReckonerTest()
+        [TestMethod]
+        public void BorosReckonerTest()
         {
             var mc = ManaCost.Parse("{R/W}{R/W}{R/W}");
             Assert.AreEqual(1, mc.Fragments.Count);
@@ -116,8 +116,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(Color.White, mc.Fragments.OfType<HybridManaCostFragment>().First().ColorB);
         }
 
-        [Test]
-        public static void ReaperKingTest()
+        [TestMethod]
+        public void ReaperKingTest()
         {
             var mc = ManaCost.Parse("{2/W}{2/U}{2/B}{2/R}{2/G}");
             Assert.AreEqual(5, mc.Fragments.Count);
@@ -129,8 +129,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(1, mc.Fragments.OfType<MonoColoredManaCostFragment>().Where(f => f.Color == Color.Green).First().Amount);
         }
 
-        [Test]
-        public static void SpectralProcessionTest()
+        [TestMethod]
+        public void SpectralProcessionTest()
         {
             var mc = ManaCost.Parse("{2/W}{2/W}{2/W}");
             Assert.AreEqual(1, mc.Fragments.Count);
@@ -139,8 +139,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(Color.White, mc.Fragments.OfType<MonoColoredManaCostFragment>().First().Color);
         }
 
-        [Test]
-        public static void BirthingPodTest()
+        [TestMethod]
+        public void BirthingPodTest()
         {
             var mc = ManaCost.Parse("{3}{G/P}");
             Assert.AreEqual(2, mc.Fragments.Count);
@@ -151,8 +151,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(Color.Green, mc.Fragments.OfType<PhyrexianColoredManaCostFragment>().First().Color);
         }
 
-        [Test]
-        public static void DismemberTest()
+        [TestMethod]
+        public void DismemberTest()
         {
             var mc = ManaCost.Parse("{1}{B/P}{B/P}");
             Assert.AreEqual(2, mc.Fragments.Count);
@@ -163,8 +163,8 @@ namespace Magic.Core.Test
             Assert.AreEqual(Color.Black, mc.Fragments.OfType<PhyrexianColoredManaCostFragment>().First().Color);
         }
 
-        [Test]
-        public static void ScryingSheetsTest()
+        [TestMethod]
+        public void ScryingSheetsTest()
         {
             var mc = ManaCost.Parse("{1}{S}");
             Assert.AreEqual(2, mc.Fragments.Count);
