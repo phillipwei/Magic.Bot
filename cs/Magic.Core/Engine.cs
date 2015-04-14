@@ -25,6 +25,11 @@ namespace Magic.Core
             this._notify = notify;
         }
 
+        public bool GameOver()
+        {
+            return _gs.IsGameOver;
+        }
+
         public void Play()
         {
             while (!_gs.IsGameOver)
@@ -45,7 +50,8 @@ namespace Magic.Core
                 {
                     Step_BeginStep();
                 }
-                else if (_gs.Stack.Empty && Actions.Reverse<GameAction>().Take(_gs.Players.Count).All(ga => ga is PassPriority))
+                else if (_gs.Stack.Empty 
+                    && Actions.Reverse<GameAction>().Take(_gs.Players.Count).All(ga => ga is PassPriority))
                 {
                     Step_NextStep();
                 }
@@ -55,7 +61,7 @@ namespace Magic.Core
                     choices.AddRange(Choice_SpecialActions());
                     choices.AddRange(Choice_CastSpell());
                     choices.Add(Choice.PassPriority);
-                    Console.WriteLine("Choices == {0}", string.Join(",", choices.Select(c => c.ToString())));
+                    Console.WriteLine("Choices: [{0}]", string.Join(";", choices.Select(c => c.ToString())));
                     var choice = GetPlayerChoice(_gs.Priority, choices);
 
                     if(choice is PlayCardChoice)
@@ -63,8 +69,15 @@ namespace Magic.Core
                         var pcc = choice as PlayCardChoice;
                         if(pcc.Card.IsLand)
                         {
-
+                            ApplyActions(
+                                pcc.ToString(),
+                                new PlayLandAction(pcc.Player, pcc.Card)
+                            );
                         }
+                    }
+                    else if (choice == Choice.PassPriority)
+                    {
+                        ApplyAction(new PassPriority());
                     }
                 }
             }
@@ -265,7 +278,7 @@ namespace Magic.Core
             }
 
             actions.Add(new SetBeginningOfStep(false));
-            ApplyActions("Beginning of Step", actions);
+            ApplyActions(string.Format("Beginning of {0} Phase, {1} Step", _gs.Phase, _gs.Step), actions);
         }
 
         private bool CanAttack(Permanent p)
@@ -321,10 +334,10 @@ namespace Magic.Core
             // This action doesn't use the stack. Neither the land nor the action of playing the land 
             // is a spell or ability, so it can't be countered, and players can't respond to it with 
             // instants or activated abilities. (See rule 305, "Lands.")
-            var canPlayLand = (_gs.Phase == Phase.PostCombatMain || _gs.Phase == Phase.PostCombatMain) &&
-                _gs.Stack.Empty &&
-                _gs.Priority == _gs.Active &&
-                Actions.Reverse<GameAction>()
+            var canPlayLand = (_gs.Phase == Phase.PreCombatMain || _gs.Phase == Phase.PostCombatMain)
+                && _gs.Stack.Empty 
+                && _gs.Priority == _gs.Active 
+                && Actions.Reverse<GameAction>()
                        .TakeWhile(ga => !(ga is IncrementTurnNumber))
                        .OfType<PlayCardAction>()
                        .None(pca => pca.Card.IsLand);
@@ -363,9 +376,9 @@ namespace Magic.Core
             // 307.1. A player who has priority may cast a sorcery card from his or her hand 
             // during a main phase of his or her turn when the stack is empty. Casting a sorcery 
             // as a spell uses the stack. (See rule 601, "Casting Spells.")
-            var canCastNonInstants = (_gs.Phase == Phase.PostCombatMain || _gs.Phase == Phase.PostCombatMain) &&
-                _gs.Stack.Empty &&
-                _gs.Priority == _gs.Active;
+            var canCastNonInstants = (_gs.Phase == Phase.PreCombatMain || _gs.Phase == Phase.PostCombatMain) 
+                && _gs.Stack.Empty 
+                && _gs.Priority == _gs.Active;
 
             var activeIndex = _gs.Players.IndexOf(_gs.Active);
             var nonInstantTypes = new CardType[] { CardType.Artifact, CardType.Creature, CardType.Enchantment, CardType.Planeswalker, CardType.Sorcery };

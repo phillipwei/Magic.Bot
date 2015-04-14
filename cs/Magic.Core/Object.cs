@@ -17,7 +17,10 @@ namespace Magic.Core
         // the owner of the spell is the player under whose control it was put on the stack. A spell's controller is, by 
         // default, the player who put it on the stack. Every spell has a controller.
         public Player Owner { get; set; }
-        
+
+        // 110.2. A permanent's owner is the same as the owner of the card that represents it (unless it's a token; see 
+        // rule 110.5a). A permanent's controller is, by default, the player under whose control it entered the 
+        // battlefield. Every permanent has a controller.
         public Player Controller { get; set; }
         
         public List<Counter> Counters { get; set; }

@@ -96,11 +96,30 @@ namespace Magic.Core
             }
         }
 
+        public int IndexOf(Player p)
+        {
+            return Players.IndexOf(p);
+        }
+
         public Player Opponent(Player p)
         {
             return Players.IndexOf(p) == 0 ? Players[1] : Players[0];
         }
 
         public PhaseStep PhaseStep { get { return new PhaseStep(this.Phase, this.Step); } }
+
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+            
+            foreach (var player in Players)
+            {
+                sb.AppendLine(player.ToString());
+                sb.AppendLine("Hand:" + string.Join(",", Hands[IndexOf(player)].Objects));
+                sb.AppendLine("Battlefield: " + string.Join(",", Battlefield.Objects.Where(o => o.Controller == player)));
+            }
+
+            return sb.ToString();
+        }
     }
 }

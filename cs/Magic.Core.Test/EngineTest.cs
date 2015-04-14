@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Magic.Core;
+using Magic.Core.GameActions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Magic.Core.Test
@@ -13,12 +14,37 @@ namespace Magic.Core.Test
     {
         public class RandomAgent : Agent
         {
-            public RandomAgent()
+            public Player Player ;
+
+            public RandomAgent(Player player)
             {
+                this.Player = player;
             }
 
             public override Choice Choose(GameState gs, params Choice[] choices)
             {
+                var list = choices.ToList();
+
+                // Always keep -- keeps things simple
+                if (list.Exists(c => c == Choice.Keep))
+                {
+                    var landCount = gs.Hands[gs.IndexOf(Player)].Objects.Count(c => c.IsLand);
+                    Console.WriteLine("Land Count = " + landCount);
+                    if (landCount > 0 && landCount < 7)
+                    {
+                        return list.Find(c => c == Choice.Keep);
+                    }                    
+                }
+
+                // If you can't play a land, pass priority.
+                if (!list.Exists(c => c is PlayCardChoice && (c as PlayCardChoice).Card.IsLand) 
+                    && list.Exists(c => c == Choice.PassPriority))
+                    return list.First(c => c == Choice.PassPriority);
+                
+                // If you can play a land, do it.
+                if (list.Exists(c => c is PlayCardChoice))
+                    return list.First(c => c is PlayCardChoice);
+
                 return choices[RNG.Next(choices.Length)];
             }
 
@@ -50,14 +76,14 @@ namespace Magic.Core.Test
                     Deck.LoadFromFile(@"Data\Decks\BoltsAndBearsTestDeck.txt"),
                     Deck.LoadFromFile(@"Data\Decks\BoltsAndBearsTestDeck.txt")
                 };
-                var agents = new List<Agent>() { new RandomAgent(), new RandomAgent() };
+                var agents = new List<Agent>() { new RandomAgent(players[0]), new RandomAgent(players[1]) };
                 var engine = new Engine(players, decks, agents, ga => Console.WriteLine(ga));
 
-                while (true)
+                var x = 0;
+                while (!engine.GameOver() && x++ < 20)
                 {
-                    throw new NotImplementedException();
                     engine.Tick();
-                    Console.ReadKey();
+                    // Console.WriteLine(engine.States.Last().ToString());
                 }
             }
         }
