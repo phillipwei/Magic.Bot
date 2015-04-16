@@ -334,13 +334,17 @@ namespace Magic.Core
             // This action doesn't use the stack. Neither the land nor the action of playing the land 
             // is a spell or ability, so it can't be countered, and players can't respond to it with 
             // instants or activated abilities. (See rule 305, "Lands.")
-            var canPlayLand = (_gs.Phase == Phase.PreCombatMain || _gs.Phase == Phase.PostCombatMain)
-                && _gs.Stack.Empty 
-                && _gs.Priority == _gs.Active 
-                && Actions.Reverse<GameAction>()
-                       .TakeWhile(ga => !(ga is IncrementTurnNumber))
-                       .OfType<PlayCardAction>()
-                       .None(pca => pca.Card.IsLand);
+            var nonInstant = (_gs.Phase == Phase.PreCombatMain || _gs.Phase == Phase.PostCombatMain)
+                && _gs.Stack.Empty;
+
+            var cardsPlayed = Actions.Reverse<GameAction>()
+                .TakeWhile(ga => !(ga is IncrementTurnNumber))
+                .OfType<PlayCardAction>()
+                .ToList();
+
+            var landsPlayed = cardsPlayed.None(pca => pca.Card.IsLand);
+
+            var canPlayLand = nonInstant && landsPlayed;
 
             var activeIndex = _gs.Players.IndexOf(_gs.Active);
             if(canPlayLand)

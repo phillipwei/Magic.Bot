@@ -43,7 +43,7 @@ namespace Magic.Core
 
         public static bool None<T>(this IEnumerable<T> enumerable, Func<T,bool> predicate)
         {
-            return !enumerable.All(predicate);
+            return !enumerable.Any() || !enumerable.All(predicate);
         }
 
         public static List<T> Duplicate<T>(this List<T> list) where T : IDuplicatable
