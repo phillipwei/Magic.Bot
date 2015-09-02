@@ -13,6 +13,7 @@ namespace Magic.Core
         public static Choice Mulligan = new Choice("mulligan");
         public static Choice Keep = new Choice("keep as starting");
         public static Choice PassPriority = new Choice("pass priority");
+        public static Choice AbortSpell = new Choice("cancel");
 
         public string Description { get; private set; }
         public Choice(string description)
@@ -109,6 +110,17 @@ namespace Magic.Core
                 hash = hash * 23 + this.Card.GetHashCode();
                 return hash;
             }
+        }
+    }
+
+    public class TapBasicLandChoice : Choice
+    {
+        public Permanent Land;
+
+        public TapBasicLandChoice(Permanent p)
+            : base(string.Format("Tap {0}", p))
+        {
+            this.Land = p;
         }
     }
 }

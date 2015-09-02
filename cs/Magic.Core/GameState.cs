@@ -14,7 +14,7 @@ namespace Magic.Core
         public List<Library> Libraries;
         public List<Hand> Hands;
         public List<Graveyard> Graveyards;
-        public List<Sideboard> Sideboards; 
+        public List<Sideboard> Sideboards;
         public Battlefield Battlefield;
         public Stack Stack;
         public Exile Exile;

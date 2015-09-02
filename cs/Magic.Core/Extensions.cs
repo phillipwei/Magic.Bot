@@ -41,9 +41,10 @@ namespace Magic.Core
             }
         }
 
+        // Todo: Unit test this -- already have had a few errs.
         public static bool None<T>(this IEnumerable<T> enumerable, Func<T,bool> predicate)
         {
-            return !enumerable.Any() || !enumerable.All(predicate);
+            return enumerable.All(o => !predicate(o));
         }
 
         public static List<T> Duplicate<T>(this List<T> list) where T : IDuplicatable

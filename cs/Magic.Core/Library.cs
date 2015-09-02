@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Magic.Core
 {
+    // 401.1. When a game begins, each player's deck becomes his or her library.
     public class Library : PlayerZone<Card>, IDuplicatable
     {
         public Library(Player player, IEnumerable<Card> cards)

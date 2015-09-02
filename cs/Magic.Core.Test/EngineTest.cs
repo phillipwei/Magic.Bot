@@ -21,31 +21,35 @@ namespace Magic.Core.Test
                 this.Player = player;
             }
 
-            public override Choice Choose(GameState gs, params Choice[] choices)
+            public override Choice Choose(GameState gs, params Choice[] choicesArray)
             {
-                var list = choices.ToList();
+                var choices = choicesArray.ToList();
 
-                // Always keep -- keeps things simple
-                if (list.Exists(c => c == Choice.Keep))
+                // Mulligan decisions: always keep
+                if (choices.Exists(c => c == Choice.Keep))
                 {
                     var landCount = gs.Hands[gs.IndexOf(Player)].Objects.Count(c => c.IsLand);
                     Console.WriteLine("Land Count = " + landCount);
                     if (landCount > 0 && landCount < 7)
                     {
-                        return list.Find(c => c == Choice.Keep);
+                        return choices.Find(c => c == Choice.Keep);
                     }                    
                 }
-
-                // If you can't play a land, pass priority.
-                if (!list.Exists(c => c is PlayCardChoice && (c as PlayCardChoice).Card.IsLand) 
-                    && list.Exists(c => c == Choice.PassPriority))
-                    return list.First(c => c == Choice.PassPriority);
                 
                 // If you can play a land, do it.
-                if (list.Exists(c => c is PlayCardChoice))
-                    return list.First(c => c is PlayCardChoice);
+                if (choices.Exists(c => c is PlayCardChoice))
+                    return choices.First(c => c is PlayCardChoice);
 
-                return choices[RNG.Next(choices.Length)];
+                // If you can cast a creature, do it.
+                if (choices.Exists(c => c is PlayCardChoice && (c as PlayCardChoice).Card.IsCreature))
+                    return choices.First(c => c is PlayCardChoice && (c as PlayCardChoice).Card.IsCreature);
+
+                // If you can't play a land, pass priority.
+                if (!choices.Exists(c => c is PlayCardChoice && (c as PlayCardChoice).Card.IsLand) 
+                    && choices.Exists(c => c == Choice.PassPriority))
+                    return choices.First(c => c == Choice.PassPriority);
+                
+                return choicesArray[RNG.Next(choicesArray.Length)];
             }
 
             public override IEnumerable<Choice> ChooseMany(GameState gs, params Choice[] choices)

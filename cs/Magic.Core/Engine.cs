@@ -69,10 +69,33 @@ namespace Magic.Core
                         var pcc = choice as PlayCardChoice;
                         if(pcc.Card.IsLand)
                         {
-                            ApplyActions(
-                                pcc.ToString(),
-                                new PlayLandAction(pcc.Player, pcc.Card)
-                            );
+                            ApplyAction(new PlayLandAction(pcc.Player, pcc.Card));
+                        }
+                        else
+                        {
+                            var castingChoices = new List<Choice>();
+
+                            castingChoices.Add(Choice.AbortSpell);
+                            
+                            // Declare Targets
+                            if (pcc.Card.IsTargetting)
+                            {
+                                throw new NotImplementedException();
+                            }
+
+                            // Mana Abilities
+                            _gs.Battlefield
+                                .Objects
+                                .Where(o => o.Controller == pcc.Player && o.HasManaAbility && !o.Status.Tapped)
+                                .ForEach(o => castingChoices.Add(new TapBasicLandChoice(o)));
+
+                            // Pay Costs
+                            // _gs.PlayerStates[_gs.IndexOf(pcc.Player)].ManaPool;
+
+                            // pcc.Card.ManaCost
+                            // GetPlayerChoice(_gs.Priority, targets);
+
+                            ApplyAction(new PlayCardAction(pcc.Player, pcc.Card));
                         }
                     }
                     else if (choice == Choice.PassPriority)
@@ -385,15 +408,22 @@ namespace Magic.Core
                 && _gs.Priority == _gs.Active;
 
             var activeIndex = _gs.Players.IndexOf(_gs.Active);
-            var nonInstantTypes = new CardType[] { CardType.Artifact, CardType.Creature, CardType.Enchantment, CardType.Planeswalker, CardType.Sorcery };
+            var nonInstantTypes = new CardType[] { CardType.Artifact, CardType.Creature, CardType.Enchantment, 
+                CardType.Planeswalker, CardType.Sorcery };
             if (canCastNonInstants)
             {
-                _gs.Hands[activeIndex].Objects.Where(c => c.CardTypes.Any(ct => nonInstantTypes.Contains(ct))).ForEach(c => choices.Add(new PlayCardChoice(_gs.Active, c)));
+                _gs.Hands[activeIndex]
+                    .Objects
+                    .Where(c => c.CardTypes.Any(ct => nonInstantTypes.Contains(ct)))
+                    .ForEach(c => choices.Add(new PlayCardChoice(_gs.Active, c)));
             }
 
             // 304.1. A player who has priority may cast an instant card from his or her hand. 
             // Casting an instant as a spell uses the stack. (See rule 601, "Casting Spells.")
-            _gs.Hands[activeIndex].Objects.Where(c => c.CardTypes.Contains(CardType.Instant)).ForEach(c => choices.Add(new PlayCardChoice(_gs.Active, c)));
+            _gs.Hands[activeIndex]
+                .Objects
+                .Where(c => c.CardTypes.Contains(CardType.Instant))
+                .ForEach(c => choices.Add(new PlayCardChoice(_gs.Active, c)));
 
             return choices;
         }

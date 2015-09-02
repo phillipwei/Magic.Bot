@@ -8,7 +8,7 @@ namespace Magic.Core
 {
     public abstract class Agent
     {
-        public abstract Choice Choose(GameState gs, params Choice[] choices);
+        public abstract Choice Choose(GameState gs, params Choice[] choicesArray);
 
         public abstract IEnumerable<Choice> ChooseMany(GameState gs, params Choice[] choices);
         

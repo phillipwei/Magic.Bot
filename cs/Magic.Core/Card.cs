@@ -22,7 +22,10 @@ namespace Magic.Core
         public override string Toughness { get { return this.Definition.Toughness; } }
         public override int Loyalty { get { return this.Definition.Loyalty; } }
         public bool IsLand { get { return CardTypes.Contains(CardType.Land); } }
-
+        public bool IsCreature { get { return CardTypes.Contains(CardType.Creature);  } }
+        public bool IsTargetting { get { return CardTypes.Exists(t => t == CardType.Instant || t == CardType.Sorcery) 
+            && RulesText.IndexOf("target", StringComparison.CurrentCultureIgnoreCase) >= 0; } }
+        
         public Card(Player owner, CardDefinition definition)
         {
             this.Owner = owner;

@@ -27,6 +27,11 @@ namespace Magic.Core
         public override string Toughness { get { return Card.Toughness; } }
         public override int Loyalty { get { return Card.Loyalty; } }
 
+        public Spell(Card c)
+        {
+            Card = c;
+        }
+
         public override object Duplicate()
         {
             throw new NotImplementedException();
