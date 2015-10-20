@@ -122,6 +122,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Set.cs" />
     <Compile Include="SuperType.cs" />
+    <Compile Include="TargetType.cs" />
     <Compile Include="TemporaryZone.cs" />
     <Compile Include="Token.cs" />
     <Compile Include="TurnBasedAction.cs" />
