@@ -1,0 +1,16 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Akroma, Angel of Fury	{5}{R}{R}{R}	Legendary	Creature	Angel	Akroma, Angel of Fury can't be countered.|Flying, trample, protection from white and from blue|{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.|Morph {3}{R}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)	6	6
+Akroma, Angel of Wrath	{5}{W}{W}{W}	Legendary	Creature	Angel	Flying, first strike, vigilance, trample, haste, protection from black and from red	6	6
+Archangel of Strife	{5}{W}{W}	None	Creature	Angel	Flying|As Archangel of Strife enters the battlefield, each player chooses war or peace.|Creatures controlled by players who chose war get +3/+0.|Creatures controlled by players who chose peace get +0/+3.	6	6
+Aurelia, the Warleader	{2}{R}{R}{W}{W}	Legendary	Creature	Angel	Flying, vigilance, haste|Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.	3	4
+Avacyn, Angel of Hope	{5}{W}{W}{W}	Legendary	Creature	Angel	Flying, vigilance, indestructible|Other permanents you control have indestructible.	8	8
+Baneslayer Angel	{3}{W}{W}	None	Creature	Angel	Flying, first strike, lifelink, protection from Demons and from Dragons	5	5
+Entreat the Angels	{X}{X}{W}{W}{W}	None	Sorcery	None	Put X 4/4 white Angel creature tokens with flying onto the battlefield.|Miracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)		
+Exalted Angel	{4}{W}{W}	None	Creature	Angel	Flying|Whenever Exalted Angel deals damage, you gain that much life.|Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)	4	5
+Iona, Shield of Emeria	{6}{W}{W}{W}	Legendary	Creature	Angel	Flying|As Iona, Shield of Emeria enters the battlefield, choose a color.|Your opponents can't cast spells of the chosen color.	7	7
+Iridescent Angel	{5}{W}{U}	None	Creature	Angel	Flying, protection from all colors	4	4
+Jenara, Asura of War	{G}{W}{U}	Legendary	Creature	Angel	Flying|{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.	3	3
+Lightning Angel	{1}{R}{W}{U}	None	Creature	Angel	Flying, vigilance, haste	3	4
+Platinum Angel	{7}	None	Artifact,Creature	Angel	Flying|You can't lose the game and your opponents can't win the game.	4	4
+Serra Angel	{3}{W}{W}	None	Creature	Angel	Flying (This creature can't be blocked except by creatures with flying or reach.)|Vigilance (Attacking doesn't cause this creature to tap.)	4	4
+Tariel, Reckoner of Souls	{4}{W}{B}{R}	Legendary	Creature	Angel	Flying, vigilance|{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.	4	7

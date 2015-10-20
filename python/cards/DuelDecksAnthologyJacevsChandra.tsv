@@ -1,0 +1,57 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Æthersnipe	{5}{U}	None	Creature	Elemental	When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.|Evoke {1}{U}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)	4	4
+Air Elemental	{3}{U}{U}	None	Creature	Elemental	Flying	4	4
+Ancestral Vision		None	Sorcery	None	Suspend 4-{U} (Rather than cast this card from your hand, pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)|Target player draws three cards.		
+Bottle Gnomes	{3}	None	Artifact,Creature	Gnome	Sacrifice Bottle Gnomes: You gain 3 life.	1	3
+Brine Elemental	{4}{U}{U}	None	Creature	Elemental	Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Brine Elemental is turned face up, each opponent skips his or her next untap step.	5	4
+Chandra Nalaar	{3}{R}{R}	None	Planeswalker	Chandra	+1: Chandra Nalaar deals 1 damage to target player.|−X: Chandra Nalaar deals X damage to target creature.|−8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.		
+Chartooth Cougar	{5}{R}	None	Creature	Cat,Beast	{R}: Chartooth Cougar gets +1/+0 until end of turn.|Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)	4	4
+Condescend	{X}{U}	None	Instant	None	Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)		
+Cone of Flame	{3}{R}{R}	None	Sorcery	None	Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.		
+Counterspell	{U}{U}	None	Instant	None	Counter target spell.		
+Daze	{1}{U}	None	Instant	None	You may return an Island you control to its owner's hand rather than pay Daze's mana cost.|Counter target spell unless its controller pays {1}.		
+Demonfire	{X}{R}	None	Sorcery	None	Demonfire deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.|Hellbent - If you have no cards in hand, Demonfire can't be countered by spells or abilities and the damage can't be prevented.		
+Errant Ephemeron	{6}{U}	None	Creature	Illusion	Flying|Suspend 4-{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)	4	4
+Fact or Fiction	{3}{U}	None	Instant	None	Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.		
+Fathom Seer	{1}{U}	None	Creature	Illusion	Morph-Return two Islands you control to their owner's hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Fathom Seer is turned face up, draw two cards.	1	3
+Fireball	{X}{R}	None	Sorcery	None	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.|Fireball costs {1} more to cast for each target beyond the first.		
+Fireblast	{4}{R}{R}	None	Instant	None	You may sacrifice two Mountains rather than pay Fireblast's mana cost.|Fireblast deals 4 damage to target creature or player.		
+Firebolt	{R}	None	Sorcery	None	Firebolt deals 2 damage to target creature or player.|Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Fireslinger	{1}{R}	None	Creature	Human,Wizard	{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.	1	1
+Flame Javelin	{2/R}{2/R}{2/R}	None	Instant	None	({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)|Flame Javelin deals 4 damage to target creature or player.		
+Flamekin Brawler	{R}	None	Creature	Elemental,Warrior	{R}: Flamekin Brawler gets +1/+0 until end of turn.	0	2
+Flametongue Kavu	{3}{R}	None	Creature	Kavu	When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.	4	2
+Flamewave Invoker	{2}{R}	None	Creature	Goblin,Mutant	{7}{R}: Flamewave Invoker deals 5 damage to target player.	2	2
+Fledgling Mawcor	{3}{U}	None	Creature	Beast	Flying|{T}: Fledgling Mawcor deals 1 damage to target creature or player.|Morph {U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)	2	2
+Furnace Whelp	{2}{R}{R}	None	Creature	Dragon	Flying (This creature can't be blocked except by creatures with flying or reach.)|{R}: Furnace Whelp gets +1/+0 until end of turn.	2	2
+Guile	{3}{U}{U}{U}	None	Creature	Elemental,Incarnation	Guile can't be blocked except by three or more creatures.|If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.|When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.	6	6
+Gush	{4}{U}	None	Instant	None	You may return two Islands you control to their owner's hand rather than pay Gush's mana cost.|Draw two cards.		
+Hostility	{3}{R}{R}{R}	None	Creature	Elemental,Incarnation	Haste|If a spell you control would deal damage to an opponent, prevent that damage. Put a 3/1 red Elemental Shaman creature token with haste onto the battlefield for each 1 damage prevented this way.|When Hostility is put into a graveyard from anywhere, shuffle it into its owner's library.	6	6
+Incinerate	{1}{R}	None	Instant	None	Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.		
+Ingot Chewer	{4}{R}	None	Creature	Elemental	When Ingot Chewer enters the battlefield, destroy target artifact.|Evoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)	3	3
+Inner-Flame Acolyte	{1}{R}{R}	None	Creature	Elemental,Shaman	When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.|Evoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)	2	2
+Island		Basic	Land	Island	U		
+Jace Beleren	{1}{U}{U}	None	Planeswalker	Jace	+2: Each player draws a card.|−1: Target player draws a card.|−10: Target player puts the top twenty cards of his or her library into his or her graveyard.		
+Keldon Megaliths		None	Land	None	Keldon Megaliths enters the battlefield tapped.|{T}: Add {R} to your mana pool.|Hellbent - {1}{R}, {T}: Keldon Megaliths deals 1 damage to target creature or player. Activate this ability only if you have no cards in hand.		
+Magma Jet	{1}{R}	None	Instant	None	Magma Jet deals 2 damage to target creature or player. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)		
+Man-o'-War	{2}{U}	None	Creature	Jellyfish	When Man-o'-War enters the battlefield, return target creature to its owner's hand.	2	2
+Martyr of Frost	{U}	None	Creature	Human,Wizard	{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.	1	1
+Mind Stone	{2}	None	Artifact	None	{T}: Add {1} to your mana pool.|{1}, {T}, Sacrifice Mind Stone: Draw a card.		
+Mountain		Basic	Land	Mountain	R		
+Mulldrifter	{4}{U}	None	Creature	Elemental	Flying|When Mulldrifter enters the battlefield, draw two cards.|Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)	2	2
+Ophidian	{2}{U}	None	Creature	Snake	Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.	1	3
+Oxidda Golem	{6}	None	Artifact,Creature	Golem	Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)|Haste	3	2
+Pyre Charger	{R}{R}	None	Creature	Elemental,Warrior	Haste|{R}: Pyre Charger gets +1/+0 until end of turn.	1	1
+Quicksilver Dragon	{4}{U}{U}	None	Creature	Dragon	Flying|{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.|Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)	5	5
+Rakdos Pit Dragon	{2}{R}{R}	None	Creature	Dragon	{R}{R}: Rakdos Pit Dragon gains flying until end of turn.|{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.|Hellbent - Rakdos Pit Dragon has double strike as long as you have no cards in hand.	3	3
+Repulse	{2}{U}	None	Instant	None	Return target creature to its owner's hand.|Draw a card.		
+Riftwing Cloudskate	{3}{U}{U}	None	Creature	Illusion	Flying|When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.|Suspend 3-{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)	2	2
+Seal of Fire	{R}	None	Enchantment	None	Sacrifice Seal of Fire: Seal of Fire deals 2 damage to target creature or player.		
+Slith Firewalker	{R}{R}	None	Creature	Slith	Haste|Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.	1	1
+Soulbright Flamekin	{1}{R}	None	Creature	Elemental,Shaman	{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.	2	1
+Spire Golem	{6}	None	Artifact,Creature	Golem	Affinity for Islands (This spell costs {1} less to cast for each Island you control.)|Flying	2	4
+Terrain Generator		None	Land	None	{T}: Add {1} to your mana pool.|{2}, {T}: You may put a basic land card from your hand onto the battlefield tapped.		
+Voidmage Apprentice	{1}{U}	None	Creature	Human,Wizard	Morph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Voidmage Apprentice is turned face up, counter target spell.	1	1
+Wall of Deceit	{1}{U}	None	Creature	Wall	Defender (This creature can't attack.)|{3}: Turn Wall of Deceit face down.|Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)	0	5
+Waterspout Djinn	{2}{U}{U}	None	Creature	Djinn	Flying|At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.	4	4
+Willbender	{1}{U}	None	Creature	Human,Wizard	Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Willbender is turned face up, change the target of target spell or ability with a single target.	1	2

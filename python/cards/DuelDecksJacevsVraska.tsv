@@ -1,0 +1,77 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Acidic Slime	{3}{G}{G}	None	Creature	Ooze	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)|When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.	2	2
+Aeon Chronicler	{3}{U}{U}	None	Creature	Avatar	Aeon Chronicler's power and toughness are each equal to the number of cards in your hand.|Suspend X-{X}{3}{U}. X can't be 0. (Rather than cast this card from your hand, you may pay {X}{3}{U} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)|Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.	*	*
+Æther Adept	{1}{U}{U}	None	Creature	Human,Wizard	When Æther Adept enters the battlefield, return target creature to its owner's hand.	2	2
+Æther Figment	{1}{U}	None	Creature	Illusion	Kicker {3} (You may pay an additional {3} as you cast this spell.)|Æther Figment can't be blocked.|If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.	1	1
+Agoraphobia	{1}{U}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets -5/-0.|{2}{U}: Return Agoraphobia to its owner's hand.		
+Archaeomancer	{2}{U}{U}	None	Creature	Human,Wizard	When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.	1	2
+Body Double	{4}{U}	None	Creature	Shapeshifter	You may have Body Double enter the battlefield as a copy of any creature card in a graveyard.	0	0
+Chronomaton	{1}	None	Artifact,Creature	Golem	{1}, {T}: Put a +1/+1 counter on Chronomaton.	1	1
+Claustrophobia	{1}{U}{U}	None	Enchantment	Aura	Enchant creature|When Claustrophobia enters the battlefield, tap enchanted creature.|Enchanted creature doesn't untap during its controller's untap step.		
+Consume Strength	{1}{B}{G}	None	Instant	None	Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.		
+Control Magic	{2}{U}{U}	None	Enchantment	Aura	Enchant creature|You control enchanted creature.		
+Corpse Traders	{3}{B}	None	Creature	Human,Rogue	{2}{B}, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.	3	3
+Crosstown Courier	{1}{U}	None	Creature	Vedalken	Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard.	2	1
+Death-Hood Cobra	{1}{G}	None	Creature	Snake	{1}{G}: Death-Hood Cobra gains reach until end of turn. (It can block creatures with flying.)|{1}{G}: Death-Hood Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)	2	2
+Dread Statuary		None	Land	None	{T}: Add {1} to your mana pool.|{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.		
+Dream Stalker	{1}{U}	None	Creature	Illusion	When Dream Stalker enters the battlefield, return a permanent you control to its owner's hand.	1	5
+Drooling Groodion	{3}{B}{B}{G}	None	Creature	Beast	{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.	4	3
+Errant Ephemeron	{6}{U}	None	Creature	Illusion	Flying|Suspend 4-{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)	4	4
+Festerhide Boar	{3}{G}	None	Creature	Boar	Trample|Morbid - Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.	3	3
+Forest		Basic	Land	Forest	G		
+Future Sight	{2}{U}{U}{U}	None	Enchantment	None	Play with the top card of your library revealed.|You may play the top card of your library.		
+Gatecreeper Vine	{1}{G}	None	Creature	Plant	Defender|When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.	0	2
+Golgari Guildgate		None	Land	Gate	Golgari Guildgate enters the battlefield tapped.|{T}: Add {B} or {G} to your mana pool.		
+Griptide	{3}{U}	None	Instant	None	Put target creature on top of its owner's library.		
+Grisly Spectacle	{2}{B}{B}	None	Instant	None	Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.		
+Halimar Depths		None	Land	None	Halimar Depths enters the battlefield tapped.|When Halimar Depths enters the battlefield, look at the top three cards of your library, then put them back in any order.|{T}: Add {U} to your mana pool.		
+Highway Robber	{2}{B}{B}	None	Creature	Human,Mercenary	When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.	2	2
+Hypnotic Cloud	{1}{B}	None	Sorcery	None	Kicker {4} (You may pay an additional {4} as you cast this spell.)|Target player discards a card. If Hypnotic Cloud was kicked, that player discards three cards instead.		
+Into the Roil	{1}{U}	None	Instant	None	Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)|Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.		
+Island		Basic	Land	Island	U		
+Jace, Architect of Thought	{2}{U}{U}	None	Planeswalker	Jace	+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.|−2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.|−8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs.		
+Jace's Ingenuity	{3}{U}{U}	None	Instant	None	Draw three cards.		
+Jace's Mindseeker	{4}{U}{U}	None	Creature	Fish,Illusion	Flying|When Jace's Mindseeker enters the battlefield, target opponent puts the top five cards of his or her library into his or her graveyard. You may cast an instant or sorcery card from among them without paying its mana cost.	4	4
+Jace's Phantasm	{U}	None	Creature	Illusion	Flying|Jace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in his or her graveyard.	1	1
+Krovikan Mist	{1}{U}	None	Creature	Illusion	Flying|Krovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.	*	*
+Last Kiss	{2}{B}	None	Instant	None	Last Kiss deals 2 damage to target creature and you gain 2 life.		
+Leyline Phantom	{4}{U}	None	Creature	Illusion	When Leyline Phantom deals combat damage, return it to its owner's hand. (Return it only if it survived combat.)	5	5
+Marsh Casualties	{B}{B}	None	Sorcery	None	Kicker {3} (You may pay an additional {3} as you cast this spell.)|Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.		
+Memory Lapse	{1}{U}	None	Instant	None	Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.		
+Merfolk Wayfinder	{2}{U}	None	Creature	Merfolk,Scout	Flying|When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.	1	2
+Mold Shambler	{3}{G}	None	Creature	Fungus,Beast	Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)|When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.	3	3
+Nekrataal	{2}{B}{B}	None	Creature	Human,Assassin	First strike|When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.	2	1
+Night's Whisper	{1}{B}	None	Sorcery	None	You draw two cards and you lose 2 life.		
+Ohran Viper	{1}{G}{G}	Snow	Creature	Snake	Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.|Whenever Ohran Viper deals combat damage to a player, you may draw a card.	1	3
+Oran-Rief Recluse	{2}{G}	None	Creature	Spider	Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)|Reach (This creature can block creatures with flying.)|When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.	1	3
+Phantasmal Bear	{U}	None	Creature	Bear,Illusion	When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.	2	2
+Phantasmal Dragon	{2}{U}{U}	None	Creature	Dragon,Illusion	Flying|When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.	5	5
+Prohibit	{1}{U}	None	Instant	None	Kicker {2} (You may pay an additional {2} as you cast this spell.)|Counter target spell if its converted mana cost is 2 or less. If Prohibit was kicked, counter that spell if its converted mana cost is 4 or less instead.		
+Pulse Tracker	{B}	None	Creature	Vampire,Rogue	Whenever Pulse Tracker attacks, each opponent loses 1 life.	1	1
+Putrid Leech	{B}{G}	None	Creature	Zombie,Leech	Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.	2	2
+Ray of Command	{3}{U}	None	Instant	None	Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.		
+Reaper of the Wilds	{2}{B}{G}	None	Creature	Gorgon	Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)|{B}: Reaper of the Wilds gains deathtouch until end of turn.|{1}{G}: Reaper of the Wilds gains hexproof until end of turn.	4	5
+Remand	{1}{U}	None	Instant	None	Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.|Draw a card.		
+Riftwing Cloudskate	{3}{U}{U}	None	Creature	Illusion	Flying|When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.|Suspend 3-{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)	2	2
+River Boa	{1}{G}	None	Creature	Snake	Islandwalk (This creature can't be blocked as long as defending player controls an Island.)|{G}: Regenerate River Boa.	2	1
+Rogue's Passage		None	Land	None	{T}: Add {1} to your mana pool.|{4}, {T}: Target creature can't be blocked this turn.		
+Sadistic Augermage	{2}{B}	None	Creature	Human,Wizard	When Sadistic Augermage dies, each player puts a card from his or her hand on top of his or her library.	3	1
+Sea Gate Oracle	{2}{U}	None	Creature	Human,Wizard	When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.	1	3
+Shadow Alley Denizen	{B}	None	Creature	Vampire,Rogue	Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)	1	1
+Slate Street Ruffian	{2}{B}	None	Creature	Human,Warrior	Whenever Slate Street Ruffian becomes blocked, defending player discards a card.	2	2
+Spawnwrithe	{2}{G}	None	Creature	Elemental	Trample|Whenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.	2	2
+Spelltwine	{5}{U}	None	Sorcery	None	Exile target instant or sorcery card from your graveyard and target instant or sorcery card from an opponent's graveyard. Copy those cards. Cast the copies if able without paying their mana costs. Exile Spelltwine.		
+Stab Wound	{2}{B}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets -2/-2.|At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.		
+Stealer of Secrets	{2}{U}	None	Creature	Human,Rogue	Whenever Stealer of Secrets deals combat damage to a player, draw a card.	2	2
+Stonefare Crocodile	{2}{G}	None	Creature	Crocodile	{2}{B}: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)	3	2
+Summoner's Bane	{2}{U}{U}	None	Instant	None	Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.		
+Swamp		Basic	Land	Swamp	B		
+Tainted Wood		None	Land	None	{T}: Add {1} to your mana pool.|{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.		
+Tavern Swindler	{1}{B}	None	Creature	Human,Rogue	{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.	2	2
+Thought Scour	{U}	None	Instant	None	Target player puts the top two cards of his or her library into his or her graveyard.|Draw a card.		
+Tragic Slip	{B}	None	Instant	None	Target creature gets -1/-1 until end of turn.|Morbid - That creature gets -13/-13 until end of turn instead if a creature died this turn.		
+Treasured Find	{B}{G}	None	Sorcery	None	Return target card from your graveyard to your hand. Exile Treasured Find.		
+Underworld Connections	{1}{B}{B}	None	Enchantment	Aura	Enchant land|Enchanted land has '{T}, Pay 1 life: Draw a card.'		
+Vinelasher Kudzu	{1}{G}	None	Creature	Plant	Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.	1	1
+Vraska the Unseen	{3}{B}{G}	None	Planeswalker	Vraska	+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature.|−3: Destroy target nonland permanent.|−7: Put three 1/1 black Assassin creature tokens onto the battlefield with 'Whenever this creature deals combat damage to a player, that player loses the game.'		
+Wight of Precinct Six	{1}{B}	None	Creature	Zombie	Wight of Precinct Six gets +1/+1 for each creature card in your opponents' graveyards.	1	1

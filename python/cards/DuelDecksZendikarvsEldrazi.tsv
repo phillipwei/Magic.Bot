@@ -1,0 +1,71 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Affa Guard Hound	{2}{W}	None	Creature	Hound	Flash|When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.	2	2
+Akoum Refuge		None	Land	None	Akoum Refuge enters the battlefield tapped.|When Akoum Refuge enters the battlefield, you gain 1 life.|{T}: Add {B} or {R} to your mana pool.		
+Artisan of Kozilek	{9}	None	Creature	Eldrazi	When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.|Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)	10	9
+Avenger of Zendikar	{5}{G}{G}	None	Creature	Elemental	When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.|Landfall - Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.	5	5
+Beastbreaker of Bala Ged	{1}{G}	None	Creature	Human,Warrior	Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-3|4/4||LEVEL 4+|6/6|Trample	2	2
+Bloodrite Invoker	{2}{B}	None	Creature	Vampire,Shaman	{8}: Target player loses 3 life and you gain 3 life.	3	1
+Bloodthrone Vampire	{1}{B}	None	Creature	Vampire	Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.	1	1
+Butcher of Malakir	{5}{B}{B}	None	Creature	Vampire,Warrior	Flying|Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.	5	4
+Cadaver Imp	{1}{B}{B}	None	Creature	Imp	Flying|When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.	1	1
+Caravan Escort	{W}	None	Creature	Human,Knight	Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-4|2/2||LEVEL 5+|5/5|First strike	1	1
+Consume the Meek	{3}{B}{B}	None	Instant	None	Destroy each creature with converted mana cost 3 or less. They can't be regenerated.		
+Corpsehatch	{3}{B}{B}	None	Sorcery	None	Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'		
+Daggerback Basilisk	{2}{G}	None	Creature	Basilisk	Deathtouch	2	2
+Dominator Drone	{2}{B}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)|When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.	3	2
+Eldrazi Spawn		None	Token,Creature	-,Eldrazi,Spawn	Sacrifice this creature: Add {1} to your mana pool.	0	1
+Eldrazi Temple		None	Land	None	{T}: Add {1} to your mana pool.|{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.		
+Emrakul's Hatcher	{4}{R}	None	Creature	Eldrazi,Drone	When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	3	3
+Evolving Wilds		None	Land	None	{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Explorer's Scope	{1}	None	Artifact	Equipment	Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Forerunner of Slaughter	{B}{R}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|{1}: Target colorless creature gains haste until end of turn.	3	2
+Forest		Basic	Land	Forest	G		
+Forked Bolt	{R}	None	Sorcery	None	Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.		
+Frontier Guide	{1}{G}	None	Creature	Elf,Scout	{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.	1	1
+Graypelt Hunter	{3}{G}	None	Creature	Human,Warrior,Ally	Trample|Whenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.	2	2
+Graypelt Refuge		None	Land	None	Graypelt Refuge enters the battlefield tapped.|When Graypelt Refuge enters the battlefield, you gain 1 life.|{T}: Add {G} or {W} to your mana pool.		
+Grazing Gladehart	{2}{G}	None	Creature	Antelope	Landfall - Whenever a land enters the battlefield under your control, you may gain 2 life.	2	2
+Groundswell	{G}	None	Instant	None	Target creature gets +2/+2 until end of turn.|Landfall - If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.		
+Harrow	{2}{G}	None	Instant	None	As an additional cost to cast Harrow, sacrifice a land.|Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.		
+Heartstabber Mosquito	{3}{B}	None	Creature	Insect	Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)|Flying|When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.	2	2
+Hellion		None	Token,Creature	-,Hellion		4	4
+Hellion Eruption	{5}{R}	None	Sorcery	None	Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.		
+Induce Despair	{2}{B}	None	Instant	None	As an additional cost to cast Induce Despair, reveal a creature card from your hand.|Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.		
+It That Betrays	{12}	None	Creature	Eldrazi	Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)|Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.	11	11
+Joraga Bard	{3}{G}	None	Creature	Elf,Rogue,Ally	Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.	1	4
+Kabira Vindicator	{3}{W}	None	Creature	Human,Knight	Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 2-4|3/6|Other creatures you control get +1/+1.|LEVEL 5+|4/8|Other creatures you control get +2/+2.	2	4
+Khalni Heart Expedition	{1}{G}	None	Enchantment	None	Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.|Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.		
+Knight of Cliffhaven	{1}{W}	None	Creature	Kor,Knight	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)|LEVEL 1-3|2/3|Flying|LEVEL 4+|4/4|Flying, vigilance	2	2
+Magmaw	{3}{R}{R}	None	Creature	Elemental	{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.	4	4
+Makindi Griffin	{3}{W}	None	Creature	Griffin	Flying	2	4
+Marsh Casualties	{B}{B}	None	Sorcery	None	Kicker {3} (You may pay an additional {3} as you cast this spell.)|Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.		
+Mind Stone	{2}	None	Artifact	None	{T}: Add {1} to your mana pool.|{1}, {T}, Sacrifice Mind Stone: Draw a card.		
+Mountain		Basic	Land	Mountain	R		
+Oblivion Sower	{6}	None	Creature	Eldrazi	When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.	5	8
+Ondu Giant	{3}{G}	None	Creature	Giant,Druid	When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.	2	4
+Oust	{W}	None	Sorcery	None	Put target creature into its owner's library second from the top. Its controller gains 3 life.		
+Pawn of Ulamog	{1}{B}{B}	None	Creature	Vampire,Shaman	Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	2	2
+Plains		Basic	Land	Plains	W		
+Plant		None	Token,Creature	-,Plant		0	1
+Primal Command	{3}{G}{G}	None	Sorcery	None	Choose two -|• Target player gains 7 life.|• Put target noncreature permanent on top of its owner's library.|• Target player shuffles his or her graveyard into his or her library.|• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.		
+Read the Bones	{2}{B}	None	Sorcery	None	Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)		
+Repel the Darkness	{2}{W}	None	Instant	None	Tap up to two target creatures.|Draw a card.		
+Retreat to Kazandu	{2}{G}	None	Enchantment	None	Landfall - Whenever a land enters the battlefield under your control, choose one -|• Put a +1/+1 counter on target creature.|• You gain 2 life.		
+Rocky Tar Pit		None	Land	None	Rocky Tar Pit enters the battlefield tapped.|{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.		
+Runed Servitor	{2}	None	Artifact,Creature	Construct	When Runed Servitor dies, each player draws a card.	2	2
+Scute Mob	{G}	None	Creature	Insect	At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.	1	1
+Seer's Sundial	{4}	None	Artifact	None	Landfall - Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.		
+Sheer Drop	{2}{W}	None	Sorcery	None	Destroy target tapped creature.|Awaken 3-{5}{W} (If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Smother	{1}{B}	None	Instant	None	Destroy target creature with converted mana cost 3 or less. It can't be regenerated.		
+Stirring Wildwood		None	Land	None	Stirring Wildwood enters the battlefield tapped.|{T}: Add {G} or {W} to your mana pool.|{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.		
+Stonework Puma	{3}	None	Artifact,Creature	Cat,Ally		2	2
+Swamp		Basic	Land	Swamp	B		
+Tajuru Archer	{2}{G}	None	Creature	Elf,Archer,Ally	Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.	1	2
+Territorial Baloth	{4}{G}	None	Creature	Beast	Landfall - Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.	4	4
+Torch Slinger	{2}{R}	None	Creature	Goblin,Shaman	Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)|When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.	2	2
+Turntimber Basilisk	{1}{G}{G}	None	Creature	Basilisk	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)|Landfall - Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.	2	1
+Turntimber Grove		None	Land	None	Turntimber Grove enters the battlefield tapped.|When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.|{T}: Add {G} to your mana pool.		
+Ulamog's Crusher	{8}	None	Creature	Eldrazi	Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)|Ulamog's Crusher attacks each turn if able.	8	8
+Vampire Nighthawk	{1}{B}{B}	None	Creature	Vampire,Shaman	Flying|Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)|Lifelink (Damage dealt by this creature also causes you to gain that much life.)	2	3
+Veteran Warleader	{1}{G}{W}	None	Creature	Human,Soldier,Ally	Veteran Warleader's power and toughness are each equal to the number of creatures you control.|Tap another untapped Ally you control: Veteran Warleader gains your choice of first strike, vigilance, or trample until end of turn.	*	*
+Wildheart Invoker	{2}{G}{G}	None	Creature	Elf,Shaman	{8}: Target creature gets +5/+5 and gains trample until end of turn.	4	3

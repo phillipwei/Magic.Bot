@@ -1,0 +1,61 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Accumulated Knowledge	{1}{U}	None	Instant	None	Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.		
+Ætherize	{3}{U}	None	Instant	None	Return all attacking creatures to their owner's hand.		
+Banisher Priest	{1}{W}{W}	None	Creature	Human,Cleric	When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)	2	2
+Captain of the Watch	{4}{W}{W}	None	Creature	Human,Soldier	Vigilance (Attacking doesn't cause this creature to tap.)|Other Soldier creatures you control get +1/+1 and have vigilance.|When Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.	3	3
+Celestial Flare	{W}{W}	None	Instant	None	Target player sacrifices an attacking or blocking creature.		
+Coiling Oracle	{G}{U}	None	Creature	Snake,Elf,Druid	When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.	1	1
+Court Street Denizen	{2}{W}	None	Creature	Human,Soldier	Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.	2	2
+Dauntless Onslaught	{2}{W}	None	Instant	None	Up to two target creatures each get +2/+2 until end of turn.		
+Decree of Justice	{X}{X}{2}{W}{W}	None	Sorcery	None	Put X 4/4 white Angel creature tokens with flying onto the battlefield.|Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)|When you cycle Decree of Justice, you may pay {X}. If you do, put X 1/1 white Soldier creature tokens onto the battlefield.		
+Dictate of Heliod	{3}{W}{W}	None	Enchantment	None	Flash|Creatures you control get +2/+2.		
+Elspeth, Sun's Champion	{4}{W}{W}	None	Planeswalker	Elspeth	+1: Put three 1/1 white Soldier creature tokens onto the battlefield.|−3: Destroy all creatures with power 4 or greater.|−7: You get an emblem with 'Creatures you control get +2/+2 and have flying.'		
+Evolving Wilds		None	Land	None	{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Explore	{1}{G}	None	Sorcery	None	You may play an additional land this turn.|Draw a card.		
+Explosive Vegetation	{3}{G}	None	Sorcery	None	Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.		
+Forest		Basic	Land	Forest	G		
+Gempalm Avenger	{5}{W}	None	Creature	Human,Soldier	Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)|When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.	3	5
+Grazing Gladehart	{2}{G}	None	Creature	Antelope	Landfall - Whenever a land enters the battlefield under your control, you may gain 2 life.	2	2
+Gustcloak Harrier	{1}{W}{W}	None	Creature	Bird,Soldier	Flying|Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.	2	2
+Gustcloak Savior	{4}{W}	None	Creature	Bird,Soldier	Flying|Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.	3	4
+Gustcloak Sentinel	{2}{W}{W}	None	Creature	Human,Soldier	Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.	3	3
+Gustcloak Skirmisher	{3}{W}	None	Creature	Bird,Soldier	Flying|Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.	2	3
+Icatian Javelineers	{W}	None	Creature	Human,Soldier	Icatian Javelineers enters the battlefield with a javelin counter on it.|{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.	1	1
+Inkwell Leviathan	{7}{U}{U}	None	Artifact,Creature	Leviathan	Islandwalk (This creature can't be blocked as long as defending player controls an Island.)|Trample|Shroud (This creature can't be the target of spells or abilities.)	7	11
+Island		Basic	Land	Island	U		
+Kinsbaile Skirmisher	{1}{W}	None	Creature	Kithkin,Soldier	When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.	2	2
+Kiora, the Crashing Wave	{2}{G}{U}	None	Planeswalker	Kiora	+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.|−1: Draw a card. You may play an additional land this turn.|−5: You get an emblem with 'At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.'		
+Kiora's Follower	{G}{U}	None	Creature	Merfolk	{T}: Untap another target permanent.	2	2
+Kor Skyfisher	{1}{W}	None	Creature	Kor,Soldier	Flying|When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.	2	3
+Kraken		None	Token,Creature	-,Kraken		9	9
+Lorescale Coatl	{1}{G}{U}	None	Creature	Snake	Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.	2	2
+Loxodon Partisan	{4}{W}	None	Creature	Elephant,Soldier	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)	3	4
+Man-o'-War	{2}{U}	None	Creature	Jellyfish	When Man-o'-War enters the battlefield, return target creature to its owner's hand.	2	2
+Mighty Leap	{1}{W}	None	Instant	None	Target creature gets +2/+2 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)		
+Mortal's Ardor	{W}	None	Instant	None	Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)		
+Mother of Runes	{W}	None	Creature	Human,Cleric	{T}: Target creature you control gains protection from the color of your choice until end of turn.	1	1
+Nessian Asp	{4}{G}	None	Creature	Snake	Reach|{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)	4	5
+Netcaster Spider	{2}{G}	None	Creature	Spider	Reach (This creature can block creatures with flying.)|Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.	2	3
+Nimbus Swimmer	{X}{G}{U}	None	Creature	Leviathan	Flying|Nimbus Swimmer enters the battlefield with X +1/+1 counters on it.	0	0
+Noble Templar	{5}{W}	None	Creature	Human,Cleric,Soldier	Vigilance|Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)	3	6
+Omenspeaker	{1}{U}	None	Creature	Human,Wizard	When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)	1	3
+Peel from Reality	{1}{U}	None	Instant	None	Return target creature you control and target creature you don't control to their owners' hands.		
+Plains		Basic	Land	Plains	W		
+Plasm Capture	{G}{G}{U}{U}	None	Instant	None	Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.		
+Precinct Captain	{W}{W}	None	Creature	Human,Soldier	First strike|Whenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield.	2	2
+Raise the Alarm	{1}{W}	None	Instant	None	Put two 1/1 white Soldier creature tokens onto the battlefield.		
+Scourge of Fleets	{5}{U}{U}	None	Creature	Kraken	When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.	6	6
+Sealock Monster	{3}{U}{U}	None	Creature	Octopus	Sealock Monster can't attack unless defending player controls an Island.|{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)|When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.	5	5
+Secluded Steppe		None	Land	None	Secluded Steppe enters the battlefield tapped.|{T}: Add {W} to your mana pool.|Cycling {W} ({W}, Discard this card: Draw a card.)		
+Simic Sky Swallower	{5}{G}{U}	None	Creature	Leviathan	Flying, trample|Shroud (This creature can't be the target of spells or abilities.)	6	6
+Soldier		None	Token,Creature	-,Soldier		1	1
+Soul Parry	{1}{W}	None	Instant	None	Prevent all damage one or two target creatures would deal this turn.		
+Standing Troops	{2}{W}	None	Creature	Human,Soldier	Vigilance	1	4
+Sunlance	{W}	None	Sorcery	None	Sunlance deals 3 damage to target nonwhite creature.		
+Surrakar Banisher	{4}{U}	None	Creature	Surrakar	When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.	3	3
+Temple of the False God		None	Land	None	{T}: Add {2} to your mana pool. Activate this ability only if you control five or more lands.		
+Time to Feed	{2}{G}	None	Sorcery	None	Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)		
+Urban Evolution	{3}{G}{U}	None	Sorcery	None	Draw three cards. You may play an additional land this turn.		
+Veteran Armorsmith	{W}{W}	None	Creature	Human,Soldier	Other Soldier creatures you control get +0/+1.	2	3
+Veteran Swordsmith	{2}{W}	None	Creature	Human,Soldier	Other Soldier creatures you control get +1/+0.	3	2
+Whelming Wave	{2}{U}{U}	None	Sorcery	None	Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.		

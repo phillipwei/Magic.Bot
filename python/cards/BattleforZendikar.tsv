@@ -1,0 +1,255 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Adverse Conditions	{3}{U}	None	Instant	None	Devoid (This card has no color.)|Tap up to two target creatures. Those creatures don't untap during their controller's next untap step. Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'		
+Akoum Firebird	{2}{R}{R}	None	Creature	Phoenix	Flying, haste|Akoum Firebird attacks each turn if able.|Landfall - Whenever a land enters the battlefield under your control, you may pay {4}{R}{R}. If you do, return Akoum Firebird from your graveyard to the battlefield.	3	3
+Akoum Hellkite	{4}{R}{R}	None	Creature	Dragon	Flying|Landfall - Whenever a land enters the battlefield under your control, Akoum Hellkite deals 1 damage to target creature or player. If that land is a Mountain, Akoum Hellkite deals 2 damage to that creature or player instead.	4	4
+Akoum Stonewaker	{1}{R}	None	Creature	Human,Shaman	Landfall - Whenever a land enters the battlefield under your control, you may pay {2}{R}. If you do, put a 3/1 red Elemental creature token with trample and haste onto the battlefield. Exile that token at the beginning of the next end step.	2	1
+Aligned Hedron Network	{4}	None	Artifact	None	When Aligned Hedron Network enters the battlefield, exile all creatures with power 5 or greater until Aligned Hedron Network leaves the battlefield. (Those creatures return under their owners' control.)		
+Ally Encampment		None	Land	None	{T}: Add {1} to your mana pool.|{T}: Add one mana of any color to your mana pool. Spend this mana only to cast an Ally spell.|{1}, {T}, Sacrifice Ally Encampment: Return target Ally you control to its owner's hand.		
+Altar's Reap	{1}{B}	None	Instant	None	As an additional cost to cast Altar's Reap, sacrifice a creature.|Draw two cards.		
+Angel of Renewal	{5}{W}	None	Creature	Angel,Ally	Flying|When Angel of Renewal enters the battlefield, you gain 1 life for each creature you control.	4	4
+Angelic Captain	{3}{R}{W}	None	Creature	Angel,Ally	Flying|Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each other attacking Ally.	4	3
+Angelic Gift	{1}{W}	None	Enchantment	Aura	Enchant creature|When Angelic Gift enters the battlefield, draw a card.|Enchanted creature has flying.		
+Anticipate	{1}{U}	None	Instant	None	Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.		
+Bane of Bala Ged	{7}	None	Creature	Eldrazi	Whenever Bane of Bala Ged attacks, defending player exiles two permanents he or she controls.	7	5
+Barrage Tyrant	{4}{R}	None	Creature	Eldrazi	Devoid (This card has no color.)|{2}{R}, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to target creature or player.	5	3
+Beastcaller Savant	{1}{G}	None	Creature	Elf,Shaman,Ally	Haste|{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.	1	1
+Belligerent Whiptail	{3}{R}	None	Creature	Wurm	Landfall - Whenever a land enters the battlefield under your control, Belligerent Whiptail gains first strike until end of turn.	4	2
+Benthic Infiltrator	{2}{U}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)|Benthic Infiltrator can't be blocked.	1	4
+Blight Herder	{5}	None	Creature	Eldrazi,Processor	When you cast Blight Herder, you may put two cards your opponents own from exile into their owners' graveyards. If you do, put three 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	4	5
+Blighted Cataract		None	Land	None	{T}: Add {1} to your mana pool.|{5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.		
+Blighted Fen		None	Land	None	{T}: Add {1} to your mana pool.|{4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature.		
+Blighted Gorge		None	Land	None	{T}: Add {1} to your mana pool.|{4}{R}, {T}, Sacrifice Blighted Gorge: Blighted Gorge deals 2 damage to target creature or player.		
+Blighted Steppe		None	Land	None	{T}: Add {1} to your mana pool.|{3}{W}, {T}, Sacrifice Blighted Steppe: You gain 2 life for each creature you control.		
+Blighted Woodland		None	Land	None	{T}: Add {1} to your mana pool.|{3}{G}, {T}, Sacrifice Blighted Woodland: Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.		
+Blisterpod	{G}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|When Blisterpod dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	1	1
+Bloodbond Vampire	{2}{B}{B}	None	Creature	Vampire,Shaman,Ally	Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire.	3	3
+Boiling Earth	{1}{R}	None	Sorcery	None	Boiling Earth deals 1 damage to each creature your opponents control.|Awaken 4-{6}{R} (If you cast this spell for {6}{R}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Bone Splinters	{B}	None	Sorcery	None	As an additional cost to cast Bone Splinters, sacrifice a creature.|Destroy target creature.		
+Breaker of Armies	{8}	None	Creature	Eldrazi	All creatures able to block Breaker of Armies do so.	10	8
+Brilliant Spectrum	{3}{U}	None	Sorcery	None	Converge - Draw X cards, where X is the number of colors of mana spent to cast Brilliant Spectrum. Then discard two cards.		
+Bring to Light	{3}{G}{U}	None	Sorcery	None	Converge - Search your library for a creature, instant, or sorcery card with converted mana cost less than or equal to the number of colors of mana spent to cast Bring to Light, exile that card, then shuffle your library. You may cast that card without paying its mana cost.		
+Brood Butcher	{3}{B}{G}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|When Brood Butcher enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'|{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.	3	3
+Brood Monitor	{4}{G}{G}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|When Brood Monitor enters the battlefield, put three 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	3	3
+Broodhunter Wurm	{3}{G}	None	Creature	Wurm		4	3
+Brutal Expulsion	{2}{U}{R}	None	Instant	None	Devoid (This card has no color.)|Choose one or both -|• Return target spell or creature to its owner's hand.|• Brutal Expulsion deals 2 damage to target creature or planeswalker. If that permanent would be put into a graveyard this turn, exile it instead.		
+Call the Scions	{2}{G}	None	Sorcery	None	Devoid (This card has no color.)|Put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'		
+Canopy Vista		None	Land	Forest,Plains	({T}: Add {G} or {W} to your mana pool.)|Canopy Vista enters the battlefield tapped unless you control two or more basic lands.		
+Carrier Thrall	{1}{B}	None	Creature	Vampire	When Carrier Thrall dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	2	1
+Catacomb Sifter	{1}{B}{G}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|When Catacomb Sifter enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'|Whenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)	2	3
+Chasm Guide	{3}{R}	None	Creature	Goblin,Scout,Ally	Rally - Whenever Chasm Guide or another Ally enters the battlefield under your control, creatures you control gain haste until end of turn.	3	2
+Cinder Glade		None	Land	Mountain,Forest	({T}: Add {R} or {G} to your mana pool.)|Cinder Glade enters the battlefield tapped unless you control two or more basic lands.		
+Cliffside Lookout	{W}	None	Creature	Kor,Scout,Ally	{4}{W}: Creatures you control get +1/+1 until end of turn.	1	1
+Cloud Manta	{3}{U}	None	Creature	Fish	Flying	3	2
+Clutch of Currents	{U}	None	Sorcery	None	Return target creature to its owner's hand.|Awaken 3-{4}{U} (If you cast this spell for {4}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Coastal Discovery	{3}{U}	None	Sorcery	None	Draw two cards.|Awaken 4-{5}{U} (If you cast this spell for {5}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Complete Disregard	{2}{B}	None	Instant	None	Devoid (This card has no color.)|Exile target creature with power 3 or less.		
+Conduit of Ruin	{6}	None	Creature	Eldrazi	When you cast Conduit of Ruin, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it.|The first creature spell you cast each turn costs {2} less to cast.	5	5
+Coralhelm Guide	{1}{U}	None	Creature	Merfolk,Scout,Ally	{4}{U}: Target creature can't be blocked this turn.	2	1
+Courier Griffin	{3}{W}	None	Creature	Griffin	Flying|When Courier Griffin enters the battlefield, you gain 2 life.	2	3
+Crumble to Dust	{3}{R}	None	Sorcery	None	Devoid (This card has no color.)|Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles his or her library.		
+Cryptic Cruiser	{3}{U}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|{2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.	3	3
+Culling Drone	{1}{B}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)	2	2
+Dampening Pulse	{3}{U}	None	Enchantment	None	Creatures your opponents control get -1/-0.		
+Deathless Behemoth	{6}	None	Creature	Eldrazi	Vigilance|Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.	6	6
+Defiant Bloodlord	{5}{B}{B}	None	Creature	Vampire	Flying|Whenever you gain life, target opponent loses that much life.	4	5
+Demon's Grasp	{4}{B}	None	Sorcery	None	Target creature gets -5/-5 until end of turn.		
+Desolation Twin	{10}	None	Creature	Eldrazi	When you cast Desolation Twin, put a 10/10 colorless Eldrazi creature token onto the battlefield.	10	10
+Dispel	{U}	None	Instant	None	Counter target instant spell.		
+Dominator Drone	{2}{B}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)|When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.	3	2
+Dragonmaster Outcast	{R}	None	Creature	Human,Shaman	At the beginning of your upkeep, if you control six or more lands, put a 5/5 red Dragon creature token with flying onto the battlefield.	1	1
+Drana, Liberator of Malakir	{1}{B}{B}	Legendary	Creature	Vampire,Ally	Flying, first strike|Whenever Drana, Liberator of Malakir deals combat damage to a player, put a +1/+1 counter on each attacking creature you control.	2	3
+Drana's Emissary	{1}{W}{B}	None	Creature	Vampire,Cleric,Ally	Flying|At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.	2	2
+Drowner of Hope	{5}{U}	None	Creature	Eldrazi	Devoid (This card has no color.)|When Drowner of Hope enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'|Sacrifice an Eldrazi Scion: Tap target creature.	5	5
+Dust Stalker	{2}{B}{R}	None	Creature	Eldrazi	Devoid (This card has no color.)|Haste|At the beginning of each end step, if you control no other colorless creatures, return Dust Stalker to its owner's hand.	5	3
+Dutiful Return	{3}{B}	None	Sorcery	None	Return up to two target creature cards from your graveyard to your hand.		
+Earthen Arms	{1}{G}	None	Sorcery	None	Put two +1/+1 counters on target permanent.|Awaken 4-{6}{G} (If you cast this spell for {6}{G}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Eldrazi Devastator	{8}	None	Creature	Eldrazi	Trample	8	9
+Eldrazi Skyspawner	{2}{U}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Flying|When Eldrazi Skyspawner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	2	1
+Emeria Shepherd	{5}{W}{W}	None	Creature	Angel	Flying|Landfall - Whenever a land enters the battlefield under your control, you may return target nonland permanent card from your graveyard to your hand. If that land is a Plains, you may return that nonland permanent card to the battlefield instead.	4	4
+Encircling Fissure	{2}{W}	None	Instant	None	Prevent all combat damage that would be dealt this turn by creatures target opponent controls.|Awaken 2-{4}{W} (If you cast this spell for {4}{W}, also put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Endless One	{X}	None	Creature	Eldrazi	Endless One enters the battlefield with X +1/+1 counters on it.	0	0
+Evolving Wilds		None	Land	None	{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Exert Influence	{4}{U}	None	Sorcery	None	Converge - Gain control of target creature if its power is less than or equal to the number of colors of mana spent to cast Exert Influence.		
+Expedition Envoy	{W}	None	Creature	Human,Scout,Ally		2	1
+Eyeless Watcher	{3}{G}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|When Eyeless Watcher enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'	1	1
+Fathom Feeder	{U}{B}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Deathtouch|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)|{3}{U}{B}: Draw a card. Each opponent exiles the top card of his or her library.	1	1
+Felidar Cub	{1}{W}	None	Creature	Cat,Beast	Sacrifice Felidar Cub: Destroy target enchantment.	2	2
+Felidar Sovereign	{4}{W}{W}	None	Creature	Cat,Beast	Vigilance, lifelink|At the beginning of your upkeep, if you have 40 or more life, you win the game.	4	6
+Fertile Thicket		None	Land	None	Fertile Thicket enters the battlefield tapped.|When Fertile Thicket enters the battlefield, you may look at the top five cards of your library. If you do, reveal up to one basic land card from among them, then put that card on top of your library and the rest on the bottom in any order.|{T}: Add {G} to your mana pool.		
+Firemantle Mage	{2}{R}	None	Creature	Human,Shaman,Ally	Rally - Whenever Firemantle Mage or another Ally enters the battlefield under your control, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)	2	2
+Forerunner of Slaughter	{B}{R}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|{1}: Target colorless creature gains haste until end of turn.	3	2
+Forest		Basic	Land	Forest	G		
+Fortified Rampart	{1}{W}	None	Creature	Wall	Defender	0	6
+From Beyond	{3}{G}	None	Enchantment	None	Devoid (This card has no color.)|At the beginning of your upkeep, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'|{1}{G}, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library.		
+Geyserfield Stalker	{4}{B}	None	Creature	Elemental	Menace (This creature can't be blocked except by two or more creatures.)|Landfall - Whenever a land enters the battlefield under your control, Geyserfield Stalker gets +2/+2 until end of turn.	3	2
+Ghostly Sentinel	{4}{W}	None	Creature	Kor,Spirit	Flying, vigilance	3	3
+Giant Mantis	{3}{G}	None	Creature	Insect	Reach (This creature can block creatures with flying.)	2	4
+Gideon, Ally of Zendikar	{2}{W}{W}	None	Planeswalker	Gideon	+1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.|0: Put a 2/2 white Knight Ally creature token onto the battlefield.|−4: You get an emblem with 'Creatures you control get +1/+1.'		
+Gideon's Reproach	{1}{W}	None	Instant	None	Gideon's Reproach deals 4 damage to target attacking or blocking creature.		
+Goblin War Paint	{1}{R}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has haste.		
+Grave Birthing	{2}{B}	None	Instant	None	Devoid (This card has no color.)|Target opponent exiles a card from his or her graveyard. You put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'|Draw a card.		
+Greenwarden of Murasa	{4}{G}{G}	None	Creature	Elemental	When Greenwarden of Murasa enters the battlefield, you may return target card from your graveyard to your hand.|When Greenwarden of Murasa dies, you may exile it. If you do, return target card from your graveyard to your hand.	5	4
+Grip of Desolation	{4}{B}{B}	None	Instant	None	Devoid (This card has no color.)|Exile target creature and target land.		
+Grove Rumbler	{2}{R}{G}	None	Creature	Elemental	Trample|Landfall - Whenever a land enters the battlefield under your control, Grove Rumbler gets +2/+2 until end of turn.	3	3
+Grovetender Druids	{2}{G}{W}	None	Creature	Elf,Druid,Ally	Rally - Whenever Grovetender Druids or another Ally enters the battlefield under your control, you may pay {1}. If you do, put a 1/1 green Plant creature token onto the battlefield.	3	3
+Gruesome Slaughter	{6}	None	Sorcery	None	Until end of turn, colorless creatures you control gain '{T}: This creature deals damage equal to its power to target creature.'		
+Guardian of Tazeem	{3}{U}{U}	None	Creature	Sphinx	Flying|Landfall - Whenever a land enters the battlefield under your control, tap target creature an opponent controls. If that land is an Island, that creature doesn't untap during its controller's next untap step.	4	5
+Guul Draz Overseer	{4}{B}{B}	None	Creature	Vampire	Flying|Landfall - Whenever a land enters the battlefield under your control, other creatures you control get +1/+0 until end of turn. If that land is a Swamp, those creatures get +2/+0 until end of turn instead.	3	4
+Hagra Sharpshooter	{2}{B}	None	Creature	Human,Assassin,Ally	{4}{B}: Target creature gets -1/-1 until end of turn.	2	2
+Halimar Tidecaller	{2}{U}	None	Creature	Human,Wizard,Ally	When Halimar Tidecaller enters the battlefield, you may return target card with awaken from your graveyard to your hand.|Land creatures you control have flying.	2	3
+Hedron Archive	{4}	None	Artifact	None	{T}: Add {2} to your mana pool.|{2}, {T}, Sacrifice Hedron Archive: Draw two cards.		
+Hedron Blade	{1}	None	Artifact	Equipment	Equipped creature gets +1/+1.|Whenever equipped creature becomes blocked by one or more colorless creatures, it gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)|Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)		
+Herald of Kozilek	{1}{U}{R}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Colorless spells you cast cost {1} less to cast.	2	4
+Hero of Goma Fada	{4}{W}	None	Creature	Human,Knight,Ally	Rally - Whenever Hero of Goma Fada or another Ally enters the battlefield under your control, creatures you control gain indestructible until end of turn.	4	3
+Horribly Awry	{1}{U}	None	Instant	None	Devoid (This card has no color.)|Counter target creature spell with converted mana cost 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.		
+Incubator Drone	{3}{U}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|When Incubator Drone enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	2	3
+Infuse with the Elements	{3}{G}	None	Instant	None	Converge - Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast Infuse with the Elements. That creature gains trample until end of turn.		
+Inspired Charge	{2}{W}{W}	None	Instant	None	Creatures you control get +2/+1 until end of turn.		
+Island		Basic	Land	Island	U		
+Jaddi Offshoot	{G}	None	Creature	Plant	Defender|Landfall - Whenever a land enters the battlefield under your control, you gain 1 life.	0	3
+Kalastria Healer	{1}{B}	None	Creature	Vampire,Cleric,Ally	Rally - Whenever Kalastria Healer or another Ally enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.	1	2
+Kalastria Nightwatch	{4}{B}	None	Creature	Vampire,Warrior,Ally	Whenever you gain life, Kalastria Nightwatch gains flying until end of turn.	4	5
+Kiora, Master of the Depths	{2}{G}{U}	None	Planeswalker	Kiora	+1: Untap up to one target creature and up to one target land.|−2: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.|−8: You get an emblem with 'Whenever a creature enters the battlefield under your control, you may have it fight target creature.' Then put three 8/8 blue Octopus creature tokens onto the battlefield.		
+Kitesail Scout	{W}	None	Creature	Kor,Scout	Flying	1	1
+Kor Bladewhirl	{1}{W}	None	Creature	Kor,Soldier,Ally	Rally - Whenever Kor Bladewhirl or another Ally enters the battlefield under your control, creatures you control gain first strike until end of turn.	2	2
+Kor Castigator	{1}{W}	None	Creature	Kor,Wizard,Ally	Kor Castigator can't be blocked by Eldrazi Scions.	3	1
+Kor Entanglers	{4}{W}	None	Creature	Kor,Soldier,Ally	Rally - Whenever Kor Entanglers or another Ally enters the battlefield under your control, tap target creature an opponent controls.	3	4
+Kozilek's Channeler	{5}	None	Creature	Eldrazi	{T}: Add {2} to your mana pool.	4	4
+Kozilek's Sentinel	{1}{R}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.	1	4
+Lantern Scout	{2}{W}	None	Creature	Human,Scout,Ally	Rally - Whenever Lantern Scout or another Ally enters the battlefield under your control, creatures you control gain lifelink until end of turn.	3	2
+Lavastep Raider	{R}	None	Creature	Goblin,Warrior	{2}{R}: Lavastep Raider gets +2/+0 until end of turn.	1	2
+Lifespring Druid	{2}{G}	None	Creature	Elf,Druid	{T}: Add one mana of any color to your mana pool.	2	1
+Lithomancer's Focus	{W}	None	Instant	None	Target creature gets +2/+2 until end of turn. Prevent all damage that would be dealt to that creature this turn by colorless sources.		
+Looming Spires		None	Land	None	Looming Spires enters the battlefield tapped.|When Looming Spires enters the battlefield, target creature gets +1/+1 and gains first strike until end of turn.|{T}: Add {R} to your mana pool.		
+Lumbering Falls		None	Land	None	Lumbering Falls enters the battlefield tapped.|{T}: Add {G} or {U} to your mana pool.|{2}{G}{U}: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.		
+Makindi Patrol	{2}{W}	None	Creature	Human,Knight,Ally	Rally - Whenever Makindi Patrol or another Ally enters the battlefield under your control, creatures you control gain vigilance until end of turn.	2	3
+Makindi Sliderunner	{1}{R}	None	Creature	Beast	Trample|Landfall - Whenever a land enters the battlefield under your control, Makindi Sliderunner gets +1/+1 until end of turn.	2	1
+Malakir Familiar	{2}{B}	None	Creature	Bat	Flying, deathtouch|Whenever you gain life, Malakir Familiar gets +1/+1 until end of turn.	2	1
+March from the Tomb	{3}{W}{B}	None	Sorcery	None	Return any number of target Ally creature cards with total converted mana cost 8 or less from your graveyard to the battlefield.		
+Mind Raker	{3}{B}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|When Mind Raker enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, each opponent discards a card.	3	3
+Mire's Malice	{3}{B}	None	Sorcery	None	Target opponent discards two cards.|Awaken 3-{5}{B} (If you cast this spell for {5}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Mist Intruder	{1}{U}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Flying|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)	1	2
+Molten Nursery	{2}{R}	None	Enchantment	None	Devoid (This card has no color.)|Whenever you cast a colorless spell, Molten Nursery deals 1 damage to target creature or player.		
+Mortuary Mire		None	Land	None	Mortuary Mire enters the battlefield tapped.|When Mortuary Mire enters the battlefield, you may put target creature card from your graveyard on top of your library.|{T}: Add {B} to your mana pool.		
+Mountain		Basic	Land	Mountain	R		
+Munda, Ambush Leader	{2}{R}{W}	Legendary	Creature	Kor,Ally	Haste|Rally - Whenever Munda, Ambush Leader or another Ally enters the battlefield under your control, you may look at the top four cards of your library. If you do, reveal any number of Ally cards from among them, then put those cards on top of your library in any order and the rest on the bottom in any order.	3	4
+Murasa Ranger	{3}{G}	None	Creature	Human,Warrior	Landfall - Whenever a land enters the battlefield under your control, you may pay {3}{G}. If you do, put two +1/+1 counters on Murasa Ranger.	3	3
+Murk Strider	{3}{U}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|When Murk Strider enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand.	3	2
+Natural Connection	{2}{G}	None	Instant	None	Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.		
+Nettle Drone	{2}{R}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|{T}: Nettle Drone deals 1 damage to each opponent.|Whenever you cast a colorless spell, untap Nettle Drone.	3	1
+Nirkana Assassin	{2}{B}	None	Creature	Vampire,Assassin,Ally	Whenever you gain life, Nirkana Assassin gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)	2	3
+Nissa's Renewal	{5}{G}	None	Sorcery	None	Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 7 life.		
+Noyan Dar, Roil Shaper	{3}{W}{U}	Legendary	Creature	Merfolk,Ally	Whenever you cast an instant or sorcery spell, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.	4	4
+Ob Nixilis Reignited	{3}{B}{B}	None	Planeswalker	Nixilis	+1: You draw a card and you lose 1 life.|−3: Destroy target creature.|−8: Target opponent gets an emblem with 'Whenever a player draws a card, you lose 2 life.'		
+Oblivion Sower	{6}	None	Creature	Eldrazi	When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.	5	8
+Omnath, Locus of Rage	{3}{R}{R}{G}{G}	Legendary	Creature	Elemental	Landfall - Whenever a land enters the battlefield under your control, put a 5/5 red and green Elemental creature token onto the battlefield.|Whenever Omnath, Locus of Rage or another Elemental you control dies, Omnath deals 3 damage to target creature or player.	5	5
+Ondu Champion	{2}{R}{R}	None	Creature	Minotaur,Warrior,Ally	Rally - Whenever Ondu Champion or another Ally enters the battlefield under your control, creatures you control gain trample until end of turn.	4	3
+Ondu Greathorn	{3}{W}	None	Creature	Beast	First strike|Landfall - Whenever a land enters the battlefield under your control, Ondu Greathorn gets +2/+2 until end of turn.	2	3
+Ondu Rising	{1}{W}	None	Sorcery	None	Whenever a creature attacks this turn, it gains lifelink until end of turn.|Awaken 4-{4}{W} (If you cast this spell for {4}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Oracle of Dust	{4}{U}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|{2}, Put a card an opponent owns from exile into that player's graveyard: Draw a card, then discard a card.	3	5
+Oran-Rief Hydra	{4}{G}{G}	None	Creature	Hydra	Trample|Landfall - Whenever a land enters the battlefield under your control, put a +1/+1 counter on Oran-Rief Hydra. If that land is a Forest, put two +1/+1 counters on Oran-Rief Hydra instead.	5	5
+Oran-Rief Invoker	{1}{G}	None	Creature	Human,Shaman	{8}: Oran-Rief Invoker gets +5/+5 and gains trample until end of turn.	2	2
+Outnumber	{R}	None	Instant	None	Outnumber deals damage to target creature equal to the number of creatures you control.		
+Painful Truths	{2}{B}	None	Sorcery	None	Converge - You draw X cards and you lose X life, where X is the number of colors of mana spent to cast Painful Truths.		
+Part the Waterveil	{4}{U}{U}	None	Sorcery	None	Take an extra turn after this one. Exile Part the Waterveil.|Awaken 6-{6}{U}{U}{U} (If you cast this spell for {6}{U}{U}{U}, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Pathway Arrows	{1}	None	Artifact	Equipment	Equipped creature has '{2}, {T}: This creature deals 1 damage to target creature. If a colorless creature is dealt damage this way, tap it.'|Equip {2}		
+Pilgrim's Eye	{3}	None	Artifact,Creature	Thopter	Flying|When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.	1	1
+Plains		Basic	Land	Plains	W		
+Planar Outburst	{3}{W}{W}	None	Sorcery	None	Destroy all nonland creatures.|Awaken 4-{5}{W}{W}{W} (If you cast this spell for {5}{W}{W}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Plated Crusher	{4}{G}{G}{G}	None	Creature	Beast	Trample, hexproof	7	6
+Plummet	{1}{G}	None	Instant	None	Destroy target creature with flying.		
+Prairie Stream		None	Land	Plains,Island	({T}: Add {W} or {U} to your mana pool.)|Prairie Stream enters the battlefield tapped unless you control two or more basic lands.		
+Prism Array	{4}{U}	None	Enchantment	None	Converge - Prism Array enters the battlefield with a crystal counter on it for each color of mana spent to cast it.|Remove a crystal counter from Prism Array: Tap target creature.|{W}{U}{B}{R}{G}: Scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)		
+Processor Assault	{1}{R}	None	Sorcery	None	Devoid (This card has no color.)|As an additional cost to cast Processor Assault, put a card an opponent owns from exile into that player's graveyard.|Processor Assault deals 5 damage to target creature.		
+Quarantine Field	{X}{X}{W}{W}	None	Enchantment	None	Quarantine Field enters the battlefield with X isolation counters on it.|When Quarantine Field enters the battlefield, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until Quarantine Field leaves the battlefield.		
+Radiant Flames	{2}{R}	None	Sorcery	None	Converge - Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast Radiant Flames.		
+Reckless Cohort	{1}{R}	None	Creature	Human,Warrior,Ally	Reckless Cohort attacks each combat if able unless you control another Ally.	2	2
+Reclaiming Vines	{2}{G}{G}	None	Sorcery	None	Destroy target artifact, enchantment, or land.		
+Resolute Blademaster	{3}{R}{W}	None	Creature	Human,Soldier,Ally	Rally - Whenever Resolute Blademaster or another Ally enters the battlefield under your control, creatures you control gain double strike until end of turn.	2	2
+Retreat to Coralhelm	{2}{U}	None	Enchantment	None	Landfall - Whenever a land enters the battlefield under your control, choose one -|• You may tap or untap target creature.|• Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)		
+Retreat to Emeria	{3}{W}	None	Enchantment	None	Landfall - Whenever a land enters the battlefield under your control, choose one -|• Put a 1/1 white Kor Ally creature token onto the battlefield.|• Creatures you control get +1/+1 until end of turn.		
+Retreat to Hagra	{2}{B}	None	Enchantment	None	Landfall - Whenever a land enters the battlefield under your control, choose one -|• Target creature gets +1/+0 and gains deathtouch until end of turn.|• Each opponent loses 1 life and you gain 1 life.		
+Retreat to Kazandu	{2}{G}	None	Enchantment	None	Landfall - Whenever a land enters the battlefield under your control, choose one -|• Put a +1/+1 counter on target creature.|• You gain 2 life.		
+Retreat to Valakut	{2}{R}	None	Enchantment	None	Landfall - Whenever a land enters the battlefield under your control, choose one -|• Target creature gets +2/+0 until end of turn.|• Target creature can't block this turn.		
+Rising Miasma	{3}{B}	None	Sorcery	None	All creatures get -2/-2 until end of turn.|Awaken 3-{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Roil Spout	{1}{W}{U}	None	Sorcery	None	Put target creature on top of its owner's library.|Awaken 4-{4}{W}{U} (If you cast this spell for {4}{W}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Roilmage's Trick	{3}{U}	None	Instant	None	Converge - Creatures your opponents control get -X/-0 until end of turn, where X is the number of colors of mana spent to cast Roilmage's Trick.|Draw a card.		
+Roil's Retribution	{3}{W}{W}	None	Instant	None	Roil's Retribution deals 5 damage divided as you choose among any number of target attacking or blocking creatures.		
+Rolling Thunder	{X}{R}{R}	None	Sorcery	None	Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.		
+Rot Shambler	{1}{G}	None	Creature	Fungus	Whenever another creature you control dies, put a +1/+1 counter on Rot Shambler.	1	1
+Ruin Processor	{7}	None	Creature	Eldrazi,Processor	When you cast Ruin Processor, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life.	7	8
+Ruination Guide	{2}{U}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)|Other colorless creatures you control get +1/+0.	3	2
+Ruinous Path	{1}{B}{B}	None	Sorcery	None	Destroy target creature or planeswalker.|Awaken 4-{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Rush of Ice	{U}	None	Sorcery	None	Tap target creature. It doesn't untap during its controller's next untap step.|Awaken 3-{4}{U} (If you cast this spell for {4}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Salvage Drone	{U}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)|When Salvage Drone dies, you may draw a card. If you do, discard a card.	1	1
+Sanctum of Ugin		None	Land	None	{T}: Add {1} to your mana pool.|Whenever you cast a colorless spell with converted mana cost 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle your library.		
+Sandstone Bridge		None	Land	None	Sandstone Bridge enters the battlefield tapped.|When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and gains vigilance until end of turn.|{T}: Add {W} to your mana pool.		
+Scatter to the Winds	{1}{U}{U}	None	Instant	None	Counter target spell.|Awaken 3-{4}{U}{U} (If you cast this spell for {4}{U}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Scour from Existence	{7}	None	Instant	None	Exile target permanent.		
+Scythe Leopard	{G}	None	Creature	Cat	Landfall - Whenever a land enters the battlefield under your control, Scythe Leopard gets +1/+1 until end of turn.	1	1
+Seek the Wilds	{1}{G}	None	Sorcery	None	Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.		
+Serene Steward	{1}{W}	None	Creature	Human,Cleric,Ally	Whenever you gain life, you may pay {W}. If you do, put a +1/+1 counter on target creature.	2	2
+Serpentine Spike	{5}{R}{R}	None	Sorcery	None	Devoid (This card has no color.)|Serpentine Spike deals 2 damage to target creature, 3 damage to another target creature, and 4 damage to a third target creature. If a creature dealt damage this way would die this turn, exile it instead.		
+Shadow Glider	{2}{W}	None	Creature	Kor,Soldier	Flying	2	2
+Shambling Vent		None	Land	None	Shambling Vent enters the battlefield tapped.|{T}: Add {W} or {B} to your mana pool.|{1}{W}{B}: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.		
+Shatterskull Recruit	{3}{R}{R}	None	Creature	Giant,Warrior,Ally	Menace (This creature can't be blocked except by two or more creatures.)	4	4
+Sheer Drop	{2}{W}	None	Sorcery	None	Destroy target tapped creature.|Awaken 3-{5}{W} (If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)		
+Shrine of the Forsaken Gods		None	Land	None	{T}: Add {1} to your mana pool.|{T}: Add {2} to your mana pool. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.		
+Silent Skimmer	{3}{B}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Flying|Whenever Silent Skimmer attacks, defending player loses 2 life.	0	4
+Sire of Stagnation	{4}{U}{B}	None	Creature	Eldrazi	Devoid (This card has no color.)|Whenever a land enters the battlefield under an opponent's control, that player exiles the top two cards of his or her library and you draw two cards.	5	7
+Skitterskin	{3}{B}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Skitterskin can't block.|{1}{B}: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.	4	3
+Skyline Cascade		None	Land	None	Skyline Cascade enters the battlefield tapped.|When Skyline Cascade enters the battlefield, target creature an opponent controls doesn't untap during its controller's next untap step.|{T}: Add {U} to your mana pool.		
+Skyrider Elf	{X}{G}{U}	None	Creature	Elf,Warrior,Ally	Flying|Converge - Skyrider Elf enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.	0	0
+Slab Hammer	{2}	None	Artifact	Equipment	Whenever equipped creature attacks, you may return a land you control to its owner's hand. If you do, the creature gets +2/+2 until end of turn.|Equip {2}		
+Sludge Crawler	{B}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)|{2}: Sludge Crawler gets +1/+1 until end of turn.	1	1
+Smite the Monstrous	{3}{W}	None	Instant	None	Destroy target creature with power 4 or greater.		
+Smoldering Marsh		None	Land	Swamp,Mountain	({T}: Add {B} or {R} to your mana pool.)|Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.		
+Smothering Abomination	{2}{B}{B}	None	Creature	Eldrazi	Devoid (This card has no color.)|Flying|At the beginning of your upkeep, sacrifice a creature.|Whenever you sacrifice a creature, draw a card.	4	3
+Snapping Gnarlid	{1}{G}	None	Creature	Beast	Landfall - Whenever a land enters the battlefield under your control, Snapping Gnarlid gets +1/+1 until end of turn.	2	2
+Spawning Bed		None	Land	None	{T}: Add {1} to your mana pool.|{6}, {T}, Sacrifice Spawning Bed: Put three 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have 'Sacrifice this creature: Add {1} to your mana pool.'		
+Spell Shrivel	{2}{U}	None	Instant	None	Devoid (This card has no color.)|Counter target spell unless its controller pays {4}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.		
+Stasis Snare	{1}{W}{W}	None	Enchantment	None	Flash (You may cast this spell any time you could cast an instant.)|When Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)		
+Stone Haven Medic	{1}{W}	None	Creature	Kor,Cleric	{W}, {T}: You gain 1 life.	1	3
+Stonefury	{3}{R}{R}	None	Instant	None	Stonefury deals damage to target creature equal to the number of lands you control.		
+Sunken Hollow		None	Land	Island,Swamp	({T}: Add {U} or {B} to your mana pool.)|Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.		
+Sure Strike	{1}{R}	None	Instant	None	Target creature gets +3/+0 and gains first strike until end of turn.		
+Swamp		Basic	Land	Swamp	B		
+Swarm Surge	{2}{B}	None	Sorcery	None	Devoid (This card has no color.)|Creatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.		
+Swell of Growth	{1}{G}	None	Instant	None	Target creature gets +2/+2 until end of turn. You may put a land card from your hand onto the battlefield.		
+Sylvan Scrying	{1}{G}	None	Sorcery	None	Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.		
+Tajuru Beastmaster	{5}{G}	None	Creature	Elf,Warrior,Ally	Rally - Whenever Tajuru Beastmaster or another Ally enters the battlefield under your control, creatures you control get +1/+1 until end of turn.	5	5
+Tajuru Stalwart	{2}{G}	None	Creature	Elf,Scout,Ally	Converge - Tajuru Stalwart enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.	0	1
+Tajuru Warcaller	{3}{G}{G}	None	Creature	Elf,Warrior,Ally	Rally - Whenever Tajuru Warcaller or another Ally enters the battlefield under your control, creatures you control get +2/+2 until end of turn.	2	1
+Tandem Tactics	{1}{W}	None	Instant	None	Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.		
+Territorial Baloth	{4}{G}	None	Creature	Beast	Landfall - Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.	4	4
+Tide Drifter	{1}{U}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Other colorless creatures you control get +0/+1.	0	5
+Tightening Coils	{1}{U}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets -6/-0 and loses flying.		
+Titan's Presence	{3}	None	Instant	None	As an additional cost to cast Titan's Presence, reveal a colorless creature card from your hand.|Exile target creature if its power is less than or equal to the revealed card's power.		
+Touch of the Void	{2}{R}	None	Sorcery	None	Devoid (This card has no color.)|Touch of the Void deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.		
+Transgress the Mind	{1}{B}	None	Sorcery	None	Devoid (This card has no color.)|Target player reveals his or her hand. You choose a card from it with converted mana cost 3 or greater and exile that card.		
+Tunneling Geopede	{2}{R}	None	Creature	Insect	Landfall - Whenever a land enters the battlefield under your control, Tunneling Geopede deals 1 damage to each opponent.	3	2
+Turn Against	{4}{R}	None	Instant	None	Devoid (This card has no color.)|Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.		
+Ugin's Insight	{3}{U}{U}	None	Sorcery	None	Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards.		
+Ulamog, the Ceaseless Hunger	{10}	Legendary	Creature	Eldrazi	When you cast Ulamog, the Ceaseless Hunger, exile two target permanents.|Indestructible|Whenever Ulamog attacks, defending player exiles the top twenty cards of his or her library.	10	10
+Ulamog's Despoiler	{6}	None	Creature	Eldrazi,Processor	As Ulamog's Despoiler enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, Ulamog's Despoiler enters the battlefield with four +1/+1 counters on it.	5	5
+Ulamog's Nullifier	{2}{U}{B}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|Flash|Flying|When Ulamog's Nullifier enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.	2	3
+Ulamog's Reclaimer	{4}{U}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|When Ulamog's Reclaimer enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand.	2	5
+Undergrowth Champion	{1}{G}{G}	None	Creature	Elemental	If damage would be dealt to Undergrowth Champion while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from Undergrowth Champion.|Landfall - Whenever a land enters the battlefield under your control, put a +1/+1 counter on Undergrowth Champion.	2	2
+Unified Front	{3}{W}	None	Sorcery	None	Converge - Put a 1/1 white Kor Ally creature token onto the battlefield for each color of mana spent to cast Unified Front.		
+Unnatural Aggression	{2}{G}	None	Instant	None	Devoid (This card has no color.)|Target creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead.		
+Valakut Invoker	{2}{R}	None	Creature	Human,Shaman	{8}: Valakut Invoker deals 3 damage to target creature or player.	2	3
+Valakut Predator	{2}{R}	None	Creature	Elemental	Landfall - Whenever a land enters the battlefield under your control, Valakut Predator gets +2/+2 until end of turn.	2	2
+Vampiric Rites	{B}	None	Enchantment	None	{1}{B}, Sacrifice a creature: You gain 1 life and draw a card.		
+Vestige of Emrakul	{3}{R}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Trample	3	4
+Veteran Warleader	{1}{G}{W}	None	Creature	Human,Soldier,Ally	Veteran Warleader's power and toughness are each equal to the number of creatures you control.|Tap another untapped Ally you control: Veteran Warleader gains your choice of first strike, vigilance, or trample until end of turn.	*	*
+Vile Aggregate	{2}{R}	None	Creature	Eldrazi,Drone	Devoid (This card has no color.)|Vile Aggregate's power is equal to the number of colorless creatures you control.|Trample|Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)	*	5
+Void Attendant	{2}{G}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|{1}{G}, Put a card an opponent owns from exile into that player's graveyard: Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has 'Sacrifice this creature: Add {1} to your mana pool.'	2	3
+Void Winnower	{9}	None	Creature	Eldrazi	Your opponents can't cast spells with even converted mana costs. (Zero is even.)|Your opponents can't block with creatures with even converted mana costs.	11	9
+Volcanic Upheaval	{3}{R}	None	Instant	None	Destroy target land.		
+Voracious Null	{2}{B}	None	Creature	Zombie	{1}{B}, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.	2	2
+Wasteland Strangler	{2}{B}	None	Creature	Eldrazi,Processor	Devoid (This card has no color.)|When Wasteland Strangler enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, target creature gets -3/-3 until end of turn.	3	2
+Wave-Wing Elemental	{5}{U}	None	Creature	Elemental	Flying|Landfall - Whenever a land enters the battlefield under your control, Wave-Wing Elemental gets +2/+2 until end of turn.	3	4
+Windrider Patrol	{3}{U}{U}	None	Creature	Merfolk,Wizard	Flying|Whenever Windrider Patrol deals combat damage to a player, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)	4	3
+Woodland Wanderer	{3}{G}	None	Creature	Elemental	Vigilance, trample|Converge - Woodland Wanderer enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.	2	2
+Zada, Hedron Grinder	{3}{R}	Legendary	Creature	Goblin,Ally	Whenever you cast an instant or sorcery spell that targets only Zada, Hedron Grinder, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.	3	3
+Zulaport Cutthroat	{1}{B}	None	Creature	Human,Rogue,Ally	Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.	1	1

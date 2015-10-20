@@ -1,10 +1,13 @@
-import urllib
-import urllib.request
+# -*- coding: utf-8 -*-
+
+import io
+import requests
 import re
 import string
 import sys
 import os
 from bs4 import BeautifulSoup
+from requests.utils import quote
 
 # configs
 OUTPUT_DIR  = "cards"
@@ -14,7 +17,7 @@ SETS_TO_SKIP  = ['Unhinged', 'Unglued']
 # cleans up text
 def sanitize(span):
   # replace dashs to make parsing later easier
-  sanitizedText = str(span).replace('—','-') # aka \u2014
+  sanitizedText = unicode(span).replace(u'\u2014',u'-') # aka \u2014
   # strip line breaks
   sanitizedText = sanitizedText.replace('\r','')
   sanitizedText = sanitizedText.replace('\n','')
@@ -73,21 +76,22 @@ def sanitize(span):
 
 def getSets():
   sets = []
-  html = urllib.request.urlopen('http://gatherer.wizards.com/Pages/Default.aspx').read()
+  html = requests.get('http://gatherer.wizards.com/Pages/Default.aspx').text
   soup = BeautifulSoup(html)
   for setTag in soup.find('select',id='ctl00_ctl00_MainContent_Content_SearchControls_setAddText').find_all('option'):
     if setTag.string is not None:
-      sets.append(setTag.string)
+      # conspiracy will be skipped
+      sets.append(setTag.string.replace(u'\u2014',u'-'))
   return sets
   
 def getSetPage(set, index):
-  html = urllib.request.urlopen('http://gatherer.wizards.com/Pages/Search/Default.aspx?set=[%22' + urllib.parse.quote_plus(set) + '%22]&page=' + str(index)).read()
+  html = requests.get('http://gatherer.wizards.com/Pages/Search/Default.aspx?set=[%22' + quote(set) + '%22]&page=' + str(index)).text
   return html
 
 def getMaxPage(html):
   soup = BeautifulSoup(html)
   maxPage = 0
-  pagingTag = soup.find('div','pagingControls')
+  pagingTag = soup.find('div','pagingcontrols')
   if pagingTag is None:
     return 0
   for pageTag in pagingTag.find_all('a'):
@@ -121,7 +125,7 @@ def parseRarity(title):
   return match.group('rarity').strip()
 
 def writeHeaderToFile(f):
-  f.write('Name\tManaCost\tSuperType\tTypes\tSubTypes\tText\tPower\tToughness\n')
+  f.write(u'Name\tManaCost\tSuperType\tTypes\tSubTypes\tText\tPower\tToughness\n')
   
 def parsePageToFile(html, f):
   soup = BeautifulSoup(html)
@@ -132,7 +136,7 @@ def parsePageToFile(html, f):
     super,types,subtypes,power,toughness = parseType(sanitize(cardinfo.find('span', 'typeLine')))
     text = sanitize(cardinfo.find('div', 'rulesText'))
     rarity = parseRarity(cardItem.find('td', 'setVersions').find('img')['title'])
-    f.write(name + '\t' + manaCost + '\t' + super + '\t' + types + '\t' + subtypes + '\t' + text + '\t' + power + '\t' + toughness + '\n')
+    f.write(name + u'\t' + manaCost + u'\t' + super + u'\t' + types + u'\t' + subtypes + u'\t' + text + u'\t' + power + u'\t' + toughness + u'\n')
 
 def uniqueAdd(list, obj):
   if obj not in list:
@@ -160,7 +164,7 @@ dirFiles = os.listdir(OUTPUT_DIR)
 sets = getSets()
 
 for set in sets:
-  print('Processing ' + set + ' ... ')
+  print(u'Processing ' + set + u' ... ')
   if set in getSetsToSkip():
     print('... skip set; skipping')
     continue
@@ -168,7 +172,7 @@ for set in sets:
   if fileName in dirFiles:
     print('... already exists; skipping')
     continue
-  f = open(os.path.join(OUTPUT_DIR, fileName), 'w', encoding='utf-8')
+  f = io.open(os.path.join(OUTPUT_DIR, fileName), mode='w', encoding='utf-8')
   html = getSetPage(set, 0)
   maxPage = getMaxPage(html)
   print('... ' + fileName + ' : 0/' + str(maxPage))

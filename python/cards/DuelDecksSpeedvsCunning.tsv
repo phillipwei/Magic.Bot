@@ -1,0 +1,73 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Act of Treason	{2}{R}	None	Sorcery	None	Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)		
+Aquamorph Entity	{2}{U}{U}	None	Creature	Shapeshifter	As Aquamorph Entity enters the battlefield or is turned face up, it becomes your choice of 5/1 or 1/5.|Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)	*	*
+Arc Trail	{1}{R}	None	Sorcery	None	Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.		
+Arcanis the Omnipotent	{3}{U}{U}{U}	Legendary	Creature	Wizard	{T}: Draw three cards.|{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.	3	4
+Arrow Volley Trap	{3}{W}{W}	None	Instant	Trap	If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.|Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.		
+Banefire	{X}{R}	None	Sorcery	None	Banefire deals X damage to target creature or player.|If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.		
+Beetleback Chief	{2}{R}{R}	None	Creature	Goblin,Warrior	When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.	2	2
+Bone Splinters	{B}	None	Sorcery	None	As an additional cost to cast Bone Splinters, sacrifice a creature.|Destroy target creature.		
+Coral Trickster	{1}{U}	None	Creature	Merfolk,Rogue	Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Coral Trickster is turned face up, you may tap or untap target permanent.	2	1
+Dauntless Onslaught	{2}{W}	None	Instant	None	Up to two target creatures each get +2/+2 until end of turn.		
+Dregscape Zombie	{1}{B}	None	Creature	Zombie	Unearth {B} ({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)	2	1
+Echo Tracer	{2}{U}	None	Creature	Human,Wizard	Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Echo Tracer is turned face up, return target creature to its owner's hand.	2	2
+Evolving Wilds		None	Land	None	{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Faerie Impostor	{U}	None	Creature	Faerie,Rogue	Flying|When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.	2	1
+Faerie Invaders	{4}{U}	None	Creature	Faerie,Rogue	Flash (You may cast this spell any time you could cast an instant.)|Flying	3	3
+Fathom Seer	{1}{U}	None	Creature	Illusion	Morph-Return two Islands you control to their owner's hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Fathom Seer is turned face up, draw two cards.	1	3
+Fiery Fall	{5}{R}	None	Instant	None	Fiery Fall deals 5 damage to target creature.|Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Flame-Kin Zealot	{1}{R}{R}{W}	None	Creature	Elemental,Berserker	When Flame-Kin Zealot enters the battlefield, creatures you control get +1/+1 and gain haste until end of turn.	2	2
+Fleeting Distraction	{U}	None	Instant	None	Target creature gets -1/-0 until end of turn.|Draw a card.		
+Fleshbag Marauder	{2}{B}	None	Creature	Zombie,Warrior	When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.	3	1
+Frenzied Goblin	{R}	None	Creature	Goblin,Berserker	Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.	1	1
+Fury of the Horde	{5}{R}{R}	None	Sorcery	None	You may exile two red cards from your hand rather than pay Fury of the Horde's mana cost.|Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.		
+Ghitu Encampment		None	Land	None	Ghitu Encampment enters the battlefield tapped.|{T}: Add {R} to your mana pool.|{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)		
+Goblin		None	Creature	Goblin		1	1
+Goblin Bombardment	{1}{R}	None	Enchantment	None	Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.		
+Goblin Deathraiders	{B}{R}	None	Creature	Goblin,Warrior	Trample	3	1
+Goblin Warchief	{1}{R}{R}	None	Creature	Goblin,Warrior	Goblin spells you cast cost {1} less to cast.|Goblin creatures you control have haste.	2	2
+Hellraiser Goblin	{2}{R}	None	Creature	Goblin,Berserker	Creatures you control have haste and attack each combat if able.	2	2
+Hell's Thunder	{1}{R}{R}	None	Creature	Elemental	Flying, haste|At the beginning of the end step, sacrifice Hell's Thunder.|Unearth {4}{R} ({4}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)	4	4
+Hold the Line	{1}{W}{W}	None	Instant	None	Blocking creatures get +7/+7 until end of turn.		
+Hussar Patrol	{2}{W}{U}	None	Creature	Human,Knight	Flash (You may cast this spell any time you could cast an instant.)|Vigilance	2	4
+Impulse	{1}{U}	None	Instant	None	Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.		
+Infantry Veteran	{W}	None	Creature	Human,Soldier	{T}: Target attacking creature gets +1/+1 until end of turn.	1	1
+Inferno Trap	{3}{R}	None	Instant	Trap	If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.|Inferno Trap deals 4 damage to target creature.		
+Island		Basic	Land	Island	U		
+Jeskai Elder	{1}{U}	None	Creature	Human,Monk	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)|Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.	1	2
+Kathari Bomber	{1}{B}{R}	None	Creature	Bird,Shaman	Flying|When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.|Unearth {3}{B}{R} ({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)	2	2
+Kor Hookmaster	{2}{W}	None	Creature	Kor,Soldier	When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.	2	2
+Krenko, Mob Boss	{2}{R}{R}	Legendary	Creature	Goblin,Warrior	{T}: Put X 1/1 red Goblin creature tokens onto the battlefield, where X is the number of Goblins you control.	3	3
+Krenko's Command	{1}{R}	None	Sorcery	None	Put two 1/1 red Goblin creature tokens onto the battlefield.		
+Leonin Snarecaster	{1}{W}	None	Creature	Cat,Soldier	When Leonin Snarecaster enters the battlefield, you may tap target creature.	2	1
+Lightning Angel	{1}{R}{W}{U}	None	Creature	Angel	Flying, vigilance, haste	3	4
+Lightning Helix	{R}{W}	None	Instant	None	Lightning Helix deals 3 damage to target creature or player and you gain 3 life.		
+Lone Missionary	{1}{W}	None	Creature	Kor,Monk	When Lone Missionary enters the battlefield, you gain 4 life.	2	1
+Mana Leak	{1}{U}	None	Instant	None	Counter target spell unless its controller pays {3}.		
+Mardu Heart-Piercer	{3}{R}	None	Creature	Human,Archer	Raid - When Mardu Heart-Piercer enters the battlefield, if you attacked with a creature this turn, Mardu Heart-Piercer deals 2 damage to target creature or player.	2	3
+Master Decoy	{1}{W}	None	Creature	Human,Soldier	{W}, {T}: Tap target creature.	1	2
+Mountain		Basic	Land	Mountain	R		
+Mystic Monastery		None	Land	None	Mystic Monastery enters the battlefield tapped.|{T}: Add {U}, {R}, or {W} to your mana pool.		
+Nomad Outpost		None	Land	None	Nomad Outpost enters the battlefield tapped.|{T}: Add {R}, {W}, or {B} to your mana pool.		
+Ogre Battledriver	{2}{R}{R}	None	Creature	Ogre,Warrior	Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)	3	3
+Oni of Wild Places	{5}{R}	None	Creature	Demon,Spirit	Haste|At the beginning of your upkeep, return a red creature you control to its owner's hand.	6	5
+Orcish Cannonade	{1}{R}{R}	None	Instant	None	Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you.|Draw a card.		
+Plains		Basic	Land	Plains	W		
+Reckless Abandon	{R}	None	Sorcery	None	As an additional cost to cast Reckless Abandon, sacrifice a creature.|Reckless Abandon deals 4 damage to target creature or player.		
+Repeal	{X}{U}	None	Instant	None	Return target nonland permanent with converted mana cost X to its owner's hand.|Draw a card.		
+Scourge Devil	{4}{R}	None	Creature	Devil	When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.|Unearth {2}{R} ({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)	3	3
+Shambling Remains	{1}{B}{R}	None	Creature	Zombie,Horror	Shambling Remains can't block.|Unearth {B}{R} ({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)	4	3
+Shock	{R}	None	Instant	None	Shock deals 2 damage to target creature or player.		
+Sparkmage Apprentice	{1}{R}	None	Creature	Human,Wizard	When Sparkmage Apprentice enters the battlefield, it deals 1 damage to target creature or player.	1	1
+Sphinx of Uthuun	{5}{U}{U}	None	Creature	Sphinx	Flying|When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.	5	6
+Stave Off	{W}	None	Instant	None	Target creature gains protection from the color of your choice until end of turn.		
+Steam Augury	{2}{U}{R}	None	Instant	None	Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.		
+Stonecloaker	{2}{W}	None	Creature	Gargoyle	Flash (You may cast this spell any time you could cast an instant.)|Flying|When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.|When Stonecloaker enters the battlefield, exile target card from a graveyard.	3	2
+Swamp		Basic	Land	Swamp	B		
+Swift Justice	{W}	None	Instant	None	Until end of turn, target creature gets +1/+0 and gains first strike and lifelink.		
+Terramorphic Expanse		None	Land	None	{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Thousand Winds	{4}{U}{U}	None	Creature	Elemental	Flying|Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.	5	6
+Traumatic Visions	{3}{U}{U}	None	Instant	None	Counter target spell.|Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Whiplash Trap	{3}{U}{U}	None	Instant	Trap	If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.|Return two target creatures to their owners' hands.		
+Willbender	{1}{U}	None	Creature	Human,Wizard	Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)|When Willbender is turned face up, change the target of target spell or ability with a single target.	1	2
+Zurgo Helmsmasher	{2}{R}{W}{B}	Legendary	Creature	Orc,Warrior	Haste|Zurgo Helmsmasher attacks each combat if able.|Zurgo Helmsmasher has indestructible as long as it's your turn.|Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.	7	2
