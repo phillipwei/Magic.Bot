@@ -29,7 +29,7 @@ namespace Magic.Core.Test
                 if (choices.Exists(c => c == Choice.Keep))
                 {
                     var landCount = gs.Hands[gs.IndexOf(Player)].Objects.Count(c => c.IsLand);
-                    Console.WriteLine("Land Count = " + landCount);
+                    // Console.WriteLine("Land Count = " + landCount);
                     if (landCount > 0 && landCount < 7)
                     {
                         return choices.Find(c => c == Choice.Keep);
@@ -69,6 +69,7 @@ namespace Magic.Core.Test
             { }
         }
 
+        // Goal: Have this simulate to end of game.
         [TestMethod]
         public void RandomPlayerEngineTest()
         {
@@ -80,7 +81,11 @@ namespace Magic.Core.Test
                     Deck.LoadFromFile(@"Data\Decks\BoltsAndBearsTestDeck.txt"),
                     Deck.LoadFromFile(@"Data\Decks\BoltsAndBearsTestDeck.txt")
                 };
-                var agents = new List<Agent>() { new RandomAgent(players[0]), new RandomAgent(players[1]) };
+                var agents = new List<Agent>()
+                {
+                    new RandomAgent(players[0]),
+                    new RandomAgent(players[1])
+                };
                 var engine = new Engine(players, decks, agents, ga => Console.WriteLine(ga));
 
                 var x = 0;

@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Magic.Core
 {
+    // Todo: Flag?
     // {300.1}
     public enum CardType
     {

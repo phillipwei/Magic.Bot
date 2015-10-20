@@ -26,6 +26,7 @@ namespace Magic.Core
         public override string Toughness { get { return Object.Toughness; } }
         public override int Loyalty { get { return Object.Loyalty; } }
         public bool HasManaAbility { get { return Object.SuperType == SuperType.Basic; } }
+        public bool IsCreature { get { return Object.CardTypes.Contains(CardType.Creature); } }
 
         public Permanent(Card card)
         {

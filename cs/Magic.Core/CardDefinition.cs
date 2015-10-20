@@ -24,6 +24,8 @@ namespace Magic.Core
         public CardDefinition FlipSide { get; set; }
         public CardDefinition TransformSide { get; set; }
 
+        public TargetType TargetType = TargetType.None;
+
         private static bool _initialized = false;
         private static Dictionary<string, CardDefinition> _cardsByName = new Dictionary<string,CardDefinition>();
         private static Dictionary<string, CardDefinition> _cardsBySet = new Dictionary<string,CardDefinition>();
@@ -63,6 +65,23 @@ namespace Magic.Core
         {
             Load();
             return _cardsByName.Values;
+        }
+
+        private void Init()
+        {
+            if (Name == "Lightning Bolt")
+            {
+                TargetType = TargetType.CreatureOrPlayer;
+            }
+            else
+            {
+                InitFromText();
+            }
+        }
+
+        private void InitFromText()
+        {
+            Text.Replace(Name, "{this}");
         }
 
         public override string ToString()

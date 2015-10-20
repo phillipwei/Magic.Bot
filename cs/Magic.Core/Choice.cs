@@ -123,4 +123,38 @@ namespace Magic.Core
             this.Land = p;
         }
     }
+
+    public class TargetCreatureChoice : TargetChoice
+    {
+        public Permanent Creature;
+
+        public TargetCreatureChoice(Permanent creature) : 
+            base($"Target {creature.Name}")
+        {
+            if (!creature.CardTypes.Contains(CardType.Creature))
+            {
+                throw new ArgumentException($"{creature.Name} is not a creature.");
+            }
+            Creature = creature;
+        }
+    }
+
+    public class TargetPlayerChoice : TargetChoice
+    {
+        public Player Player;
+
+        public TargetPlayerChoice(Player player) :
+            base($"Target {player.Name}")
+        {
+            this.Player = player;
+        }
+    }
+
+    public abstract class TargetChoice : Choice
+    {
+        public TargetChoice(string description) 
+            : base(description)
+        {
+        }
+    }
 }

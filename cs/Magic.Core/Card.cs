@@ -25,7 +25,7 @@ namespace Magic.Core
         public bool IsCreature { get { return CardTypes.Contains(CardType.Creature);  } }
         public bool IsTargetting { get { return CardTypes.Exists(t => t == CardType.Instant || t == CardType.Sorcery) 
             && RulesText.IndexOf("target", StringComparison.CurrentCultureIgnoreCase) >= 0; } }
-        
+
         public Card(Player owner, CardDefinition definition)
         {
             this.Owner = owner;

@@ -73,15 +73,63 @@ namespace Magic.Core
                         }
                         else
                         {
-                            var castingChoices = new List<Choice>();
+                            // 601.Casting Spells
+                            // 601.2a To propose the casting of a spell, a player first moves that card (or that copy 
+                            // of a card) from where it is to the stack. It becomes the topmost object on the stack. 
+                            // It has all the characteristics of the card (or the copy of a card) associated with it, 
+                            // and that player becomes its controller. The spell remains on the stack until it’s 
+                            // countered, it resolves, or an effect moves it elsewhere.
 
-                            castingChoices.Add(Choice.AbortSpell);
-                            
-                            // Declare Targets
-                            if (pcc.Card.IsTargetting)
+
+                            // 601.2b If the spell is modal, the player announces the mode choice (see rule 700.2). If 
+                            // the player wishes to splice any cards onto the spell (see rule 702.46), he or she 
+                            // reveals those cards in his or her hand. If the spell has alternative or additional costs 
+                            // that will be paid as it’s being cast such as buyback or kicker costs (see rules 117.8 
+                            // and 117.9), the player announces his or her intentions to pay any or all of those costs 
+                            // (see rule 601.2f). A player can’t apply two alternative methods of casting or two 
+                            // alternative costs to a single spell. If the spell has a variable cost that will be paid 
+                            // as it’s being cast (such as an {X} in its mana cost; see rule 107.3), the player 
+                            // announces the value of that variable. If a cost that will be paid as the spell is being 
+                            // cast includes hybrid mana symbols, the player announces the nonhybrid equivalent cost he 
+                            // or she intends to pay. If a cost that will be paid as the spell is being cast includes 
+                            // Phyrexian mana symbols, the player announces whether he or she intends to pay 2 life or 
+                            // the corresponding colored mana cost for each of those symbols. Previously made choices 
+                            // (such as choosing to cast a spell with flashback from a graveyard or choosing to cast a 
+                            // creature with morph face down) may restrict the player’s options when making these 
+                            // choices.
+
+                            // 601.2c The player announces his or her choice of an appropriate player, object, or zone 
+                            // for each target the spell requires. A spell may require some targets only if an 
+                            // alternative or additional cost (such as a buyback or kicker cost), or a particular mode, 
+                            // was chosen for it; otherwise, the spell is cast as though it did not require those 
+                            // targets. If the spell has a variable number of targets, the player announces how many 
+                            // targets he or she will choose before he or she announces those targets. In some cases, 
+                            // the number of targets will be defined by the spell’s text. Once the number of targets 
+                            // the spell has is determined, that number doesn’t change, even if the information used to 
+                            // determine the number of targets does. The same target can’t be chosen multiple times for 
+                            // any one instance of the word “target” on the spell. However, if the spell uses the word 
+                            // “target” in multiple places, the same object, player, or zone can be chosen once for 
+                            // each instance of the word “target” (as long as it fits the targeting criteria). If any 
+                            // effects say that an object or player must be chosen as a target, the player chooses 
+                            // targets so that he or she obeys the maximum possible number of such effects without 
+                            // violating any rules or effects that say that an object or player can’t be chosen as a 
+                            // target. The chosen players, objects, and/or zones each become a target of that spell. 
+                            // (Any abilities that trigger when those players, objects, and/or zones become the target 
+                            // of a spell trigger at this point; they’ll wait to be put on the stack until the spell 
+                            // has finished being cast.)
+                            // Example: If a spell says “Tap two target creatures,” then the same creature can’t be chosen twice; the spell requires two different legal targets. A spell that says “Destroy target artifact and target land,” however, can target the same artifact land twice because it uses the word “target” in multiple places.
+                            Choice target = null;
+                            if (pcc.Card.TargetType == TargetType.CreatureOrPlayer)
                             {
-                                throw new NotImplementedException();
+                                var targetChoices = new List<Choice>() { Choice.AbortSpell };
+                                targetChoices.AddRange(_gs.Players.Select(p => new TargetPlayerChoice(p)));
+                                targetChoices.AddRange(_gs.Battlefield.Objects.Where(o => o.IsCreature).Select(o => new TargetCreatureChoice(o)));
+                                target = GetPlayerChoice(_gs.Priority, targetChoices);
+                                if (target == Choice.AbortSpell) return;
                             }
+ 
+                            var castingChoices = new List<Choice>();
+                            castingChoices.Add(Choice.AbortSpell);
 
                             // Mana Abilities
                             _gs.Battlefield
