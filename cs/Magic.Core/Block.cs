@@ -9,6 +9,7 @@ namespace Magic.Core
     {
         public static Block ReturnToRavnica = new Block("Return To Ravnica");
         public static Block Theros = new Block("Theros");
+        public static Block Kaladesh = new Block("Kaladesh");
 
         public string Name { get; private set; }
         

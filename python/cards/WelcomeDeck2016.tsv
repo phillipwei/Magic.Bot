@@ -1,0 +1,17 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Aegis Angel	{4}{W}{W}	None	Creature	Angel	Flying (This creature can't be blocked except by creatures with flying or reach.)|When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. (Effects that say 'destroy' don't destroy it. A creature with indestructible can't be destroyed by damage.)	5	5
+Air Servant	{4}{U}	None	Creature	Elemental	Flying|{2}{U}: Tap target creature with flying.	4	3
+Borderland Marauder	{1}{R}	None	Creature	Human,Warrior	Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn.	1	2
+Cone of Flame	{3}{R}{R}	None	Sorcery	None	Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.		
+Disperse	{1}{U}	None	Instant	None	Return target nonland permanent to its owner's hand.		
+Incremental Growth	{3}{G}{G}	None	Sorcery	None	Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.		
+Marked by Honor	{3}{W}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)		
+Mind Rot	{2}{B}	None	Sorcery	None	Target player discards two cards.		
+Nightmare	{5}{B}	None	Creature	Nightmare,Horse	Flying (This creature can't be blocked except by creatures with flying or reach.)|Nightmare's power and toughness are each equal to the number of Swamps you control.	*	*
+Oakenform	{2}{G}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets +3/+3.		
+Sengir Vampire	{3}{B}{B}	None	Creature	Vampire	Flying (This creature can't be blocked except by creatures with flying or reach.)|Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.	4	4
+Serra Angel	{3}{W}{W}	None	Creature	Angel	Flying (This creature can't be blocked except by creatures with flying or reach.)|Vigilance (Attacking doesn't cause this creature to tap.)	4	4
+Shivan Dragon	{4}{R}{R}	None	Creature	Dragon	Flying (This creature can't be blocked except by creatures with flying or reach.)|{R}: Shivan Dragon gets +1/+0 until end of turn.	5	5
+Soul of the Harvest	{4}{G}{G}	None	Creature	Elemental	Trample|Whenever another nontoken creature enters the battlefield under your control, you may draw a card.	6	6
+Sphinx of Magosi	{3}{U}{U}{U}	None	Creature	Sphinx	Flying|{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.	6	6
+Walking Corpse	{1}{B}	None	Creature	Zombie		2	2

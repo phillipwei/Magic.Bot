@@ -1,0 +1,265 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Accomplished Automaton	{7}	None	Artifact,Creature	Construct	Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	5	7
+Acrobatic Maneuver	{2}{W}	None	Instant	None	Exile target creature you control, then return that card to the battlefield under its owner's control.|Draw a card.		
+Aerial Responder	{1}{W}{W}	None	Creature	Dwarf,Soldier	Flying, vigilance, lifelink	2	3
+Aether Hub		None	Land	None	When Aether Hub enters the battlefield, you get  (an energy counter).|{T}: Add  to your mana pool.|{T}, Pay : Add one mana of any color to your mana pool.		
+Aether Meltdown	{1}{U}	None	Enchantment	Aura	Flash (You may cast this spell any time you could cast an instant.)|Enchant creature or Vehicle|When Aether Meltdown enters the battlefield, you get  (two energy counters).|Enchanted permanent gets -4/-0.		
+Aether Theorist	{1}{U}	None	Creature	Vedalken,Rogue	When Aether Theorist enters the battlefield, you get  (three energy counters).|{T}, Pay : Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)	1	3
+Aether Tradewinds (Æther Tradewinds)	{2}{U}	None	Instant	None	Return target permanent you control and target permanent you don't control to their owners' hands.		
+Aetherborn Marauder	{3}{B}	None	Creature	Aetherborn,Rogue	Flying, lifelink|When Aetherborn Marauder enters the battlefield, move any number of +1/+1 counters from other permanents you control onto Aetherborn Marauder.	2	2
+Aetherflux Reservoir	{4}	None	Artifact	None	Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.|Pay 50 life: Aetherflux Reservoir deals 50 damage to target creature or player.		
+Aethersquall Ancient	{5}{U}{U}	None	Creature	Leviathan	Flying|At the beginning of your upkeep, you get  (three energy counters).|Pay : Return all other creatures to their owners' hands. Activate this ability only any time you could cast a sorcery.	6	6
+Aetherstorm Roc	{2}{W}{W}	None	Creature	Bird	Flying|Whenever Aetherstorm Roc or another creature enters the battlefield under your control, you get  (an energy counter).|Whenever Aetherstorm Roc attacks, you may pay . If you do, put a +1/+1 counter on it and tap up to one target creature defending player controls.	3	3
+Aethertorch Renegade	{2}{R}	None	Creature	Human,Rogue	When Aethertorch Renegade enters the battlefield, you get  (four energy counters).|{T}, Pay : Aethertorch Renegade deals 1 damage to target creature.|{T}, Pay : Aethertorch Renegade deals 6 damage to target player.	1	2
+Aetherworks Marvel	{4}	Legendary	Artifact	None	Whenever a permanent you control is put into a graveyard, you get  (an energy counter).|{T}, Pay : Look at the top six cards of your library. You may cast a card from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.		
+Ambitious Aetherborn	{4}{B}	None	Creature	Aetherborn,Artificer	Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	4	3
+Angel of Invention	{3}{W}{W}	None	Creature	Angel	Flying, vigilance, lifelink|Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)|Other creatures you control get +1/+1.	2	1
+Animation Module	{1}	None	Artifact	None	Whenever one or more +1/+1 counters are placed on a permanent you control, you may pay {1}. If you do, create a 1/1 colorless Servo artifact creature token.|{3}, {T}: Choose a counter on target permanent or player. Give that permanent or player another counter of that kind.		
+Appetite for the Unnatural	{2}{G}	None	Instant	None	Destroy target artifact or enchantment. You gain 2 life.		
+Aradara Express	{5}	None	Artifact	Vehicle	Menace|Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)	8	6
+Arborback Stomper	{3}{G}{G}	None	Creature	Beast	Trample|When Arborback Stomper enters the battlefield, you gain 5 life.	5	4
+Architect of the Untamed	{2}{G}	None	Creature	Elf,Artificer,Druid	Whenever a land enters the battlefield under your control, you get  (an energy counter).|Pay : Create a 6/6 colorless Beast artifact creature token.	2	3
+Armorcraft Judge	{3}{G}	None	Creature	Elf,Artificer	When Armorcraft Judge enters the battlefield, draw a card for each creature you control with a +1/+1 counter on it.	3	3
+Attune with Aether	{G}	None	Sorcery	None	Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. You get  (two energy counters).		
+Authority of the Consuls	{W}	None	Enchantment	None	Creatures your opponents control enter the battlefield tapped.|Whenever a creature enters the battlefield under an opponent's control, you gain 1 life.		
+Aviary Mechanic	{1}{W}	None	Creature	Dwarf,Artificer	When Aviary Mechanic enters the battlefield, you may return another permanent you control to its owner's hand.	2	2
+Ballista Charger	{5}	None	Artifact	Vehicle	Whenever Ballista Charger attacks, it deals 1 damage to target creature or player.|Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)	6	6
+Bastion Mastodon	{5}	None	Artifact,Creature	Elephant	{W}: Bastion Mastodon gains vigilance until end of turn.	4	5
+Blooming Marsh		None	Land	None	Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.|{T}: Add {B} or {G} to your mana pool.		
+Blossoming Defense	{G}	None	Instant	None	Target creature you control gets +2/+2 and gains hexproof until end of turn.		
+Bomat Bazaar Barge	{4}	None	Artifact	Vehicle	When Bomat Bazaar Barge enters the battlefield, draw a card.|Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)	5	5
+Bomat Courier	{1}	None	Artifact,Creature	Construct	Haste|Whenever Bomat Courier attacks, exile the top card of your library face down. (You can't look at it.)|{R}, Discard your hand, Sacrifice Bomat Courier: Put all cards exiled with Bomat Courier into their owners' hands.	1	1
+Botanical Sanctum		None	Land	None	Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.|{T}: Add {G} or {U} to your mana pool.		
+Brazen Scourge	{1}{R}{R}	None	Creature	Gremlin	Haste	3	3
+Bristling Hydra	{2}{G}{G}	None	Creature	Hydra	When Bristling Hydra enters the battlefield, you get  (three energy counters).|Pay : Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.	4	3
+Built to Last	{W}	None	Instant	None	Target creature gets +2/+2 until end of turn. If it's an artifact creature, it gains indestructible until end of turn. (Damage and effects that say 'destroy' don't destroy it.)		
+Built to Smash	{R}	None	Instant	None	Target attacking creature gets +3/+3 until end of turn. If it's an artifact creature, it gains trample until end of turn.		
+Captured by the Consulate	{3}{W}	None	Enchantment	Aura	Enchant creature you don't control|Enchanted creature can't attack.|Whenever an opponent casts a spell, if it has a single target, change the target to enchanted creature if able.		
+Cataclysmic Gearhulk	{3}{W}{W}	None	Artifact,Creature	Construct	Vigilance|When Cataclysmic Gearhulk enters the battlefield, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents he or she controls, then sacrifices the rest.	4	5
+Cathartic Reunion	{1}{R}	None	Sorcery	None	As an additional cost to cast Cathartic Reunion, discard two cards.|Draw three cards.		
+Ceremonious Rejection	{U}	None	Instant	None	Counter target colorless spell.		
+Chandra, Pyrogenius	{4}{R}{R}	None	Planeswalker	Chandra	+2: Chandra, Pyrogenius deals 2 damage to each opponent.|−3: Chandra, Pyrogenius deals 4 damage to target creature.|−10: Chandra, Pyrogenius deals 6 damage to target player and each creature he or she controls.		
+Chandra, Torch of Defiance	{2}{R}{R}	None	Planeswalker	Chandra	+1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.|+1: Add {R}{R} to your mana pool.|−3: Chandra, Torch of Defiance deals 4 damage to target creature.|−7: You get an emblem with 'Whenever you cast a spell, this emblem deals 5 damage to target creature or player.'		
+Chandra's Pyrohelix	{1}{R}	None	Instant	None	Chandra's Pyrohelix deals 2 damage divided as you choose among one or two target creatures and/or players.		
+Chief of the Foundry	{3}	None	Artifact,Creature	Construct	Other artifact creatures you control get +1/+1.	2	3
+Cloudblazer	{3}{W}{U}	None	Creature	Human,Scout	Flying|When Cloudblazer enters the battlefield, you gain 2 life and draw two cards.	2	2
+Cogworker's Puzzleknot	{2}	None	Artifact	None	When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless Servo artifact creature token.|{1}{W}, Sacrifice Cogworker's Puzzleknot: Create a 1/1 colorless Servo artifact creature token.		
+Combustible Gearhulk	{4}{R}{R}	None	Artifact,Creature	Construct	First strike|When Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, put the top three cards of your library into your graveyard, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards.	6	6
+Commencement of Festivities	{1}{G}	None	Instant	None	Prevent all combat damage that would be dealt to players this turn.		
+Concealed Courtyard		None	Land	None	Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.|{T}: Add {W} or {B} to your mana pool.		
+Confiscation Coup	{3}{U}{U}	None	Sorcery	None	Choose target artifact or creature. You get  (four energy counters), then you may pay an amount of  equal to that permanent's converted mana cost. If you do, gain control of it.		
+Consulate Skygate	{2}	None	Artifact,Creature	Wall	Defender|Reach (This creature can block creatures with flying.)	0	4
+Consulate Surveillance	{3}{W}	None	Enchantment	None	When Consulate Surveillance enters the battlefield, you get  (four energy counters).|Pay : Prevent all damage that would be dealt to you this turn by a source of your choice.		
+Consul's Shieldguard	{3}{W}	None	Creature	Dwarf,Soldier	When Consul's Shieldguard enters the battlefield, you get  (two energy counters).|Whenever Consul's Shieldguard attacks, you may pay . If you do, another target attacking creature gains indestructible until end of turn.	3	4
+Contraband Kingpin	{U}{B}	None	Creature	Aetherborn,Rogue	Lifelink|Whenever an artifact enters the battlefield under your control, scry 1.	1	4
+Cowl Prowler	{4}{G}{G}	None	Creature	Wurm		6	6
+Creeping Mold	{2}{G}{G}	None	Sorcery	None	Destroy target artifact, enchantment, or land.		
+Cultivator of Blades	{3}{G}{G}	None	Creature	Elf,Artificer	Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)|Whenever Cultivator of Blades attacks, you may have other attacking creatures get +X/+X until end of turn, where X is Cultivator of Blades's power.	1	1
+Cultivator's Caravan	{3}	None	Artifact	Vehicle	{T}: Add one mana of any color to your mana pool.|Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)	5	5
+Curio Vendor	{1}{U}	None	Creature	Vedalken		2	1
+Deadlock Trap	{3}	None	Artifact	None	Deadlock Trap enters the battlefield tapped.|When Deadlock Trap enters the battlefield, you get  (two energy counters).|{T}, Pay : Tap target creature or planeswalker. Its activated abilities can't be activated this turn.		
+Decoction Module	{2}	None	Artifact	None	Whenever a creature enters the battlefield under your control, you get  (an energy counter).|{4}, {T}: Return target creature you control to its owner's hand.		
+Demolish	{3}{R}	None	Sorcery	None	Destroy target artifact or land.		
+Demolition Stomper	{6}	None	Artifact	Vehicle	Demolition Stomper can't be blocked by creatures with power 2 or less.|Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)	10	7
+Demon of Dark Schemes	{3}{B}{B}{B}	None	Creature	Demon	Flying|When Demon of Dark Schemes enters the battlefield, all other creatures get -2/-2 until end of turn.|Whenever another creature dies, you get  (an energy counter).|{2}{B}, Pay : Put target creature card from a graveyard onto the battlefield under your control tapped.	5	5
+Depala, Pilot Exemplar	{1}{R}{W}	Legendary	Creature	Dwarf,Pilot	Other Dwarves you control get +1/+1.|Each Vehicle you control gets +1/+1 as long as it's a creature.|Whenever Depala, Pilot Exemplar becomes tapped, you may pay {X}. If you do, reveal the top X cards of your library, put all Dwarf and Vehicle cards from among them into your hand, then put the rest on the bottom of your library in a random order.|	3	3
+Dhund Operative	{1}{B}	None	Creature	Human,Rogue	As long as you control an artifact, Dhund Operative gets +1/+0 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)	2	2
+Diabolic Tutor	{2}{B}{B}	None	Sorcery	None	Search your library for a card and put that card into your hand. Then shuffle your library.		
+Die Young	{1}{B}	None	Sorcery	None	Choose target creature. You get  (two energy counters), then you may pay any amount of . The creature gets -1/-1 until end of turn for each  paid this way.		
+Disappearing Act	{1}{U}{U}	None	Instant	None	As an additional cost to cast Disappearing Act, return a permanent you control to its owner's hand.|Counter target spell.		
+Dovin Baan	{2}{W}{U}	None	Planeswalker	Dovin	+1: Until your next turn, up to one target creature gets -3/-0 and its activated abilities can't be activated.|−1: You gain 2 life and draw a card.|−7: You get an emblem with 'Your opponents can't untap more than two permanents during their untap steps.'		
+Dramatic Reversal	{1}{U}	None	Instant	None	Untap all nonland permanents you control.		
+Dubious Challenge	{3}{G}	None	Sorcery	None	Look at the top ten cards of your library, exile up to two creature cards from among them, then shuffle your library. Target opponent may choose one of the exiled cards and put it onto the battlefield under his or her control. Put the rest onto the battlefield under your control.		
+Dukhara Peafowl	{4}	None	Artifact,Creature	Bird	{U}: Dukhara Peafowl gains flying until end of turn.	2	4
+Dukhara Scavenger	{5}{B}	None	Creature	Crocodile	When Dukhara Scavenger enters the battlefield, you may put target artifact or creature card from your graveyard on top of your library.	4	6
+Durable Handicraft	{1}{G}	None	Enchantment	None	Whenever a creature enters the battlefield under your control, you may pay {1}. If you do, put a +1/+1 counter on that creature.|{5}{G}, Sacrifice Durable Handicraft: Put a +1/+1 counter on each creature you control.		
+Dynavolt Tower	{3}	None	Artifact	None	Whenever you cast an instant or sorcery spell, you get  (two energy counters).|{T}, Pay : Dynavolt Tower deals 3 damage to target creature or player.		
+Eager Construct	{2}	None	Artifact,Creature	Construct	When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)	2	2
+Eddytrail Hawk	{1}{W}	None	Creature	Bird	Flying|When Eddytrail Hawk enters the battlefield, you get  (two energy counters).|Whenever Eddytrail Hawk attacks, you may pay . If you do, another target attacking creature gains flying until end of turn.	1	2
+Electrostatic Pummeler	{3}	None	Artifact,Creature	Construct	When Electrostatic Pummeler enters the battlefield, you get  (three energy counters).|Pay : Electrostatic Pummeler gets +X/+X until end of turn, where X is its power.	1	1
+Elegant Edgecrafters	{4}{G}{G}	None	Creature	Elf,Artificer	Elegant Edgecrafters can't be blocked by creatures with power 2 or less.|Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)	3	4
+Eliminate the Competition	{4}{B}	None	Sorcery	None	As an additional cost to cast Eliminate the Competition, sacrifice X creatures.|Destroy X target creatures.		
+Embraal Bruiser	{1}{B}	None	Creature	Human,Warrior	Embraal Bruiser enters the battlefield tapped.|Embraal Bruiser has menace as long as you control an artifact.	3	1
+Empyreal Voyager	{1}{G}{U}	None	Creature	Vedalken,Scout	Flying, trample|Whenever Empyreal Voyager deals combat damage to a player, you get that many  (energy counters).	2	3
+Engineered Might	{3}{G}{W}	None	Sorcery	None	Choose one -|• Target creature gets +5/+5 and gains trample until end of turn.|• Creatures you control get +2/+2 and gain vigilance until end of turn.		
+Era of Innovation	{1}{U}	None	Enchantment	None	Whenever an artifact or Artificer enters the battlefield under your control, you may pay {1}. If you do, you get  (two energy counters).|Pay , Sacrifice Era of Innovation: Draw three cards.		
+Essence Extraction	{1}{B}{B}	None	Instant	None	Essence Extraction deals 3 damage to target creature and you gain 3 life.		
+Experimental Aviator	{3}{U}{U}	None	Creature	Human,Artificer	Flying|When Experimental Aviator enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.	0	3
+Fabrication Module	{3}	None	Artifact	None	Whenever you get one or more  (energy counters), put a +1/+1 counter on target creature you control.|{4}, {T}: You get .		
+Failed Inspection	{2}{U}{U}	None	Instant	None	Counter target spell. Draw a card, then discard a card.		
+Fairgrounds Trumpeter	{2}{G}	None	Creature	Elephant	At the beginning of each end step, if a +1/+1 counter was placed on a permanent under your control this turn, put a +1/+1 counter on Fairgrounds Trumpeter.	2	2
+Fairgrounds Warden	{2}{W}	None	Creature	Dwarf,Soldier	When Fairgrounds Warden enters the battlefield, exile target creature an opponent controls until Fairgrounds Warden leaves the battlefield.	1	3
+Fateful Showdown	{2}{R}{R}	None	Instant	None	Fateful Showdown deals damage to target creature or player equal to the number of cards in your hand. Discard all the cards in your hand, then draw that many cards.		
+Filigree Familiar	{3}	None	Artifact,Creature	Fox	When Filigree Familiar enters the battlefield, you gain 2 life.|When Filigree Familiar dies, draw a card.	2	2
+Fireforger's Puzzleknot	{2}	None	Artifact	None	When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to target creature or player.|{2}{R}, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to target creature or player.		
+Flame Lash	{3}{R}	None	Instant	None	Flame Lash deals 4 damage to target creature or player.		
+Fleetwheel Cruiser	{4}	None	Artifact	Vehicle	Trample, haste|When Fleetwheel Cruiser enters the battlefield, it becomes an artifact creature until end of turn.|Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	5	3
+Forest		Basic	Land	Forest	G		
+Fortuitous Find	{2}{B}	None	Sorcery	None	Choose one or both -|• Return target artifact card from your graveyard to your hand.|• Return target creature card from your graveyard to your hand.		
+Foundry Inspector	{3}	None	Artifact,Creature	Construct	Artifact spells you cast cost {1} less to cast.	3	2
+Foundry Screecher	{2}{B}	None	Creature	Bat	Flying|Foundry Screecher gets +1/+0 as long as you control an artifact.	2	1
+Fragmentize	{W}	None	Sorcery	None	Destroy target artifact or enchantment with converted mana cost 4 or less.		
+Fretwork Colony	{1}{B}	None	Creature	Insect	Fretwork Colony can't block.|At the beginning of your upkeep, put a +1/+1 counter on Fretwork Colony and you lose 1 life.	1	1
+Fumigate	{3}{W}{W}	None	Sorcery	None	Destroy all creatures. You gain 1 life for each creature destroyed this way.		
+Furious Reprisal	{3}{R}	None	Sorcery	None	Furious Reprisal deals 2 damage to each of two target creatures and/or players.		
+Gearseeker Serpent	{5}{U}{U}	None	Creature	Serpent	Gearseeker Serpent costs {1} less to cast for each artifact you control.|{5}{U}: Gearseeker Serpent can't be blocked this turn.	5	6
+Gearshift Ace	{1}{W}	None	Creature	Dwarf,Pilot	First strike|Whenever Gearshift Ace crews a Vehicle, that Vehicle gains first strike until end of turn.	2	1
+Ghirapur Guide	{2}{G}	None	Creature	Elf,Scout	{2}{G}: Target creature you control can't be blocked by creatures with power 2 or less this turn.	3	2
+Ghirapur Orrery	{4}	None	Artifact	None	Each player may play an additional land on each of his or her turns.|At the beginning of each player's upkeep, if that player has no cards in hand, that player draws three cards.		
+Giant Spectacle	{1}{R}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+1 and has menace.		
+Glassblower's Puzzleknot	{2}	None	Artifact	None	When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get . (You get two energy counters. To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)|{2}{U}, Sacrifice Glassblower's Puzzleknot: Scry 2, then you get .		
+Glimmer of Genius	{3}{U}	None	Instant	None	Scry 2, then draw two cards. You get  (two energy counters).		
+Glint-Nest Crane	{1}{U}	None	Creature	Bird	Flying|When Glint-Nest Crane enters the battlefield, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.	1	3
+Glint-Sleeve Artisan	{2}{W}	None	Creature	Dwarf,Artificer	Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	2	2
+Gonti, Lord of Luxury	{2}{B}{B}	Legendary	Creature	Aetherborn,Rogue	Deathtouch|When Gonti, Lord of Luxury enters the battlefield, look at the top four cards of target opponent's library, exile one of them face down, then put the rest on the bottom of that library in a random order. For as long as that card remains exiled, you may look at it, you may cast it, and you may spend mana as though it were mana of any type to cast it.	2	3
+Guardian of the Great Conduit	{3}{G}	None	Creature	Elemental	Reach (This creature can block creatures with flying.)|As long as you control a Nissa planeswalker, Guardian of the Great Conduit gets +2/+0 and has vigilance. (Attacking doesn't cause it to tap.)	2	4
+Harnessed Lightning	{1}{R}	None	Instant	None	Choose target creature. You get  (three energy counters), then you may pay any amount of . Harnessed Lightning deals that much damage to that creature.		
+Harsh Scrutiny	{B}	None	Sorcery	None	Target opponent reveals his or her hand. You choose a creature card from it. That player discards that card. Scry 1.		
+Hazardous Conditions	{2}{B}{G}	None	Sorcery	None	Creatures with no counters on them get -2/-2 until end of turn.		
+Herald of the Fair	{2}{W}	None	Creature	Human	When Herald of the Fair enters the battlefield, target creature you control gets +1/+1 until end of turn.	3	2
+Highspire Artisan	{2}{G}	None	Creature	Elf,Artificer	Reach (This creature can block creatures with flying.)|Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	0	3
+Hightide Hermit	{4}{U}	None	Creature	Crab	Defender|When Hightide Hermit enters the battlefield, you get  (four energy counters).|Pay : Hightide Hermit can attack this turn as though it didn't have defender.	4	4
+Hijack	{1}{R}{R}	None	Sorcery	None	Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.		
+Hunt the Weak	{3}{G}	None	Sorcery	None	Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)		
+Impeccable Timing	{1}{W}	None	Instant	None	Impeccable Timing deals 3 damage to target attacking or blocking creature.		
+Incendiary Sabotage	{2}{R}{R}	None	Instant	None	As an additional cost to cast Incendiary Sabotage, sacrifice an artifact.|Incendiary Sabotage deals 3 damage to each creature.		
+Insidious Will	{2}{U}{U}	None	Instant	None	Choose one -|• Counter target spell.|• You may choose new targets for target spell.|• Copy target instant or sorcery spell. You may choose new targets for the copy.		
+Inspired Charge	{2}{W}{W}	None	Instant	None	Creatures you control get +2/+1 until end of turn.		
+Inspiring Vantage		None	Land	None	Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.|{T}: Add {R} or {W} to your mana pool.		
+Inventor's Apprentice	{R}	None	Creature	Human,Artificer	Inventor's Apprentice gets +1/+1 as long as you control an artifact.	1	2
+Inventors' Fair		Legendary	Land	None	At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life.|{T}: Add  to your mana pool.|{4}, {T}, Sacrifice Inventors' Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle your library. Activate this ability only if you control three or more artifacts.		
+Inventor's Goggles	{1}	None	Artifact	Equipment	Equipped creature gets +1/+2.|Whenever an Artificer enters the battlefield under your control, you may attach Inventor's Goggles to it.|Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)		
+Iron League Steed	{4}	None	Artifact,Creature	Construct	Haste|Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	2	2
+Island		Basic	Land	Island	U		
+Janjeet Sentry	{2}{U}	None	Creature	Vedalken,Soldier	When Janjeet Sentry enters the battlefield, you get  (two energy counters).|{T}, Pay : You may tap or untap target artifact or creature.	2	3
+Kambal, Consul of Allocation	{1}{W}{B}	Legendary	Creature	Human,Advisor	Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life.	2	3
+Key to the City	{2}	None	Artifact	None	{T}, Discard a card: Up to one target creature can't be blocked this turn.|Whenever Key to the City becomes untapped, you may pay {2}. If you do, draw a card.		
+Kujar Seedsculptor	{1}{G}	None	Creature	Elf,Druid	When Kujar Seedsculptor enters the battlefield, put a +1/+1 counter on target creature you control.	1	2
+Larger Than Life	{1}{G}	None	Sorcery	None	Target creature gets +4/+4 and gains trample until end of turn.		
+Lathnu Hellion	{2}{R}	None	Creature	Hellion	Haste|When Lathnu Hellion enters the battlefield, you get  (two energy counters).|At the beginning of your end step, sacrifice Lathnu Hellion unless you pay .	4	4
+Lawless Broker	{2}{B}	None	Creature	Aetherborn,Rogue	When Lawless Broker dies, put a +1/+1 counter on target creature you control.	3	2
+Liberating Combustion	{4}{R}	None	Sorcery	None	Liberating Combustion deals 6 damage to target creature. You may search your library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, and put it into your hand. If you search your library this way, shuffle it.		
+Live Fast	{2}{B}	None	Sorcery	None	You draw two cards, lose 2 life, and get  (two energy counters).		
+Long-Finned Skywhale	{2}{U}{U}	None	Creature	Whale	Flying|Long-Finned Skywhale can block only creatures with flying.	4	3
+Longtusk Cub	{1}{G}	None	Creature	Cat	Whenever Longtusk Cub deals combat damage to a player, you get  (two energy counters).|Pay : Put a +1/+1 counter on Longtusk Cub.	2	2
+Lost Legacy	{1}{B}{B}	None	Sorcery	None	Name a nonartifact, nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles his or her library, then draws a card for each card exiled from hand this way.		
+Madcap Experiment	{3}{R}	None	Sorcery	None	Reveal cards from the top of your library until you reveal an artifact card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Madcap Experiment deals damage to you equal to the number of cards revealed this way.		
+Make Obsolete	{2}{B}	None	Instant	None	Creatures your opponents control get -1/-1 until end of turn.		
+Malfunction	{3}{U}	None	Enchantment	Aura	Enchant artifact or creature|When Malfunction enters the battlefield, tap enchanted permanent.|Enchanted permanent doesn't untap during its controller's untap step.		
+Marionette Master	{4}{B}{B}	None	Creature	Human,Artificer	Fabricate 3 (When this creature enters the battlefield, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)|Whenever an artifact you control is put into a graveyard from the battlefield, target opponent loses life equal to Marionette Master's power.	1	3
+Master Trinketeer	{2}{W}	None	Creature	Dwarf,Artificer	Servos and Thopters you control get +1/+1.|{3}{W}: Create a 1/1 colorless Servo artifact creature token.	3	2
+Maulfist Doorbuster	{3}{R}	None	Creature	Human,Warrior	When Maulfist Doorbuster enters the battlefield, you get  (two energy counters).|Whenever Maulfist Doorbuster attacks, you may pay . If you do, target creature can't block this turn.	4	2
+Maulfist Squad	{3}{B}	None	Creature	Human,Artificer	Menace|Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	3	1
+Metallurgic Summonings	{3}{U}{U}	None	Enchantment	None	Whenever you cast an instant or sorcery spell, create an X/X colorless Construct artifact creature token, where X is that spell's converted mana cost.|{3}{U}{U}, Exile Metallurgic Summonings: Return all instant and sorcery cards from your graveyard to your hand. Activate this ability only if you control six or more artifacts.		
+Metalspinner's Puzzleknot	{2}	None	Artifact	None	When Metalspinner's Puzzleknot enters the battlefield, you draw a card and you lose 1 life.|{2}{B}, Sacrifice Metalspinner's Puzzleknot: You draw a card and you lose 1 life.		
+Metalwork Colossus	{11}	None	Artifact,Creature	Construct	Metalwork Colossus costs {X} less to cast, where X is the total converted mana cost of noncreature artifacts you control.|Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.	10	10
+Midnight Oil	{2}{B}{B}	None	Enchantment	None	Midnight Oil enters the battlefield with seven hour counters on it.|At the beginning of your draw step, draw an additional card and remove two hour counters from Midnight Oil.|Your maximum hand size is equal to the number of hour counters on Midnight Oil.|Whenever you discard a card, you lose 1 life.		
+Mind Rot	{2}{B}	None	Sorcery	None	Target player discards two cards.		
+Minister of Inquiries	{U}	None	Creature	Vedalken,Advisor	When Minister of Inquiries enters the battlefield, you get  (two energy counters).|{T}, Pay : Target player puts the top three cards of his or her library into his or her graveyard.	1	2
+Morbid Curiosity	{1}{B}{B}	None	Sorcery	None	As an additional cost to cast Morbid Curiosity, sacrifice an artifact or creature.|Draw cards equal to the converted mana cost of the sacrificed permanent.		
+Mountain		Basic	Land	Mountain	R		
+Multiform Wonder	{5}	None	Artifact,Creature	Construct	When Multiform Wonder enters the battlefield, you get  (three energy counters).|Pay : Multiform Wonder gains your choice of flying, vigilance, or lifelink until end of turn.|Pay : Multiform Wonder gets +2/-2 or -2/+2 until end of turn.	3	3
+Narnam Cobra	{2}	None	Artifact,Creature	Snake	{G}: Narnam Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)	2	1
+Nature's Way	{1}{G}	None	Sorcery	None	Target creature you control gains vigilance and trample until end of turn. It deals damage equal to its power to target creature you don't control.		
+Night Market Lookout	{B}	None	Creature	Human,Rogue	Whenever Night Market Lookout becomes tapped, each opponent loses 1 life and you gain 1 life.	1	1
+Nimble Innovator	{3}{U}	None	Creature	Vedalken,Artificer	When Nimble Innovator enters the battlefield, draw a card.	2	2
+Ninth Bridge Patrol	{1}{W}	None	Creature	Dwarf,Soldier	Whenever another creature you control leaves the battlefield, put a +1/+1 counter on Ninth Bridge Patrol.	1	1
+Nissa, Nature's Artisan	{4}{G}{G}	None	Planeswalker	Nissa	+3: You gain 3 life.|−4: Reveal the top two cards of your library. Put all land cards from among them onto the battlefield and the rest into your hand.|−12: Creatures you control get +5/+5 and gain trample until end of turn.		
+Nissa, Vital Force	{3}{G}{G}	None	Planeswalker	Nissa	+1: Untap target land you control. Until your next turn, it becomes a 5/5 Elemental creature with haste. It's still a land.|−3: Return target permanent card from your graveyard to your hand.|−6: You get an emblem with 'Whenever a land enters the battlefield under your control, you may draw a card.'		
+Noxious Gearhulk	{4}{B}{B}	None	Artifact,Creature	Construct	Menace|When Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness.	5	4
+Ornamental Courage	{G}	None	Instant	None	Untap target creature. It gets +1/+3 until end of turn.		
+Ovalchase Daredevil	{3}{B}	None	Creature	Human,Pilot	Whenever an artifact enters the battlefield under your control, you may return Ovalchase Daredevil from your graveyard to your hand.	4	2
+Ovalchase Dragster	{4}	None	Artifact	Vehicle	Trample, haste|Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	6	1
+Oviya Pashiri, Sage Lifecrafter	{G}	Legendary	Creature	Human,Artificer	{2}{G}, {T}: Create a 1/1 colorless Servo artifact creature token.|{4}{G}, {T}: Create an X/X colorless Construct artifact creature token, where X is the number of creatures you control.	1	2
+Padeem, Consul of Innovation	{3}{U}	Legendary	Creature	Vedalken,Artificer	Artifacts you control have hexproof.|At the beginning of your upkeep, if you control the artifact with the highest converted mana cost or tied for the highest converted mana cost, draw a card.	1	4
+Panharmonicon	{4}	None	Artifact	None	If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.		
+Paradoxical Outcome	{3}{U}	None	Instant	None	Return any number of target nonland, nontoken permanents you control to their owners' hands. Draw a card for each card returned to your hand this way.		
+Peema Outrider	{2}{G}{G}	None	Creature	Elf,Artificer	Trample|Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	3	3
+Perpetual Timepiece	{2}	None	Artifact	None	{T}: Put the top two cards of your library into your graveyard.|{2}, Exile Perpetual Timepiece: Shuffle any number of target cards from your graveyard into your library.		
+Pia Nalaar	{2}{R}	Legendary	Creature	Human,Artificer	When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.|{1}{R}: Target artifact creature gets +1/+0 until end of turn.|{1}, Sacrifice an artifact: Target creature can't block this turn.	2	2
+Plains		Basic	Land	Plains	W		
+Prakhata Club Security	{3}{B}	None	Creature	Aetherborn,Warrior		3	4
+Prakhata Pillar-Bug	{3}	None	Artifact,Creature	Insect	{B}: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)	2	3
+Pressure Point	{1}{W}	None	Instant	None	Tap target creature.|Draw a card.		
+Propeller Pioneer	{3}{W}	None	Creature	Human,Artificer	Flying|Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)	2	1
+Prophetic Prism	{2}	None	Artifact	None	When Prophetic Prism enters the battlefield, draw a card.|{1}, {T}: Add one mana of any color to your mana pool.		
+Quicksmith Genius	{2}{R}	None	Creature	Human,Artificer	Whenever an artifact enters the battlefield under your control, you may discard a card. If you do, draw a card.	3	2
+Rashmi, Eternities Crafter	{2}{G}{U}	Legendary	Creature	Elf,Druid	Whenever you cast your first spell each turn, reveal the top card of your library. If it's a nonland card with converted mana cost less than that spell's, you may cast it without paying its mana cost. If you don't cast the revealed card, put it into your hand.	2	3
+Reckless Fireweaver	{1}{R}	None	Creature	Human,Artificer	Whenever an artifact enters the battlefield under your control, Reckless Fireweaver deals 1 damage to each opponent.	1	3
+Refurbish	{3}{W}	None	Sorcery	None	Return target artifact card from your graveyard to the battlefield.		
+Renegade Firebrand	{2}{R}	None	Creature	Human,Warrior	As long as you control a Chandra planeswalker, Renegade Firebrand gets +1/+0 and has first strike. (It deals combat damage before creatures without first strike.)	3	2
+Renegade Freighter	{3}	None	Artifact	Vehicle	Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until end of turn.|Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	4	3
+Renegade Tactics	{R}	None	Sorcery	None	Target creature can't block this turn.|Draw a card.		
+Restoration Gearsmith	{2}{W}{B}	None	Creature	Human,Artificer	When Restoration Gearsmith enters the battlefield, return target artifact or creature card from your graveyard to your hand.	3	3
+Revoke Privileges	{2}{W}	None	Enchantment	Aura	Enchant creature|Enchanted creature can't attack, block, or crew Vehicles.		
+Revolutionary Rebuff	{1}{U}	None	Instant	None	Counter target nonartifact spell unless its controller pays {2}.		
+Riparian Tiger	{3}{G}{G}	None	Creature	Cat	Trample|When Riparian Tiger enters the battlefield, you get  (two energy counters).|Whenever Riparian Tiger attacks, you may pay . If you do, it gets +2/+2 until end of turn.	4	4
+Ruinous Gremlin	{R}	None	Creature	Gremlin	{2}{R}, Sacrifice Ruinous Gremlin: Destroy target artifact.	1	1
+Rush of Vitality	{1}{B}	None	Instant	None	Target creature gets +1/+0 and gains lifelink and indestructible until end of turn. (Damage dealt by that creature also causes its controller to gain that much life, and it can't be destroyed by damage or effects that say 'destroy.')		
+Sage of Shaila's Claim	{1}{G}	None	Creature	Elf,Druid	When Sage of Shaila's Claim enters the battlefield, you get  (three energy counters).	2	1
+Saheeli Rai	{1}{U}{R}	None	Planeswalker	Saheeli	+1: Scry 1. Saheeli Rai deals 1 damage to each opponent.|−2: Create a token that's a copy of target artifact or creature you control, except it's an artifact in addition to its other types. That token gains haste. Exile it at the beginning of the next end step.|−7: Search your library for up to three artifact cards with different names, put them onto the battlefield, then shuffle your library.		
+Saheeli's Artistry	{4}{U}{U}	None	Sorcery	None	Choose one or both -|• Create a token that's a copy of target artifact.|• Create a token that's a copy of target creature, except it's an artifact in addition to its other types.		
+Salivating Gremlins	{2}{R}	None	Creature	Gremlin	Whenever an artifact enters the battlefield under your control, Salivating Gremlins gets +2/+0 and gains trample until end of turn.	2	3
+Scrapheap Scrounger	{2}	None	Artifact,Creature	Construct	Scrapheap Scrounger can't block.|{1}{B}, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield.	3	2
+Select for Inspection	{U}	None	Instant	None	Return target tapped creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)		
+Self-Assembler	{5}	None	Artifact,Creature	AssemblyWorker	When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle your library.	4	4
+Sequestered Stash		None	Land	None	{T}: Add  to your mana pool.|{4}, {T}, Sacrifice Sequestered Stash: Put the top five cards of your library into your graveyard. Then you may put an artifact card from your graveyard on top of your library.		
+Servant of the Conduit	{1}{G}	None	Creature	Elf,Druid	When Servant of the Conduit enters the battlefield, you get  (two energy counters).|{T}, Pay : Add one mana of any color to your mana pool.	2	2
+Servo Exhibition	{1}{W}	None	Sorcery	None	Create two 1/1 colorless Servo artifact creature tokens.		
+Shrewd Negotiation	{4}{U}	None	Sorcery	None	Exchange control of target artifact you control and target artifact or creature you don't control.		
+Sky Skiff	{2}	None	Artifact	Vehicle	Flying|Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	2	3
+Skyship Stalker	{2}{R}{R}	None	Creature	Dragon	Flying|{R}: Skyship Stalker gets +1/+0 until end of turn.|{R}: Skyship Stalker gains first strike until end of turn.|{R}: Skyship Stalker gains haste until end of turn.	3	3
+Skysovereign, Consul Flagship	{5}	Legendary	Artifact	Vehicle	Flying|Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it deals 3 damage to target creature or planeswalker an opponent controls.|Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)	6	5
+Skyswirl Harrier	{4}{W}	None	Creature	Bird	Flying	3	4
+Skywhaler's Shot	{2}{W}	None	Instant	None	Destroy target creature with power 3 or greater. Scry 1.		
+Smuggler's Copter	{2}	None	Artifact	Vehicle	Flying|Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you do, discard a card.|Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	3	3
+Snare Thopter	{4}	None	Artifact,Creature	Thopter	Flying, haste	3	2
+Spark of Creativity	{R}	None	Sorcery	None	Choose target creature. Exile the top card of your library. You may have Spark of Creativity deal damage to that creature equal to the exiled card's converted mana cost. If you don't, you may play that card until end of turn.		
+Speedway Fanatic	{1}{R}	None	Creature	Human,Pilot	Haste|Whenever Speedway Fanatic crews a Vehicle, that Vehicle gains haste until end of turn.	2	1
+Spirebluff Canal		None	Land	None	Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.|{T}: Add {U} or {R} to your mana pool.		
+Spireside Infiltrator	{2}{R}	None	Creature	Human,Rogue	Whenever Spireside Infiltrator becomes tapped, it deals 1 damage to each opponent.	3	2
+Spontaneous Artist	{3}{R}	None	Creature	Human,Rogue	When Spontaneous Artist enters the battlefield, you get  (an energy counter).|Pay : Target creature gains haste until end of turn.	3	3
+Start Your Engines	{3}{R}	None	Sorcery	None	Vehicles you control become artifact creatures until end of turn. Creatures you control get +2/+0 until end of turn.		
+Stone Quarry		None	Land	None	Stone Quarry enters the battlefield tapped.|{T}: Add {R} or {W} to your mana pool.		
+Subtle Strike	{1}{B}	None	Instant	None	Choose one or both -|• Target creature gets -1/-1 until end of turn.|• Put a +1/+1 counter on target creature.		
+Swamp		Basic	Land	Swamp	B		
+Syndicate Trafficker	{1}{B}	None	Creature	Aetherborn,Rogue	{1}, Sacrifice an artifact: Put a +1/+1 counter on Syndicate Trafficker. It gains indestructible until end of turn.	3	1
+Take Down	{G}	None	Sorcery	None	Choose one -|• Take Down deals 4 damage to target creature with flying.|• Take Down deals 1 damage to each creature with flying.		
+Tasseled Dromedary	{W}	None	Creature	Camel		0	4
+Terrain Elemental	{1}{G}	None	Creature	Elemental		3	2
+Territorial Gorger	{3}{R}	None	Creature	Gremlin	Trample|Whenever you get one or more  (energy counters), Territorial Gorger gets +2/+2 until end of turn.	2	2
+Terror of the Fairgrounds	{3}{R}	None	Creature	Gremlin		5	2
+Tezzeret's Ambition	{3}{U}{U}	None	Sorcery	None	Draw three cards. If you control no artifacts, discard a card.		
+Thriving Grubs	{1}{R}	None	Creature	Gremlin	When Thriving Grubs enters the battlefield, you get  (two energy counters).|Whenever Thriving Grubs attacks, you may pay . If you do, put a +1/+1 counter on it.	2	1
+Thriving Ibex	{3}{W}	None	Creature	Goat	When Thriving Ibex enters the battlefield, you get  (two energy counters).|Whenever Thriving Ibex attacks, you may pay . If you do, put a +1/+1 counter on it.	2	4
+Thriving Rats	{1}{B}	None	Creature	Rat	When Thriving Rats enters the battlefield, you get  (two energy counters).|Whenever Thriving Rats attacks, you may pay . If you do, put a +1/+1 counter on it.	1	2
+Thriving Rhino	{2}{G}	None	Creature	Rhino	When Thriving Rhino enters the battlefield, you get  (two energy counters).|Whenever Thriving Rhino attacks, you may pay . If you do, put a +1/+1 counter on it.	2	3
+Thriving Turtle	{U}	None	Creature	Turtle	When Thriving Turtle enters the battlefield, you get  (two energy counters).|Whenever Thriving Turtle attacks, you may pay . If you do, put a +1/+1 counter on it.	0	3
+Tidy Conclusion	{3}{B}{B}	None	Instant	None	Destroy target creature. You gain 1 life for each artifact you control.		
+Toolcraft Exemplar	{W}	None	Creature	Dwarf,Artificer	At the beginning of combat on your turn, if you control an artifact, Toolcraft Exemplar gets +2/+1 until end of turn. If you control three or more artifacts, it also gains first strike until end of turn.	1	1
+Torch Gauntlet	{2}	None	Artifact	Equipment	Equipped creature gets +2/+0.|Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)		
+Torrential Gearhulk	{4}{U}{U}	None	Artifact,Creature	Construct	Flash|When Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.	5	6
+Trusty Companion	{1}{W}	None	Creature	Hyena	Vigilance|Trusty Companion can't attack alone.	3	2
+Underhanded Designs	{1}{B}	None	Enchantment	None	Whenever an artifact enters the battlefield under your control, you may pay {1}. If you do, each opponent loses 1 life and you gain 1 life.|{1}{B}, Sacrifice Underhanded Designs: Destroy target creature. Activate this ability only if you control two or more artifacts.		
+Unlicensed Disintegration	{1}{B}{R}	None	Instant	None	Destroy target creature. If you control an artifact, Unlicensed Disintegration deals 3 damage to that creature's controller.		
+Vedalken Blademaster	{2}{U}	None	Creature	Vedalken,Soldier	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)	2	3
+Verdant Crescendo	{3}{G}	None	Sorcery	None	Search your library for a basic land card and put it onto the battlefield tapped. Search your library and graveyard for a card named Nissa, Nature's Artisan, reveal it, and put it into your hand. Then shuffle your library.		
+Verdurous Gearhulk	{3}{G}{G}	None	Artifact,Creature	Construct	Trample|When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control.	4	4
+Veteran Motorist	{R}{W}	None	Creature	Dwarf,Pilot	When Veteran Motorist enters the battlefield, scry 2.|Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end of turn.	3	1
+Visionary Augmenter	{2}{W}{W}	None	Creature	Dwarf,Artificer	Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)	2	1
+Voltaic Brawler	{R}{G}	None	Creature	Human,Warrior	When Voltaic Brawler enters the battlefield, you get  (two energy counters).|Whenever Voltaic Brawler attacks, you may pay . If you do, it gets +1/+1 and gains trample until end of turn.	3	2
+Wayward Giant	{4}{R}	None	Creature	Giant	Menace	4	5
+Weaponcraft Enthusiast	{2}{B}	None	Creature	Aetherborn,Artificer	Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)	0	1
+Weldfast Monitor	{3}	None	Artifact,Creature	Lizard	{R}: Weldfast Monitor gains menace until end of turn.	3	2
+Weldfast Wingsmith	{3}{U}	None	Creature	Human,Artificer	Whenever an artifact enters the battlefield under your control, Weldfast Wingsmith gains flying until end of turn.	3	3
+Welding Sparks	{2}{R}	None	Instant	None	Welding Sparks deals X damage to target creature, where X is 3 plus the number of artifacts you control.		
+Whirler Virtuoso	{1}{U}{R}	None	Creature	Vedalken,Artificer	When Whirler Virtuoso enters the battlefield, you get  (three energy counters).|Pay : Create a 1/1 colorless Thopter artifact creature token with flying.	2	3
+Whirlermaker	{3}	None	Artifact	None	{4}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying.		
+Wild Wanderer	{3}{G}	None	Creature	Elf,Druid	When Wild Wanderer enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.	3	2
+Wildest Dreams	{X}{X}{G}	None	Sorcery	None	Return X target cards from your graveyard to your hand. Exile Wildest Dreams.		
+Wily Bandar	{G}	None	Creature	Cat,Monkey	{2}{G}: Wily Bandar gains indestructible until end of turn. (Damage and effects that say 'destroy' don't destroy it.)	1	1
+Wind Drake	{2}{U}	None	Creature	Drake	Flying	2	2
+Wispweaver Angel	{4}{W}{W}	None	Creature	Angel	Flying|When Wispweaver Angel enters the battlefield, you may exile another target creature you control, then return that card to the battlefield under its owner's control.	4	4
+Woodland Stream		None	Land	None	Woodland Stream enters the battlefield tapped.|{T}: Add {G} or {U} to your mana pool.		
+Woodweaver's Puzzleknot	{2}	None	Artifact	None	When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get  (three energy counters).|{2}{G}, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and get .		
+Workshop Assistant	{3}	None	Artifact,Creature	Construct	When Workshop Assistant dies, return another target artifact card from your graveyard to your hand.	1	2

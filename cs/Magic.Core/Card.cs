@@ -23,7 +23,7 @@ namespace Magic.Core
         public override int Loyalty { get { return this.Definition.Loyalty; } }
         public bool IsLand { get { return CardTypes.Contains(CardType.Land); } }
         public bool IsCreature { get { return CardTypes.Contains(CardType.Creature);  } }
-        public TargetType TargetType { get { return Definition.TargetType } }
+        public TargetType TargetType { get { return Definition.TargetType; } }
 
         public Card(Player owner, CardDefinition definition)
         {

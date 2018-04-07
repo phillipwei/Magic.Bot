@@ -1,0 +1,72 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Abattoir Ghoul	{3}{B}	None	Creature	Zombie	First strike|Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.	3	2
+Angel		None	Token,Creature	-,Angel	Flying	4	4
+Appetite for Brains	{B}	None	Sorcery	None	Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card.		
+Barter in Blood	{2}{B}{B}	None	Sorcery	None	Each player sacrifices two creatures.		
+Bonds of Faith	{1}{W}	None	Enchantment	Aura	Enchant creature|Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.		
+Butcher Ghoul	{1}{B}	None	Creature	Zombie	Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)	1	1
+Butcher's Cleaver	{3}	None	Artifact	Equipment	Equipped creature gets +3/+0.|As long as equipped creature is a Human, it has lifelink.|Equip {3}		
+Captain of the Mists	{2}{U}	None	Creature	Human,Wizard	Whenever another Human enters the battlefield under your control, untap Captain of the Mists.|{1}{U}, {T}: You may tap or untap target permanent.	2	3
+Cathedral Sanctifier	{W}	None	Creature	Human,Cleric	When Cathedral Sanctifier enters the battlefield, you gain 3 life.	1	1
+Champion of the Parish	{W}	None	Creature	Human,Soldier	Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.	1	1
+Chapel Geist	{1}{W}{W}	None	Creature	Spirit	Flying	2	3
+Cobbled Wings	{2}	None	Artifact	Equipment	Equipped creature has flying.|Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)		
+Compelling Deterrence	{1}{U}	None	Instant	None	Return target nonland permanent to its owner's hand. Then that player discards a card if you control a Zombie.		
+Dearly Departed	{4}{W}{W}	None	Creature	Spirit	Flying|As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it.	5	5
+Diregraf Captain	{1}{U}{B}	None	Creature	Zombie,Soldier	Deathtouch|Other Zombie creatures you control get +1/+1.|Whenever another Zombie you control dies, target opponent loses 1 life.	2	2
+Diregraf Ghoul	{B}	None	Creature	Zombie	Diregraf Ghoul enters the battlefield tapped.	2	2
+Dismal Backwater		None	Land	None	Dismal Backwater enters the battlefield tapped.|When Dismal Backwater enters the battlefield, you gain 1 life.|{T}: Add {U} or {B} to your mana pool.		
+Doomed Traveler	{W}	None	Creature	Human,Soldier	When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying.	1	1
+Dread Return	{2}{B}{B}	None	Sorcery	None	Return target creature card from your graveyard to the battlefield.|Flashback-Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Driver of the Dead	{3}{B}	None	Creature	Vampire	When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.	3	2
+Eerie Interlude	{2}{W}	None	Instant	None	Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.		
+Elder Cathar	{2}{W}	None	Creature	Human,Soldier	When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.	2	2
+Emancipation Angel	{1}{W}{W}	None	Creature	Angel	Flying|When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.	3	3
+Falkenrath Noble	{3}{B}	None	Creature	Vampire	Flying|Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.	2	2
+Fiend Hunter	{1}{W}{W}	None	Creature	Human,Cleric	When Fiend Hunter enters the battlefield, you may exile another target creature.|When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.	1	3
+Forbidden Alchemy	{2}{U}	None	Instant	None	Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.|Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Gather the Townsfolk	{1}{W}	None	Sorcery	None	Create two 1/1 white Human creature tokens.|Fateful hour - If you have 5 or less life, create five of those tokens instead.		
+Geist of Saint Traft	{1}{W}{U}	Legendary	Creature	Spirit,Cleric	Hexproof (This creature can't be the target of spells or abilities your opponents control.)|Whenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.	2	2
+Ghoulraiser	{1}{B}{B}	None	Creature	Zombie	When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.	2	2
+Goldnight Redeemer	{4}{W}{W}	None	Creature	Angel	Flying|When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.	4	4
+Gravecrawler	{B}	None	Creature	Zombie	Gravecrawler can't block.|You may cast Gravecrawler from your graveyard as long as you control a Zombie.	2	1
+Gryff Vanguard	{4}{U}	None	Creature	Human,Knight	Flying|When Gryff Vanguard enters the battlefield, draw a card.	3	2
+Harvester of Souls	{4}{B}{B}	None	Creature	Demon	Deathtouch|Whenever another nontoken creature dies, you may draw a card.	5	5
+Havengul Runebinder	{2}{U}{U}	None	Creature	Human,Wizard	{2}{U}, {T}, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each Zombie creature you control.	2	2
+Human		None	Token,Creature	-,Human		1	1
+Human Frailty	{B}	None	Instant	None	Destroy target Human creature.		
+Increasing Devotion	{3}{W}{W}	None	Sorcery	None	Create five 1/1 white Human creature tokens. If Increasing Devotion was cast from a graveyard, create ten of those tokens instead.|Flashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Island		Basic	Land	Island	U		
+Makeshift Mauler	{3}{U}	None	Creature	Zombie,Horror	As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.	4	5
+Mindwrack Demon	{2}{B}{B}	None	Creature	Demon	Flying, trample|When Mindwrack Demon enters the battlefield, put the top four cards of your library into your graveyard.|Delirium - At the beginning of your upkeep, you lose 4 life unless there are four or more card types among cards in your graveyard.	4	5
+Mist Raven	{2}{U}{U}	None	Creature	Bird	Flying|When Mist Raven enters the battlefield, return target creature to its owner's hand.	2	2
+Moan of the Unhallowed	{2}{B}{B}	None	Sorcery	None	Create two 2/2 black Zombie creature tokens.|Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Momentary Blink	{1}{W}	None	Instant	None	Exile target creature you control, then return it to the battlefield under its owner's control.|Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Moorland Inquisitor	{1}{W}	None	Creature	Human,Soldier	{2}{W}: Moorland Inquisitor gains first strike until end of turn.	2	2
+Nephalia Smuggler	{U}	None	Creature	Human,Rogue	{3}{U}, {T}: Exile another target creature you control, then return that card to the battlefield under your control.	1	1
+Plains		Basic	Land	Plains	W		
+Pore Over the Pages	{3}{U}{U}	None	Sorcery	None	Draw three cards, untap up to two lands, then discard a card.		
+Rebuke	{2}{W}	None	Instant	None	Destroy target attacking creature.		
+Relentless Skaabs	{3}{U}{U}	None	Creature	Zombie	As an additional cost to cast Relentless Skaabs, exile a creature card from your graveyard.|Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)	4	4
+Scrapskin Drake	{2}{U}	None	Creature	Zombie,Drake	Flying (This creature can't be blocked except by creatures with flying or reach.)|Scrapskin Drake can block only creatures with flying.	2	3
+Screeching Skaab	{1}{U}	None	Creature	Zombie	When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.	2	1
+Seraph Sanctuary		None	Land	None	When Seraph Sanctuary enters the battlefield, you gain 1 life.|Whenever an Angel enters the battlefield under your control, you gain 1 life.|{T}: Add  to your mana pool.		
+Sever the Bloodline	{3}{B}	None	Sorcery	None	Exile target creature and all other creatures with the same name as that creature.|Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)		
+Sharpened Pitchfork	{2}	None	Artifact	Equipment	Equipped creature has first strike.|As long as equipped creature is a Human, it gets +1/+1.|Equip {1}		
+Slayer of the Wicked	{3}{W}	None	Creature	Human,Soldier	When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.	3	2
+Spectral Gateguards	{4}{W}	None	Creature	Spirit,Soldier	Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)|As long as Spectral Gateguards is paired with another creature, both creatures have vigilance.	2	5
+Spirit		None	Creature	Spirit	Flying	1	1
+Stitched Drake	{1}{U}{U}	None	Creature	Zombie,Drake	As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.|Flying	3	4
+Swamp		Basic	Land	Swamp	B		
+Tandem Lookout	{2}{U}	None	Creature	Human,Scout	Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)|As long as Tandem Lookout is paired with another creature, each of those creatures has 'Whenever this creature deals damage to an opponent, draw a card.'	2	1
+Thraben Heretic	{1}{W}	None	Creature	Human,Wizard	{T}: Exile target creature card from a graveyard.	2	2
+Tooth Collector	{2}{B}	None	Creature	Human,Rogue	When Tooth Collector enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.|Delirium - At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, target creature that player controls gets -1/-1 until end of turn.	3	2
+Topplegeist	{W}	None	Creature	Spirit	Flying|When Topplegeist enters the battlefield, tap target creature an opponent controls.|Delirium - At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, tap target creature that player controls.	1	1
+Tower Geist	{3}{U}	None	Creature	Spirit	Flying|When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.	2	2
+Tranquil Cove		None	Land	None	Tranquil Cove enters the battlefield tapped.|When Tranquil Cove enters the battlefield, you gain 1 life.|{T}: Add {W} or {U} to your mana pool.		
+Tribute to Hunger	{2}{B}	None	Instant	None	Target opponent sacrifices a creature. You gain life equal to that creature's toughness.		
+Unbreathing Horde	{2}{B}	None	Creature	Zombie	Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.|If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.	0	0
+Victim of Night	{B}{B}	None	Instant	None	Destroy target non-Vampire, non-Werewolf, non-Zombie creature.		
+Village Bell-Ringer	{2}{W}	None	Creature	Human,Scout	Flash (You may cast this spell any time you could cast an instant.)|When Village Bell-Ringer enters the battlefield, untap all creatures you control.	1	4
+Voice of the Provinces	{4}{W}{W}	None	Creature	Angel	Flying|When Voice of the Provinces enters the battlefield, create a 1/1 white Human creature token.	3	3
+Zombie		None	Token,Creature	-,Zombie		2	2

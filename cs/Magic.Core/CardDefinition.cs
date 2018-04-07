@@ -40,6 +40,7 @@ namespace Magic.Core
             foreach (string path in Directory.EnumerateFiles(setPath, "*.tsv"))
             {
                 var setName = new FileInfo(path).Name.Split(new char[] { '.' })[0];
+                // Todo: throw a meaningful exception if the Set could not be found
                 var set = typeof(Set).GetField(setName, BindingFlags.Public | BindingFlags.Static).GetValue(null);
                 foreach (var def in IO.LoadFromFile<CardDefinition>(path, seperator, listSeperator, emptyToken))
                 {

@@ -1,0 +1,210 @@
+Name	ManaCost	SuperType	Types	SubTypes	Text	Power	Toughness
+Absorb Vis	{6}{B}	None	Sorcery	None	Target player loses 4 life and you gain 4 life.|Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Adriana, Captain of the Guard	{3}{R}{W}	Legendary	Creature	Human,Knight	Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)|Other creatures you control have melee. (If a creature has multiple instances of melee, each triggers separately.)	4	4
+Affa Guard Hound	{2}{W}	None	Creature	Hound	Flash (You may cast this spell any time you could cast an instant.)|When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.	2	2
+Akroan Hoplite	{R}{W}	None	Creature	Human,Soldier	Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.	1	2
+Altar's Reap	{1}{B}	None	Instant	None	As an additional cost to cast Altar's Reap, sacrifice a creature.|Draw two cards.		
+Animus of Predation	{4}{G}	None	Creature	Avatar	Draft Animus of Predation face up.|As you draft a card, you may remove it from the draft face up. (It isn't in your card pool.)|If you removed a creature card with flying from the draft with cards named Animus of Predation, Animus of Predation has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, and vigilance.	4	4
+Arcane Savant	{3}{U}{U}	None	Creature	Human,Wizard	Before you shuffle your deck to start the game, you may reveal this card from your deck and exile an instant or sorcery card you drafted that isn't in your deck.|When Arcane Savant enters the battlefield, copy a card you exiled with cards named Arcane Savant. You may cast the copy without paying its mana cost.	3	3
+Archdemon of Paliano	{2}{B}{B}	None	Creature	Demon	Draft Archdemon of Paliano face up. |As long as Archdemon of Paliano is face up during the draft, you can't look at booster packs and must draft cards at random. After you draft three cards this way, turn Archdemon of Paliano face down. (You may look at cards as you draft them.)|Flying	5	4
+Ascended Lawmage	{2}{W}{U}	None	Creature	Vedalken,Wizard	Flying|Hexproof (This creature can't be the target of spells or abilities your opponents control.)	3	2
+Avatar of Woe	{6}{B}{B}	None	Creature	Avatar	If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.|Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)|{T}: Destroy target creature. It can't be regenerated.	6	5
+Ballot Broker	{2}{W}	None	Creature	Human,Advisor	While voting, you may vote an additional time. (The votes can be for different choices or for the same choice.)	2	3
+Beast Within	{2}{G}	None	Instant	None	Destroy target permanent. Its controller creates a 3/3 green Beast creature token.		
+Berserk	{G}	None	Instant	None	Cast Berserk only before the combat damage step.|Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.		
+Besmirch	{1}{R}{R}	None	Sorcery	None	Until end of turn, gain control of target creature and it gains haste. Untap and goad that creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)		
+Birds of Paradise	{G}	None	Creature	Bird	Flying|{T}: Add one mana of any color to your mana pool.	0	1
+Blood-Toll Harpy	{2}{B}	None	Creature	Harpy	Flying|When Blood-Toll Harpy enters the battlefield, each player loses 1 life.	2	1
+Bonds of Quicksilver	{3}{U}	None	Enchantment	Aura	Flash (You may cast this spell any time you could cast an instant.)|Enchant creature|Enchanted creature doesn't untap during its controller's untap step.		
+Borderland Explorer	{1}{G}	None	Creature	Elf,Scout	When Borderland Explorer enters the battlefield, each player may discard a card. Each player who discarded a card this way may search his or her library for a basic land card, reveal it, put it into his or her hand, then shuffle his or her library.	3	1
+Bronze Sable	{2}	None	Artifact,Creature	Sable		2	1
+Brushstrider	{1}{G}	None	Creature	Beast	Vigilance	3	1
+Burgeoning	{G}	None	Enchantment	None	Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield.		
+Burn Away	{4}{R}	None	Instant	None	Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.		
+Burning Wish	{1}{R}	None	Sorcery	None	You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.		
+Caller of Gales	{U}	None	Creature	Merfolk,Wizard	{1}{U}, {T}: Target creature gains flying until end of turn.	1	1
+Caller of the Untamed	{3}{G}	None	Creature	Elf,Shaman	Before you shuffle your deck to start the game, you may reveal this card from your deck and exile a creature card you drafted that isn't in your deck.|{X}, {T}: Create a token that's a copy of a card you exiled with cards named Caller of the Untamed. X is the converted mana cost of that card.	2	4
+Canal Courier	{5}{U}	None	Creature	Human,Rogue	When Canal Courier enters the battlefield, you become the monarch.|Whenever Canal Courier and another creature attack different players, Canal Courier can't be blocked this combat.	3	5
+Capital Punishment	{4}{B}{B}	None	Sorcery	None	Council's dilemma - Starting with you, each player votes for death or taxes. Each opponent sacrifices a creature for each death vote and discards a card for each taxes vote.		
+Carnage Gladiator	{2}{B}{R}	None	Creature	Skeleton,Warrior	Whenever a creature blocks, that creature's controller loses 1 life.|{1}{B}{R}: Regenerate Carnage Gladiator.	4	2
+Charmbreaker Devils	{5}{R}	None	Creature	Devil	At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.|Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.	4	4
+Child of Night	{1}{B}	None	Creature	Vampire	Lifelink (Damage dealt by this creature also causes you to gain that much life.)	2	1
+Cloaked Siren	{3}{U}	None	Creature	Siren	Flash (You may cast this spell any time you could cast an instant.)|Flying	3	2
+Coiling Oracle	{G}{U}	None	Creature	Snake,Elf,Druid	When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.	1	1
+Coordinated Assault	{R}	None	Instant	None	Up to two target creatures each get +1/+0 and gain first strike until end of turn.		
+Copperhorn Scout	{G}	None	Creature	Elf,Scout	Whenever Copperhorn Scout attacks, untap each other creature you control.	1	1
+Covenant of Minds	{4}{U}	None	Sorcery	None	Reveal the top three cards of your library. Target opponent may choose to put those cards into your hand. If he or she doesn't, put those cards into your graveyard and draw five cards.		
+Coveted Peacock	{3}{U}{U}	None	Creature	Bird	Flying|Whenever Coveted Peacock attacks, you may goad target creature defending player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)	3	4
+Crown-Hunter Hireling	{4}{R}	None	Creature	Ogre,Mercenary	When Crown-Hunter Hireling enters the battlefield, you become the monarch.|Crown-Hunter Hireling can't attack unless defending player is the monarch.	4	4
+Custodi Lich	{3}{B}{B}	None	Creature	Zombie,Cleric	When Custodi Lich enters the battlefield, you become the monarch.|Whenever you become the monarch, target player sacrifices a creature.	4	2
+Custodi Peacekeeper	{2}{W}	None	Creature	Human,Cleric	Reveal Custodi Peacekeeper as you draft it and note how many cards you've drafted this draft round, including Custodi Peacekeeper.|{W}, {T}: Tap target creature with power less than or equal to the highest number you noted for cards named Custodi Peacekeeper.	2	3
+Custodi Soulcaller	{1}{W}{W}	None	Creature	Human,Cleric	Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)|Whenever Custodi Soulcaller attacks, return target creature card with converted mana cost X or less from your graveyard to the battlefield, where X is the number of players you attacked with a creature this combat.	1	2
+Daretti, Ingenious Iconoclast	{1}{B}{R}	None	Planeswalker	Daretti	+1: Create a 1/1 colorless Construct artifact creature token with defender.|−1: You may sacrifice an artifact. If you do, destroy target artifact or creature.|−6: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.		
+Deadly Designs	{1}{B}	None	Enchantment	None	{2}: Put a plot counter on Deadly Designs. Any player may activate this ability.|When there are five or more plot counters on Deadly Designs, sacrifice it. If you do, destroy up to two target creatures.		
+Death Wind	{X}{B}	None	Instant	None	Target creature gets -X/-X until end of turn.		
+Deceiver Exarch	{2}{U}	None	Creature	Cleric	Flash (You may cast this spell any time you could cast an instant.)|When Deceiver Exarch enters the battlefield, choose one -|• Untap target permanent you control.|• Tap target permanent an opponent controls.	1	4
+Deputized Protester	{2}{R}	None	Creature	Human,Warrior	Menace (This creature can't be blocked except by two or more creatures.)|Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)	2	1
+Desertion	{3}{U}{U}	None	Instant	None	Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.		
+Diabolic Tutor	{2}{B}{B}	None	Sorcery	None	Search your library for a card and put that card into your hand. Then shuffle your library.		
+Disenchant	{1}{W}	None	Instant	None	Destroy target artifact or enchantment.		
+Dismiss	{2}{U}{U}	None	Instant	None	Counter target spell.|Draw a card.		
+Divination	{2}{U}	None	Sorcery	None	Draw two cards.		
+Domesticated Hydra	{2}{G}{G}	None	Creature	Hydra	{X}{G}{G}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)|As long as Domesticated Hydra is monstrous, it has trample.	3	3
+Doomed Traveler	{W}	None	Creature	Human,Soldier	When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying.	1	1
+Dragonlair Spider	{2}{R}{R}{G}{G}	None	Creature	Spider	Reach|Whenever an opponent casts a spell, create a 1/1 green Insect creature token.	5	6
+Dread Statuary		None	Land	None	{T}: Add  to your mana pool.|{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.		
+Driver of the Dead	{3}{B}	None	Creature	Vampire	When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.	3	2
+Duskmantle Seer	{2}{U}{B}	None	Creature	Vampire,Wizard	Flying|At the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.	4	4
+Ember Beast	{2}{R}	None	Creature	Beast	Ember Beast can't attack or block alone.	3	4
+Entourage of Trest	{4}{G}	None	Creature	Elf,Soldier	When Entourage of Trest enters the battlefield, you become the monarch.|Entourage of Trest can block an additional creature each combat as long as you're the monarch.	4	4
+Evolving Wilds		None	Land	None	{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.		
+Exotic Orchard		None	Land	None	{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.		
+Explosive Vegetation	{3}{G}	None	Sorcery	None	Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.		
+Expropriate	{7}{U}{U}	None	Sorcery	None	Council's dilemma - Starting with you, each player votes for time or money. For each time vote, take an extra turn after this one. For each money vote, choose a permanent owned by the voter and gain control of it. Exile Expropriate.		
+Fade into Antiquity	{2}{G}	None	Sorcery	None	Exile target artifact or enchantment.		
+Faith's Reward	{3}{W}	None	Instant	None	Return to the battlefield all permanent cards in your graveyard that were put there from the battlefield this turn.		
+Fang of the Pack	{5}{G}	None	Creature	Wolf	Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)|At the beginning of combat on your turn, another target creature you control gains melee until end of turn. (If a creature has multiple instances of melee, each triggers separately.)	5	3
+Farbog Boneflinger	{4}{B}	None	Creature	Zombie	When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.	2	2
+Festergloom	{2}{B}	None	Sorcery	None	Nonblack creatures get -1/-1 until end of turn.		
+Fiery Fall	{5}{R}	None	Instant	None	Fiery Fall deals 5 damage to target creature.|Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Flame Slash	{R}	None	Sorcery	None	Flame Slash deals 4 damage to target creature.		
+Fleeting Distraction	{U}	None	Instant	None	Target creature gets -1/-0 until end of turn.|Draw a card.		
+Fleshbag Marauder	{2}{B}	None	Creature	Zombie,Warrior	When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.	3	1
+Followed Footsteps	{3}{U}{U}	None	Enchantment	Aura	Enchant creature|At the beginning of your upkeep, create a token that's a copy of enchanted creature.		
+Forgotten Ancient	{3}{G}	None	Creature	Elemental	Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.|At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.	0	3
+Gang of Devils	{5}{R}	None	Creature	Devil	When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.	3	3
+Garbage Fire	{2}{R}	None	Instant	None	Reveal Garbage Fire as you draft it and note how many cards you've drafted this draft round, including Garbage Fire.|Garbage Fire deals damage to target creature equal to the highest number you noted for cards named Garbage Fire.		
+Garrulous Sycophant	{2}{B}	None	Creature	Human,Advisor	At the beginning of your end step, if you're the monarch, each opponent loses 1 life and you gain 1 life.	1	4
+Ghostly Possession	{2}{W}	None	Enchantment	Aura	Enchant creature|Enchanted creature has flying.|Prevent all combat damage that would be dealt to and dealt by enchanted creature.		
+Ghostly Prison	{2}{W}	None	Enchantment	None	Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.		
+Gleam of Resistance	{4}{W}	None	Instant	None	Creatures you control get +1/+2 until end of turn. Untap those creatures.|Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Goblin Balloon Brigade	{R}	None	Creature	Goblin,Warrior	{R}: Goblin Balloon Brigade gains flying until end of turn.	1	1
+Goblin Racketeer	{3}{R}	None	Creature	Goblin,Rogue	Whenever Goblin Racketeer attacks, you may goad target creature defending player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)	4	2
+Goblin Tunneler	{1}{R}	None	Creature	Goblin,Rogue	{T}: Target creature with power 2 or less can't be blocked this turn.	1	1
+Gods Willing	{W}	None	Instant	None	Target creature you control gains protection from the color of your choice until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)		
+Gratuitous Violence	{2}{R}{R}{R}	None	Enchantment	None	If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.		
+Grenzo, Havoc Raiser	{R}{R}	Legendary	Creature	Goblin,Rogue	Whenever a creature you control deals combat damage to a player, choose one -|• Goad target creature that player controls. |• Exile the top card of that player's library. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast it.	2	2
+Grenzo's Ruffians	{2}{R}{R}	None	Creature	Goblin	Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)|Whenever Grenzo's Ruffians deals combat damage to an opponent, it deals that much damage to each other opponent.	2	2
+Gruul War Chant	{2}{R}{G}	None	Enchantment	None	Attacking creatures you control get +1/+0 and have menace. (They can't be blocked except by two or more creatures.)		
+Guardian of the Gateless	{4}{W}	None	Creature	Angel	Flying|Guardian of the Gateless can block any number of creatures.|Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn for each creature it's blocking.	3	3
+Guttersnipe	{2}{R}	None	Creature	Goblin,Shaman	Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.	2	2
+Guul Draz Specter	{2}{B}{B}	None	Creature	Specter	Flying|Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.|Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.	2	2
+Hail of Arrows	{X}{W}	None	Instant	None	Hail of Arrows deals X damage divided as you choose among any number of target attacking creatures.		
+Hallowed Burial	{3}{W}{W}	None	Sorcery	None	Put all creatures on the bottom of their owners' libraries.		
+Hamletback Goliath	{6}{R}	None	Creature	Giant,Warrior	Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power.	6	6
+Harvester of Souls	{4}{B}{B}	None	Creature	Demon	Deathtouch|Whenever another nontoken creature dies, you may draw a card.	5	5
+Havengul Vampire	{3}{R}	None	Creature	Vampire	Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.|Whenever another creature dies, put a +1/+1 counter on Havengul Vampire.	2	2
+Hedron Matrix	{4}	None	Artifact	Equipment	Equipped creature gets +X/+X, where X is its converted mana cost.|Equip {4}		
+Hexplate Golem	{7}	None	Artifact,Creature	Golem		5	7
+Hollowhenge Spirit	{3}{W}	None	Creature	Spirit	Flash (You may cast this spell any time you could cast an instant.)|Flying|When Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.	2	2
+Horn of Greed	{3}	None	Artifact	None	Whenever a player plays a land, that player draws a card.		
+Hundred-Handed One	{2}{W}{W}	None	Creature	Giant	Vigilance|{3}{W}{W}{W}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)|As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat.	3	5
+Hurly-Burly	{1}{R}	None	Sorcery	None	Choose one -|• Hurly-Burly deals 1 damage to each creature without flying.|• Hurly-Burly deals 1 damage to each creature with flying.		
+Ill-Tempered Cyclops	{3}{R}	None	Creature	Cyclops	Trample|{5}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)	3	3
+Illusion of Choice	{U}	None	Instant	None	You choose how each player votes this turn.|Draw a card.		
+Illusionary Informant	{1}{U}	None	Creature	Bird,Illusion	Draft Illusionary Informant face up.|During the draft, you may turn Illusionary Informant face down. If you do, look at the next card drafted by a player of your choice.|Flying	1	3
+Infest	{1}{B}{B}	None	Sorcery	None	All creatures get -2/-2 until end of turn.		
+Inquisition of Kozilek	{B}	None	Sorcery	None	Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.		
+Into the Void	{3}{U}	None	Sorcery	None	Return up to two target creatures to their owners' hands.		
+Irresistible Prey	{G}	None	Sorcery	None	Target creature must be blocked this turn if able.|Draw a card.		
+Jeering Homunculus	{1}{U}	None	Creature	Homunculus	When Jeering Homunculus enters the battlefield, you may goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)	0	4
+Juniper Order Ranger	{3}{G}{W}	None	Creature	Human,Knight	Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.	2	4
+Kami of the Crescent Moon	{U}{U}	Legendary	Creature	Spirit	At the beginning of each player's draw step, that player draws an additional card.	1	3
+Kaya, Ghost Assassin	{2}{W}{B}	None	Planeswalker	Kaya	0: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.|−1: Each opponent loses 2 life and you gain 2 life.|−2: Each opponent discards a card and you draw a card.		
+Keeper of Keys	{3}{U}{U}	None	Creature	Human,Rogue,Mutant	When Keeper of Keys enters the battlefield, you become the monarch.|At the beginning of your upkeep, if you're the monarch, creatures you control can't be blocked this turn.	4	4
+Keepsake Gorgon	{3}{B}{B}	None	Creature	Gorgon	Deathtouch|{5}{B}{B}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)|When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.	2	5
+Kill Shot	{2}{W}	None	Instant	None	Destroy target attacking creature.		
+Kiln Fiend	{1}{R}	None	Creature	Elemental,Beast	Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.	1	2
+Kitesail	{2}	None	Artifact	Equipment	Equipped creature gets +1/+0 and has flying.|Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)		
+Knights of the Black Rose	{3}{W}{B}	None	Creature	Human,Knight	When Knights of the Black Rose enters the battlefield, you become the monarch.|Whenever an opponent becomes the monarch, if you were the monarch as the turn began, that player loses 2 life and you gain 2 life.	4	4
+Lace with Moonglove	{2}{G}	None	Instant	None	Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy that creature.)|Draw a card.		
+Lay of the Land	{G}	None	Sorcery	None	Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.		
+Leovold, Emissary of Trest	{B}{G}{U}	Legendary	Creature	Elf,Advisor	Each opponent can't draw more than one card each turn.|Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card.	3	3
+Leovold's Operative	{2}{G}	None	Creature	Elf,Rogue	Draft Leovold's Operative face up. |As you draft a card, you may draft an additional card from that booster pack. If you do, turn Leovold's Operative face down, then pass the next booster pack without drafting a card from it. (You may look at that booster pack.)	3	2
+Lieutenants of the Guard	{4}{W}	None	Creature	Human,Soldier	Council's dilemma - When Lieutenants of the Guard enters the battlefield, starting with you, each player votes for strength or numbers. Put a +1/+1 counter on Lieutenants of the Guard for each strength vote and create a 1/1 white Soldier creature token for each numbers vote.	2	2
+Manaplasm	{2}{G}	None	Creature	Ooze	Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.	1	1
+Marchesa's Decree	{3}{B}	None	Enchantment	None	When Marchesa's Decree enters the battlefield, you become the monarch.|Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life.		
+Mausoleum Turnkey	{3}{B}	None	Creature	Ogre,Rogue	When Mausoleum Turnkey enters the battlefield, return target creature card of an opponent's choice from your graveyard to your hand.	3	2
+Menagerie Liberator	{3}{G}	None	Creature	Human,Warrior	Trample|Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)	3	2
+Merfolk Looter	{1}{U}	None	Creature	Merfolk,Rogue	{T}: Draw a card, then discard a card.	1	1
+Merfolk Skyscout	{2}{U}{U}	None	Creature	Merfolk,Scout	Flying|Whenever Merfolk Skyscout attacks or blocks, untap target permanent.	2	3
+Messenger Jays	{4}{U}	None	Creature	Bird	Flying|Council's dilemma - When Messenger Jays enters the battlefield, starting with you, each player votes for feather or quill. Put a +1/+1 counter on Messenger Jays for each feather vote and draw a card for each quill vote. For each card drawn this way, discard a card.	2	1
+Mnemonic Wall	{4}{U}	None	Creature	Wall	Defender|When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.	0	4
+Murder	{1}{B}{B}	None	Instant	None	Destroy target creature.		
+Negate	{1}{U}	None	Instant	None	Counter target noncreature spell.		
+Nessian Asp	{4}{G}	None	Creature	Snake	Reach|{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)	4	5
+Netcaster Spider	{2}{G}	None	Creature	Spider	Reach (This creature can block creatures with flying.)|Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.	2	3
+Noble Banneret	{2}{W}{W}	None	Creature	Human,Knight	Draft Noble Banneret face up.|As you draft a creature card, you may reveal it, note its name, then turn Noble Banneret face down.|As long as you control one or more creatures with a name you noted for cards named Noble Banneret, Noble Banneret and those creatures get +1/+1 and have lifelink.	3	3
+Ogre Sentry	{1}{R}	None	Creature	Ogre,Warrior	Defender	3	3
+Omenspeaker	{1}{U}	None	Creature	Human,Wizard	When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)	1	3
+Opaline Unicorn	{3}	None	Artifact,Creature	Unicorn	{T}: Add one mana of any color to your mana pool.	1	2
+Orchard Elemental	{5}{G}	None	Creature	Elemental	Council's dilemma - When Orchard Elemental enters the battlefield, starting with you, each player votes for sprout or harvest. Put two +1/+1 counters on Orchard Elemental for each sprout vote. You gain 3 life for each harvest vote.	2	2
+Overrun	{2}{G}{G}{G}	None	Sorcery	None	Creatures you control get +3/+3 and gain trample until end of turn.		
+Palace Jailer	{2}{W}{W}	None	Creature	Human,Soldier	When Palace Jailer enters the battlefield, you become the monarch.|When Palace Jailer enters the battlefield, exile target creature an opponent controls until an opponent becomes the monarch. (That creature returns under its owner's control.)	2	2
+Palace Sentinels	{3}{W}	None	Creature	Human,Soldier	When Palace Sentinels enters the battlefield, you become the monarch.	2	4
+Paliano Vanguard	{1}{W}	None	Creature	Human,Soldier	Draft Paliano Vanguard face up.|As you draft a creature card, you may reveal it, note its creature types, then turn Paliano Vanguard face down.|Other creatures you control of a type you noted for cards named Paliano Vanguard get +1/+1.	2	2
+Pariah	{2}{W}	None	Enchantment	Aura	Enchant creature|All damage that would be dealt to you is dealt to enchanted creature instead.		
+Pharika's Mender	{3}{B}{G}	None	Creature	Gorgon	When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.	4	3
+Phyrexian Arena	{1}{B}{B}	None	Enchantment	None	At the beginning of your upkeep, you draw a card and you lose 1 life.		
+Platinum Angel	{7}	None	Artifact,Creature	Angel	Flying|You can't lose the game and your opponents can't win the game.	4	4
+Plummet	{1}{G}	None	Instant	None	Destroy target creature with flying.		
+Prey Upon	{G}	None	Sorcery	None	Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)		
+Protector of the Crown	{5}{W}	None	Creature	Giant,Soldier	When Protector of the Crown enters the battlefield, you become the monarch.|All damage that would be dealt to you is dealt to Protector of the Crown instead.	2	5
+Psychosis Crawler	{5}	None	Artifact,Creature	Horror	Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.|Whenever you draw a card, each opponent loses 1 life.	*	*
+Public Execution	{5}{B}	None	Instant	None	Destroy target creature an opponent controls. Each other creature that player controls gets -2/-0 until end of turn.		
+Pyretic Hunter	{4}{R}	None	Creature	Elemental,Cat	Reveal Pyretic Hunter as you draft it and note how many cards you've drafted this draft round, including Pyretic Hunter.|Menace (This creature can't be blocked except by two or more creatures.)|Pyretic Hunter enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named Pyretic Hunter.	0	0
+Queen Marchesa	{1}{R}{W}{B}	Legendary	Creature	Human,Assassin	Deathtouch, haste|When Queen Marchesa enters the battlefield, you become the monarch.|At the beginning of your upkeep, if an opponent is the monarch, create a 1/1 black Assassin creature token with deathtouch and haste.	3	3
+Raise Dead	{B}	None	Sorcery	None	Return target creature card from your graveyard to your hand.		
+Raise the Alarm	{1}{W}	None	Instant	None	Create two 1/1 white Soldier creature tokens.		
+Ravenous Leucrocota	{3}{G}	None	Creature	Beast	Vigilance|{6}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)	2	4
+Recruiter of the Guard	{2}{W}	None	Creature	Human,Soldier	When Recruiter of the Guard enters the battlefield, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle your library.	1	1
+Regal Behemoth	{4}{G}{G}	None	Creature	Lizard	Trample|When Regal Behemoth enters the battlefield, you become the monarch.|Whenever you tap a land for mana while you're the monarch, add one mana of any color to your mana pool (in addition to the mana the land produces).	5	5
+Regicide	{B}	None	Instant	None	Reveal Regicide as you draft it. The player to your right chooses a color, you choose another color, then the player to your left chooses a third color.|Destroy target creature that's one or more of the colors chosen as you drafted cards named Regicide.		
+Repulse	{2}{U}	None	Instant	None	Return target creature to its owner's hand.|Draw a card.		
+Reviving Dose	{2}{W}	None	Instant	None	You gain 3 life.|Draw a card.		
+Rogue's Passage		None	Land	None	{T}: Add  to your mana pool.|{4}, {T}: Target creature can't be blocked this turn.		
+Runed Servitor	{2}	None	Artifact,Creature	Construct	When Runed Servitor dies, each player draws a card.	2	2
+Sanctum Prelate	{1}{W}{W}	None	Creature	Human,Cleric	As Sanctum Prelate enters the battlefield, choose a number.|Noncreature spells with converted mana cost equal to the chosen number can't be cast.	2	2
+Sangromancer	{2}{B}{B}	None	Creature	Vampire,Shaman	Flying|Whenever a creature an opponent controls dies, you may gain 3 life.|Whenever an opponent discards a card, you may gain 3 life.	3	3
+Selvala, Heart of the Wilds	{1}{G}{G}	Legendary	Creature	Elf,Scout	Whenever another creature enters the battlefield, its controller may draw a card if its power is greater than each other creature's power.|{G}, {T}: Add X mana in any combination of colors to your mana pool, where X is the greatest power among creatures you control.	2	3
+Selvala's Stampede	{4}{G}{G}	None	Sorcery	None	Council's dilemma - Starting with you, each player votes for wild or free. Reveal cards from the top of your library until you reveal a creature card for each wild vote. Put those creature cards onto the battlefield, then shuffle the rest into your library. You may put a permanent card from your hand onto the battlefield for each free vote.		
+Serum Visions	{U}	None	Sorcery	None	Draw a card. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)		
+Shambling Goblin	{B}	None	Creature	Zombie,Goblin	When Shambling Goblin dies, target creature an opponent controls gets -1/-1 until end of turn.	1	1
+Shimmering Grotto		None	Land	None	{T}: Add  to your mana pool.|{1}, {T}: Add one mana of any color to your mana pool.		
+Shipwreck Singer	{U}{B}	None	Creature	Siren	Flying|{1}{U}: Target creature an opponent controls attacks this turn if able.|{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.	1	2
+Show and Tell	{2}{U}	None	Sorcery	None	Each player may put an artifact, creature, enchantment, or land card from his or her hand onto the battlefield.		
+Sinuous Vermin	{1}{B}	None	Creature	Rat,Horror	{3}{B}{B}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)|As long as Sinuous Vermin is monstrous, it has menace. (It can't be blocked except by two or more creatures.)	2	2
+Skittering Crustacean	{2}{U}	None	Creature	Crab	{6}{U}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)|As long as Skittering Crustacean is monstrous, it has hexproof. (It can't be the target of spells or abilities your opponents control.)	2	3
+Skyline Despot	{5}{R}{R}	None	Creature	Dragon	Flying|When Skyline Despot enters the battlefield, you become the monarch.|At the beginning of your upkeep, if you're the monarch, create a 5/5 red Dragon creature token with flying.	5	5
+Smuggler Captain	{3}{B}	None	Creature	Human,Pirate	Draft Smuggler Captain face up.|As you draft a card, you may reveal it, note its name, then turn Smuggler Captain face down.|When Smuggler Captain enters the battlefield, you may search your library for a card with a name you noted for cards named Smuggler Captain, reveal it, put it into your hand, then shuffle your library.	2	2
+Spectral Grasp	{1}{W}	None	Enchantment	Aura	Enchant creature|Enchanted creature can't attack you or a planeswalker you control.|Enchanted creature can't block creatures you control.		
+Sphinx of Magosi	{3}{U}{U}{U}	None	Creature	Sphinx	Flying|{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.	6	6
+Spire Phantasm	{2}{U}{U}	None	Creature	Gargoyle,Illusion	Reveal Spire Phantasm as you draft it. The next time a player drafts a card from this booster pack, guess that card's name. Then that player reveals the drafted card.|Flying|When Spire Phantasm enters the battlefield, if you guessed correctly for a card named Spire Phantasm, draw a card.	3	2
+Spirit of the Hearth	{4}{W}{W}	None	Creature	Cat,Spirit	Flying|You have hexproof. (You can't be the target of spells or abilities your opponents control.)	4	5
+Splitting Slime	{3}{G}{G}	None	Creature	Ooze	{4}{G}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)|When Splitting Slime becomes monstrous, create a token that's a copy of Splitting Slime. (The token has no counters and isn't monstrous.)	3	3
+Spy Kit	{2}	None	Artifact	Equipment	Equipped creature gets +1/+1 and has all names of nonlegendary creature cards in addition to its name.|Equip {2}		
+Stoneshock Giant	{3}{R}{R}	None	Creature	Giant	{6}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)|When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn.	5	4
+Stormchaser Chimera	{2}{U}{R}	None	Creature	Chimera	Flying|{2}{U}{R}: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)	2	3
+Strength in Numbers	{1}{G}	None	Instant	None	Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures.		
+Stromkirk Patrol	{4}{B}	None	Creature	Vampire,Soldier	Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.	4	3
+Stunt Double	{3}{U}	None	Creature	Shapeshifter	Flash|You may have Stunt Double enter the battlefield as a copy of any creature on the battlefield.	0	0
+Subterranean Tremors	{X}{R}	None	Sorcery	None	Subterranean Tremors deals X damage to each creature without flying. If X is 4 or more, destroy all artifacts. If X is 8 or more, create an 8/8 red Lizard creature token.		
+Sulfurous Blast	{2}{R}{R}	None	Instant	None	Sulfurous Blast deals 2 damage to each creature and each player. If you cast this spell during your main phase, Sulfurous Blast deals 3 damage to each creature and each player instead.		
+Sylvan Bounty	{5}{G}	None	Instant	None	Target player gains 8 life.|Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Thorn of the Black Rose	{3}{B}	None	Creature	Human,Assassin	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)|When Thorn of the Black Rose enters the battlefield, you become the monarch.	1	3
+Throne of the High City		None	Land	None	{T}: Add  to your mana pool.|{4}, {T}, Sacrifice Throne of the High City: You become the monarch.		
+Throne Warden	{1}{W}	None	Creature	Human,Soldier	At the beginning of your end step, if you're the monarch, put a +1/+1 counter on Throne Warden.	2	2
+Tormenting Voice	{1}{R}	None	Sorcery	None	As an additional cost to cast Tormenting Voice, discard a card.|Draw two cards.		
+Traumatic Visions	{3}{U}{U}	None	Instant	None	Counter target spell.|Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)		
+Trumpet Blast	{2}{R}	None	Instant	None	Attacking creatures get +2/+0 until end of turn.		
+Twin Bolt	{1}{R}	None	Instant	None	Twin Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.		
+Unnerve	{3}{B}	None	Sorcery	None	Each opponent discards two cards.		
+Vaporkin	{1}{U}	None	Creature	Elemental	Flying|Vaporkin can block only creatures with flying.	2	1
+Vertigo Spawn	{1}{U}	None	Creature	Illusion	Defender|Whenever Vertigo Spawn blocks a creature, tap that creature. That creature doesn't untap during its controller's next untap step.	0	3
+Volatile Chimera	{2}{R}	None	Creature	Elemental,Chimera	Before you shuffle your deck to start the game, you may reveal this card from your deck and exile three or more creature cards you drafted that aren't in your deck.|{1}{R}: Choose a card at random you exiled with cards named Volatile Chimera. Volatile Chimera becomes a copy of that card and gains this ability.	3	2
+Voyaging Satyr	{1}{G}	None	Creature	Satyr,Druid	{T}: Untap target land.	1	2
+Wild Griffin	{2}{W}	None	Creature	Griffin	Flying	2	2
+Wild Pair	{4}{G}{G}	None	Enchantment	None	Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.		
+Windborne Charge	{2}{W}{W}	None	Sorcery	None	Two target creatures you control each get +2/+2 and gain flying until end of turn.		
+Wings of the Guard	{1}{W}	None	Creature	Bird	Flying|Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)	1	1
+Zealous Strike	{1}{W}	None	Instant	None	Target creature gets +2/+2 and gains first strike until end of turn.		

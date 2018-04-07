@@ -70,6 +70,7 @@ namespace Magic.Core
         public static ArtifactSubType Contraption = new ArtifactSubType("Contraption");
         public static ArtifactSubType Equipment = new ArtifactSubType("Equipment");
         public static ArtifactSubType Fortification = new ArtifactSubType("Fortification");
+        public static ArtifactSubType Vehicle = new ArtifactSubType("Vehicle");
         public ArtifactSubType(string name) : base(name) { }
     }
 
@@ -114,6 +115,7 @@ namespace Magic.Core
         public static PlaneswalkerSubType Bolas = new PlaneswalkerSubType("Bolas");
         public static PlaneswalkerSubType Chandra = new PlaneswalkerSubType("Chandra");
         public static PlaneswalkerSubType Domri = new PlaneswalkerSubType("Domri");
+        public static PlaneswalkerSubType Dovin = new PlaneswalkerSubType("Dovin");
         public static PlaneswalkerSubType Elspeth = new PlaneswalkerSubType("Elspeth");
         public static PlaneswalkerSubType Garruk = new PlaneswalkerSubType("Garruk");
         public static PlaneswalkerSubType Gideon = new PlaneswalkerSubType("Gideon");
@@ -124,6 +126,7 @@ namespace Magic.Core
         public static PlaneswalkerSubType Nissa = new PlaneswalkerSubType("Nissa");
         public static PlaneswalkerSubType Ral = new PlaneswalkerSubType("Ral");
         public static PlaneswalkerSubType Sarkhan = new PlaneswalkerSubType("Sarkhan");
+        public static PlaneswalkerSubType Saheeli = new PlaneswalkerSubType("Saheeli");
         public static PlaneswalkerSubType Sorin = new PlaneswalkerSubType("Sorin");
         public static PlaneswalkerSubType Tamiyo = new PlaneswalkerSubType("Tamiyo");
         public static PlaneswalkerSubType Tezzeret = new PlaneswalkerSubType("Tezzeret");
@@ -150,6 +153,7 @@ namespace Magic.Core
         public override IEnumerable<CardType> CardTypes { get { return _cardTypes; } }
 
         public static CreatureSubType Advisor = new CreatureSubType("Advisor");
+        public static CreatureSubType Aetherborn = new CreatureSubType("Aetherborn");
         public static CreatureSubType Ally = new CreatureSubType("Ally");
         public static CreatureSubType Angel = new CreatureSubType("Angel");
         public static CreatureSubType Anteater = new CreatureSubType("Anteater");
@@ -273,6 +277,7 @@ namespace Magic.Core
         public static CreatureSubType Monger = new CreatureSubType("Monger");
         public static CreatureSubType Mongoose = new CreatureSubType("Mongoose");
         public static CreatureSubType Monk = new CreatureSubType("Monk");
+        public static CreatureSubType Monkey = new CreatureSubType("Monkey");
         public static CreatureSubType Moonfolk = new CreatureSubType("Moonfolk");
         public static CreatureSubType Mutant = new CreatureSubType("Mutant");
         public static CreatureSubType Myr = new CreatureSubType("Myr");
@@ -299,6 +304,7 @@ namespace Magic.Core
         public static CreatureSubType Pest = new CreatureSubType("Pest");
         public static CreatureSubType Phelddagrif = new CreatureSubType("Phelddagrif");
         public static CreatureSubType Phoenix = new CreatureSubType("Phoenix");
+        public static CreatureSubType Pilot = new CreatureSubType("Pilot");
         public static CreatureSubType Pincher = new CreatureSubType("Pincher");
         public static CreatureSubType Pirate = new CreatureSubType("Pirate");
         public static CreatureSubType Plant = new CreatureSubType("Plant");

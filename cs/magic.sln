@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic.Auto", "Magic\Magic.Auto.csproj", "{D3AB3A91-E975-4E34-BB21-E321FBD9E835}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic.AI", "Magic.AI\Magic.AI.csproj", "{A0BCD9DC-4E6C-4FE0-BA6A-DF12928C3A60}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic.AI.Test", "Magic.AI.Test\Magic.AI.Test.csproj", "{8D43FCAC-0625-4714-AF41-97E84F718A5F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AdhocQuery", "AdhocQuery\AdhocQuery.fsproj", "{2DC72C59-D270-4FDA-AA1A-5624030D5147}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,18 @@ Global
 		{8D43FCAC-0625-4714-AF41-97E84F718A5F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{8D43FCAC-0625-4714-AF41-97E84F718A5F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{8D43FCAC-0625-4714-AF41-97E84F718A5F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Debug|x86.Build.0 = Debug|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Release|x86.ActiveCfg = Release|Any CPU
+		{2DC72C59-D270-4FDA-AA1A-5624030D5147}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
